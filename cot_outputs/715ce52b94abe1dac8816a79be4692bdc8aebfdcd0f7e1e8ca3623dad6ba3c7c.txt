@@ -1,0 +1,4 @@
+<reasoning>
+Zwrocone paczki = 20% z 240 = 48; sprzedano = 240 - 48 = <<240-48=192>>192 paczek.
+</reasoning>
+<answer>192</answer>

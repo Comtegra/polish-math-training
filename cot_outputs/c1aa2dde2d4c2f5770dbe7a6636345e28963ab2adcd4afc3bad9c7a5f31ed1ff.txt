@@ -1,0 +1,4 @@
+<reasoning>
+Tomek kupił 5 sztuk odzieży sportowej po 25 zł za każdą. Aby znaleźć całkowitą kwotę, mnożymy liczbę sztuk przez cenę za sztukę: 5 * 25 zł = 125 zł.
+</reasoning>
+<answer>125 zł</answer>

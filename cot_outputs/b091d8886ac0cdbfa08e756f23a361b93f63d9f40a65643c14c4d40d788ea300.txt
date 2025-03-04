@@ -1,0 +1,4 @@
+<reasoning>
+Po oddaniu 28 książek do biblioteki Marek ma 68 - 28 = 40 książek.
+</reasoning>
+<answer>40</answer>

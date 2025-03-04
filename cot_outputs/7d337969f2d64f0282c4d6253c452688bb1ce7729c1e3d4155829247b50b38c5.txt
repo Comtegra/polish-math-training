@@ -1,0 +1,5 @@
+<reasoning>
+68 - 18 = <<68-18=50>>50 naklejek
+50 + 7 = <<50+7=57>>57 naklejek
+</reasoning>
+<answer>57</answer>

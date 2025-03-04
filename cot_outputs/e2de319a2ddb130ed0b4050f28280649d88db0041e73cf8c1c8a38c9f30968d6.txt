@@ -1,0 +1,4 @@
+<reasoning>
+Kamil kupił 4 paczki chipsów po 4 zł za paczkę, co daje 4 * 4 zł = 16 zł. Kupił też 3 paczki cukierków po 3 zł za paczkę, co daje 3 * 3 zł = 9 zł. Suma zapłaconych kwot to 16 zł + 9 zł = 25 zł.
+</reasoning>
+<answer>25 zł</answer>

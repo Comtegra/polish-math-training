@@ -1,0 +1,4 @@
+<reasoning>
+Wskazówka minutowa pokazuje 12 raz na godzinę, więc 12 razy = <<12*1=12>>12 razy.
+</reasoning>
+<answer>12</answer>

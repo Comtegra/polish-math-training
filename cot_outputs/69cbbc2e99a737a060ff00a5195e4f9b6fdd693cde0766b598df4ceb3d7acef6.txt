@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na dziecko = 42 / 7 = <<42/7=6>>6 cukierków.
+</reasoning>
+<answer>6</answer>

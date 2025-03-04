@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kanapek: 84 * 2 = <<84*2=168>>168.
+</reasoning>
+<answer>168</answer>

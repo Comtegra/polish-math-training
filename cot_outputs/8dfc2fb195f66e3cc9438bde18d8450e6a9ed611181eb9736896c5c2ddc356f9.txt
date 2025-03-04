@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 1500 * 0.05 = <<1500*0.05=75>>75.
+Dobrych: 1500 - 75 = <<1500-75=1425>>1425.
+</reasoning>
+<answer>1425</answer>

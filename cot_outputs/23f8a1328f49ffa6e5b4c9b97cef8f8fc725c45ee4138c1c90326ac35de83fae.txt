@@ -1,0 +1,5 @@
+<reasoning>
+2 * 18 = <<2*18=36>>36 babeczek początkowo
+36 - 8 = <<36-8=28>>28 babeczek pozostało
+</reasoning>
+<answer>28</answer>

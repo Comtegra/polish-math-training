@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy resztę ciasteczek: 12 - 2 = <<12-2=10>>10.
+Dzielimy resztę na 2 części: 10 / 2 = <<10/2=5>>5.
+</reasoning>
+<answer>5</answer>

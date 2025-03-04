@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę zeszytów przez cenę: 5 * 8 = <<5*8=40>>40.
+</reasoning>
+<answer>40</answer>

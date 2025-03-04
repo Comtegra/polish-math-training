@@ -1,0 +1,5 @@
+<reasoning>
+Powieści: 600 * 0.20 = <<600*0.20=120>>120 książek.
+Pozostałych: 600 - 120 = <<600-120=480>>480 książek.
+</reasoning>
+<answer>480</answer>

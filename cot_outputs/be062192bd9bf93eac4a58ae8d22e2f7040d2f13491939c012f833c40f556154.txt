@@ -1,0 +1,4 @@
+<reasoning>
+Jabłek na osobę = 36 / 4 = <<36/4=9>>9 jabłek.
+</reasoning>
+<answer>9</answer>

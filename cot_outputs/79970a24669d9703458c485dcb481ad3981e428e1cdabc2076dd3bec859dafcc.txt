@@ -1,0 +1,5 @@
+<reasoning>
+Lalki pluszowe: 64 / 8 = <<64/8=8>>8.
+Pozostało: 64 - 8 = <<64-8=56>>56 lalek.
+</reasoning>
+<answer>56</answer>

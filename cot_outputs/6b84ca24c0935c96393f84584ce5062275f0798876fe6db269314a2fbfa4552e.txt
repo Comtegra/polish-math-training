@@ -1,0 +1,5 @@
+<reasoning>
+Liczba wadliwych: 1000 * 0.06 = <<1000*0.06=60>>60.
+Sprawnych elementów: 1000 - 60 = <<1000-60=940>>940.
+</reasoning>
+<answer>940</answer>

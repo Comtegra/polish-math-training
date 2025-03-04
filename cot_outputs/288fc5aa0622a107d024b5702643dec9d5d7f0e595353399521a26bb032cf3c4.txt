@@ -1,0 +1,4 @@
+<reasoning>
+90 / 3 = <<90/3=30>>30 klientów.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Zajętych: 180 * 0.60 = <<180*0.60=108>>108.
+Wolnych: 180 - 108 = <<180-108=72>>72 miejsc.
+</reasoning>
+<answer>72</answer>

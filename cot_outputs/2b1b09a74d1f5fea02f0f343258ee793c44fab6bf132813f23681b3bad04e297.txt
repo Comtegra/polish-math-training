@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 24 * 3 = <<24*3=72>>72.
+</reasoning>
+<answer>72</answer>

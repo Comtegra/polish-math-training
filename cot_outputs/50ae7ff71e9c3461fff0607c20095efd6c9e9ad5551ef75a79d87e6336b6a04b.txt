@@ -1,0 +1,4 @@
+<reasoning>
+420 * 18 = <<420*18=7560>>7560 zł.
+</reasoning>
+<answer>7560 zł</answer>

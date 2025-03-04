@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy procent: (60 / 250) * 100 = <<(60/250*100)=24>>24%.
+</reasoning>
+<answer>24</answer>

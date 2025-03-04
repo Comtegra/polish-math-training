@@ -1,0 +1,4 @@
+<reasoning>
+Obniżka = 40 - 32 = 8, więc 8/40 * 100 = <<8/40*100=20>>20%.
+</reasoning>
+<answer>20%</answer>

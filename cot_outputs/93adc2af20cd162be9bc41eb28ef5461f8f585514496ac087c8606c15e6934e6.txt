@@ -1,0 +1,4 @@
+<reasoning>
+Julia ma 8 paczek * 30 kredek = 240 kredek
+</reasoning>
+<answer>240 kredek</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+100 - 45 = <<100-45=55>>55 zł po zakupie gry
+55 + 30 = <<55+30=85>>85 zł po otrzymaniu pieniędzy
+</reasoning>
+<answer>85</answer>

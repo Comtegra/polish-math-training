@@ -1,0 +1,5 @@
+<reasoning>
+Chłopców: 24 / 3 = <<24/3=8>>8.
+Dziewczynek: 24 - 8 = <<24-8=16>>16.
+</reasoning>
+<answer>16</answer>

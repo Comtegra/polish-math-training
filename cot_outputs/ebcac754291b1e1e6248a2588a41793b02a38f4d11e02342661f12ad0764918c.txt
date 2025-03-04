@@ -1,0 +1,4 @@
+<reasoning>
+6 * 7 = <<6*7=42>>42 zł
+</reasoning>
+<answer>42</answer>

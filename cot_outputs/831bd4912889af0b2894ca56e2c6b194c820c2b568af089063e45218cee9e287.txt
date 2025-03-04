@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało: 80 - 15 = <<80-15=65>>65 uczniów.
+</reasoning>
+<answer>65</answer>

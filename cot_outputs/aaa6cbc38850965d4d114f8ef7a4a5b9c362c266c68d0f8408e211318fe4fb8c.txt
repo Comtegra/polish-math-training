@@ -1,0 +1,5 @@
+<reasoning>
+39 - 9 = <<39-9=30>>30 naklejek
+30 + 7 = <<30+7=37>>37 naklejek
+</reasoning>
+<answer>37</answer>

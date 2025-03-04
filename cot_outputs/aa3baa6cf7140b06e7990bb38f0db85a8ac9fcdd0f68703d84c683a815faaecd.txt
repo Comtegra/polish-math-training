@@ -1,0 +1,4 @@
+<reasoning>
+8000 * 2/100 = <<8000*2/100=160>>160 butelek.
+</reasoning>
+<answer>160</answer>

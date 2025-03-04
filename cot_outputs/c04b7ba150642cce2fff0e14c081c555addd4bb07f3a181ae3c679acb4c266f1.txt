@@ -1,0 +1,4 @@
+<reasoning>
+500 * 40/100 = <<500*40/100=200>>200 produktów.
+</reasoning>
+<answer>200</answer>

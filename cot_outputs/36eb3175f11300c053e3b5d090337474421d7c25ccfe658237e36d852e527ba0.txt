@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy kartki: 64 / 8 = <<64/8=8>>8.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę długopisów: 6 * 8 = <<6*8=48>>48.
+Odejmujemy zgubione: 48 - 5 = <<48-5=43>>43.
+</reasoning>
+<answer>43</answer>

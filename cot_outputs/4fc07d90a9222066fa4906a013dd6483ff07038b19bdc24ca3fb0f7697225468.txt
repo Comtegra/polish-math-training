@@ -1,0 +1,4 @@
+<reasoning>
+Tomek kupił 10 sztuk odzieży sportowej po 25 zł za sztukę, co daje 10 * 25 zł = 250 zł. Kupił też 5 sztuk obuwia po 100 zł za sztukę, co daje 5 * 100 zł = 500 zł. Suma zapłaconych kwot to 250 zł + 500 zł = 750 zł. Tomek miał 500 zł, więc brakuje mu 250 zł.
+</reasoning>
+<answer>-250 zł (Tomek nie ma wystarczających pieniędzy)</answer>

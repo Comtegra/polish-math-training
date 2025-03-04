@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy sprzedane butelki: 70 - 30 = <<70-30=40>>40.
+Dodajemy nowe butelki: 40 + 15 = <<40+15=55>>55.
+</reasoning>
+<answer>55</answer>

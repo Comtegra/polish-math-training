@@ -1,0 +1,5 @@
+<reasoning>
+Babeczek czekoladowych: 240 * 0.30 = <<240*0.30=72>>72.
+Innych: 240 - 72 = <<240-72=168>>168.
+</reasoning>
+<answer>168</answer>

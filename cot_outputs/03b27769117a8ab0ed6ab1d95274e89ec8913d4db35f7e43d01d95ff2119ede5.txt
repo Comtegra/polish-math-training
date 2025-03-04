@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie owoców = 25 * 12 = <<25*12=300>>300 owoców.
+</reasoning>
+<answer>300</answer>

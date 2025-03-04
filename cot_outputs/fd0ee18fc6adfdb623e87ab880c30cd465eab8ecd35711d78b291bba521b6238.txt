@@ -1,0 +1,4 @@
+<reasoning>
+50 - 10 = <<50-10=40>>40 balonów
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę oddanych balonów: 5 * 4 = <<5*4=20>>20.
+Odejmujemy oddane balony: 30 - 20 = <<30-20=10>>10.
+</reasoning>
+<answer>10</answer>

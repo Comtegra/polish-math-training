@@ -1,0 +1,4 @@
+<reasoning>
+310 * 14 = <<310*14=4340>>4340 zł.
+</reasoning>
+<answer>4340 zł</answer>

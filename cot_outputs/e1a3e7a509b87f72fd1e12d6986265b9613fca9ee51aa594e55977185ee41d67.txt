@@ -1,0 +1,4 @@
+<reasoning>
+210 - 210*10/100 = 210 - 21 = <<210-21=189>>189 obiadów.
+</reasoning>
+<answer>189</answer>

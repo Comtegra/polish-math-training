@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie ciasteczek = 50 * 7 = <<50*7=350>>350 ciasteczek.
+</reasoning>
+<answer>350</answer>

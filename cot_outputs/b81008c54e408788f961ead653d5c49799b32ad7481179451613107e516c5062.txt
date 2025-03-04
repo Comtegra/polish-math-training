@@ -1,0 +1,4 @@
+<reasoning>
+80 * 15 = <<80*15=1200>>1200 produktów.
+</reasoning>
+<answer>1200</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 800 - 350 = <<800-350=450>>450 metrów.
+</reasoning>
+<answer>450</answer>

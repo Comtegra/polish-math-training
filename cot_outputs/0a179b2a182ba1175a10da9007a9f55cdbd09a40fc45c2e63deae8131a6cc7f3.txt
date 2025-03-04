@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 500 - 200 = <<500-200=300>>300.
+Następnie dodajemy oddane: 300 + 100 = <<300+100=400>>400.
+</reasoning>
+<answer>400</answer>

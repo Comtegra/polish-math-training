@@ -1,0 +1,4 @@
+<reasoning>
+210 / 0.7 = <<210/0.7=300>>300 butelek.
+</reasoning>
+<answer>300 butelek</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego pączka: 21 / 7 = <<21/7=3>>3 zł.
+Cena 10 pączków: 10 * 3 = <<10*3=30>>30 zł.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+3 * 10 = <<3*10=30>>30 czekoladek początkowo
+30 - 5 = <<30-5=25>>25 czekoladek pozostało
+</reasoning>
+<answer>25</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy: 5 - 2 = <<5-2=3>>3.
+</reasoning>
+<answer>3</answer>

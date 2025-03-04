@@ -1,0 +1,4 @@
+<reasoning>
+750 * 24 = <<750*24=18000>>18000 puszek.
+</reasoning>
+<answer>18000</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Średnia produkcja: 400 / 4 = <<400/4=100>>100 zabawek dziennie.
+</reasoning>
+<answer>100</answer>

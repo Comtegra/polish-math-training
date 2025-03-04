@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie sprzedanych = 500 - 120 = <<500-120=380>>380 biletów.
+</reasoning>
+<answer>380</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie ołówków: 6 * 12 = <<6*12=72>>72.
+Dobrych: 72 - 3 = <<72-3=69>>69.
+</reasoning>
+<answer>69</answer>

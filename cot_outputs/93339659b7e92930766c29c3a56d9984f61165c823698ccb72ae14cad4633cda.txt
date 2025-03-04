@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę pracowników zdalnych: 80 / 5 = <<80/5=16>>16.
+Następnie odejmujemy: 80 - 16 = <<80-16=64>>64.
+</reasoning>
+<answer>64</answer>

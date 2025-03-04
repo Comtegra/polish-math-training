@@ -1,0 +1,4 @@
+<reasoning>
+Kuba kupił 4 pudełka farb, a każde pudełko zawiera 12 różnych kolorów. Aby znaleźć całkowitą liczbę różnych kolorów, mnożymy liczbę pudełek przez liczbę kolorów w każdym pudełku: 4 * 12 = 48 różnych kolorów.
+</reasoning>
+<answer>48 różnych kolorów</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Koszt jednego jabłka to 15 złotych / 5 jabłek = 3 złote na jabłko.
+</reasoning>
+<answer>3 złote za jabłko</answer>

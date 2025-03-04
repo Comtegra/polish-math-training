@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy łączną liczbę ołówków: 6 * 12 = <<6*12=72>>72 ołówków.
+Następnie odejmujemy uszkodzone ołówki: 72 - 9 = <<72-9=63>>63 dobrych ołówków.
+</reasoning>
+<answer>63</answer>

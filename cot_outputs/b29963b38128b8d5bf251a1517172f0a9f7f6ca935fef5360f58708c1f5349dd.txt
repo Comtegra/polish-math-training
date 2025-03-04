@@ -1,0 +1,4 @@
+<reasoning>
+Marek ma 32 - 5 = 27 monet. Razem mają 32 + 27 = 59 monet.
+</reasoning>
+<answer>59</answer>

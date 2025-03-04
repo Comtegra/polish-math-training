@@ -1,0 +1,4 @@
+<reasoning>
+1600 / 4 = <<1600/4=400>>400 zł.
+</reasoning>
+<answer>400 zł</answer>

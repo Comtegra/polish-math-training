@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy koszt zabawek: 3 * 15 = <<3*15=45>>45 zł.
+Odejmujemy od 100 zł: 100 - 45 = <<100-45=55>>55 zł.
+</reasoning>
+<answer>55</answer>

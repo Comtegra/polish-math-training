@@ -1,0 +1,7 @@
+<reasoning>
+Ile GB to 50% pliku? ** 300 GB * 50% = <<300*0.5=150>>150 GB
+Ile minut potrzeba, aby pobrać 150 GB przy 3 GB/min? ** 150 / 3 = <<150/3=50>>50 minut
+Ile minut zajmuje pobranie całego pliku po restarcie? ** 300 / 3 = <<300/3=100>>100 minut
+Łączny czas pobierania = 50 minut (przed restartem) + 15 minut (aktualizacja) + 100 minut (po restarcie) = <<50+15+100=165>>165 minut
+</reasoning>
+<answer>165</answer>

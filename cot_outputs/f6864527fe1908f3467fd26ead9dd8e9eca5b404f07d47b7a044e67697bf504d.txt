@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na osobę = 100 / 20 = <<100/20=5>>5 cukierków.
+</reasoning>
+<answer>5</answer>

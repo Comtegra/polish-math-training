@@ -1,0 +1,4 @@
+<reasoning>
+Dobrych ołówków = 120 - 30 = <<120-30=90>>90 ołówków.
+</reasoning>
+<answer>90</answer>

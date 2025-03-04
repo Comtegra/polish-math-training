@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 5 * 3 = <<5*3=15>>15.
+</reasoning>
+<answer>15</answer>

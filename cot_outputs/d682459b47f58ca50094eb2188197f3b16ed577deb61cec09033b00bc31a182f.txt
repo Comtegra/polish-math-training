@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 50 lizaków przez 5: 50 / 5 = <<50/5=10>>10 lizaków na rodzaj.
+</reasoning>
+<answer>10</answer>

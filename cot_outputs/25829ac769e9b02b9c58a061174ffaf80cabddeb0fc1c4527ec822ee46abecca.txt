@@ -1,0 +1,4 @@
+<reasoning>
+Ważnych biletów = 200 - 15 = <<200-15=185>>185 biletów.
+</reasoning>
+<answer>185</answer>

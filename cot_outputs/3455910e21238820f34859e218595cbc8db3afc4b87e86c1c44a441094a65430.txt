@@ -1,0 +1,5 @@
+<reasoning>
+W grupach po 6 (5 płaconych + 1 gratis): 75 / 6 = 12 pełnych grup (72 bilety) oraz 3 bilety pozostałe.
+Płatnych: 12 * 5 = 60, plus 3 dodatkowe = <<60+3=63>>63 biletów zapłacono.
+</reasoning>
+<answer>63</answer>

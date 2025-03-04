@@ -1,0 +1,4 @@
+<reasoning>
+Bez dodatkowego zadania = 36 - 6 = <<36-6=30>>30 uczniów.
+</reasoning>
+<answer>30</answer>

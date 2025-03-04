@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę zeszytów przez liczbę stron: 5 * 32 = <<5*32=160>>160 stron.
+</reasoning>
+<answer>160</answer>

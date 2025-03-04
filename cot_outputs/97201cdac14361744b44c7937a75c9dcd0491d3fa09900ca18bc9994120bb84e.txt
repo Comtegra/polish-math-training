@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie krzeseł = 6 * 8 = <<6*8=48>>48 krzeseł.
+</reasoning>
+<answer>48</answer>

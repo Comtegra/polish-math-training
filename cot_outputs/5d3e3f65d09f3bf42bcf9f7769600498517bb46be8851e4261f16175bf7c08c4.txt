@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zjeżdżalni = 10 * 12 = <<10*12=120>>120 zjeżdżalni.
+</reasoning>
+<answer>120</answer>

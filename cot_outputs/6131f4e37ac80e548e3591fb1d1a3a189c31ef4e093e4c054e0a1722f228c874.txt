@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 2 * 85 = <<2*85=170>>170 zł.
+</reasoning>
+<answer>170</answer>

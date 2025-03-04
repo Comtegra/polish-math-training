@@ -1,0 +1,4 @@
+<reasoning>
+190 * 8/100 = 15.2; 190 - 15.2 ≈ <<190-15.2=174.8>>≈175 porcji.
+</reasoning>
+<answer>175 porcji</answer>

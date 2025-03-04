@@ -1,0 +1,4 @@
+<reasoning>
+12 * 300 = <<12*300=3600>>3600 stron.
+</reasoning>
+<answer>3600</answer>

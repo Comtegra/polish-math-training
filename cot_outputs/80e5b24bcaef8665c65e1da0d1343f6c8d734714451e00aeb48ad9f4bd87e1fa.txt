@@ -1,0 +1,5 @@
+<reasoning>
+2 * 15 = <<2*15=30>>30 ciastek
+30 - 5 = <<30-5=25>>25 ciastek
+</reasoning>
+<answer>25</answer>

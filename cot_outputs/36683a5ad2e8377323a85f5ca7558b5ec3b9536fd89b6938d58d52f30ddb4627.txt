@@ -1,0 +1,4 @@
+<reasoning>
+Jeśli 80% zapasu to 120 komputerów, to 1% = 120 / 80 = <<120/80=1.5>>1,5, więc 100% = 1,5 * 100 = <<1.5*100=150>>150 komputerów
+</reasoning>
+<answer>150</answer>

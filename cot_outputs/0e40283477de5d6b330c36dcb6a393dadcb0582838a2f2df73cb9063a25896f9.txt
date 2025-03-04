@@ -1,0 +1,4 @@
+<reasoning>
+3 * 1.2 = <<3*1.2=3.6>>3.6 litra
+</reasoning>
+<answer>3.6</answer>

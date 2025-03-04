@@ -1,0 +1,5 @@
+<reasoning>
+Babeczek czekoladowych: 300 / 3 = <<300/3=100>>100.
+Pozostałych: 300 - 100 = <<300-100=200>>200.
+</reasoning>
+<answer>200</answer>

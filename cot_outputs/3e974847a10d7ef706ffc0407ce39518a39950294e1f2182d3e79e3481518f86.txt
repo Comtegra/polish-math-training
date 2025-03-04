@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę paczek: 8 * 3 = <<8*3=24>>24.
+Odejmujemy zjedzone paczki: 24 - 5 = <<24-5=19>>19.
+</reasoning>
+<answer>19</answer>

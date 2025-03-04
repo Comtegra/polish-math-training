@@ -1,0 +1,4 @@
+<reasoning>
+Piotr wydał 7 * 2,50 zł = 17,50 zł na napoje gazowane. Kupił też 3 * 4 zł = 12 zł za chipsy. Suma zapłaconych kwot to 17,50 zł + 12 zł = 29,50 zł.
+</reasoning>
+<answer>29,50 zł</answer>

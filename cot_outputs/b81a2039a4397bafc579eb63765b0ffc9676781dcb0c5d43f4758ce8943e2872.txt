@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę zeszytów przez liczbę stron: 7 * 32 = <<7*32=224>>224 stron.
+</reasoning>
+<answer>224</answer>

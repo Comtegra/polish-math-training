@@ -1,0 +1,5 @@
+<reasoning>
+40 - 15 = <<40-15=25>>25
+25 - 5 = <<25-5=20>>20 cukierków
+</reasoning>
+<answer>20</answer>

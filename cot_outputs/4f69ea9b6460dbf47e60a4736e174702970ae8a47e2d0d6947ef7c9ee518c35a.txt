@@ -1,0 +1,5 @@
+<reasoning>
+Zwróconych: 120 / 5 = <<120/5=24>>24.
+Sprzedanych: 120 - 24 = <<120-24=96>>96 posiłków.
+</reasoning>
+<answer>96</answer>

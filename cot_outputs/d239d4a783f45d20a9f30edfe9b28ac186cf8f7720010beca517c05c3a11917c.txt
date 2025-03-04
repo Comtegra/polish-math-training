@@ -1,0 +1,5 @@
+<reasoning>
+Zwróconych: 450 / 10 = <<450/10=45>>45.
+Na czas: 450 - 45 = <<450-45=405>>405.
+</reasoning>
+<answer>405</answer>

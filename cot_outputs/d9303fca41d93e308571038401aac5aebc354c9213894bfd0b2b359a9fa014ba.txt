@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego zestawu: 90 / 3 = <<90/3=30>>30 zł.
+7 * 30 = <<7*30=210>>210 zł.
+</reasoning>
+<answer>210</answer>

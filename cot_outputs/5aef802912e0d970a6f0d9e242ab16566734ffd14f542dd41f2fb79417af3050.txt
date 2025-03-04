@@ -1,0 +1,4 @@
+<reasoning>
+Niech x oznacza kwotę, którą Kasia wydała na książki. Wtedy Ania wydała x + 40 zł. Razem wydali 180 zł, więc x + (x + 40 zł) = 180 zł. To upraszcza się do 2x + 40 zł = 180 zł, a następnie 2x = 140 zł. Stąd x = 140 zł / 2 = 70 zł. Kasia wydała 70 zł, więc nie kupiła książek za mniej niż 40 zł.
+</reasoning>
+<answer>70</answer>

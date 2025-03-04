@@ -1,0 +1,4 @@
+<reasoning>
+2 * 11 = <<2*11=22>>22 zł
+</reasoning>
+<answer>22</answer>

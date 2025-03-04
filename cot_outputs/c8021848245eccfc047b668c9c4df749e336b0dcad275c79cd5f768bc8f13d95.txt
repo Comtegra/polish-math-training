@@ -1,0 +1,5 @@
+<reasoning>
+Sumujemy wydatki: 15 + 5 = <<15+5=20>>20.
+Odejmujemy wydatki od początkowej kwoty: 65 - 20 = <<65-20=45>>45.
+</reasoning>
+<answer>45</answer>

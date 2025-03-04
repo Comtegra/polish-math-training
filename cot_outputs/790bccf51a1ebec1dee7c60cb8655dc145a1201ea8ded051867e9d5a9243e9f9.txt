@@ -1,0 +1,4 @@
+<reasoning>
+90 * 180 = <<90*180=16200>>16200 zł.
+</reasoning>
+<answer>16200 zł</answer>

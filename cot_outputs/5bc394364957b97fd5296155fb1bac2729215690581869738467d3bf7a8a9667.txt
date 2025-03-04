@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 800 - 375 = <<800-375=425>>425 zł.
+</reasoning>
+<answer>425</answer>

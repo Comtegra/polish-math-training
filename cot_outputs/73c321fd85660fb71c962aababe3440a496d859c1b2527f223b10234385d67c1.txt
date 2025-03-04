@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy nieobecnych uczniów: 28 - 4 = <<28-4=24>>24.
+Dodajemy nowe uczennice: 24 + 3 = <<24+3=27>>27.
+</reasoning>
+<answer>27</answer>

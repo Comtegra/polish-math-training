@@ -1,0 +1,5 @@
+<reasoning>
+Chłopców: 28 / 7 = <<28/7=4>>4.
+Dziewczynek: 28 - 4 = <<28-4=24>>24.
+</reasoning>
+<answer>24</answer>

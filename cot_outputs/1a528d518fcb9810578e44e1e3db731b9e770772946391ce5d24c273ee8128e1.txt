@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy łączną liczbę jabłek: 7 * 9 = <<7*9=63>>63 jabłka.
+</reasoning>
+<answer>63</answer>

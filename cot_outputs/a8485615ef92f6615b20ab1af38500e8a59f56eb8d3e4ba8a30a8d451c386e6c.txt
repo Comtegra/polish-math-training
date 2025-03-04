@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 500 - 120 = <<500-120=380>>380.
+Następnie dodajemy oddane książki: 380 + 80 = <<380+80=460>>460.
+</reasoning>
+<answer>460</answer>

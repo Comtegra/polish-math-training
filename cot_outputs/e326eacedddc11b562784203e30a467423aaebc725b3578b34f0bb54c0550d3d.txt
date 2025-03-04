@@ -1,0 +1,4 @@
+<reasoning>
+Książek w bibliotece = 1200 - 300 = <<1200-300=900>>900 książek.
+</reasoning>
+<answer>900</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+12 * 8 = <<12*8=96>>96 godzin.
+</reasoning>
+<answer>96 godzin</answer>

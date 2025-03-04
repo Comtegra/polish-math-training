@@ -1,0 +1,4 @@
+<reasoning>
+Nie-powieści = 500 - 200 = <<500-200=300>>300 książek.
+</reasoning>
+<answer>300</answer>

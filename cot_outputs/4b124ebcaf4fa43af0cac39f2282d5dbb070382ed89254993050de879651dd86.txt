@@ -1,0 +1,4 @@
+<reasoning>
+16 * 10 = <<16*10=160>>160 osób.
+</reasoning>
+<answer>160</answer>

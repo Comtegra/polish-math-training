@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie pizz = 3 * 4 = <<3*4=12>>12 pizz.
+</reasoning>
+<answer>12</answer>

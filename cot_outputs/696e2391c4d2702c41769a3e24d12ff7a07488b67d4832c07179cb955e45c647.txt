@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie pasażerów = 50 * 4 = <<50*4=200>>200 osób.
+</reasoning>
+<answer>200</answer>

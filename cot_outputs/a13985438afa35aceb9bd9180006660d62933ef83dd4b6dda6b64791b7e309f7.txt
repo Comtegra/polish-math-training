@@ -1,0 +1,4 @@
+<reasoning>
+15% z 200 = 30; 200 - 30 = <<200-30=170>>170 posiłków.
+</reasoning>
+<answer>170</answer>

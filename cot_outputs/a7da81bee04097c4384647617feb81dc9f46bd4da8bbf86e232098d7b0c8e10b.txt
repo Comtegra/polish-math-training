@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ołówków: 8 * 10 = <<8*10=80>>80 ołówków.
+Odejmujemy zepsute ołówki: 80 - 6 = <<80-6=74>>74 ołówków.
+</reasoning>
+<answer>74</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych elementów = 1800 - 200 = <<1800-200=1600>>1600 elementów.
+</reasoning>
+<answer>1600</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie = 38 - 10 = <<38-10=28>>28 uczniów.
+</reasoning>
+<answer>28</answer>

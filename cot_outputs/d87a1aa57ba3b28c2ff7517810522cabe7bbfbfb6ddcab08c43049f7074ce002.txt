@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 5 * 45 = <<5*45=225>>225 zł, reszta = 300 - 225 = <<300-225=75>>75 zł.
+</reasoning>
+<answer>75</answer>

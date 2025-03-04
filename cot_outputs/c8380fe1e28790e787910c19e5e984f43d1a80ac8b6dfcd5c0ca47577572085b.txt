@@ -1,0 +1,6 @@
+<reasoning>
+Ewa ma 5 książek o zwierzętach
+Jej przyjaciel ma 5 + 2 = 7 książek o zwierzętach
+Razem mają 5 + 7 = 12 książek o zwierzętach
+</reasoning>
+<answer>12</answer>

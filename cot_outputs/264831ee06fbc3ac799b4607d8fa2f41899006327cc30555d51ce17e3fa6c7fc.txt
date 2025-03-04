@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 48 / 6 = <<48/6=8>>8.
+</reasoning>
+<answer>8</answer>

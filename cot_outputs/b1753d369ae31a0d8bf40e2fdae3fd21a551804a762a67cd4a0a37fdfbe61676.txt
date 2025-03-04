@@ -1,0 +1,5 @@
+<reasoning>
+W grupach po 12 biletów (10 płaconych + 2 gratis): 240 / 12 = 20 grup.
+Płatnych: 20 * 10 = <<20*10=200>>200 biletów.
+</reasoning>
+<answer>200</answer>

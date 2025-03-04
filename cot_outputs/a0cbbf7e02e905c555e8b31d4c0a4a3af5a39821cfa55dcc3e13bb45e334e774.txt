@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kg = 3 * 4 = <<3*4=12>>12 kg.
+</reasoning>
+<answer>12</answer>

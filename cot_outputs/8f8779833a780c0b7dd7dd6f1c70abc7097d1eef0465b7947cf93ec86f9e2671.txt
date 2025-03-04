@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zeszytów: 24 * 2 = <<24*2=48>>48 zeszytów.
+</reasoning>
+<answer>48</answer>

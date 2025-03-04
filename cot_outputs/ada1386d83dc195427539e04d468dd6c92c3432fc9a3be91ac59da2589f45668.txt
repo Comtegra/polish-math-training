@@ -1,0 +1,4 @@
+<reasoning>
+350/100 = 3,5; 3,5 * 7 = <<3.5*7=24,5>>24,5 litra.
+</reasoning>
+<answer>24,5 litra</answer>

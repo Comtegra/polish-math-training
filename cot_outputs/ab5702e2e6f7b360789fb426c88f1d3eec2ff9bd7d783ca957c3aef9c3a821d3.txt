@@ -1,0 +1,4 @@
+<reasoning>
+Ostatecznie sprzedano = 260 - 60 = <<260-60=200>>200 paczek.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy dzieci, które poszły na spacer: 50 - 10 = <<50-10=40>>40.
+</reasoning>
+<answer>40</answer>

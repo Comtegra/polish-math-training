@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba gum: 7 * 6 = <<7*6=42>>42 gum.
+Pozostało: 42 - 5 = <<42-5=37>>37 gum.
+</reasoning>
+<answer>37</answer>

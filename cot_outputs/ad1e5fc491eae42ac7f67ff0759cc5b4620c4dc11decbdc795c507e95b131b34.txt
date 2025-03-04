@@ -1,0 +1,4 @@
+<reasoning>
+45 * 12 = <<45*12=540>>540 ciastek.
+</reasoning>
+<answer>540 ciastek</answer>

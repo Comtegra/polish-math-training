@@ -1,0 +1,4 @@
+<reasoning>
+200 * 2.60 = <<200*2.60=520>>520 zł.
+</reasoning>
+<answer>520 zł</answer>

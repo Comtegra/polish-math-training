@@ -1,0 +1,4 @@
+<reasoning>
+Dostępnych terminali = 120 - 20 = <<120-20=100>>100 terminali.
+</reasoning>
+<answer>100</answer>

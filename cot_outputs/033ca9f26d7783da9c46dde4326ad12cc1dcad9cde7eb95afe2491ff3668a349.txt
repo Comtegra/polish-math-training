@@ -1,0 +1,4 @@
+<reasoning>
+24 * 25 = <<24*25=600>>600 uczniów.
+</reasoning>
+<answer>600 uczniów</answer>

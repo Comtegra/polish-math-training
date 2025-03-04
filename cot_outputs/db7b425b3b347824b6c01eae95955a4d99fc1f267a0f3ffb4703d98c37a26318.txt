@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 3 * 12 = <<3*12=36>>36.
+</reasoning>
+<answer>36</answer>

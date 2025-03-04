@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 12 * 3 = <<12*3=36>>36 krzewów.
+</reasoning>
+<answer>36</answer>

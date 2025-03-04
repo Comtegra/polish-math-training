@@ -1,0 +1,4 @@
+<reasoning>
+Ostatecznie sprzedano = 100 - 30 = <<100-30=70>>70 butelek.
+</reasoning>
+<answer>70</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Ada rozłoży 18 małych lampek na 3 półki, więc każda półka otrzyma 18 / 3 = 6 lampek.
+</reasoning>
+<answer>6</answer>

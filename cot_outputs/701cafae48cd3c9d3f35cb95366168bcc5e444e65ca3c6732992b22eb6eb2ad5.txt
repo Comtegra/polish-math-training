@@ -1,0 +1,4 @@
+<reasoning>
+120 / 6 = 20 uszkodzonych; 120 - 20 = <<120-20=100>>100 pudeł.
+</reasoning>
+<answer>100 pudeł</answer>

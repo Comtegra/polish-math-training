@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę grup: 9 / 3 = <<9/3=3>>3 grupy.
+Koszt: 3 * 4 = <<3*4=12>>12 zł.
+</reasoning>
+<answer>12</answer>

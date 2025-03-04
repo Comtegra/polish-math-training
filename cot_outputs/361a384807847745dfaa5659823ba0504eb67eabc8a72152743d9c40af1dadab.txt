@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie pompek = 15 * 7 = <<15*7=105>>105 pompek.
+</reasoning>
+<answer>105</answer>

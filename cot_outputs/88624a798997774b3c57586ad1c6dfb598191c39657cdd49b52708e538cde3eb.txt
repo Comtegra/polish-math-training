@@ -1,0 +1,4 @@
+<reasoning>
+48 - 18 = <<48-18=30>>30 jabłek
+</reasoning>
+<answer>30</answer>

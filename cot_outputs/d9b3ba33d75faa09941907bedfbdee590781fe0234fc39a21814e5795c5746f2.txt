@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy kredki: 72 / 9 = <<72/9=8>>8 kredek na osobę.
+</reasoning>
+<answer>8</answer>

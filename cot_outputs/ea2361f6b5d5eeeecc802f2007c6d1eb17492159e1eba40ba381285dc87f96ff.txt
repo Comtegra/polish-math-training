@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba kawałków: 3 * 8 = <<3*8=24>>24 kawałki.
+</reasoning>
+<answer>24</answer>

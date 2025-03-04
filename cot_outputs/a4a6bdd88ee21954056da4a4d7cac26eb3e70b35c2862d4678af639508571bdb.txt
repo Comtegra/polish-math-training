@@ -1,0 +1,5 @@
+<reasoning>
+5 * 12 = <<5*12=60>>60 ciastek początkowo
+60 - 15 = <<60-15=45>>45 ciastek pozostało
+</reasoning>
+<answer>45</answer>

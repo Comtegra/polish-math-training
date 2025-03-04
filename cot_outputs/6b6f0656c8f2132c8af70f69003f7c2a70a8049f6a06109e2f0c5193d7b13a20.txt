@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę torebek: 6 * 4 = <<6*4=24>>24.
+Odejmujemy wypite torebki: 24 - 3 = <<24-3=21>>21.
+</reasoning>
+<answer>21</answer>

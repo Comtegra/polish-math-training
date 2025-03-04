@@ -1,0 +1,6 @@
+<reasoning>
+Najpierw obliczamy łączny koszt: 5 * 15 = <<5*15=75>>75 zł.
+Obliczamy wartość rabatu: 75 * 0.20 = <<75*0.20=15>>15 zł.
+Ostateczna cena po rabacie: 75 - 15 = <<75-15=60>>60 zł.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 1/3 z 96: 96 * 1/3 = <<96*1/3=32>>32 cukierki.
+</reasoning>
+<answer>32</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Koszt wszystkich bluzek wynosi 40 zł + 55 zł + 35 zł = 130 zł
+Kasia ma 200 zł > 130 zł, więc ma wystarczająco pieniędzy
+</reasoning>
+<answer>Tak</answer>

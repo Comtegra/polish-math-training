@@ -1,0 +1,4 @@
+<reasoning>
+84 / 6 = <<84/6=14>>14 liści
+</reasoning>
+<answer>14</answer>

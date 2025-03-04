@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie czekoladek = 16 * 12 = <<16*12=192>>192 czekoladki.
+</reasoning>
+<answer>192</answer>

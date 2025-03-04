@@ -1,0 +1,4 @@
+<reasoning>
+200 * 4,50 = <<200*4.50=900>>900 zł.
+</reasoning>
+<answer>900 zł</answer>

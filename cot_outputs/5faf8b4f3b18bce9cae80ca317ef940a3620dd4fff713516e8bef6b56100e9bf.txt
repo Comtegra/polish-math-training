@@ -1,0 +1,6 @@
+<reasoning>
+Koszt jabłek to 5 * 3 zł = 15 zł
+Koszt bananów to 3 * 2 zł = 6 zł
+Całkowity koszt to 15 zł + 6 zł = 21 zł
+</reasoning>
+<answer>21</answer>

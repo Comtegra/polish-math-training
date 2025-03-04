@@ -1,0 +1,4 @@
+<reasoning>
+Dobrych toreb = 150 - 30 = <<150-30=120>>120 toreb.
+</reasoning>
+<answer>120</answer>

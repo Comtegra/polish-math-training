@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 80 klocków przez 5: 80 / 5 = <<80/5=16>>16 klocków na wieżę.
+</reasoning>
+<answer>16</answer>

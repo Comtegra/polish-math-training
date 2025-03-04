@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie piłek: 30 * 12 = <<30*12=360>>360 piłek.
+</reasoning>
+<answer>360</answer>

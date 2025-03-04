@@ -1,0 +1,4 @@
+<reasoning>
+Jarek kupi 3 sztuki odzieży sportowej po 20 zł za sztukę, co daje 3 * 20 zł = 60 zł. Kupi też 2 sztuki obuwia po 100 zł za sztukę, co daje 2 * 100 zł = 200 zł. Suma zapłaconych kwot to 60 zł + 200 zł = 260 zł. Jarek ma 30 zł i wydaje 260 zł, więc brakuje mu 230 zł.
+</reasoning>
+<answer>-230 zł (Jarek nie ma wystarczających pieniędzy)</answer>

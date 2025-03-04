@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy napisane strony od całkowitej liczby stron: 45 - 20 = <<45-20=25>>25.
+</reasoning>
+<answer>25</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie książek = 100 * 3 = <<100*3=300>>300 książek.
+</reasoning>
+<answer>300</answer>

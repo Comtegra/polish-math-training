@@ -1,0 +1,4 @@
+<reasoning>
+Cena bez rabatu: 3 * 12 = 36 zł. Rabat: 36 * 10/100 = 3,6 zł. Ostateczna cena: 36 - 3,6 = <<36-3.6=32,40>>32,40 zł.
+</reasoning>
+<answer>32,40 zł</answer>

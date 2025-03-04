@@ -1,0 +1,4 @@
+<reasoning>
+24 * 2 = <<24*2=48>>48 ołówków
+</reasoning>
+<answer>48</answer>

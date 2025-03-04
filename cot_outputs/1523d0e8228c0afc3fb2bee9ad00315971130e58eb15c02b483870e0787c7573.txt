@@ -1,0 +1,6 @@
+<reasoning>
+2 * 11 = <<2*11=22>>22 zł za zeszyty
+3 * 2 = <<3*2=6>>6 zł za ołówki
+22 + 6 = <<22+6=28>>28 zł
+</reasoning>
+<answer>28</answer>

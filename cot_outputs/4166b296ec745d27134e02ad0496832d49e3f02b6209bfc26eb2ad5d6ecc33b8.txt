@@ -1,0 +1,4 @@
+<reasoning>
+Adam kupi 4 sztuki odzieży sportowej po 25 zł za sztukę, co daje 4 * 25 zł = 100 zł. Kupi też 3 sztuki obuwia po 100 zł za sztukę, co daje 3 * 100 zł = 300 zł. Suma zapłaconych kwot to 100 zł + 300 zł = 400 zł. Adam ma 1000 zł i wydaje 400 zł, więc zostaje mu 1000 zł - 400 zł = 600 zł.
+</reasoning>
+<answer>600 zł</answer>

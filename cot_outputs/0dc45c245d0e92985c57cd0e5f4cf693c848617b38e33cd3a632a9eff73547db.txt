@@ -1,0 +1,4 @@
+<reasoning>
+Liczba komiksów: 84 / 7 = <<84/7=12>>12 komiksów.
+</reasoning>
+<answer>12</answer>

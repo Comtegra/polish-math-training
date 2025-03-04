@@ -1,0 +1,5 @@
+<reasoning>
+32 - 12 = <<32-12=20>>20 jabłek
+20 + 8 = <<20+8=28>>28 jabłek łącznie
+</reasoning>
+<answer>28</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Zostało 24 - 8 = 16 pomarańczy.
+</reasoning>
+<answer>16</answer>

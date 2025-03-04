@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy ułożone puzzle: 84 - 60 = <<84-60=24>>24 puzzli.
+</reasoning>
+<answer>24</answer>

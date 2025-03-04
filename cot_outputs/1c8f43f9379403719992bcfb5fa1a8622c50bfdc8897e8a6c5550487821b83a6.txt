@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie owoców = 9 * 7 = <<9*7=63>>63 owoców.
+</reasoning>
+<answer>63</answer>

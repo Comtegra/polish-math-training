@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 900 - (3 * 250) = 900 - 750 = <<900-750=150>>150 zł.
+</reasoning>
+<answer>150</answer>

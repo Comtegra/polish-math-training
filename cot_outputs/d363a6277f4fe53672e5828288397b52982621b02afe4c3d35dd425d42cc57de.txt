@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy kamienie: 144 / 12 = <<144/12=12>>12.
+</reasoning>
+<answer>12</answer>

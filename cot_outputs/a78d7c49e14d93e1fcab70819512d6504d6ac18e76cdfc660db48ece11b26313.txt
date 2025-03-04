@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 3 * 25 = <<3*25=75>>75 zł, reszta = 90 - 75 = <<90-75=15>>15 zł.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+250 - 60 = <<250-60=190>>190 monet.
+</reasoning>
+<answer>190</answer>

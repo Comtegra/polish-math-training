@@ -1,0 +1,4 @@
+<reasoning>
+4 * 50 000 = <<4*50000=200000>>200000 zł.
+</reasoning>
+<answer>200000 zł</answer>

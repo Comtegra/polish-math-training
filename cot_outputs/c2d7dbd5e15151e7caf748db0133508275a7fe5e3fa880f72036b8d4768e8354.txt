@@ -1,0 +1,4 @@
+<reasoning>
+3 * 15 = 45 zł; 60 - 45 = <<60-45=15>>15 zł.
+</reasoning>
+<answer>15 zł</answer>

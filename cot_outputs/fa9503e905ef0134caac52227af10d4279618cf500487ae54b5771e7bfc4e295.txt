@@ -1,0 +1,5 @@
+<reasoning>
+Wyszło: 45 / 3 = <<45/3=15>>15.
+Zostało: 45 - 15 = <<45-15=30>>30.
+</reasoning>
+<answer>30</answer>

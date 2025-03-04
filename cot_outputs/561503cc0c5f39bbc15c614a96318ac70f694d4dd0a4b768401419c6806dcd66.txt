@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy łączną liczbę bombek: 10 * 6 = <<10*6=60>>60 bombek.
+</reasoning>
+<answer>60</answer>

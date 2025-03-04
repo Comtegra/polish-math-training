@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy 1/5 z 40: 40 / 5 = <<40/5=8>>8.
+Następnie odejmujemy oddane jabłka: 40 - 8 = <<40-8=32>>32.
+Potem odejmujemy zjedzone jabłka: 32 - 3 = <<32-3=29>>29.
+</reasoning>
+<answer>29</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+130 * 4.20 = <<130*4.20=546>>546 zł.
+</reasoning>
+<answer>546 zł</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 40 - 8 = <<40-8=32>>32.
+</reasoning>
+<answer>32</answer>

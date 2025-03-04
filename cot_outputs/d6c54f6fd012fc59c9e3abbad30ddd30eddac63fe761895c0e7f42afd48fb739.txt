@@ -1,0 +1,5 @@
+<reasoning>
+Powieści: 360 * 0.20 = <<360*0.20=72>>72.
+Nie-powieści: 360 - 72 = <<360-72=288>>288.
+</reasoning>
+<answer>288</answer>

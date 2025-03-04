@@ -1,0 +1,4 @@
+<reasoning>
+36 * 4 = <<36*4=144>>144 czekoladek.
+</reasoning>
+<answer>144</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Julia wydała 4 * 3 zł = 12 zł na zeszyty. Kupiła też 3 * 1,50 zł = 4,50 zł za długopisy. Suma zapłaconych kwot to 12 zł + 4,50 zł = 16,50 zł.
+</reasoning>
+<answer>16,50 zł</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy stracone punkty: 200 - 40 = <<200-40=160>>160.
+Następnie dodajemy zdobyte punkty: 160 + 25 = <<160+25=185>>185.
+</reasoning>
+<answer>185</answer>

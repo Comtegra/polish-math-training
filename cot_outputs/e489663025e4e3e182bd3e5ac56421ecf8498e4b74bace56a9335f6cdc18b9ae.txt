@@ -1,0 +1,4 @@
+<reasoning>
+Spadek = 2000 - 1600 = 400; 400/2000 * 100 = <<400/2000*100=20>>20%.
+</reasoning>
+<answer>20%</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+2 * 35 = <<2*35=70>>70 zł
+90 - 70 = <<90-70=20>>20 zł
+</reasoning>
+<answer>20</answer>

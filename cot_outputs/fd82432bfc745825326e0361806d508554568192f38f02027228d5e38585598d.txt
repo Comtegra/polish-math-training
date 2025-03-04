@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie saszetek = 25 * 9 = <<25*9=225>>225 saszetek.
+</reasoning>
+<answer>225</answer>

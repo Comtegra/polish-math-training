@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy liczbę balonów: 56 / 7 = <<56/7=8>>8.
+Następnie dodajemy dodatkowe balony: 8 + 3 = <<8+3=11>>11.
+</reasoning>
+<answer>11</answer>

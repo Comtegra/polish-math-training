@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy uschłe drzewa: 200 / 4 = <<200/4=50>>50.
+Następnie odejmujemy: 200 - 50 = <<200-50=150>>150.
+</reasoning>
+<answer>150</answer>

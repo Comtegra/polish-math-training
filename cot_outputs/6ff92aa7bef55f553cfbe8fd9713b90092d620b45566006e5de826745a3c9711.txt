@@ -1,0 +1,4 @@
+<reasoning>
+Razem słoiki ważą 500 g * 3 = 1500 g
+</reasoning>
+<answer>1500 g</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw: 50 - 19 = <<50-19=31>>31 zł.
+Następnie: 31 - 11 = <<31-11=20>>20 zł.
+</reasoning>
+<answer>20</answer>

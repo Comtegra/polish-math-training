@@ -1,0 +1,4 @@
+<reasoning>
+360 - 360/6 = 360 - 60 = <<360-60=300>>300 puszek.
+</reasoning>
+<answer>300</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Ania ma 3 paczki * 250 g = 750 g makaronu
+</reasoning>
+<answer>750 g</answer>

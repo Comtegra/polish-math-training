@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy liczbę kredek rozdanych każdemu: 6 * 7 = <<6*7=42>>42.
+</reasoning>
+<answer>42</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na dziecko = 90 / 10 = <<90/10=9>>9 cukierków.
+</reasoning>
+<answer>9</answer>

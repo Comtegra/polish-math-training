@@ -1,0 +1,4 @@
+<reasoning>
+Sprzedano porcji = 200 - 25 = <<200-25=175>>175 porcji.
+</reasoning>
+<answer>175</answer>

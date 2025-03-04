@@ -1,0 +1,4 @@
+<reasoning>
+Sprzedanych porcji: 400 * 0.85 = <<400*0.85=340>>340 porcji.
+</reasoning>
+<answer>340</answer>

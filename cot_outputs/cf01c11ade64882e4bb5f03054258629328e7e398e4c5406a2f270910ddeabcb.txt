@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 5 kg bananów to 5 kg * 5 złotych na kilogram = 25 złotych.
+</reasoning>
+<answer>25 złotych</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej pary: 27 / 3 = <<27/3=9>>9 zł.
+Łączny koszt: 9 * 9 = <<9*9=81>>81 zł.
+</reasoning>
+<answer>81</answer>

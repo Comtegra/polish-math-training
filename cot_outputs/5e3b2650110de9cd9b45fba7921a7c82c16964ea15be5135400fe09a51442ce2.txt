@@ -1,0 +1,4 @@
+<reasoning>
+5 * 95 = <<5*95=475>>475 osób.
+</reasoning>
+<answer>475</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ciasteczek: 6 * 8 = <<6*8=48>>48.
+Odejmujemy oddane ciasteczka: 48 - 4 = <<48-4=44>>44.
+</reasoning>
+<answer>44</answer>

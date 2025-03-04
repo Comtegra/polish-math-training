@@ -1,0 +1,4 @@
+<reasoning>
+800 * 15/100 = <<800*15/100=120>>120 samochodów.
+</reasoning>
+<answer>120</answer>

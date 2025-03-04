@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie długopisów = 3 * 20 = <<3*20=60>>60 długopisów.
+</reasoning>
+<answer>60</answer>

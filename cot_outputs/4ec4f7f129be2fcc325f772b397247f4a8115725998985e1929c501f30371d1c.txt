@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego samochodzika: 42 / 6 = <<42/6=7>>7 zł.
+18 * 7 = <<18*7=126>>126 zł.
+</reasoning>
+<answer>126</answer>

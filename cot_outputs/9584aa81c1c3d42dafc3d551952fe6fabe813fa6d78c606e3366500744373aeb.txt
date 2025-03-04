@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 120 * 18 = <<120*18=2160>>2160 zł.
+</reasoning>
+<answer>2160</answer>

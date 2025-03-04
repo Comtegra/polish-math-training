@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 8 * 2,50 = <<8*2.50=20>>20 zł.
+</reasoning>
+<answer>20</answer>

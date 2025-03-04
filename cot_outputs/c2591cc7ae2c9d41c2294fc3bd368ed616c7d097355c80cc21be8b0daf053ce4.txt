@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy piłki: 84 / 7 = <<84/7=12>>12.
+Dodajemy dodatkowe piłki: 12 + 3 = <<12+3=15>>15.
+</reasoning>
+<answer>15</answer>

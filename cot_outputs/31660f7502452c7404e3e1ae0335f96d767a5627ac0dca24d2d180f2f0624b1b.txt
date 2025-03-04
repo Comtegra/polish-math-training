@@ -1,0 +1,4 @@
+<reasoning>
+24 / 3 = <<24/3=8>>8 kartek w każdym zeszycie
+</reasoning>
+<answer>8</answer>

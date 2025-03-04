@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej pary: 32 / 4 = <<32/4=8>>8 zł.
+Cena 7 par: 7 * 8 = <<7*8=56>>56 zł.
+</reasoning>
+<answer>56</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 250 - 90 = <<250-90=160>>160.
+Następnie dodajemy: 160 + 40 = <<160+40=200>>200.
+</reasoning>
+<answer>200</answer>

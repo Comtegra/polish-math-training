@@ -1,0 +1,4 @@
+<reasoning>
+5 * 1.8 = <<5*1.8=9>>9 litrów
+</reasoning>
+<answer>9 litrów</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków miętowych: 64 / 4 = <<64/4=16>>16 cukierków.
+</reasoning>
+<answer>16</answer>

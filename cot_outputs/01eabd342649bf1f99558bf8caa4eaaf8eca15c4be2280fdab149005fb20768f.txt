@@ -1,0 +1,4 @@
+<reasoning>
+900 / 3 = <<900/3=300>>300 magazynów.
+</reasoning>
+<answer>300</answer>

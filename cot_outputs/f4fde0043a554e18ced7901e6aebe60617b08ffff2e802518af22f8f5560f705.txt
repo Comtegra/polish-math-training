@@ -1,0 +1,4 @@
+<reasoning>
+Wydane = 420 * 0.5 = <<420*0.5=210>>210 zł.
+</reasoning>
+<answer>210</answer>

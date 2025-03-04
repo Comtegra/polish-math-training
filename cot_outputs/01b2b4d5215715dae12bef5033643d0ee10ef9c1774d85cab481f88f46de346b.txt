@@ -1,0 +1,4 @@
+<reasoning>
+Marek ma 3 paczki * 20 ciastek = 60 ciastek
+</reasoning>
+<answer>60 ciastek</answer>

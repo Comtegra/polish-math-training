@@ -1,0 +1,5 @@
+<reasoning>
+2 * 12 = <<2*12=24>>24 zł wydane na lody
+100 - 24 = <<100-24=76>>76 zł
+</reasoning>
+<answer>76</answer>

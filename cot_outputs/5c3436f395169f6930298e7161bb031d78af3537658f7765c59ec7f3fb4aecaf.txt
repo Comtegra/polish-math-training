@@ -1,0 +1,4 @@
+<reasoning>
+Julian kupi 4 zeszyty po 5 zł za każdy, co daje 4 * 5 zł = 20 zł. Kupi też 3 ołówki po 2 zł za każdy, co daje 3 * 2 zł = 6 zł. Suma zapłaconych kwot to 20 zł + 6 zł = 26 zł.
+</reasoning>
+<answer>26 zł</answer>

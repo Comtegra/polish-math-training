@@ -1,0 +1,4 @@
+<reasoning>
+55 * 7 = <<55*7=385>>385 zeszytów.
+</reasoning>
+<answer>385</answer>

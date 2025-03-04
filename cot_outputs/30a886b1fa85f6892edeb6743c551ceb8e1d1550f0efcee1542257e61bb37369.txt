@@ -1,0 +1,4 @@
+<reasoning>
+Zysk = 1500 * 0.10 = <<1500*0.10=150>>150 zł.
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Sumujemy napisane strony: 45 + 35 = <<45+35=80>>80.
+Następnie odejmujemy od całości: 120 - 80 = <<120-80=40>>40.
+</reasoning>
+<answer>40</answer>

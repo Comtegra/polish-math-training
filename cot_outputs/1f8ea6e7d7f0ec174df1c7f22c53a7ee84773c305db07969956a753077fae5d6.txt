@@ -1,0 +1,4 @@
+<reasoning>
+Zosia przekaże 5 * 3 = 15 kg jabłek przyjaciołom. Zostanie jej 20 - 15 = 5 kg jabłek.
+</reasoning>
+<answer>5</answer>

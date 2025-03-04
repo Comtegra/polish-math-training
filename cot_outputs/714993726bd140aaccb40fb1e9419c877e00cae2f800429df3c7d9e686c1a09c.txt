@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ołówków: 4 * 12 = <<4*12=48>>48.
+Następnie odejmujemy zgubione ołówki: 48 - 3 = <<48-3=45>>45.
+</reasoning>
+<answer>45</answer>

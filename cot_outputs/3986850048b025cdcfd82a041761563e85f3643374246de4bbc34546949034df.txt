@@ -1,0 +1,4 @@
+<reasoning>
+Ostatecznie sprzedano = 90 - 20 = <<90-20=70>>70 par.
+</reasoning>
+<answer>70</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy resztę cukierków: 24 - 4 = <<24-4=20>>20.
+Następnie dzielimy je między 4 koleżanki: 20 / 4 = <<20/4=5>>5.
+</reasoning>
+<answer>5</answer>

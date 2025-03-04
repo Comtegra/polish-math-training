@@ -1,0 +1,4 @@
+<reasoning>
+Z chleba: 10/2 = 5; z sera: 5/1 = 5. Możesz zrobić <<min(5,5)=5>>5 kanapek.
+</reasoning>
+<answer>5</answer>

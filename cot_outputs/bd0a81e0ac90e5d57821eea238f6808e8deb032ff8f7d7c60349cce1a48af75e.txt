@@ -1,0 +1,4 @@
+<reasoning>
+75 / 5 = <<75/5=15>>15 zł.
+</reasoning>
+<answer>15 zł</answer>

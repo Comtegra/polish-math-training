@@ -1,0 +1,4 @@
+<reasoning>
+8 * 3.80 = <<8*3.80=30.40>>30,40 zł.
+</reasoning>
+<answer>30,40 zł</answer>

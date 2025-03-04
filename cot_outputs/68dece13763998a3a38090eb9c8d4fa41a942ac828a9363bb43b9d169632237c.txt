@@ -1,0 +1,4 @@
+<reasoning>
+150 * 8 = <<150*8=1200>>1200 zł.
+</reasoning>
+<answer>1200 zł</answer>

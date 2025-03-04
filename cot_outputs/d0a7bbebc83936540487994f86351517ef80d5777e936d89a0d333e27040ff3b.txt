@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy cenę gry: 200 - 75 = <<200-75=125>>125.
+Następnie odejmujemy koszt obiadu: 125 - 45 = <<125-45=80>>80.
+</reasoning>
+<answer>80</answer>

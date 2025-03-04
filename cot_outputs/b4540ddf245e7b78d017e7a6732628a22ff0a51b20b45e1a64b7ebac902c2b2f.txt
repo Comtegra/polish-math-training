@@ -1,0 +1,6 @@
+<reasoning>
+Koszt zeszytów: 5 * 7 = <<5*7=35>>35 zł.
+Koszt długopisów: 3 * 4 = <<3*4=12>>12 zł.
+Łącznie: 35 + 12 = <<35+12=47>>47 zł.
+</reasoning>
+<answer>47</answer>

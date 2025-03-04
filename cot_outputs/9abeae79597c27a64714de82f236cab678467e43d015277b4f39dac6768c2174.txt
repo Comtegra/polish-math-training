@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba strumieni: 8 * 5 = <<8*5=40>>40 strumieni.
+</reasoning>
+<answer>40</answer>

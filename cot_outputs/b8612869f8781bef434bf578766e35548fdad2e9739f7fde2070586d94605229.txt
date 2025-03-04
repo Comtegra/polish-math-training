@@ -1,0 +1,4 @@
+<reasoning>
+20 * 12 = <<20*12=240>>240 osób.
+</reasoning>
+<answer>240</answer>

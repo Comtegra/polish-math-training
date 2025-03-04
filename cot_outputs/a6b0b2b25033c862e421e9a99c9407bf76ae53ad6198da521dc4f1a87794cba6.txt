@@ -1,0 +1,4 @@
+<reasoning>
+1/5 z 75 = 15; 75 - 15 = <<75-15=60>>60 zeszytów.
+</reasoning>
+<answer>60</answer>

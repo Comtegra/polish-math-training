@@ -1,0 +1,5 @@
+<reasoning>
+Buty sportowe: 720 ÷ 5 = 144.
+Buty eleganckie: 720 − 144 = 576 par butów.
+</reasoning>
+<answer>576</answer>

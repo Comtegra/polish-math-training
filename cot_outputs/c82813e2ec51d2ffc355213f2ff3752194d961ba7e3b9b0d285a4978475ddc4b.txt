@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę kawałków: 4 * 10 = <<4*10=40>>40.
+Odejmujemy zjedzone kawałki: 40 - 7 = <<40-7=33>>33.
+</reasoning>
+<answer>33</answer>

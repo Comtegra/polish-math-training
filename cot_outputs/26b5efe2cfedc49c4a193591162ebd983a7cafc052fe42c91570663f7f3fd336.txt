@@ -1,0 +1,4 @@
+<reasoning>
+68 / 4 = <<68/4=17>>17 zł.
+</reasoning>
+<answer>17 zł</answer>

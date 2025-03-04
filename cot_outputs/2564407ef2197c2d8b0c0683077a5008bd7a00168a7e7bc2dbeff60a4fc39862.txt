@@ -1,0 +1,4 @@
+<reasoning>
+Klocki w jednej wieży: 96 / 8 = <<96/8=12>>12 klocków.
+</reasoning>
+<answer>12</answer>

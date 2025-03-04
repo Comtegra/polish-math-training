@@ -1,0 +1,5 @@
+<reasoning>
+3 * 12 = <<3*12=36>>36 kawałków
+36 - 8 = <<36-8=28>>28 kawałków
+</reasoning>
+<answer>28</answer>

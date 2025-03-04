@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ciastek: 3 * 14 = <<3*14=42>>42.
+Odejmujemy zjedzone ciastka: 42 - 8 = <<42-8=34>>34.
+</reasoning>
+<answer>34</answer>

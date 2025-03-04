@@ -1,0 +1,4 @@
+<reasoning>
+60 * 9 = <<60*9=540>>540 naklejek.
+</reasoning>
+<answer>540 naklejek</answer>

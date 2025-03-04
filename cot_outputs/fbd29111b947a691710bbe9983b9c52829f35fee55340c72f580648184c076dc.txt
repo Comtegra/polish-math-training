@@ -1,0 +1,4 @@
+<reasoning>
+3 - 1 = <<3-1=2>>2 zeszyty
+</reasoning>
+<answer>2</answer>

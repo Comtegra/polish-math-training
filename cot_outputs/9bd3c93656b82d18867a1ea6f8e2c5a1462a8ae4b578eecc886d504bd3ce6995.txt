@@ -1,0 +1,5 @@
+<reasoning>
+Oddane piłki: 18 / 3 = <<18/3=6>>6.
+Pozostało: 18 - 6 = <<18-6=12>>12 piłek.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+5 * 12 = <<5*12=60>>60 kredek
+</reasoning>
+<answer>60</answer>

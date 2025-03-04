@@ -1,0 +1,4 @@
+<reasoning>
+50 * 40 = <<50*40=2000>>2000 jabłek.
+</reasoning>
+<answer>2000</answer>

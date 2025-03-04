@@ -1,0 +1,4 @@
+<reasoning>
+9 * 5 = <<9*5=45>>45 godzin.
+</reasoning>
+<answer>45</answer>

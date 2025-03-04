@@ -1,0 +1,4 @@
+<reasoning>
+8100 / 9 = <<8100/9=900>>900 zł.
+</reasoning>
+<answer>900 zł</answer>

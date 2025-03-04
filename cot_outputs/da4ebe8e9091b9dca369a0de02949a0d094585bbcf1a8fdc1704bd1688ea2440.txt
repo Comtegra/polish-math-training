@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie osób = 9 * 45 = <<9*45=405>>405 osób.
+</reasoning>
+<answer>405</answer>

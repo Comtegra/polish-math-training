@@ -1,0 +1,5 @@
+<reasoning>
+Magazynów: 540 / 9 = <<540/9=60>>60.
+Innych: 540 - 60 = <<540-60=480>>480.
+</reasoning>
+<answer>480</answer>

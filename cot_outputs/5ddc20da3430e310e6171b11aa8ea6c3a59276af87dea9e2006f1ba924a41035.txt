@@ -1,0 +1,5 @@
+<reasoning>
+Dzieci z różowymi plecakami: 96 ÷ 4 = 24.
+Pozostałych: 96 − 24 = 72 dzieci.
+</reasoning>
+<answer>72</answer>

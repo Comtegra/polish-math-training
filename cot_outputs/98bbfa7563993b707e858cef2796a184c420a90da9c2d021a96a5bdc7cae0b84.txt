@@ -1,0 +1,4 @@
+<reasoning>
+Powierzchnia jednego kartonu Marcina to 30 * 40 = 1200 cm². Powierzchnia jednego kartonu papieru to 20 * 25 = 500 cm². Można zmieścić 1200 / 500 = 2,4 kartonu papieru, czyli maksymalnie 2 pełne kartony papieru.
+</reasoning>
+<answer>2</answer>

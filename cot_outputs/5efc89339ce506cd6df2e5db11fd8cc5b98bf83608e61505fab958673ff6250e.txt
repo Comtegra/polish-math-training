@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 64 balony przez 16: 64 / 16 = <<64/16=4>>4 balony na dziecko.
+</reasoning>
+<answer>4</answer>

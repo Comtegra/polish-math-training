@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy łączną liczbę czekoladek: 7 * 15 = <<7*15=105>>105 czekoladek.
+Następnie odejmujemy zjedzone czekoladki: 105 - 10 = <<105-10=95>>95 czekoladek.
+</reasoning>
+<answer>95</answer>

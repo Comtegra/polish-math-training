@@ -1,0 +1,4 @@
+<reasoning>
+Dodajemy liczbę długopisów: 48 + 32 = <<48+32=80>>80 długopisów.
+</reasoning>
+<answer>80</answer>

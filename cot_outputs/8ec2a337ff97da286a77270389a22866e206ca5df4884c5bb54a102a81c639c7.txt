@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy sprzedane butelki: 200 - 80 = <<200-80=120>>120.
+Dodajemy nowe butelki: 120 + 50 = <<120+50=170>>170.
+</reasoning>
+<answer>170</answer>

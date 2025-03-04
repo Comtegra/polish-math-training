@@ -1,0 +1,5 @@
+<reasoning>
+20 - 5 = <<20-5=15>>15 kart po oddaniu
+15 + 10 = <<15+10=25>>25 kart po otrzymaniu od brata
+</reasoning>
+<answer>25</answer>

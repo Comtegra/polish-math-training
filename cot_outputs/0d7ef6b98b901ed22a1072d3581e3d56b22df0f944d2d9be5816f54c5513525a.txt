@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych sztuk = 2400 - 150 = <<2400-150=2250>>2250 sztuk.
+</reasoning>
+<answer>2250</answer>

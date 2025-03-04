@@ -1,0 +1,5 @@
+<reasoning>
+Całkowita liczba ołówków: 5 * 10 = <<5*10=50>>50 ołówków.
+Odejmujemy oddane ołówki: 50 - 12 = <<50-12=38>>38 ołówków.
+</reasoning>
+<answer>38</answer>

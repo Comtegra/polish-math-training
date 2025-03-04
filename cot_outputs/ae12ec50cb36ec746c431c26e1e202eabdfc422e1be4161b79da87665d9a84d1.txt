@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało jabłek = 12 - 4 = <<12-4=8>>8 jabłek.
+</reasoning>
+<answer>8</answer>

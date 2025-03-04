@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 2/7 z 28: 28 * (2/7) = <<28*(2/7)=8>>8 chłopców.
+</reasoning>
+<answer>8</answer>

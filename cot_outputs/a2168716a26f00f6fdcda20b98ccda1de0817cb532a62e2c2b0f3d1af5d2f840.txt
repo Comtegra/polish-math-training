@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie płatków = 22 * 5 = <<22*5=110>>110 płatków.
+</reasoning>
+<answer>110</answer>

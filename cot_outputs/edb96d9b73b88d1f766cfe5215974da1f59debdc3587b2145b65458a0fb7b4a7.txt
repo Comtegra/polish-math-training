@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 32 * 2 = <<32*2=64>>64 naklejek.
+</reasoning>
+<answer>64</answer>

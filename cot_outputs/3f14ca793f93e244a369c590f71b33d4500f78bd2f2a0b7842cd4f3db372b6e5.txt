@@ -1,0 +1,4 @@
+<reasoning>
+256 / 8 = <<256/8=32>>32 zł.
+</reasoning>
+<answer>32 zł</answer>

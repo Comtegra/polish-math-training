@@ -1,0 +1,4 @@
+<reasoning>
+Każda koleżanka otrzyma 600 g / 9 = 66,67 g cukru (zaokrąglone do dwóch miejsc po przecinku)
+</reasoning>
+<answer>66,67 g</answer>

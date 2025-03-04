@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie butelek = 20 * 7 = <<20*7=140>>140 butelek.
+</reasoning>
+<answer>140</answer>

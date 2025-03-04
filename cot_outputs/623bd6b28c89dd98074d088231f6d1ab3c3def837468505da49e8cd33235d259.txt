@@ -1,0 +1,4 @@
+<reasoning>
+Sprawdzamy: 16 dzieci * 4 cukierki = <<16*4=64>>64 cukierków. Tak, cukierków wystarczy.
+</reasoning>
+<answer>64</answer>

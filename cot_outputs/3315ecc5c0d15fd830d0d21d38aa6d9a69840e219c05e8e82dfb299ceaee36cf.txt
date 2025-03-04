@@ -1,0 +1,5 @@
+<reasoning>
+4 * 10 = <<4*10=40>>40 kawałków
+40 - 7 = <<40-7=33>>33 kawałków
+</reasoning>
+<answer>33</answer>

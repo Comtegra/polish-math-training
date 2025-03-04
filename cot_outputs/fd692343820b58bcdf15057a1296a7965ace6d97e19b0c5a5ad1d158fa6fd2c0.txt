@@ -1,0 +1,4 @@
+<reasoning>
+7 * 3.50 = <<7*3.50=24.5>>24,50 zł.
+</reasoning>
+<answer>24,50</answer>

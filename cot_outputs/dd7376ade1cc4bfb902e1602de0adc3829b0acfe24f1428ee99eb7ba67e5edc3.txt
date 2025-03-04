@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba czekoladek: 6 * 8 = <<6*8=48>>48 czekoladek.
+Odejmujemy zjedzone: 48 - 10 = <<48-10=38>>38 czekoladek.
+</reasoning>
+<answer>38</answer>

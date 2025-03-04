@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy zdobyte punkty: 155 - 35 = <<155-35=120>>120.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Obecnych uczniów: 27 - 2 = <<27-2=25>>25 uczniów.
+</reasoning>
+<answer>25</answer>

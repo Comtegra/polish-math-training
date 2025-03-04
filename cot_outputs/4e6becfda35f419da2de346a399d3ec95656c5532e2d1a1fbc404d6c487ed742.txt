@@ -1,0 +1,4 @@
+<reasoning>
+Niech x = liczba lalek Kasi, wtedy Basia = x + 5. x + (x + 5) = 45, więc 2x = 40 i x = <<40/2=20>>20.
+</reasoning>
+<answer>20</answer>

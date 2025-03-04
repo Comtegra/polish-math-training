@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kg = 36 * 5 = <<36*5=180>>180 kg.
+</reasoning>
+<answer>180</answer>

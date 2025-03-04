@@ -1,0 +1,4 @@
+<reasoning>
+Ilość przejechanych kilometrów = (40 litrów / 8 litrów) * 100 km = <<(40/8)*100=500>>500 km
+</reasoning>
+<answer>500</answer>

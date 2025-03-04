@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba mieszkań: 10 * 6 = <<10*6=60>>60 mieszkań.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy sprzedaną mąkę: 150 - 60 = <<150-60=90>>90.
+Dodajemy dostarczoną mąkę: 90 + 30 = <<90+30=120>>120.
+</reasoning>
+<answer>120</answer>

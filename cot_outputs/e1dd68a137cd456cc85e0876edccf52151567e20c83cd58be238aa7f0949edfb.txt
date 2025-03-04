@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy wypożyczone książki: 200 - 60 = <<200-60=140>>140.
+Następnie dodajemy oddane książki: 140 + 25 = <<140+25=165>>165.
+</reasoning>
+<answer>165</answer>

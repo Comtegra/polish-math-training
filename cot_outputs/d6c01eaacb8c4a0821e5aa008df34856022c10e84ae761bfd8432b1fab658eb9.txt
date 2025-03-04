@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba kredek: 2 * 25 = <<2*25=50>>50 kredek.
+Dobrych kredek: 50 - 8 = <<50-8=42>>42 kredek.
+</reasoning>
+<answer>42</answer>

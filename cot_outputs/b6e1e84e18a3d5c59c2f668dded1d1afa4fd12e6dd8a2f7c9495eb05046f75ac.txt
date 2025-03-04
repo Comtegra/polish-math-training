@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy: 180 + 20 = <<180+20=200>>200.
+Następnie: 200 + 30 = <<200+30=230>>230.
+Na końcu odejmujemy straty: 230 - 15 = <<230-15=215>>215.
+</reasoning>
+<answer>215</answer>

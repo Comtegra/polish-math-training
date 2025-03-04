@@ -1,0 +1,4 @@
+<reasoning>
+7000 * 35/100 = <<7000*35/100=2450>>2450 książek.
+</reasoning>
+<answer>2450 książek</answer>

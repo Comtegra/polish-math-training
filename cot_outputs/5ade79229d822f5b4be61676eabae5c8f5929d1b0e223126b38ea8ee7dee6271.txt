@@ -1,0 +1,5 @@
+<reasoning>
+Lektur szkolnych: 480 / 3 = <<480/3=160>>160.
+Pozostałych: 480 - 160 = <<480-160=320>>320 książek.
+</reasoning>
+<answer>320</answer>

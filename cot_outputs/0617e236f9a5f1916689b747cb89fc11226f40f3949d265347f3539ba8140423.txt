@@ -1,0 +1,5 @@
+<reasoning>
+Zjedzono: 360 * (3/8) = <<360*3/8=135>>135.
+Pozostało: 360 - 135 = <<360-135=225>>225.
+</reasoning>
+<answer>225</answer>

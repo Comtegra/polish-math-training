@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 56 naklejek przez 7: 56 / 7 = <<56/7=8>>8 naklejek na przyjaciela.
+</reasoning>
+<answer>8</answer>

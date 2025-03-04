@@ -1,0 +1,5 @@
+<reasoning>
+100 - 40 = <<100-40=60>>60 naklejek
+60 + 10 = <<60+10=70>>70 naklejek
+</reasoning>
+<answer>70</answer>

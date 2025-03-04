@@ -1,0 +1,4 @@
+<reasoning>
+48 * 4 = <<48*4=192>>192 kredek.
+</reasoning>
+<answer>192 kredek</answer>

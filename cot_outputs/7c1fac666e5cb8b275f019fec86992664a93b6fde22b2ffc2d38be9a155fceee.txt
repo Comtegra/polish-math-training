@@ -1,0 +1,5 @@
+<reasoning>
+Połowa z 12: 12 / 2 = <<12/2=6>>6
+Łącznie: 12 + 6 = <<12+6=18>>18
+</reasoning>
+<answer>18</answer>

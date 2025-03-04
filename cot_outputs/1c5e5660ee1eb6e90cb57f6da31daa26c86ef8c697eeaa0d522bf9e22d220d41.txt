@@ -1,0 +1,5 @@
+<reasoning>
+180 - 60 = <<180-60=120>>120
+120 + 40 = <<120+40=160>>160 punktów
+</reasoning>
+<answer>160</answer>

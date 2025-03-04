@@ -1,0 +1,4 @@
+<reasoning>
+Agnieszka kupiła 8 książek o kosmosie po 6 zł za sztukę, co daje 8 * 6 zł = 48 zł. Zniżka wynosi 15% z 48 zł, czyli 0,15 * 48 zł = 7,20 zł. Zatem Agnieszka zapłaci 48 zł - 7,20 zł = 40,80 zł.
+</reasoning>
+<answer>40,80 zł</answer>

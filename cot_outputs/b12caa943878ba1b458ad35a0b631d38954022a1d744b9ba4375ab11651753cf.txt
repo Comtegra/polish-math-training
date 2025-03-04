@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie ołówków = 45 + 55 = <<45+55=100>>100 ołówków.
+</reasoning>
+<answer>100</answer>

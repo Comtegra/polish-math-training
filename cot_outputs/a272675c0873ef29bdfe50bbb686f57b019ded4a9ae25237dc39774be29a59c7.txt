@@ -1,0 +1,4 @@
+<reasoning>
+Wolnych miejsc = 1000 - 850 = <<1000-850=150>>150 miejsc.
+</reasoning>
+<answer>150</answer>

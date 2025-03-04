@@ -1,0 +1,5 @@
+<reasoning>
+Oszczędności z miesięcy: 150 * 6 = <<150*6=900>>900 zł
+Po dodaniu prezentu: 900 + 200 = <<900+200=1100>>1100 zł
+</reasoning>
+<answer>1100</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 180 - 55 = <<180-55=125>>125.
+Następnie dodajemy zwrócone ołówki: 125 + 20 = <<125+20=145>>145.
+</reasoning>
+<answer>145</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 90 * (2/3) = <<90*0.6667=60>>60 porcji.
+Pozostało: 90 - 60 = <<90-60=30>>30 porcji.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 81 liści przez 9: 81 / 9 = <<81/9=9>>9 liści na stos.
+</reasoning>
+<answer>9</answer>

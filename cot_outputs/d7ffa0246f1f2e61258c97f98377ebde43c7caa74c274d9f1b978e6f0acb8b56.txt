@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt sukienek: 2 * 45 = <<2*45=90>>90 zł.
+Pozostało: 180 - 90 = <<180-90=90>>90 zł.
+</reasoning>
+<answer>90</answer>

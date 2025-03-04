@@ -1,0 +1,4 @@
+<reasoning>
+Kamil kupi 3 sztuki odzieży sportowej po 60 zł za sztukę, co daje 3 * 60 zł = 180 zł. Kupi też 2 sztuki obuwia po 120 zł za sztukę, co daje 2 * 120 zł = 240 zł. Suma zapłaconych kwot to 180 zł + 240 zł = 420 zł.
+</reasoning>
+<answer>420 zł</answer>

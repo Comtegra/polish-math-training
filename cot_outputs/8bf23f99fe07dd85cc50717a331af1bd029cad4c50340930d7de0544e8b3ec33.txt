@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy balony: 18 + 12 = <<18+12=30>>30.
+Następnie odejmujemy stracone balony: 30 - 5 = <<30-5=25>>25.
+</reasoning>
+<answer>25</answer>

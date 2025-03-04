@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy sprzedane zabawki: 120 - 47 = <<120-47=73>>73.
+Następnie dodajemy nowe zabawki: 73 + 33 = <<73+33=106>>106.
+</reasoning>
+<answer>106</answer>

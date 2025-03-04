@@ -1,0 +1,4 @@
+<reasoning>
+5% z 200 = 10; 200 - 10 = <<200-10=190>>190 porcji.
+</reasoning>
+<answer>190</answer>

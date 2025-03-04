@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego zeszytu: 9 / 3 = <<9/3=3>>3 zł.
+10 * 3 = <<10*3=30>>30 zł.
+</reasoning>
+<answer>30</answer>

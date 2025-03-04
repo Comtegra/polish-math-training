@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy usunięte ławki: 150 - 20 = <<150-20=130>>130.
+Dodajemy nowe ławki: 130 + 15 = <<130+15=145>>145.
+</reasoning>
+<answer>145</answer>

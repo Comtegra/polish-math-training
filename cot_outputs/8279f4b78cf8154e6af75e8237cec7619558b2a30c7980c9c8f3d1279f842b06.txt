@@ -1,0 +1,4 @@
+<reasoning>
+Błędnych odpowiedzi = 50 - 45 = <<50-45=5>>5 pytań.
+</reasoning>
+<answer>5</answer>

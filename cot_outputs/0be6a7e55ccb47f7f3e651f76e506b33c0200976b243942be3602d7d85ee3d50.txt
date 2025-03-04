@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 45 * 800 = <<45*800=36000>>36000 zł
+</reasoning>
+<answer>36000</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+500 / 5 = <<500/5=100>>100 eksponatów.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+30 - 12 + 8 = <<30-12+8=26>>26 książek.
+</reasoning>
+<answer>26</answer>

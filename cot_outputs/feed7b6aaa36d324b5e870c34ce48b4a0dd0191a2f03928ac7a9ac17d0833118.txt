@@ -1,0 +1,4 @@
+<reasoning>
+7 * 120 = <<7*120=840>>840 osób.
+</reasoning>
+<answer>840 osób</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+200 - 25 = <<200-25=175>>175 stron.
+</reasoning>
+<answer>175</answer>

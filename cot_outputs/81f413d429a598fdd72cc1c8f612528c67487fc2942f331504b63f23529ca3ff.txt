@@ -1,0 +1,4 @@
+<reasoning>
+4 * 13 = <<4*13=52>>52 ciastek
+</reasoning>
+<answer>52</answer>

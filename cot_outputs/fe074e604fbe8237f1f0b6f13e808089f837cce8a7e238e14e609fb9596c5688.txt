@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba ciasteczek: 4 * 9 = <<4*9=36>>36.
+Pozostało: 36 - 10 = <<36-10=26>>26 ciasteczek.
+</reasoning>
+<answer>26</answer>

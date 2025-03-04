@@ -1,0 +1,5 @@
+<reasoning>
+2 * 40 = <<2*40=80>>80 zł
+80 + 12 = <<80+12=92>>92 zł
+</reasoning>
+<answer>92</answer>

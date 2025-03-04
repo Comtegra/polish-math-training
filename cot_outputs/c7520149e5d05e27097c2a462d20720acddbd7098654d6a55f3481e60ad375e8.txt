@@ -1,0 +1,4 @@
+<reasoning>
+Wydane = 180 * (1/3) = <<180*1/3=60>>60 zł.
+</reasoning>
+<answer>60</answer>

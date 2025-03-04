@@ -1,0 +1,5 @@
+<reasoning>
+Rzeźb: 150 * 0.10 = <<150*0.10=15>>15.
+Pozostałych: 150 - 15 = <<150-15=135>>135.
+</reasoning>
+<answer>135</answer>

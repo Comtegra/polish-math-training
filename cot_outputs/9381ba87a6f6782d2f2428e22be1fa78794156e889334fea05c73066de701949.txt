@@ -1,0 +1,4 @@
+<reasoning>
+Średnia dzienna: 240 / 6 = <<240/6=40>>40 zabawek.
+</reasoning>
+<answer>40</answer>

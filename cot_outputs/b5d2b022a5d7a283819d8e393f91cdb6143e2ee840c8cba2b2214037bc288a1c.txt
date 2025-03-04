@@ -1,0 +1,4 @@
+<reasoning>
+250 * 20/100 = <<250*20/100=50>>50 ml.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Kwota do zebrania: 3500 - 500 = <<3500-500=3000>>3000 zł
+Liczba miesięcy: 3000 / 300 = <<3000/300=10>>10 miesięcy
+</reasoning>
+<answer>10</answer>

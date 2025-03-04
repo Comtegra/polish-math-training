@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy najpierw: 150 - 45 = <<150-45=105>>105.
+Następnie dodajemy nowe pudełka: 105 + 20 = <<105+20=125>>125.
+</reasoning>
+<answer>125</answer>

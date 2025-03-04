@@ -1,0 +1,4 @@
+<reasoning>
+18 * 800 = <<18*800=14400>>14400 zł.
+</reasoning>
+<answer>14400 zł</answer>

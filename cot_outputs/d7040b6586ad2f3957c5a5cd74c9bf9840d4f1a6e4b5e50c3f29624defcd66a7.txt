@@ -1,0 +1,4 @@
+<reasoning>
+800 / 4 = <<800/4=200>>200 książek.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,6 @@
+<reasoning>
+Łączny koszt: 3 * 24 = <<3*24=72>>72 zł.
+Wartość rabatu: 72 * 0.10 = <<72*0.10=7.2>>7,2 zł.
+Cena po rabacie: 72 - 7,2 = <<72-7.2=64.8>>64,8 zł.
+</reasoning>
+<answer>64.8</answer>

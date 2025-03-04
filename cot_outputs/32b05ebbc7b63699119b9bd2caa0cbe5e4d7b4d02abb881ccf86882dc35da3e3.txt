@@ -1,0 +1,4 @@
+<reasoning>
+Wydane = 360 * (2/3) = <<360*2/3=240>>240 zł.
+</reasoning>
+<answer>240</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 900 × 0.55 = 495 litrów.
+Pozostało: 900 − 495 = 405 litrów.
+</reasoning>
+<answer>405</answer>

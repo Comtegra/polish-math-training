@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę wykorzystanych koralików: 4 * 10 = <<4*10=40>>40.
+Odejmujemy zużyte koraliki: 52 - 40 = <<52-40=12>>12.
+</reasoning>
+<answer>12</answer>

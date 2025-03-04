@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy otrzymane pieniądze: 50 + 30 = <<50+30=80>>80.
+Odejmujemy wydatki: 80 - 45 = <<80-45=35>>35.
+</reasoning>
+<answer>35</answer>

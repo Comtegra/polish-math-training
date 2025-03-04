@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw mnożymy liczbę paczek przez ołówki w jednej paczce: 7 × 6 = <<7×6=42>>42 ołówków.
+Następnie odejmujemy oddane ołówki: 42 − 5 = <<42-5=37>>37 ołówków.
+</reasoning>
+<answer>37</answer>

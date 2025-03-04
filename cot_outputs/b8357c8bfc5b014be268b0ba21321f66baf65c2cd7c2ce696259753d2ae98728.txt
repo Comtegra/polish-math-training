@@ -1,0 +1,4 @@
+<reasoning>
+Łączna waga = 8 * 500 = <<8*500=4000>>4000 g.
+</reasoning>
+<answer>4000 g</answer>

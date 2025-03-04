@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 7 * 10 = <<7*10=70>>70.
+Następnie odejmujemy oddane długopisy: 70 - 5 = <<70-5=65>>65.
+</reasoning>
+<answer>65</answer>

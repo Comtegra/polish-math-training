@@ -1,0 +1,4 @@
+<reasoning>
+56 - 6 = <<56-6=50>>50 liści
+</reasoning>
+<answer>50</answer>

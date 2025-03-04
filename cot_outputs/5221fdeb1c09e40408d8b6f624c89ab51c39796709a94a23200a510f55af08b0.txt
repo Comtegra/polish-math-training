@@ -1,0 +1,4 @@
+<reasoning>
+20 - 4 - 3 = <<20-4-3=13>>13 jabłek.
+</reasoning>
+<answer>13</answer>

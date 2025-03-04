@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ołówków: 3 * 11 = <<3*11=33>>33 ołówki.
+Odejmujemy zgubione ołówki: 33 - 2 = <<33-2=31>>31 ołówków.
+</reasoning>
+<answer>31</answer>

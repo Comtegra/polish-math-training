@@ -1,0 +1,5 @@
+<reasoning>
+Liczba zwróconych porcji: 250 / 5 = <<250/5=50>>50.
+Sprzedanych: 250 - 50 = <<250-50=200>>200 porcji.
+</reasoning>
+<answer>200</answer>

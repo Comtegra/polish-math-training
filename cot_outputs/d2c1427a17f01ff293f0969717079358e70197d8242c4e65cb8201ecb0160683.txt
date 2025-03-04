@@ -1,0 +1,4 @@
+<reasoning>
+40 * 10 = <<40*10=400>>400 ołówków.
+</reasoning>
+<answer>400</answer>

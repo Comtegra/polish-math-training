@@ -1,0 +1,4 @@
+<reasoning>
+Piotrek kupił 10 paczek cukierków, a każda paczka zawiera 10 sztuk. Aby znaleźć całkowitą liczbę sztuk cukierków, mnożymy liczbę paczek przez liczbę sztuk w każdej paczce: 10 * 10 = 100 sztuk cukierków.
+</reasoning>
+<answer>100 sztuk cukierków</answer>

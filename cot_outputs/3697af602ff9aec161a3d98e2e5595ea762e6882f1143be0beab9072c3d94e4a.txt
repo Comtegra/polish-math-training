@@ -1,0 +1,4 @@
+<reasoning>
+Wszystkie kwiaty kosztowały 10 * 5 zł = 50 zł
+</reasoning>
+<answer>50 zł</answer>

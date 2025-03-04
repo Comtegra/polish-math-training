@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba zeszytów: 25 * 4 = <<25*4=100>>100 zeszytów.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Kamieni na kosz: 66 / 6 = <<66/6=11>>11 kamieni.
+</reasoning>
+<answer>11</answer>

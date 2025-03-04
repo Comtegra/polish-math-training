@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt zeszytów: 4 * 12 = <<4*12=48>>48 zł.
+Pozostała kwota: 100 - 48 = <<100-48=52>>52 zł.
+</reasoning>
+<answer>52</answer>

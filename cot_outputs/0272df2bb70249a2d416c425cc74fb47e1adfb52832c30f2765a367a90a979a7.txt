@@ -1,0 +1,4 @@
+<reasoning>
+3 * 25 = <<3*25=75>>75 zł
+</reasoning>
+<answer>75</answer>

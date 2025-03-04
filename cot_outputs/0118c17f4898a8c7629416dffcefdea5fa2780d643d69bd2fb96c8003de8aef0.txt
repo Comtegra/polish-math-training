@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie = 500 g * 10 = <<500*10=5000>>5000 g, czyli 5 kg.
+</reasoning>
+<answer>5 kg</answer>

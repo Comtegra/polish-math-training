@@ -1,0 +1,5 @@
+<reasoning>
+Po zakupie książki: 100 - 37 = <<100-37=63>>63 zł.
+Po zakupie zeszytu: 63 - 8 = <<63-8=55>>55 zł.
+</reasoning>
+<answer>55</answer>

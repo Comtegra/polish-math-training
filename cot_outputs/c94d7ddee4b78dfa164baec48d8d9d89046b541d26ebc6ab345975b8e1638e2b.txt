@@ -1,0 +1,4 @@
+<reasoning>
+36 / 6 = <<36/6=6>>6 kredek
+</reasoning>
+<answer>6</answer>

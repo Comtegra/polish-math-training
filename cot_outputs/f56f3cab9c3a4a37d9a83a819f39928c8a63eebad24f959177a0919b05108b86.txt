@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dodajemy: 80 + 40 = <<80+40=120>>120.
+Następnie odejmujemy wydatki: 120 - 55 = <<120-55=65>>65.
+</reasoning>
+<answer>65</answer>

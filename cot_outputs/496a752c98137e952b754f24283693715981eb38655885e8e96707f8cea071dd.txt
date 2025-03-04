@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie gałęzi = 18 * 7 = <<18*7=126>>126 gałęzi.
+</reasoning>
+<answer>126</answer>

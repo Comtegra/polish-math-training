@@ -1,0 +1,4 @@
+<reasoning>
+W jednej części będzie 8 jabłek / 4 = 2 jabłka
+</reasoning>
+<answer>2 jabłka</answer>

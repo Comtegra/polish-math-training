@@ -1,0 +1,4 @@
+<reasoning>
+Rabat = 0.15 * 250 = 37.5 zł, cena = 250 - 37.5 = <<250-37.5=212.5>>212,5 zł.
+</reasoning>
+<answer>212.5</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę uczniów przez liczbę grup: 28 / 7 = <<28/7=4>>4 uczniów w grupie.
+</reasoning>
+<answer>4</answer>

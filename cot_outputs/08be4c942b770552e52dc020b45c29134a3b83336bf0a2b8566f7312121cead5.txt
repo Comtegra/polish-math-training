@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 3/4 z 120: 120 * 0.75 = <<120*0.75=90>>90 balonów.
+</reasoning>
+<answer>90</answer>

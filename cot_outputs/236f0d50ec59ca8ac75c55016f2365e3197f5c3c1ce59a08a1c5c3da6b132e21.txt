@@ -1,0 +1,5 @@
+<reasoning>
+2 * 12 = <<2*12=24>>24 ciastek
+24 - 3 = <<24-3=21>>21 ciastek
+</reasoning>
+<answer>21</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Odpadło = 100 - 80 = <<100-80=20>>20 zawodników.
+</reasoning>
+<answer>20</answer>

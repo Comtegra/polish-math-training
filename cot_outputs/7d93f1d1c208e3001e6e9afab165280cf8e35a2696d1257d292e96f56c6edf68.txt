@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba owoców: 16 * 11 = <<16*11=176>>176 owoców.
+</reasoning>
+<answer>176</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+2 * 8 = <<2*8=16>>16 kawałków początkowo
+16 - 5 = <<16-5=11>>11 kawałków pozostało
+</reasoning>
+<answer>11</answer>

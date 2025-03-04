@@ -1,0 +1,4 @@
+<reasoning>
+105 / 7 = <<105/7=15>>15 liści
+</reasoning>
+<answer>15</answer>

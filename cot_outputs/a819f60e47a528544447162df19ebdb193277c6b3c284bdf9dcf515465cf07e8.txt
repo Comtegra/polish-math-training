@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 120 uczniów przez 8: 120 / 8 = <<120/8=15>>15 uczniów w klasie.
+</reasoning>
+<answer>15</answer>

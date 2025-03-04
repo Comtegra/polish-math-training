@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę kredek: 120 / 8 = <<120/8=15>>15.
+</reasoning>
+<answer>15</answer>

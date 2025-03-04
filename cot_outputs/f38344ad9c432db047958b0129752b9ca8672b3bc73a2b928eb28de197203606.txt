@@ -1,0 +1,6 @@
+<reasoning>
+1/4 z 480: 480 / 4 = <<480/4=120>>120 jabłek sprzedano
+Pozostało: 480 - 120 = <<480-120=360>>360
+Po dodaniu: 360 + 60 = <<360+60=420>>420 jabłek
+</reasoning>
+<answer>420</answer>

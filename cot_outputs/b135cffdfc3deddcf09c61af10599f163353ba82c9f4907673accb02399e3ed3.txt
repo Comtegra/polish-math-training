@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy koszt książek: 2 * 25 = <<2*25=50>>50.
+Dodajemy koszt zeszytu: 50 + 15 = <<50+15=65>>65.
+Następnie: 130 - 65 = <<130-65=65>>65.
+</reasoning>
+<answer>65</answer>

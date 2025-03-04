@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy cukierki do podziału: 75 - 5 = <<75-5=70>>70.
+Dzielimy między 5 przyjaciół: 70 / 5 = <<70/5=14>>14.
+</reasoning>
+<answer>14</answer>

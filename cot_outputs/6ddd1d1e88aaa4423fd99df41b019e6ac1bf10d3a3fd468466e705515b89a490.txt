@@ -1,0 +1,5 @@
+<reasoning>
+Laptopy: 540 ÷ 5 = 108.
+Modele stacjonarne: 540 − 108 = 432 komputerów.
+</reasoning>
+<answer>432</answer>

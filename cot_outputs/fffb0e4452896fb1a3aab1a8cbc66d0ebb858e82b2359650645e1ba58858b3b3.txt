@@ -1,0 +1,4 @@
+<reasoning>
+150 * 20/100 = <<150*20/100=30>>30 deserów.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba łóżek: 25 * 2 = <<25*2=50>>50 łóżek.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie paczek = 300 * 8 = <<300*8=2400>>2400 paczek.
+</reasoning>
+<answer>2400</answer>

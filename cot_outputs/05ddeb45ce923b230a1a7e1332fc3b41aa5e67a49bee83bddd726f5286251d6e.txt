@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba nóg: 28 * 3 = <<28*3=84>>84 nóg.
+</reasoning>
+<answer>84</answer>

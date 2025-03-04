@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 48 ciastek przez 8: 48 / 8 = <<48/8=6>>6 ciastek na osobę.
+</reasoning>
+<answer>6</answer>

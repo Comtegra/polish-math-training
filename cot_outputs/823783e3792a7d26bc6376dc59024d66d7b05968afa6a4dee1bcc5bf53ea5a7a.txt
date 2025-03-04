@@ -1,0 +1,4 @@
+<reasoning>
+300 / 15 = <<300/15=20>>20 dni.
+</reasoning>
+<answer>20 dni</answer>

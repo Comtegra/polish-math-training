@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 240 zabawek przez 8 dni: 240 / 8 = <<240/8=30>>30 zabawek dziennie.
+</reasoning>
+<answer>30</answer>

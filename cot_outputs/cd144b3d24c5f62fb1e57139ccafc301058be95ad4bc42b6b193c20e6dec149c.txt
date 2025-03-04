@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kawałków = 72 * 8 = <<72*8=576>>576 kawałków.
+</reasoning>
+<answer>576</answer>

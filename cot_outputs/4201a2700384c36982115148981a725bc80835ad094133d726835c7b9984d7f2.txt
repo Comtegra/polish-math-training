@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie waga = 8 * 2.5 = <<8*2.5=20>>20 kg.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie naklejek: 50 * 5 = <<50*5=250>>250.
+</reasoning>
+<answer>250</answer>

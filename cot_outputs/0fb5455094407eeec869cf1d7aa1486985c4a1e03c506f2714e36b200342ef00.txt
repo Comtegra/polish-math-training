@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę butelek: 3 * 4 = <<3*4=12>>12.
+Odejmujemy wypite butelki: 12 - 5 = <<12-5=7>>7 butelek.
+</reasoning>
+<answer>7</answer>

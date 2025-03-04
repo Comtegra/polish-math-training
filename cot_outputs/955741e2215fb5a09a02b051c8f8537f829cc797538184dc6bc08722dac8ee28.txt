@@ -1,0 +1,5 @@
+<reasoning>
+4 * 20 = <<4*20=80>>80 ciastek
+80 - 8 = <<80-8=72>>72 ciastek
+</reasoning>
+<answer>72</answer>

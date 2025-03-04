@@ -1,0 +1,4 @@
+<reasoning>
+30 * 40/100 = <<30*40/100=12>>12 dzieci.
+</reasoning>
+<answer>12</answer>

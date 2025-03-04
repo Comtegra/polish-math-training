@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie składników = 5 * 4 = <<5*4=20>>20 składników.
+</reasoning>
+<answer>20</answer>

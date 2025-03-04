@@ -1,0 +1,6 @@
+<reasoning>
+3 * 20 = <<3*20=60>>60 zł za książki
+2 * 5 = <<2*5=10>>10 zł za zeszyty
+60 + 10 = <<60+10=70>>70 zł
+</reasoning>
+<answer>70</answer>

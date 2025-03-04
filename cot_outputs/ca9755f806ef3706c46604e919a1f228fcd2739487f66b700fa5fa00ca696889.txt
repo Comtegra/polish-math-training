@@ -1,0 +1,5 @@
+<reasoning>
+Wymagających poprawki: 800 / 5 = <<800/5=160>>160.
+Gotowych: 800 - 160 = <<800-160=640>>640.
+</reasoning>
+<answer>640</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na osobę = 72 / 6 = <<72/6=12>>12 cukierków.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Odlanego: 150 * 0.10 = <<150*0.10=15>>15 litrów.
+Pozostało: 150 - 15 = <<150-15=135>>135 litrów.
+</reasoning>
+<answer>135</answer>

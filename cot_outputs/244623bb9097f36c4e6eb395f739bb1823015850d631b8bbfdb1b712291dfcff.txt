@@ -1,0 +1,5 @@
+<reasoning>
+5 * 6 = <<5*6=30>>30 zł za piórniki
+30 + 10 = <<30+10=40>>40 zł łącznego budżetu
+</reasoning>
+<answer>40</answer>

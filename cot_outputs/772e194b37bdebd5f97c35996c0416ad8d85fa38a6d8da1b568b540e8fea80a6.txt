@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zapałek = 5 * 20 = <<5*20=100>>100 zapałek.
+</reasoning>
+<answer>100</answer>

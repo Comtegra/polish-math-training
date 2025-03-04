@@ -1,0 +1,4 @@
+<reasoning>
+90 / 10 = <<90/10=9>>9 drzew.
+</reasoning>
+<answer>9</answer>

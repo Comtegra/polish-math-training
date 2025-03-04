@@ -1,0 +1,5 @@
+<reasoning>
+Książek przygodowych: 500 * 0.40 = <<500*0.40=200>>200.
+Pozostałych: 500 - 200 = <<500-200=300>>300.
+</reasoning>
+<answer>300</answer>

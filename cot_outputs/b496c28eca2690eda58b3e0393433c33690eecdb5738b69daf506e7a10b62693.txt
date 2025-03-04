@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 300 - (4 * 60) = 300 - 240 = <<300-240=60>>60 zł.
+</reasoning>
+<answer>60</answer>

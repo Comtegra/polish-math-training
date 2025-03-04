@@ -1,0 +1,4 @@
+<reasoning>
+Liczba wyróżnionych: 84 / 4 = <<84/4=21>>21 uczniów.
+</reasoning>
+<answer>21</answer>

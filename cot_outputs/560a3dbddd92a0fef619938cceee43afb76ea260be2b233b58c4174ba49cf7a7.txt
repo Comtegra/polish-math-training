@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 250 - 120 = <<250-120=130>>130 zł
+Następnie: 130 - 100 = <<130-100=30>>30 zł
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 5 koszulek to 5 koszulek * 25 zł na koszulkę = 125 zł.
+</reasoning>
+<answer>125 złotych</answer>

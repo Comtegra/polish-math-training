@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 80 * 0.75 = <<80*0.75=60>>60 porcji.
+Pozostało: 80 - 60 = <<80-60=20>>20 porcji.
+</reasoning>
+<answer>20</answer>

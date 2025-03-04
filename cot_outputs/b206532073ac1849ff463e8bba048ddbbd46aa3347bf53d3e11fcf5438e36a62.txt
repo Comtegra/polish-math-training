@@ -1,0 +1,4 @@
+<reasoning>
+150 / 5 = <<150/5=30>>30 ławek.
+</reasoning>
+<answer>30</answer>

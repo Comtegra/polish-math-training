@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 350 / 7 = <<350/7=50>>50 balonów.
+Dobrych: 350 - 50 = <<350-50=300>>300 balonów.
+</reasoning>
+<answer>300</answer>

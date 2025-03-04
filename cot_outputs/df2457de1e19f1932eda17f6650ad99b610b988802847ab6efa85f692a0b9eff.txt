@@ -1,0 +1,5 @@
+<reasoning>
+Literatury naukowej: 840 / 4 = <<840/4=210>>210 książek.
+Innych: 840 - 210 = <<840-210=630>>630 książek.
+</reasoning>
+<answer>630</answer>

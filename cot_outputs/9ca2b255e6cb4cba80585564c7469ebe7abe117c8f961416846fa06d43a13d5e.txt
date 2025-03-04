@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie makaronu = 400 * 5 = <<400*5=2000>>2000 g.
+</reasoning>
+<answer>2000 g</answer>

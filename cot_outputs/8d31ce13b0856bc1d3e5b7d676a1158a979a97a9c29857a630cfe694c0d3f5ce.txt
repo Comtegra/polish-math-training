@@ -1,0 +1,4 @@
+<reasoning>
+40 * (1 + 4) = 40 * 5 = <<40*5=200>>200 roślin.
+</reasoning>
+<answer>200</answer>

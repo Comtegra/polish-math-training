@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 30 babeczek przez 5: 30 / 5 = <<30/5=6>>6 babeczek na część.
+</reasoning>
+<answer>6</answer>

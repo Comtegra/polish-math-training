@@ -1,0 +1,4 @@
+<reasoning>
+Zużycie = (6/100) * 250 = <<6/100*250=15>>15 litrów.
+</reasoning>
+<answer>15</answer>

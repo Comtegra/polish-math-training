@@ -1,0 +1,4 @@
+<reasoning>
+72 - 32 = <<72-32=40>>40 cukierków
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+2 * 30 = <<2*30=60>>60 zł za książki
+60 + 7 = <<60+7=67>>67 zł
+</reasoning>
+<answer>67</answer>

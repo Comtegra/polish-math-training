@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kanapek = 3 * 12 = <<3*12=36>>36 kanapek.
+</reasoning>
+<answer>36</answer>

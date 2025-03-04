@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy początkową liczbę gum: 4 * 10 = <<4*10=40>>40 gum.
+Odejmujemy rozdaną liczbę: 40 - 8 = <<40-8=32>>32 gum.
+</reasoning>
+<answer>32</answer>

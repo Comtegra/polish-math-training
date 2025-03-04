@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 36 klocków przez 4: 36 / 4 = <<36/4=9>>9 klocków na wieżę.
+</reasoning>
+<answer>9</answer>

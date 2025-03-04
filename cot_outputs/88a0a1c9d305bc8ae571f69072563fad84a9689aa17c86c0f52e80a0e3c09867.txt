@@ -1,0 +1,6 @@
+<reasoning>
+Najpierw odejmujemy koszty obiadu: 100 - 30 = <<100-30=70>>70.
+Potem odejmujemy koszt filmu: 70 - 25 = <<70-25=45>>45.
+Na końcu odejmujemy koszt książki: 45 - 10 = <<45-10=35>>35.
+</reasoning>
+<answer>35</answer>

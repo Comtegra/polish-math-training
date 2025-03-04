@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy stracone punkty: 250 - 50 = <<250-50=200>>200.
+Dodajemy zdobyte punkty: 200 + 75 = <<200+75=275>>275.
+</reasoning>
+<answer>275</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 72 kredki przez 6: 72 / 6 = <<72/6=12>>12 kredek na pudełko.
+</reasoning>
+<answer>12</answer>

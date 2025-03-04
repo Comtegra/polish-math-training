@@ -1,0 +1,4 @@
+<reasoning>
+5 - 2 = <<5-2=3>>3 jabłka
+</reasoning>
+<answer>3</answer>

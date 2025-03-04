@@ -1,0 +1,4 @@
+<reasoning>
+Pracowników bez premii = 80 - 10 = <<80-10=70>>70 osób.
+</reasoning>
+<answer>70</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie = 50 * 3000 = <<50*3000=150000>>150000 zł.
+</reasoning>
+<answer>150000</answer>

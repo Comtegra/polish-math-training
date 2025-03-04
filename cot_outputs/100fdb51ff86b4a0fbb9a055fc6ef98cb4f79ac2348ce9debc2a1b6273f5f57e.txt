@@ -1,0 +1,6 @@
+<reasoning>
+Ola spędziła 2 godziny na czytaniu
+Spędziła 3 godziny na graniu
+Razem to 2 + 3 = 5 godzin
+</reasoning>
+<answer>5</answer>

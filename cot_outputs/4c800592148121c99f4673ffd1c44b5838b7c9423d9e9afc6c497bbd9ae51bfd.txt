@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych gadżetów = 700 - 100 = <<700-100=600>>600 gadżetów.
+</reasoning>
+<answer>600</answer>

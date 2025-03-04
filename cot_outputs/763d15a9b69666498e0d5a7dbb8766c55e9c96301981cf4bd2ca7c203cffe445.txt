@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba widzów: 7 * 95 = <<7*95=665>>665.
+</reasoning>
+<answer>665</answer>

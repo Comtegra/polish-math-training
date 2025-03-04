@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 12 jabłek wyniósł 12 * 3 zł = 36 zł. Ania podzieliła jabłka równo między siebie i swoją siostrę, więc każda z nich dostała 12 / 2 = 6 jabłek.
+</reasoning>
+<answer>6</answer>

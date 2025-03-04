@@ -1,0 +1,4 @@
+<reasoning>
+72 - 27 = <<72-27=45>>45 litrów soku
+</reasoning>
+<answer>45</answer>

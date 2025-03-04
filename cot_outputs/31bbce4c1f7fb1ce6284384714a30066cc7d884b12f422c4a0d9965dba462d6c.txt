@@ -1,0 +1,4 @@
+<reasoning>
+Sprzedanych porcji: 280 * 0.85 = <<280*0.85=238>>238.
+</reasoning>
+<answer>238</answer>

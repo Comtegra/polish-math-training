@@ -1,0 +1,5 @@
+<reasoning>
+Obrazy: 900 ÷ 10 = 90.
+Pozostałe: 900 − 90 = 810 eksponatów.
+</reasoning>
+<answer>810</answer>

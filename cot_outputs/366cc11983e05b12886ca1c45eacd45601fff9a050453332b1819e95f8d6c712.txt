@@ -1,0 +1,4 @@
+<reasoning>
+Pozostałych biletów = 850 - 150 = <<850-150=700>>700 biletów.
+</reasoning>
+<answer>700</answer>

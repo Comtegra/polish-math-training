@@ -1,0 +1,4 @@
+<reasoning>
+920 * 7 = <<920*7=6440>>6440 jednostek.
+</reasoning>
+<answer>6440</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+2 litry = 2000 ml
+Liczba spotkań: 2000 / 250 = <<2000/250=8>>8
+</reasoning>
+<answer>8</answer>

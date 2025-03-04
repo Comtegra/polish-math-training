@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zadań = 10 * 3 = <<10*3=30>>30 zadań.
+</reasoning>
+<answer>30</answer>

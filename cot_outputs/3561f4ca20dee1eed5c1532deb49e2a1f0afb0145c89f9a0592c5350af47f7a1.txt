@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba gruszek: 12 * 7 = <<12*7=84>>84 gruszki.
+</reasoning>
+<answer>84</answer>

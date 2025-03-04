@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy długopisy z opakowań: 3 * 10 = <<3*10=30>>30.
+Odejmujemy sprzedane długopisy: 30 - 7 = <<30-7=23>>23.
+Dodajemy dokupione długopisy: 23 + 12 = <<23+12=35>>35.
+</reasoning>
+<answer>35</answer>

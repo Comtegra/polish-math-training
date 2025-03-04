@@ -1,0 +1,4 @@
+<reasoning>
+Kamil kupił 3 pudełka puzzli, a każde pudełko zawiera 300 elementów. Aby znaleźć całkowitą liczbę elementów, mnożymy liczbę pudełek przez liczbę elementów w każdym pudełku: 3 * 300 = 900 elementów.
+</reasoning>
+<answer>900 elementów puzzli</answer>

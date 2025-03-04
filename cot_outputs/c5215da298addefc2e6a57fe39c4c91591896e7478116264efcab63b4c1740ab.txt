@@ -1,0 +1,5 @@
+<reasoning>
+Komiksy: 540 ÷ 9 = 60.
+Literatura inna: 540 − 60 = 480 książek.
+</reasoning>
+<answer>480</answer>

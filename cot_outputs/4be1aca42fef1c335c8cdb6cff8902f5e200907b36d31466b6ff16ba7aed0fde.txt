@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy: 7 - 2 = <<7-2=5>>5.
+</reasoning>
+<answer>5</answer>

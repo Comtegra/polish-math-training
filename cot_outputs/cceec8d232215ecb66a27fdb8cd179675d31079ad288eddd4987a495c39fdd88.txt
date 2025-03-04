@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba naklejek: 45 * 4 = <<45*4=180>>180.
+</reasoning>
+<answer>180</answer>

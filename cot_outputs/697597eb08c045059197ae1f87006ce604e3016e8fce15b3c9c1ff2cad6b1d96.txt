@@ -1,0 +1,4 @@
+<reasoning>
+7 * 10 = <<7*10=70>>70 saszetek.
+</reasoning>
+<answer>70</answer>

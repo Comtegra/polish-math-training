@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba czekoladek: 4 * 18 = <<4*18=72>>72.
+Pozostało: 72 - 10 = <<72-10=62>>62.
+</reasoning>
+<answer>62</answer>

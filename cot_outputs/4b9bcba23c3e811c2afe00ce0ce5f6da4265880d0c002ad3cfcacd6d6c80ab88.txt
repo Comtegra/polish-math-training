@@ -1,0 +1,4 @@
+<reasoning>
+40 * 3 = <<40*3=120>>120 krzewów malin.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 15% z 100 zł: 100 * 0,15 = <<100*0.15=15>>15 zł
+</reasoning>
+<answer>15</answer>

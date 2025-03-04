@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy całkowitą liczbę ciasteczek przez liczbę koleżanek: 24 / 4 = <<24/4=6>>6 ciasteczek na koleżankę.
+</reasoning>
+<answer>6</answer>

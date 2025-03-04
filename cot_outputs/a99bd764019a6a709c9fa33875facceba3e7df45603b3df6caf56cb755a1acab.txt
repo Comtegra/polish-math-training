@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie nasion = 24 * 7 = <<24*7=168>>168 nasion.
+</reasoning>
+<answer>168</answer>

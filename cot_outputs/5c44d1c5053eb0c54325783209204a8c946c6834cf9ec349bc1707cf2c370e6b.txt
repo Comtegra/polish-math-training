@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie powierzchni = 120 * 3 = <<120*3=360>>360 stóp kwadratowych.
+</reasoning>
+<answer>360</answer>

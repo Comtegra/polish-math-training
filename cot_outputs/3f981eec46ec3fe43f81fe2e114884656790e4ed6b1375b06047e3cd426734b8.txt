@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 64 cukierki przez 8: 64 / 8 = <<64/8=8>>8 cukierków na dziecko.
+</reasoning>
+<answer>8</answer>

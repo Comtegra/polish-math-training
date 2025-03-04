@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba kredek: 48 * 3 = <<48*3=144>>144.
+</reasoning>
+<answer>144</answer>

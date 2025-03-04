@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie minut = 120 * 2.5 = <<120*2.5=300>>300 minut.
+</reasoning>
+<answer>300</answer>

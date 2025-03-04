@@ -1,0 +1,4 @@
+<reasoning>
+180 - 70 = <<180-70=110>>110 balonów
+</reasoning>
+<answer>110</answer>

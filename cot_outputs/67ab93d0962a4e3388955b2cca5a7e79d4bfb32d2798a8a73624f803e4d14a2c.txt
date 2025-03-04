@@ -1,0 +1,5 @@
+<reasoning>
+150 - 50 = <<150-50=100>>100 punktów
+100 + 40 = <<100+40=140>>140 punktów
+</reasoning>
+<answer>140</answer>

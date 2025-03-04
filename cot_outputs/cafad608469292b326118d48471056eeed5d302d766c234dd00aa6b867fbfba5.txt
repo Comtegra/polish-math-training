@@ -1,0 +1,4 @@
+<reasoning>
+Pani Jola zapłaciła 5 * 7 zł = 35 zł za wszystkie rolki
+</reasoning>
+<answer>35 zł</answer>

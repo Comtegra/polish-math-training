@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 9 * 4 = <<9*4=36>>36 ołówków.
+</reasoning>
+<answer>36</answer>

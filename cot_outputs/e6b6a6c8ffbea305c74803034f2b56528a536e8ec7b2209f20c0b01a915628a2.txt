@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego zeszytu: 12 / 3 = <<12/3=4>>4 zł.
+Łączny koszt: 9 * 4 = <<9*4=36>>36 zł.
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+5 * 28 = <<5*28=140>>140 uczniów.
+</reasoning>
+<answer>140</answer>

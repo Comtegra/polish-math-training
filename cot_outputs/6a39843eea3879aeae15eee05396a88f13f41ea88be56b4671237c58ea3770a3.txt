@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie sprzedanych = 200 - 50 = <<200-50=150>>150 cukierków.
+</reasoning>
+<answer>150</answer>

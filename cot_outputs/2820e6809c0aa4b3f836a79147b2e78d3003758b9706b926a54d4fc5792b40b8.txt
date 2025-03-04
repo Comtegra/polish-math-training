@@ -1,0 +1,4 @@
+<reasoning>
+90 * 7 = <<90*7=630>>630 zł.
+</reasoning>
+<answer>630</answer>

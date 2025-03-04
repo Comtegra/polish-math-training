@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę koralików przez liczbę koralików w jednym naszyjniku: 56 / 7 = <<56/7=8>>8.
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Antek kupił 5 paczek cukierków, a każda paczka zawiera 12 sztuk. Aby znaleźć całkowitą liczbę sztuk cukierków, mnożymy liczbę paczek przez liczbę sztuk w każdej paczce: 5 * 12 = 60 sztuk cukierków.
+</reasoning>
+<answer>60 sztuk cukierków</answer>

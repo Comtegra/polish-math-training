@@ -1,0 +1,4 @@
+<reasoning>
+4 * 9 = <<4*9=36>>36 ciastek
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie soku = 5 * 1,5 = <<5*1.5=7.5>>7,5 litra.
+</reasoning>
+<answer>7.5</answer>

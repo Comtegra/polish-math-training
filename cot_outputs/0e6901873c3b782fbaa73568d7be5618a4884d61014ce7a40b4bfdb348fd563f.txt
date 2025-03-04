@@ -1,0 +1,4 @@
+<reasoning>
+Ada kupi 6 książek o kosmosie po 5 zł za sztukę, co daje 6 * 5 zł = 30 zł. Zniżka wynosi 10% z 30 zł, czyli 0,10 * 30 zł = 3 zł. Zatem Ada zapłaci 30 zł - 3 zł = 27 zł.
+</reasoning>
+<answer>27 zł</answer>

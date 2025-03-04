@@ -1,0 +1,4 @@
+<reasoning>
+Karty na osobę = 88 / 8 = <<88/8=11>>11 kart.
+</reasoning>
+<answer>11</answer>

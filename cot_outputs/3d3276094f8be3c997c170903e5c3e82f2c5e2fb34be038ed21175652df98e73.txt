@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba kart: 16 * 3 = <<16*3=48>>48 kart.
+</reasoning>
+<answer>48</answer>

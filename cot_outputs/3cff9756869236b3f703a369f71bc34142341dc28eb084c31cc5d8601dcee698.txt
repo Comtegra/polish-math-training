@@ -1,0 +1,4 @@
+<reasoning>
+3 * 300 = <<3*300=900>>900 ml
+</reasoning>
+<answer>900 ml</answer>

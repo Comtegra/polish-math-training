@@ -1,0 +1,4 @@
+<reasoning>
+Książek na regale = 360 / 9 = <<360/9=40>>40 książek.
+</reasoning>
+<answer>40</answer>

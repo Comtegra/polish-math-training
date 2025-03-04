@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych zadań = 90 - 15 = <<90-15=75>>75 zadań.
+</reasoning>
+<answer>75</answer>

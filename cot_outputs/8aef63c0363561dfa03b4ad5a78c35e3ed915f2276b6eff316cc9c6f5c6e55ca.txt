@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy łączną liczbę jabłek: 8 * 7 = <<8*7=56>>56.
+Potem odejmujemy sprzedane jabłka: 56 - 10 = <<56-10=46>>46.
+</reasoning>
+<answer>46</answer>

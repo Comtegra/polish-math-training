@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy łączną liczbę występów: 3 * 4 = <<3*4=12>>12 występów.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+48 / 12 = <<48/12=4>>4 zł.
+</reasoning>
+<answer>4 zł</answer>

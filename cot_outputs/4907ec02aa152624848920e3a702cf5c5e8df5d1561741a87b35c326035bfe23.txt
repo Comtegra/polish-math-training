@@ -1,0 +1,4 @@
+<reasoning>
+Wolnych miejsc = 40 - 32 = <<40-32=8>>8 miejsc.
+</reasoning>
+<answer>8</answer>

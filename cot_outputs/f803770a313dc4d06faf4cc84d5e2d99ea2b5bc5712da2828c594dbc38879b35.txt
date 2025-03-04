@@ -1,0 +1,4 @@
+<reasoning>
+320 - 270 = <<320-270=50>>50 zł
+</reasoning>
+<answer>50</answer>

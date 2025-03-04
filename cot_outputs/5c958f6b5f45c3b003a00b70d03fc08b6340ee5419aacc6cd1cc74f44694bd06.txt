@@ -1,0 +1,4 @@
+<reasoning>
+Statycznych eksponatów = 80 - 20 = <<80-20=60>>60 eksponatów.
+</reasoning>
+<answer>60</answer>

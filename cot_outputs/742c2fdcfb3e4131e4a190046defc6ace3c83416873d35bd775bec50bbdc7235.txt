@@ -1,0 +1,4 @@
+<reasoning>
+Anna kupiła 12 jabłek, więc ich waga wynosi 12 jabłek * 0,1 kg na jabłko = 1,2 kg. Koszt 1 kg jabłek to 3 złote, więc całkowity koszt to 1,2 kg * 3 zł/kg = 3,6 złote.
+</reasoning>
+<answer>3,60 zł</answer>

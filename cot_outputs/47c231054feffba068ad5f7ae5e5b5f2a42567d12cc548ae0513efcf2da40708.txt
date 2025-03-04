@@ -1,0 +1,4 @@
+<reasoning>
+240 * 12/100 = 28.8; 240 - 28.8 ≈ <<240-28.8=211.2>>≈211 porcji.
+</reasoning>
+<answer>211 porcji</answer>

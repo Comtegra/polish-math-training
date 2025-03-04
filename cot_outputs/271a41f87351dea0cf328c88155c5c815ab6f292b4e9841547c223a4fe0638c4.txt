@@ -1,0 +1,4 @@
+<reasoning>
+Nowości: 400 * 0.25 = <<400*0.25=100>>100 książek.
+</reasoning>
+<answer>100</answer>

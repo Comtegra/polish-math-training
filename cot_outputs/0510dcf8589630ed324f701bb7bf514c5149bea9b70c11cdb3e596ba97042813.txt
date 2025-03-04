@@ -1,0 +1,4 @@
+<reasoning>
+7 * 3 = <<7*3=21>>21 długopisów
+</reasoning>
+<answer>21</answer>

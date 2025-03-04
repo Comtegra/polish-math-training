@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę kamieni: 54 / 6 = <<54/6=9>>9.
+</reasoning>
+<answer>9</answer>

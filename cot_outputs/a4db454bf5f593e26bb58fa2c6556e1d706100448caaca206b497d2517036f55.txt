@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie owoców: 22 * 8 = <<22*8=176>>176.
+</reasoning>
+<answer>176</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę uczniów przez liczbę drużyn: 96 / 8 = <<96/8=12>>12 uczniów na drużynę.
+</reasoning>
+<answer>12</answer>

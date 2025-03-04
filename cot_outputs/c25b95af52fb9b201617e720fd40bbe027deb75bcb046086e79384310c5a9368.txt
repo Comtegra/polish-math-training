@@ -1,0 +1,4 @@
+<reasoning>
+Łączna pensja = 40 * 3500 = <<40*3500=140000>>140000 zł.
+</reasoning>
+<answer>140000</answer>

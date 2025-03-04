@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie miejsc: 50 * 3 = <<50*3=150>>150 osób.
+</reasoning>
+<answer>150</answer>

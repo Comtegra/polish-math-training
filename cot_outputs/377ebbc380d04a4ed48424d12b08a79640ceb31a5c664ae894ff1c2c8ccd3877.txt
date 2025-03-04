@@ -1,0 +1,4 @@
+<reasoning>
+Liczba butelek = 2 / 0.4 = <<2/0.4=5>>5 butelek.
+</reasoning>
+<answer>5</answer>

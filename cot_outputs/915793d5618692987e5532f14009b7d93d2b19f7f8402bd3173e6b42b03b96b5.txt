@@ -1,0 +1,5 @@
+<reasoning>
+30 - 7 = <<30-7=23>>23 jabłka po zjedzeniu
+23 - 5 = <<23-5=18>>18 jabłek po oddaniu
+</reasoning>
+<answer>18</answer>

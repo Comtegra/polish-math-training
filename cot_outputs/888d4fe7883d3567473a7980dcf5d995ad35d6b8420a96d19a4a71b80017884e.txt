@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy łączną liczbę drzew: 8 × 9 = <<8×9=72>>72 drzew.
+Obliczamy liczbę uszkodzonych drzew: 72 ÷ 3 = <<72÷3=24>>24 drzew.
+Odejmujemy uszkodzone drzewa: 72 − 24 = <<72-24=48>>48 drzew.
+</reasoning>
+<answer>48</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Piotrek kupił 2 koszulki po 50 zł za każdą, co daje 2 * 50 zł = 100 zł. Kupił też 1 spodnie za 120 zł i 1 kurtkę za 200 zł. Suma zapłaconych kwot to 100 zł + 120 zł + 200 zł = 420 zł.
+</reasoning>
+<answer>420 zł</answer>

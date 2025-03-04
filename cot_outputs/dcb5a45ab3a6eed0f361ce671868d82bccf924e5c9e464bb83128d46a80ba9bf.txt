@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy muszle: 64 / 8 = <<64/8=8>>8.
+Dodajemy dodatkowe muszle: 8 + 2 = <<8+2=10>>10.
+</reasoning>
+<answer>10</answer>

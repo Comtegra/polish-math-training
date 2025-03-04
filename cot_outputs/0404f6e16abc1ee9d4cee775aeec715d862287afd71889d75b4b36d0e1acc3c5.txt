@@ -1,0 +1,5 @@
+<reasoning>
+4 * 12 = <<4*12=48>>48 kawałków
+48 - 10 = <<48-10=38>>38 kawałków
+</reasoning>
+<answer>38</answer>

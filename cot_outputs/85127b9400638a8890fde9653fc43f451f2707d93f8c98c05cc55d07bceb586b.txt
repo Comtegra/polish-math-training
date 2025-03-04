@@ -1,0 +1,4 @@
+<reasoning>
+175 * 38 = <<175*38=6650>>6650 zł.
+</reasoning>
+<answer>6650 zł</answer>

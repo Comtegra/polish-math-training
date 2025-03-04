@@ -1,0 +1,4 @@
+<reasoning>
+360 / 30 = <<360/30=12>>12 dni.
+</reasoning>
+<answer>12</answer>

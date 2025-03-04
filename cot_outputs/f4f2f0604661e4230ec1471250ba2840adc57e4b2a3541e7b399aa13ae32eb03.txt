@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 70 kamieni przez 7: 70 / 7 = <<70/7=10>>10 kamieni na stos.
+</reasoning>
+<answer>10</answer>

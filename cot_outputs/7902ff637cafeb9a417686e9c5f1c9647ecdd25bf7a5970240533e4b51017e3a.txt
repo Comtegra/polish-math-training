@@ -1,0 +1,5 @@
+<reasoning>
+75 - 25 = <<75-25=50>>50 jabłek po oddaniu
+50 - 10 = <<50-10=40>>40 jabłek po zjedzeniu
+</reasoning>
+<answer>40</answer>

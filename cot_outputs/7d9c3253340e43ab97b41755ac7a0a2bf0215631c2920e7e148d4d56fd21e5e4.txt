@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy koszt książki: 80 - 45 = <<80-45=35>>35 zł.
+</reasoning>
+<answer>35</answer>

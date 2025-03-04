@@ -1,0 +1,4 @@
+<reasoning>
+25 * 90 = <<25*90=2250>>2250 zł.
+</reasoning>
+<answer>2250 zł</answer>

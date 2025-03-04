@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy zjedzone jabłka: 20 - 3 = <<20-3=17>>17 jabłek.
+Następnie odejmujemy oddane jabłka: 17 - 2 = <<17-2=15>>15 jabłek.
+</reasoning>
+<answer>15</answer>

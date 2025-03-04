@@ -1,0 +1,5 @@
+<reasoning>
+Magazynów: 360 / 6 = <<360/6=60>>60.
+Pozostałych: 360 - 60 = <<360-60=300>>300 czasopism.
+</reasoning>
+<answer>300</answer>

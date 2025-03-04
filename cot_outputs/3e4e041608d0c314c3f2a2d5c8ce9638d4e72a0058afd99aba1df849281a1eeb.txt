@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie miejsc = 80 * 2 = <<80*2=160>>160 osób.
+</reasoning>
+<answer>160</answer>

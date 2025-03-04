@@ -1,0 +1,5 @@
+<reasoning>
+Liczba uszkodzonych lalek: 40 / 5 = <<40/5=8>>8 lalek.
+Dobrych: 40 - 8 = <<40-8=32>>32 lalek.
+</reasoning>
+<answer>32</answer>

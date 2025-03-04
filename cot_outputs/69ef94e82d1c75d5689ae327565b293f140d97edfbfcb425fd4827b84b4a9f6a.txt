@@ -1,0 +1,4 @@
+<reasoning>
+54 / 6 = <<54/6=9>>9 kredek na paczkę
+</reasoning>
+<answer>9</answer>

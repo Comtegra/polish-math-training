@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę uczestników przez liczbę kategorii: 90 / 3 = <<90/3=30>>30 uczestników w każdej kategorii.
+</reasoning>
+<answer>30</answer>

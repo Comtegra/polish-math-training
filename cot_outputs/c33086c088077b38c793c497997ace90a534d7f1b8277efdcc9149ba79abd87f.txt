@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie markerów = 40 * 5 = <<40*5=200>>200 markerów.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,6 @@
+<reasoning>
+Koszt butelek wody to 12 * 1,50 zł = 18 zł
+Koszt paczek ciastek to 8 * 3 zł = 24 zł
+Łączna kwota to 18 zł + 24 zł = 42 zł
+</reasoning>
+<answer>42</answer>

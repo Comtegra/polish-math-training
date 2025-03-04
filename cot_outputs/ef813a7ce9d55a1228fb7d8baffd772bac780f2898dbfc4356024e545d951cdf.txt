@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy strony na zeszyty: 96 / 4 = <<96/4=24>>24.
+Dodajemy dodatkowe strony: 24 + 8 = <<24+8=32>>32.
+</reasoning>
+<answer>32</answer>

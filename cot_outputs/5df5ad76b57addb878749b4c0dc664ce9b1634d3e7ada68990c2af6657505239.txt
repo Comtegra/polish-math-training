@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę jaj: 6 * 5 = <<6*5=30>>30.
+Odejmujemy oddane jaja: 30 - 4 = <<30-4=26>>26.
+</reasoning>
+<answer>26</answer>

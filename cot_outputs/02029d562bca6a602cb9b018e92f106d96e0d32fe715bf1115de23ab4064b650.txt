@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 90 / 10 = <<90/10=9>>9.
+</reasoning>
+<answer>9</answer>

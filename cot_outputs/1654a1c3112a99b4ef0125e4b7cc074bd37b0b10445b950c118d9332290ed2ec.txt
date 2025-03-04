@@ -1,0 +1,4 @@
+<reasoning>
+90 / 9 = <<90/9=10>>10 ciastek.
+</reasoning>
+<answer>10 ciastek</answer>

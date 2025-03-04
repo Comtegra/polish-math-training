@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 50 * 6 = <<50*6=300>>300 zł.
+</reasoning>
+<answer>300</answer>

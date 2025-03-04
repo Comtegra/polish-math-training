@@ -1,0 +1,4 @@
+<reasoning>
+W klasie Janka są 4 ławki, a przy każdej ławce jest 3 uczniów. Aby znaleźć całkowitą liczbę uczniów, mnożymy liczbę ławek przez liczbę uczniów przy każdej ławce: 4 * 3 = 12 uczniów.
+</reasoning>
+<answer>12 uczniów</answer>

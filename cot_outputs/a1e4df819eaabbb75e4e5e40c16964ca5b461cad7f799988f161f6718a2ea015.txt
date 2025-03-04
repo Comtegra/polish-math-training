@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zeszytów = 28 * 5 = <<28*5=140>>140 zeszytów.
+</reasoning>
+<answer>140</answer>

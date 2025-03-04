@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 12 * 3 = <<12*3=36>>36 zł.
+</reasoning>
+<answer>36</answer>

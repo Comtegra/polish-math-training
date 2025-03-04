@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na osobę = 75 / 5 = <<75/5=15>>15 cukierków.
+</reasoning>
+<answer>15</answer>

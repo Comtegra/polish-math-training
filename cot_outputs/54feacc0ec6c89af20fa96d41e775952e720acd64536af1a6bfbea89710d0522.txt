@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało par = 450 - 220 = <<450-220=230>>230 par.
+</reasoning>
+<answer>230</answer>

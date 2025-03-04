@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy złożone puzzle od całkowitej liczby: 90 - 60 = <<90-60=30>>30 puzzli.
+</reasoning>
+<answer>30</answer>

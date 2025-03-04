@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie marchewek = 10 * 3 = <<10*3=30>>30 marchewek.
+</reasoning>
+<answer>30</answer>

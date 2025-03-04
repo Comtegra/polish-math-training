@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt przed rabatem: 12 * 7 = <<12*7=84>>84 zł.
+Cena po rabacie: 84 - 5 = <<84-5=79>>79 zł.
+</reasoning>
+<answer>79</answer>

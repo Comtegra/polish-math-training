@@ -1,0 +1,4 @@
+<reasoning>
+Łączna ilość owoców to 5 drzew * 20 kg na drzewo = 100 kg.
+</reasoning>
+<answer>100 kg</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+10% z 250 = 25, więc 250 - 25 = <<250-25=225>>225 osób.
+</reasoning>
+<answer>225</answer>

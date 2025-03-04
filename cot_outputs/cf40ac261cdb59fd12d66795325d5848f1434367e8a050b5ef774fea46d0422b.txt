@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 9 * 4 = <<9*4=36>>36 uczniów.
+</reasoning>
+<answer>36</answer>

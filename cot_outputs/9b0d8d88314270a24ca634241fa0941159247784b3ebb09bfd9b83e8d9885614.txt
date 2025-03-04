@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt: 150 + 70 = <<150+70=220>>220 zł.
+Pozostało: 300 - 220 = <<300-220=80>>80 zł.
+</reasoning>
+<answer>80</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+2400 - 1800 = <<2400-1800=600>>600 zł.
+</reasoning>
+<answer>600</answer>

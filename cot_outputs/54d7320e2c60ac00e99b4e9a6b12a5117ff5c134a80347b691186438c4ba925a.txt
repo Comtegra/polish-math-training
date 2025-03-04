@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 72 kredki przez 9: 72 / 9 = <<72/9=8>>8 kredek.
+</reasoning>
+<answer>8</answer>

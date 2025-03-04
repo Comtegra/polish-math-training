@@ -1,0 +1,4 @@
+<reasoning>
+Cena za 1 kg: 126 / 18 = <<126/18=7>>7 zł.
+</reasoning>
+<answer>7</answer>

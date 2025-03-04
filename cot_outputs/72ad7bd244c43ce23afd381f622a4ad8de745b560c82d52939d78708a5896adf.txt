@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/6 z 360: 360 / 6 = <<360/6=60>>60.
+Następnie: 360 - 60 = <<360-60=300>>300.
+</reasoning>
+<answer>300</answer>

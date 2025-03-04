@@ -1,0 +1,4 @@
+<reasoning>
+Dodajemy kupione książki: 36 + 14 = <<36+14=50>>50.
+</reasoning>
+<answer>50</answer>

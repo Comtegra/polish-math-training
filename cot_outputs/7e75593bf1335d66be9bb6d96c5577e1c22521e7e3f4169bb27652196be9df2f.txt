@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 5 * 11 = <<5*11=55>>55.
+Następnie: 55 - 6 = <<55-6=49>>49.
+</reasoning>
+<answer>49</answer>

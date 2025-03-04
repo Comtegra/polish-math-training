@@ -1,0 +1,4 @@
+<reasoning>
+Niech x oznacza kwotę, którą Kuba wydał na zabawki. Wtedy Michał wydał x + 10 zł. Razem wydali 120 zł, więc x + (x + 10 zł) = 120 zł. To upraszcza się do 2x + 10 zł = 120 zł, a następnie 2x = 110 zł. Stąd x = 110 zł / 2 = 55 zł. Kuba wydał 55 zł, a Michał wydał 55 zł + 10 zł = 65 zł. Obaj kupili zabawki za mniej niż 20 zł.
+</reasoning>
+<answer>20</answer>

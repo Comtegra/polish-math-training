@@ -1,0 +1,4 @@
+<reasoning>
+2 * 10 = <<2*10=20>>20 kawałków
+</reasoning>
+<answer>20</answer>

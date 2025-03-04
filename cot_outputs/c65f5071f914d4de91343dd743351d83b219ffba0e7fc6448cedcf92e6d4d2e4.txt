@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 3 * 22 = <<3*22=66>>66.
+Następnie: 66 - 16 = <<66-16=50>>50.
+</reasoning>
+<answer>50</answer>

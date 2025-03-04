@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba balonów: 45 * 4 = <<45*4=180>>180 balonów.
+</reasoning>
+<answer>180</answer>

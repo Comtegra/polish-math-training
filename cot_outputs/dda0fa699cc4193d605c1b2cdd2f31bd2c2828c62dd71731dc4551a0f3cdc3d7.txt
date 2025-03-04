@@ -1,0 +1,4 @@
+<reasoning>
+Przy każdym drzewie 1 drzewo + 4 krzewy = 5 roślin. 15 * 5 = <<15*5=75>>75 roślin.
+</reasoning>
+<answer>75</answer>

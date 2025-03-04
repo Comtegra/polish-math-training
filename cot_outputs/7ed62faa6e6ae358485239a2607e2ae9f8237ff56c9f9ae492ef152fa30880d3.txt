@@ -1,0 +1,4 @@
+<reasoning>
+Wojtek kupi 8 książek po 15 zł za każdą, co daje 8 * 15 zł = 120 zł. Wojtek ma 100 zł i wydaje 120 zł na książki, więc nie ma wystarczającej kwoty i musi dołożyć 20 zł.
+</reasoning>
+<answer>100 zł - 120 zł = -20 zł (Wojtek musi dołożyć 20 zł)</answer>

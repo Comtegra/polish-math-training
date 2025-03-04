@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy książki Piotra od sumy: 68 - 38 = <<68-38=30>>30.
+</reasoning>
+<answer>30</answer>

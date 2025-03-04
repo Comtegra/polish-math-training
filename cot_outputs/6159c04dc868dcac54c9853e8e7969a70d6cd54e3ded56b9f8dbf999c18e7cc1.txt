@@ -1,0 +1,4 @@
+<reasoning>
+18 * 25 = <<18*25=450>>450 jabłek.
+</reasoning>
+<answer>450 jabłek</answer>

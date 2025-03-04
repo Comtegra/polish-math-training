@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę długopisów: 7 * 8 = <<7*8=56>>56 długopisów.
+Odejmujemy stracone: 56 - 5 = <<56-5=51>>51 długopisów.
+</reasoning>
+<answer>51</answer>

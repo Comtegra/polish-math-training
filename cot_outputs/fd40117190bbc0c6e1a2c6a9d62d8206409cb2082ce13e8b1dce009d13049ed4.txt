@@ -1,0 +1,4 @@
+<reasoning>
+Marek kupi 5 książek po 5 zł za każdą, co daje 5 * 5 zł = 25 zł. Kupi też 3 paczki chipsów po 3 zł za paczkę, co daje 3 * 3 zł = 9 zł. Suma zapłaconych kwot to 25 zł + 9 zł = 34 zł. Marek ma 20 zł i wydaje 34 zł, więc brakuje mu 14 zł.
+</reasoning>
+<answer>-14 zł (Marek nie ma wystarczających pieniędzy)</answer>

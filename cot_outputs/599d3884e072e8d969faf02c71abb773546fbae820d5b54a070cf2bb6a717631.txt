@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie ciasteczek: 3 * 15 = <<3*15=45>>45 ciasteczek.
+Pozostało: 45 - 5 = <<45-5=40>>40 ciasteczek.
+</reasoning>
+<answer>40</answer>

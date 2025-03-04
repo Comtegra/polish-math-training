@@ -1,0 +1,4 @@
+<reasoning>
+60 * 25/100 = <<60*25/100=15>>15 osób.
+</reasoning>
+<answer>15</answer>

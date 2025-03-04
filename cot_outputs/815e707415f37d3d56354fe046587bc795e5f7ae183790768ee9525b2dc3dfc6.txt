@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie = 4 * 750 = <<4*750=3000>>3000 g, czyli 3 kg.
+</reasoning>
+<answer>3 kg</answer>

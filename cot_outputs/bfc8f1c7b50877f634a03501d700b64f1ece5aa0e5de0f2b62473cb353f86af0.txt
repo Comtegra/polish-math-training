@@ -1,0 +1,4 @@
+<reasoning>
+Niech Wera ma x kubków, to Maja ma x + 3 kubków. Razem mają 27 kubków, więc x + (x + 3) = 27. To oznacza, że 2x + 3 = 27. Odejmując 3 od obu stron równania otrzymujemy 2x = 24, a następnie x = 12. Więc Wera ma 12 kubków, a Maja ma 12 + 3 = 15 kubków.
+</reasoning>
+<answer>Wera: 12, Maja: 15</answer>

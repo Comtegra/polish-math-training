@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 85 * 120 = <<85*120=10200>>10200 zł
+</reasoning>
+<answer>10200</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie godzin = 5 * 8 = <<5*8=40>>40 godzin.
+</reasoning>
+<answer>40</answer>

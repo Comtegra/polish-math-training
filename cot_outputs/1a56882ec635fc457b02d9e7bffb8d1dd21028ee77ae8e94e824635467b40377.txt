@@ -1,0 +1,4 @@
+<reasoning>
+9 * 68 = <<9*68=612>>612 osób.
+</reasoning>
+<answer>612</answer>

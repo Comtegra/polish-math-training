@@ -1,0 +1,4 @@
+<reasoning>
+Dodajemy: 98 + 22 = <<98+22=120>>120.
+</reasoning>
+<answer>120</answer>

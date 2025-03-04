@@ -1,0 +1,5 @@
+<reasoning>
+Czas pracy maszyny: 7 godzin - 0,5 godziny = <<7-0.5=6.5>>6,5 godziny
+Produkcja: 6,5 * 200 = <<6.5*200=1300>>1300 zabawek
+</reasoning>
+<answer>1300</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+70 - 15 = <<70-15=55>>55 piłek
+</reasoning>
+<answer>55</answer>

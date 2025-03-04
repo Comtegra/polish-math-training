@@ -1,0 +1,4 @@
+<reasoning>
+600 / 3 = <<600/3=200>>200 książek.
+</reasoning>
+<answer>200</answer>

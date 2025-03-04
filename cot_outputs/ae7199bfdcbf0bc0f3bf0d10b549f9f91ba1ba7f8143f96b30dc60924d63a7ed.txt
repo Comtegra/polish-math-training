@@ -1,0 +1,4 @@
+<reasoning>
+380 * 22 = <<380*22=8360>>8360 zł.
+</reasoning>
+<answer>8360 zł</answer>

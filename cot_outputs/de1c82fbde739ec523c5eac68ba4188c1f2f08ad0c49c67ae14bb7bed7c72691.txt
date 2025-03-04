@@ -1,0 +1,5 @@
+<reasoning>
+Dzieci z niebieskimi czapkami: 80 ÷ 10 = 8.
+Pozostałych: 80 − 8 = 72.
+</reasoning>
+<answer>72</answer>

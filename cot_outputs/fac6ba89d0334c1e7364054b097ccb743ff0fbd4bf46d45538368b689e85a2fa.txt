@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie biletów = 3 * 4 = <<3*4=12>>12 biletów.
+</reasoning>
+<answer>12</answer>

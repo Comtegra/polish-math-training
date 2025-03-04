@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 80 * 3 = <<80*3=240>>240 kanapek
+</reasoning>
+<answer>240</answer>

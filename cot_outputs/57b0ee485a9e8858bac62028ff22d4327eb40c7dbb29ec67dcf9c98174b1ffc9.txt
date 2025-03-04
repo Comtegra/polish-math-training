@@ -1,0 +1,4 @@
+<reasoning>
+Kuba kupił 5 sztuk odzieży sportowej po 30 zł za sztukę, co daje 5 * 30 zł = 150 zł. Kupił też 3 sztuki obuwia po 150 zł za sztukę, co daje 3 * 150 zł = 450 zł. Suma zapłaconych kwot to 150 zł + 450 zł = 600 zł.
+</reasoning>
+<answer>600 zł</answer>

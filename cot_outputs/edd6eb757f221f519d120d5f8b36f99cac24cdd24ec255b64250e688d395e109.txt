@@ -1,0 +1,4 @@
+<reasoning>
+Kasia zaczęła od 12 jabłek. Ania dała jej 8 jabłek więcej. Zatem Kasia ma teraz: 12 + 8 = 20 jabłek.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Mnożymy liczbę książek przez cenę: 12 * 15 = <<12*15=180>>180.
+Odejmujemy zniżkę: 180 - 20 = <<180-20=160>>160.
+</reasoning>
+<answer>160</answer>

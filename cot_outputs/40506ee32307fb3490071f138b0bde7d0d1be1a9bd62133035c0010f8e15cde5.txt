@@ -1,0 +1,4 @@
+<reasoning>
+24 * 0.50 = <<24*0.50=12>>12 zł.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 gumek początkowo
+12 - 2 = <<12-2=10>>10 gumek pozostało
+</reasoning>
+<answer>10</answer>

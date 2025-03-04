@@ -1,0 +1,4 @@
+<reasoning>
+12000 * 3/100 = <<12000*3/100=360>>360 butelek.
+</reasoning>
+<answer>360</answer>

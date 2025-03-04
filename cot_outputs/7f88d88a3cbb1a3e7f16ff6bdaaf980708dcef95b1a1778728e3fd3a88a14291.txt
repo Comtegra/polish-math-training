@@ -1,0 +1,4 @@
+<reasoning>
+15 + 5 = <<15+5=20>>20 lalek.
+</reasoning>
+<answer>20</answer>

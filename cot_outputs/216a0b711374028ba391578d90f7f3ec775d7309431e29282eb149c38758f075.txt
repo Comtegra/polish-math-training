@@ -1,0 +1,4 @@
+<reasoning>
+Liczba dystrybutorów = 120 / 40 = <<120/40=3>>3 dystrybutory.
+</reasoning>
+<answer>3</answer>

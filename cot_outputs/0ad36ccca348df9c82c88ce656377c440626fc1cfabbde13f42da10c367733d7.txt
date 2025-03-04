@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy sprzedane balony: 90 - 35 = <<90-35=55>>55.
+Dodajemy dostarczone balony: 55 + 20 = <<55+20=75>>75.
+</reasoning>
+<answer>75</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego jabłka: 12 / 8 = <<12/8=1.5>>1,5 zł.
+Łączny koszt: 20 * 1,5 = <<20*1.5=30>>30 zł.
+</reasoning>
+<answer>30</answer>

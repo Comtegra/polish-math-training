@@ -1,0 +1,4 @@
+<reasoning>
+Ostatecznie sprzedano = 150 - 30 = <<150-30=120>>120 par butów.
+</reasoning>
+<answer>120</answer>

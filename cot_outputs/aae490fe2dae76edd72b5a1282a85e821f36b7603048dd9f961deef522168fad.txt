@@ -1,0 +1,5 @@
+<reasoning>
+4 * 10 = <<4*10=40>>40 ciastek początkowo
+40 - 6 = <<40-6=34>>34 ciastek pozostało
+</reasoning>
+<answer>34</answer>

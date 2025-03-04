@@ -1,0 +1,4 @@
+<reasoning>
+Liczba uczniów bez książek: 42 / 7 = <<42/7=6>>6 uczniów.
+</reasoning>
+<answer>6</answer>

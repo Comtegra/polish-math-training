@@ -1,0 +1,4 @@
+<reasoning>
+28 * 680 = <<28*680=19040>>19040 zł.
+</reasoning>
+<answer>19040 zł</answer>

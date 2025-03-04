@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy koszt książki: 50 - 20 = <<50-20=30>>30.
+Następnie dodajemy znalezione pieniądze: 30 + 5 = <<30+5=35>>35.
+</reasoning>
+<answer>35</answer>

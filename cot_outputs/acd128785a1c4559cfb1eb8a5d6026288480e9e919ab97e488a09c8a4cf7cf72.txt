@@ -1,0 +1,4 @@
+<reasoning>
+Kamieni na osobę = 150 / 10 = <<150/10=15>>15 kamieni.
+</reasoning>
+<answer>15</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Ola kupi 6 koszulek po 20 zł za sztukę, co daje 6 * 20 zł = 120 zł. Zniżka wynosi 20% z 120 zł, czyli 0,20 * 120 zł = 24 zł. Zatem Ola zapłaci 120 zł - 24 zł = 96 zł.
+</reasoning>
+<answer>96 zł</answer>

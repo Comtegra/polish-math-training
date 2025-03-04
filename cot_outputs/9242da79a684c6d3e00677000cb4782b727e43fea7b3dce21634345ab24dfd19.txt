@@ -1,0 +1,5 @@
+<reasoning>
+Jacek ma 12 - 5 = 7 jabłek
+Razem mają 12 + 7 = 19 jabłek
+</reasoning>
+<answer>19</answer>

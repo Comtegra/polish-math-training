@@ -1,0 +1,15 @@
+<reasoning>
+Piotr i Michał mają razem 64 złote
+Piotr ma o 8 złotych więcej niż Michał
+Załóżmy, że Michał ma M złotych
+Zatem Piotr ma M + 8 złotych
+M + (M + 8) = 64
+2M + 8 = 64
+2M = 64 - 8
+2M = 56
+M = 56 / 2
+M = 28 złotych
+Piotr ma 28 + 8 = 36 złotych
+Całkowita kwota to 28 + 36 = 64 złotych
+</reasoning>
+<answer>64</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+5 * 800 = <<5*800=4000>>4000 zł.
+</reasoning>
+<answer>4000</answer>

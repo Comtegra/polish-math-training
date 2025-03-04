@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 64 / 8 = <<64/8=8>>8 cukierków na osobę.
+</reasoning>
+<answer>8</answer>

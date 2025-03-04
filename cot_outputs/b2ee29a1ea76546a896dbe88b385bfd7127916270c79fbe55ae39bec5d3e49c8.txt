@@ -1,0 +1,4 @@
+<reasoning>
+Dodajemy nowe uczennice: 22 + 3 = <<22+3=25>>25.
+</reasoning>
+<answer>25</answer>

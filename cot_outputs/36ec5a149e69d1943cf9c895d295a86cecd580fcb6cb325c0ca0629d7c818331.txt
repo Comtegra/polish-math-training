@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt zakupów: 85 + 40 = <<85+40=125>>125 zł.
+Pozostało: 200 - 125 = <<200-125=75>>75 zł.
+</reasoning>
+<answer>75</answer>

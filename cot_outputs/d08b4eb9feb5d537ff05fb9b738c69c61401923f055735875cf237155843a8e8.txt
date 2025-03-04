@@ -1,0 +1,5 @@
+<reasoning>
+3 godziny = 3 * 60 = <<3*60=180>>180 minut
+Łącznie: 180 + 45 = <<180+45=225>>225 minut
+</reasoning>
+<answer>225</answer>

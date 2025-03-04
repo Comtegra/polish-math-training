@@ -1,0 +1,4 @@
+<reasoning>
+Nieuczestniczących = 300 - 150 = <<300-150=150>>150 uczniów.
+</reasoning>
+<answer>150</answer>

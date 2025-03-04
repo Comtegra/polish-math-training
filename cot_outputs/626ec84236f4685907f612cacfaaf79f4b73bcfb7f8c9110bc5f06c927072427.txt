@@ -1,0 +1,4 @@
+<reasoning>
+75 * 2.50 = <<75*2.50=187.50>>187,50 zł.
+</reasoning>
+<answer>187,50 zł</answer>

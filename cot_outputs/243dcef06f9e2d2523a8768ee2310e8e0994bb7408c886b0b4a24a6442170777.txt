@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dzielimy cukierki: 32 / 4 = <<32/4=8>>8.
+Następnie dodajemy dodatkowe cukierki: 8 + 2 = <<8+2=10>>10.
+</reasoning>
+<answer>10</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Chorych: 50 / 10 = <<50/10=5>>5.
+Zdrowych: 50 - 5 = <<50-5=45>>45.
+</reasoning>
+<answer>45</answer>

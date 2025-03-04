@@ -1,0 +1,5 @@
+<reasoning>
+45 - 20 = <<45-20=25>>25 zł po obiedzie
+25 + 15 = <<25+15=40>>40 zł łącznie
+</reasoning>
+<answer>40</answer>

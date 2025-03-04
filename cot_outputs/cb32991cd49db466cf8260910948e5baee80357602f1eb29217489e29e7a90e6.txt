@@ -1,0 +1,6 @@
+<reasoning>
+Łączny koszt przed rabatem: 8 * 4 = <<8*4=32>>32 zł.
+Rabat: 32 * 0.25 = <<32*0.25=8>>8 zł.
+Cena po rabacie: 32 - 8 = <<32-8=24>>24 zł.
+</reasoning>
+<answer>24</answer>

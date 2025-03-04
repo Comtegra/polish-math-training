@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie jajek = 35 * 2 = <<35*2=70>>70 jajek.
+</reasoning>
+<answer>70</answer>

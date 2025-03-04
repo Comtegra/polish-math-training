@@ -1,0 +1,4 @@
+<reasoning>
+Czasopism na półce = 840 / 7 = <<840/7=120>>120 czasopism.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,6 @@
+<reasoning>
+W każdej grupie 4 jogurtów jeden jest gratis, czyli za 4 zapłaci za 3.
+Podzielmy 12 jogurtów na grupy: 12 / 4 = <<12/4=3>>3 grupy.
+Janek zapłacił 3 * 3 = <<3*3=9>>9 jogurtów.
+</reasoning>
+<answer>9</answer>

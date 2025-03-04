@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwe części: 10% z 350 = 350 * 0.10 = <<350*0.10=35>>35
+Poprawne części: 350 - 35 = <<350-35=315>>315
+</reasoning>
+<answer>315</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dodajemy sprzedane lody: 15 + 10 = <<15+10=25>>25.
+</reasoning>
+<answer>25</answer>

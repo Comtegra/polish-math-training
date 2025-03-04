@@ -1,0 +1,4 @@
+<reasoning>
+Dystans = 90 * 4 = <<90*4=360>>360 km.
+</reasoning>
+<answer>360</answer>

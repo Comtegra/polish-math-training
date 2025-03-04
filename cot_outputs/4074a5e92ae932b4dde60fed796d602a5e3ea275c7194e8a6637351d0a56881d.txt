@@ -1,0 +1,4 @@
+<reasoning>
+Kamil da 1,5 kg mąki / 2 = 0,75 kg mąki.Kamil da 0,7 kg sera - 0,5 kg = 0,2 kg sera.
+</reasoning>
+<answer>Kamil da 0,75 kg mąki i 0,2 kg sera</answer>

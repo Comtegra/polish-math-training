@@ -1,0 +1,4 @@
+<reasoning>
+90 * 30/100 = <<90*30/100=27>>27 kobiet.
+</reasoning>
+<answer>27</answer>

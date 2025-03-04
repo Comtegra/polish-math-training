@@ -1,0 +1,4 @@
+<reasoning>
+Rabat na jedną książkę: 18 * 10/100 = 1,8 zł; cena po rabacie: 18 - 1,8 = 16,2 zł; 5 * 16,2 = <<5*16.2=81>>81 zł.
+</reasoning>
+<answer>81 zł</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 96 ciasteczek przez 8: 96 / 8 = <<96/8=12>>12 ciasteczek na talerz.
+</reasoning>
+<answer>12</answer>

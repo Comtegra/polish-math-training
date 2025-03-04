@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba par butów: 15 + 8 = <<15+8=23>>23
+</reasoning>
+<answer>23</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Liczba chłopców: 30 * (2/5) = <<30*0.4=12>>12.
+Liczba dziewczynek: 30 - 12 = <<30-12=18>>18.
+</reasoning>
+<answer>18</answer>

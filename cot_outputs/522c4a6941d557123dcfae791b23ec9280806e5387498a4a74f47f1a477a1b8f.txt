@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie jabłek = 28 * 2 = <<28*2=56>>56 jabłek.
+</reasoning>
+<answer>56</answer>

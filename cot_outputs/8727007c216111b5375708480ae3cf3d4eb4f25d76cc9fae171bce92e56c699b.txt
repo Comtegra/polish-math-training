@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie bramek = 7 + 5 = <<7+5=12>>12 bramek.
+</reasoning>
+<answer>12</answer>

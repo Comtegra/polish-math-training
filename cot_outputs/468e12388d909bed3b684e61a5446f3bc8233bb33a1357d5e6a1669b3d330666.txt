@@ -1,0 +1,4 @@
+<reasoning>
+60 - 10 - 15 = <<60-10-15=35>>35 cukierków.
+</reasoning>
+<answer>35</answer>

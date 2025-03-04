@@ -1,0 +1,5 @@
+<reasoning>
+Odrzuconych: 400 * 0.05 = <<400*0.05=20>>20 kg.
+Dobrych: 400 - 20 = <<400-20=380>>380 kg.
+</reasoning>
+<answer>380</answer>

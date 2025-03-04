@@ -1,0 +1,6 @@
+<reasoning>
+Dodajemy pierwsze punkty: 90 + 15 = <<90+15=105>>105.
+Odejmujemy stracone punkty: 105 - 5 = <<105-5=100>>100.
+Dodajemy kolejne punkty: 100 + 10 = <<100+10=110>>110.
+</reasoning>
+<answer>110</answer>

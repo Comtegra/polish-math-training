@@ -1,0 +1,4 @@
+<reasoning>
+90 / 0.3 = <<90/0.3=300>>300 długopisów.
+</reasoning>
+<answer>300</answer>

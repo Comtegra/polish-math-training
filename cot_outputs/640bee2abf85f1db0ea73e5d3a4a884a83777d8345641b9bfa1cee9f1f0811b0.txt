@@ -1,0 +1,5 @@
+<reasoning>
+90 + 30 = <<90+30=120>>120 punktów
+120 - 15 = <<120-15=105>>105 punktów
+</reasoning>
+<answer>105</answer>

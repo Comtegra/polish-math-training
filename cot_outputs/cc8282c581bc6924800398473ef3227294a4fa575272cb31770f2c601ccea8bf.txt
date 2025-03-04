@@ -1,0 +1,4 @@
+<reasoning>
+1000 * 15/100 = <<1000*15/100=150>>150 zł.
+</reasoning>
+<answer>150</answer>

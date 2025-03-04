@@ -1,0 +1,5 @@
+<reasoning>
+Liczba wadliwych elementów: 960 * 0.05 = <<960*0.05=48>>48.
+Sprawnych elementów: 960 - 48 = <<960-48=912>>912.
+</reasoning>
+<answer>912</answer>

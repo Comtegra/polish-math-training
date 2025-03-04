@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 220 - 70 = <<220-70=150>>150.
+Następnie dodajemy: 150 + 40 = <<150+40=190>>190.
+</reasoning>
+<answer>190</answer>

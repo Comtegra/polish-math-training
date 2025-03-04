@@ -1,0 +1,4 @@
+<reasoning>
+5 * 3 = <<5*3=15>>15 walizek.
+</reasoning>
+<answer>15</answer>

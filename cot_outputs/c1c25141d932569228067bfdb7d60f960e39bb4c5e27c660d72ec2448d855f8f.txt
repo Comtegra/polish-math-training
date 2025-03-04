@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kiści = 96 / 6 = <<96/6=16>>16 kiści.
+</reasoning>
+<answer>16</answer>

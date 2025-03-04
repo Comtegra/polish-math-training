@@ -1,0 +1,4 @@
+<reasoning>
+200 * 10/100 = <<200*10/100=20>>20 kierowników.
+</reasoning>
+<answer>20</answer>

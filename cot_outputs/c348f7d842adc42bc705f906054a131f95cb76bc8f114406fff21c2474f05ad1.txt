@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 3 * 125 = 375; pozostało = 600 - 375 = <<600-375=225>>225 zł.
+</reasoning>
+<answer>225</answer>

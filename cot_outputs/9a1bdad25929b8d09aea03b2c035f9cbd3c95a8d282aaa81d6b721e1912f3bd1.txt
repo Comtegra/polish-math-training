@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 3 * 4 = <<3*4=12>>12 kolorów.
+</reasoning>
+<answer>12</answer>

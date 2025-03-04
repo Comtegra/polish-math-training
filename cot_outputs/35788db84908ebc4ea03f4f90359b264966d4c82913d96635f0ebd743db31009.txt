@@ -1,0 +1,4 @@
+<reasoning>
+25% z 320 = 80; 320 - 80 = <<320-80=240>>240 pudeł.
+</reasoning>
+<answer>240</answer>

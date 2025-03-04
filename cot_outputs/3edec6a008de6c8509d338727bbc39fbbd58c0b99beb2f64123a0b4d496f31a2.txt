@@ -1,0 +1,5 @@
+<reasoning>
+Całkowita liczba butelek: 5 * 6 = <<5*6=30>>30 butelek.
+Odejmujemy wypite: 30 - 4 = <<30-4=26>>26 butelek.
+</reasoning>
+<answer>26</answer>

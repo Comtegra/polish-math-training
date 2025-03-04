@@ -1,0 +1,4 @@
+<reasoning>
+Każda koleżanka otrzyma 600 g / 6 = 100 g mąki
+</reasoning>
+<answer>100 g</answer>

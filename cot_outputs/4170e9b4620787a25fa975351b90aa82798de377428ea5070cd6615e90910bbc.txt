@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/3: 210 / 3 = <<210/3=70>>70.
+Następnie: 210 - 70 = <<210-70=140>>140.
+</reasoning>
+<answer>140</answer>

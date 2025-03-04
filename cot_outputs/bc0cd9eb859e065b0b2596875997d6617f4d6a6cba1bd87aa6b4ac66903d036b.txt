@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie koszt = 4 * 125 = <<4*125=500>>500 zł.
+</reasoning>
+<answer>500</answer>

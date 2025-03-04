@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zawodników = 11 * 2 = <<11*2=22>>22 zawodników.
+</reasoning>
+<answer>22</answer>

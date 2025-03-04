@@ -1,0 +1,4 @@
+<reasoning>
+Zniżka: 40 * 15/100 = 6; cena po zniżce: 40 - 6 = 34; 35 + 34 = <<35+34=69>>69 zł.
+</reasoning>
+<answer>69 zł</answer>

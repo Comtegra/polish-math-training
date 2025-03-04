@@ -1,0 +1,6 @@
+<reasoning>
+Koszt jednej książki to 12 złotych
+Anna kupiła 8 książek
+Całkowity koszt to 8 * 12 złotych = 96 złotych
+</reasoning>
+<answer>96</answer>

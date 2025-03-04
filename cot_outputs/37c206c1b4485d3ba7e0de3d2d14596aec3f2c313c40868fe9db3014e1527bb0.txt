@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie butelek = 400 * 5 = <<400*5=2000>>2000 butelek.
+</reasoning>
+<answer>2000</answer>

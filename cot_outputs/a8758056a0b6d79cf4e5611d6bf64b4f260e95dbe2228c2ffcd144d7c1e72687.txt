@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 150 kwiatów przez 5: 150 / 5 = <<150/5=30>>30 kwiatów w bukiecie.
+</reasoning>
+<answer>30</answer>

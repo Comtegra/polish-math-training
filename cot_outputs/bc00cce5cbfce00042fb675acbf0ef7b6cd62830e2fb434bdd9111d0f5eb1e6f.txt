@@ -1,0 +1,5 @@
+<reasoning>
+4 * 7 = <<4*7=28>>28 zł
+28 + 3 = <<28+3=31>>31 zł
+</reasoning>
+<answer>31</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba płatków: 14 * 6 = <<14*6=84>>84 płatków.
+</reasoning>
+<answer>84</answer>

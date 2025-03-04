@@ -1,0 +1,4 @@
+<reasoning>
+18 * 3 = <<18*3=54>>54 elementów.
+</reasoning>
+<answer>54 elementy</answer>

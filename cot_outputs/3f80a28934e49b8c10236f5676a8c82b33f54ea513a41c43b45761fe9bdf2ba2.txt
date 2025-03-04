@@ -1,0 +1,4 @@
+<reasoning>
+150 / 0.60 = <<150/0.60=250>>250 koszulek.
+</reasoning>
+<answer>250</answer>

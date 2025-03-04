@@ -1,0 +1,4 @@
+<reasoning>
+Uszkodzonych: 800 / 4 = 200, więc dobrych: 800 - 200 = <<800-200=600>>600 pudeł.
+</reasoning>
+<answer>600</answer>

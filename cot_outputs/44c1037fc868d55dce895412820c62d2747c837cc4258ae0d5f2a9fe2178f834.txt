@@ -1,0 +1,5 @@
+<reasoning>
+50 - 10 = <<50-10=40>>40 jabłek do podziału
+40 / 5 = <<40/5=8>>8 jabłek na koszyk
+</reasoning>
+<answer>8</answer>

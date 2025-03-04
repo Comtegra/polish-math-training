@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy: 63 - 15 = <<63-15=48>>48 piłek.
+</reasoning>
+<answer>48</answer>

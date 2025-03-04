@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba małp: 7 * 2 = <<7*2=14>>14 małp.
+</reasoning>
+<answer>14</answer>

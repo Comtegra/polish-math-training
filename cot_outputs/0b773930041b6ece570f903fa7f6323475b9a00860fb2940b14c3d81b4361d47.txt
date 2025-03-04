@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy oddane klocki: 84 - 28 = <<84-28=56>>56.
+Dodajemy znalezione klocki: 56 + 14 = <<56+14=70>>70.
+</reasoning>
+<answer>70</answer>

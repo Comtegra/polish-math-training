@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 5 * 3 = <<5*3=15>>15 zł.
+</reasoning>
+<answer>15</answer>

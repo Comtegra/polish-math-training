@@ -1,0 +1,6 @@
+<reasoning>
+Liczba lalek: 8 * 2 = <<8*2=16>>16 lalek.
+Liczba samochodzików: 8 * 3 = <<8*3=24>>24 samochodzików.
+Łącznie: 16 + 24 = <<16+24=40>>40 zabawek.
+</reasoning>
+<answer>40</answer>

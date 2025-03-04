@@ -1,0 +1,4 @@
+<reasoning>
+5200 * 20/100 = <<5200*20/100=1040>>1040 komiksów.
+</reasoning>
+<answer>1040 komiksów</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+120 * 30/100 = <<120*30/100=36>>36 drzew.
+</reasoning>
+<answer>36</answer>

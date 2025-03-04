@@ -1,0 +1,4 @@
+<reasoning>
+240 / 30 = <<240/30=8>>8 dni.
+</reasoning>
+<answer>8 dni</answer>

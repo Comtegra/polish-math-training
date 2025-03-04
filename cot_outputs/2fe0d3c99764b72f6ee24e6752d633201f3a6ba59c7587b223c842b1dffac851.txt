@@ -1,0 +1,5 @@
+<reasoning>
+Chorych: 32 / 4 = <<32/4=8>>8 uczniów.
+Zdrowych: 32 - 8 = <<32-8=24>>24 uczniów.
+</reasoning>
+<answer>24</answer>

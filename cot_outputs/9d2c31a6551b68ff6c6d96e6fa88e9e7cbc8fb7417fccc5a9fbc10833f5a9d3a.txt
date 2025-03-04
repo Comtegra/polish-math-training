@@ -1,0 +1,4 @@
+<reasoning>
+5 * 2 = <<5*2=10>>10 litrów
+</reasoning>
+<answer>10</answer>

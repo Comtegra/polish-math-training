@@ -1,0 +1,5 @@
+<reasoning>
+Chłopców: 30 ÷ 3 = 10.
+Dziewcząt: 30 − 10 = 20.
+</reasoning>
+<answer>20</answer>

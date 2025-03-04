@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 300 - 125 = <<300-125=175>>175.
+Następnie: 175 + 50 = <<175+50=225>>225.
+</reasoning>
+<answer>225</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Pozostaje pływaków = 25 - 5 = <<25-5=20>>20 pływaków.
+</reasoning>
+<answer>20</answer>

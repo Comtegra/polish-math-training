@@ -1,0 +1,4 @@
+<reasoning>
+Podział: 60 / 5 = <<60/5=12>>12 cukierków na osobę.
+</reasoning>
+<answer>12</answer>

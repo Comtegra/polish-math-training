@@ -1,0 +1,4 @@
+<reasoning>
+4 * 3 = <<4*3=12>>12 zł
+</reasoning>
+<answer>12</answer>

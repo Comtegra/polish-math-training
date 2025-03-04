@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy łączną liczbę zabawek przez liczbę dni: 200 / 5 = <<200/5=40>>40 zabawek dziennie.
+</reasoning>
+<answer>40</answer>

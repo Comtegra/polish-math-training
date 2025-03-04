@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: (60 / 8) * 100 = <<(60/8)*100=750>>750 km
+</reasoning>
+<answer>750</answer>

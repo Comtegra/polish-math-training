@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 100 * 0,70 = <<100*0.70=70>>70 punktów
+</reasoning>
+<answer>70</answer>

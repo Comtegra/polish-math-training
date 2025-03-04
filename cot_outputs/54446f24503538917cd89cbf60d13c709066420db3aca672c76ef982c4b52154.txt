@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę czekoladek: 5 * 10 = <<5*10=50>>50.
+Następnie odejmujemy zjedzone: 50 - 8 = <<50-8=42>>42.
+</reasoning>
+<answer>42</answer>

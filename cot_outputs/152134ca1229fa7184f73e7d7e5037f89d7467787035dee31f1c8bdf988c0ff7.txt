@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba jabłek: 18 * 16 = <<18*16=288>>288 jabłek.
+Pozostało: 288 - 50 = <<288-50=238>>238 jabłek.
+</reasoning>
+<answer>238</answer>

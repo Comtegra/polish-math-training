@@ -1,0 +1,4 @@
+<reasoning>
+Wolnych miejsc = 45 - 33 = <<45-33=12>>12 miejsc.
+</reasoning>
+<answer>12</answer>

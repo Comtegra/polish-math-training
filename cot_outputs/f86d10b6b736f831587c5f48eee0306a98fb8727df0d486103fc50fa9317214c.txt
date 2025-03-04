@@ -1,0 +1,4 @@
+<reasoning>
+30 * 700 = <<30*700=21000>>21000 zł.
+</reasoning>
+<answer>21000 zł</answer>

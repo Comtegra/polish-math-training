@@ -1,0 +1,5 @@
+<reasoning>
+80 - 50 = <<80-50=30>>30 zł po zakupie butów
+30 + 20 = <<30+20=50>>50 zł łącznie
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+120 / 3 = <<120/3=40>>40 osób.
+</reasoning>
+<answer>40</answer>

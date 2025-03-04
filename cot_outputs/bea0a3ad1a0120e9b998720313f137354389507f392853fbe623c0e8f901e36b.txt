@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 200 - (3 * 15) = 200 - 45 = <<200-45=155>>155 zł.
+</reasoning>
+<answer>155</answer>

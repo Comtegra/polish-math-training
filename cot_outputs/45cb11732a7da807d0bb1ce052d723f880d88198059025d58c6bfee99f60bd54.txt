@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 780 × 0.50 = 390 kg.
+Pozostało: 780 − 390 = 390 kg.
+</reasoning>
+<answer>390 kg</answer>

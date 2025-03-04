@@ -1,0 +1,4 @@
+<reasoning>
+Średnia prędkość: 240 / 3 = <<240/3=80>>80 km/h.
+</reasoning>
+<answer>80</answer>

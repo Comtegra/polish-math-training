@@ -1,0 +1,4 @@
+<reasoning>
+60 - 45 = <<60-45=15>>15 zł
+</reasoning>
+<answer>15</answer>

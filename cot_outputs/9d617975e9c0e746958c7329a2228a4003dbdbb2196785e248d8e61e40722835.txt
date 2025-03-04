@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kół = 25 * 2 = <<25*2=50>>50 kół.
+</reasoning>
+<answer>50</answer>

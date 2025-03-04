@@ -1,0 +1,4 @@
+<reasoning>
+3500 / 5 = <<3500/5=700>>700 zł.
+</reasoning>
+<answer>700 zł</answer>

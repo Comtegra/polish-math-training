@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie długopisów = 30 * 8 = <<30*8=240>>240 długopisów.
+</reasoning>
+<answer>240</answer>

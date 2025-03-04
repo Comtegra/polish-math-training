@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego jabłka: 9 / 6 = <<9/6=1.5>>1,5 zł.
+Łącznie: 18 * 1,5 = <<18*1.5=27>>27 zł.
+</reasoning>
+<answer>27</answer>

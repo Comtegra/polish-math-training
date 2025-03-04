@@ -1,0 +1,6 @@
+<reasoning>
+Dodajemy punkty z pierwszej rundy: 120 + 15 = <<120+15=135>>135.
+Dodajemy punkty z drugiej rundy: 135 + 25 = <<135+25=160>>160.
+Odejmujemy stracone punkty: 160 - 10 = <<160-10=150>>150.
+</reasoning>
+<answer>150</answer>

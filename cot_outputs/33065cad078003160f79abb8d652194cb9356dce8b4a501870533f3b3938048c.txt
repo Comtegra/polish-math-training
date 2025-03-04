@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy liczbę części: 5 * 4 = <<5*4=20>>20 części.
+</reasoning>
+<answer>20</answer>

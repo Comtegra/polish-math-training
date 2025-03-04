@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy cukierki: 90 / 5 = <<90/5=18>>18.
+Dodajemy dodatkowe cukierki: 18 + 2 = <<18+2=20>>20.
+</reasoning>
+<answer>20</answer>

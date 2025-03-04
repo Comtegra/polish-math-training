@@ -1,0 +1,4 @@
+<reasoning>
+Rundy = 20 / 4 = <<20/4=5>>5 rund.
+</reasoning>
+<answer>5</answer>

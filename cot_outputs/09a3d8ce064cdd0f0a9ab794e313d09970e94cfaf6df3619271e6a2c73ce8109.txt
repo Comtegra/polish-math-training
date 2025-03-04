@@ -1,0 +1,5 @@
+<reasoning>
+70 - 20 = <<70-20=50>>50 kredek
+50 + 10 = <<50+10=60>>60 kredek
+</reasoning>
+<answer>60</answer>

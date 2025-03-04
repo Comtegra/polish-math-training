@@ -1,0 +1,4 @@
+<reasoning>
+275 * 16 = <<275*16=4400>>4400 zł.
+</reasoning>
+<answer>4400 zł</answer>

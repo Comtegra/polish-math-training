@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie: 10 * 12 = <<10*12=120>>120 zapałek.
+Pozostało: 120 - 15 = <<120-15=105>>105 zapałek.
+</reasoning>
+<answer>105</answer>

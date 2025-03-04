@@ -1,0 +1,4 @@
+<reasoning>
+18 / 3 = <<18/3=6>>6 pracowników.
+</reasoning>
+<answer>6</answer>

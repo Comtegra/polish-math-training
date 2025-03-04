@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę drzew przez liczbę krzewów przy każdym drzewie: 9 * 4 = <<9*4=36>>36 krzewów.
+</reasoning>
+<answer>36</answer>

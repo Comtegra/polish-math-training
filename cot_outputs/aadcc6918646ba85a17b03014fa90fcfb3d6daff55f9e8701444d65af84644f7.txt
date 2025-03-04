@@ -1,0 +1,5 @@
+<reasoning>
+45 - 15 = <<45-15=30>>30 monet
+30 + 10 = <<30+10=40>>40 monet
+</reasoning>
+<answer>40</answer>

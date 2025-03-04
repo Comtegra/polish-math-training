@@ -1,0 +1,4 @@
+<reasoning>
+80 - 80*25/100 = 80 - 20 = <<80-20=60>>60 pokoi.
+</reasoning>
+<answer>60</answer>

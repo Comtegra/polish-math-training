@@ -1,0 +1,4 @@
+<reasoning>
+Oskar kupił 2 zestawy kart do gry, a każdy zestaw zawiera 52 karty. Aby znaleźć całkowitą liczbę kart, mnożymy liczbę zestawów przez liczbę kart w każdym zestawie: 2 * 52 = 104 karty.
+</reasoning>
+<answer>104 karty do gry</answer>

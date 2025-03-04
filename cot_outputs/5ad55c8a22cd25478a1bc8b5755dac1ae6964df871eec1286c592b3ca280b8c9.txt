@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie książek = 28 * 2 = <<28*2=56>>56 książek.
+</reasoning>
+<answer>56</answer>

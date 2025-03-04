@@ -1,0 +1,4 @@
+<reasoning>
+Niech Tomek ma x lat. Wtedy Kasia ma x + 8 lat. Ponieważ mają razem 48 lat, możemy napisać równanie: x + (x + 8) = 48. Rozwiązując to równanie, otrzymujemy 2x + 8 = 48, czyli 2x = 40. Dzieląc obie strony przez 2, otrzymujemy x = 20. Zatem Tomek ma 20 lat.
+</reasoning>
+<answer>20 lat</answer>

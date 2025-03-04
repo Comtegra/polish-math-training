@@ -1,0 +1,4 @@
+<reasoning>
+98 / 7 = <<98/7=14>>14 zł.
+</reasoning>
+<answer>14 zł</answer>

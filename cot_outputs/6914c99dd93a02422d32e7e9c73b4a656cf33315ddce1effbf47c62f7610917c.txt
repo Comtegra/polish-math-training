@@ -1,0 +1,5 @@
+<reasoning>
+2 * 29 = <<2*29=58>>58 zł wydane na zabawki
+88 - 58 = <<88-58=30>>30 zł pozostało
+</reasoning>
+<answer>30</answer>

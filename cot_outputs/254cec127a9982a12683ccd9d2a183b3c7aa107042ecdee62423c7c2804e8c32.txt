@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie samochodów = 60 * 4 = <<60*4=240>>240 samochodów.
+</reasoning>
+<answer>240</answer>

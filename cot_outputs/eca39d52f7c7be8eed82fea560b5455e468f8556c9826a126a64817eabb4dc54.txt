@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 500 - 150 = <<500-150=350>>350.
+Następnie: 350 + 50 = <<350+50=400>>400.
+</reasoning>
+<answer>400</answer>

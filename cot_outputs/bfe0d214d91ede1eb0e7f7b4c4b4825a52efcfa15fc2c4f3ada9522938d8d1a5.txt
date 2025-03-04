@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie owoców = 14 * 20 = <<14*20=280>>280 owoców.
+</reasoning>
+<answer>280</answer>

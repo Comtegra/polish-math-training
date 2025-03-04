@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało: 100 - 38 - 12 = <<100-38-12=50>>50 zł.
+</reasoning>
+<answer>50</answer>

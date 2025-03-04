@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę czekoladek: 4 * 15 = <<4*15=60>>60.
+Odejmujemy zjedzone czekoladki: 60 - 10 = <<60-10=50>>50.
+</reasoning>
+<answer>50</answer>

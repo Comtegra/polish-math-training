@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę kamieni: 100 / 5 = <<100/5=20>>20.
+</reasoning>
+<answer>20</answer>

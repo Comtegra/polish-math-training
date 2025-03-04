@@ -1,0 +1,5 @@
+<reasoning>
+Koszulki sportowe: 840 ÷ 4 = 210.
+Modele casual: 840 − 210 = 630 koszulek.
+</reasoning>
+<answer>630</answer>

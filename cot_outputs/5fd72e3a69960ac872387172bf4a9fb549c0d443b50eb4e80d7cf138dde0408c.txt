@@ -1,0 +1,4 @@
+<reasoning>
+Sprzedanych porcji = 110 - 30 = <<110-30=80>>80 porcji.
+</reasoning>
+<answer>80</answer>

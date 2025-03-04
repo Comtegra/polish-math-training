@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy cukierki: 60 / 6 = <<60/6=10>>10.
+</reasoning>
+<answer>10</answer>

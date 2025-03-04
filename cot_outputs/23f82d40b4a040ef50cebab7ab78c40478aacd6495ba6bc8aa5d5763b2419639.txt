@@ -1,0 +1,5 @@
+<reasoning>
+Po zakupie komputera: 800 - 450 = <<800-450=350>>350 zł
+Po zakupie akcesoriów: 350 - 120 = <<350-120=230>>230 zł
+</reasoning>
+<answer>230</answer>

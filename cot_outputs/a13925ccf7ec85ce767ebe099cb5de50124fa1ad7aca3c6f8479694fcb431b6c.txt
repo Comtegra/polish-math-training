@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy braki: 500 - 45 = <<500-45=455>>455.
+Dodajemy nowe zabawki: 455 + 60 = <<455+60=515>>515.
+</reasoning>
+<answer>515</answer>

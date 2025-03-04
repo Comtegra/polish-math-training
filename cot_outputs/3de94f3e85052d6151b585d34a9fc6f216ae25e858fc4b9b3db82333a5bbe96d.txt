@@ -1,0 +1,4 @@
+<reasoning>
+Łączny przychód: 8 * 120 = <<8*120=960>>960 zł.
+</reasoning>
+<answer>960</answer>

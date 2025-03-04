@@ -1,0 +1,4 @@
+<reasoning>
+Liczba czerwonych balonów: 72 * (1/3) = <<72/3=24>>24.
+</reasoning>
+<answer>24</answer>

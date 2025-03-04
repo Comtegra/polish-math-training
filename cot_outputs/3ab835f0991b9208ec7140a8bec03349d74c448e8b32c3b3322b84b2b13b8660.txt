@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę monet przez liczbę przyjaciół: 120 / 6 = <<120/6=20>>20 monet na osobę.
+</reasoning>
+<answer>20</answer>

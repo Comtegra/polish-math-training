@@ -1,0 +1,4 @@
+<reasoning>
+8 * 2 = <<8*2=16>>16 zł
+</reasoning>
+<answer>16</answer>

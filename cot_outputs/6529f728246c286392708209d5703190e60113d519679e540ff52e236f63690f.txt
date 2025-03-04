@@ -1,0 +1,4 @@
+<reasoning>
+8 * 500 = <<8*500=4000>>4000 g, czyli 4 kg.
+</reasoning>
+<answer>4 kg</answer>

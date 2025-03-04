@@ -1,0 +1,4 @@
+<reasoning>
+200 * 85/100 = <<200*85/100=170>>170 miejsc.
+</reasoning>
+<answer>170</answer>

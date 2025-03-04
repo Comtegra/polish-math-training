@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy łączną liczbę ciastek: 3 * 16 = <<3*16=48>>48.
+Odejmujemy zjedzone ciasteczka: 48 - 5 = <<48-5=43>>43.
+Następnie odejmujemy oddane ciasteczka: 43 - 7 = <<43-7=36>>36.
+</reasoning>
+<answer>36</answer>

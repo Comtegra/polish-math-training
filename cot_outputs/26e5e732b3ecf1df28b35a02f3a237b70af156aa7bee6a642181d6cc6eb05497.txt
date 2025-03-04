@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 4 kg jabłek to 4 kg * 3 złote na kilogram = 12 złotych.
+</reasoning>
+<answer>12 złotych</answer>

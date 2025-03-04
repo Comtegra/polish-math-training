@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 1100 * 0.12 = <<1100*0.12=132>>132 zabawek.
+Dobrych: 1100 - 132 = <<1100-132=968>>968 zabawek.
+</reasoning>
+<answer>968</answer>

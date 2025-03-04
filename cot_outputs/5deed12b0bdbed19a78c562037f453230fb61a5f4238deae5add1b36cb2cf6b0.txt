@@ -1,0 +1,5 @@
+<reasoning>
+Nowych: 650 * 0.10 = <<650*0.10=65>>65.
+Starszych: 650 - 65 = <<650-65=585>>585.
+</reasoning>
+<answer>585</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+50 - 15 = <<50-15=35>>35 muszelek
+</reasoning>
+<answer>35</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Marta kupi 15 książek o kosmosie po 5 zł za sztukę, co daje 15 * 5 zł = 75 zł. Zniżka wynosi 15% z 75 zł, czyli 0,15 * 75 zł = 11,25 zł. Zatem Marta zapłaci 75 zł - 11,25 zł = 63,75 zł.
+</reasoning>
+<answer>63,75 zł</answer>

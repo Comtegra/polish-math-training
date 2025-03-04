@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 400 * 0,80 = <<400*0.80=320>>320 torebek
+Pozostało: 400 - 320 = <<400-320=80>>80 torebek
+</reasoning>
+<answer>80</answer>

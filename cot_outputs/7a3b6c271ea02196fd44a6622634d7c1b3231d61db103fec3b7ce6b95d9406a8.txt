@@ -1,0 +1,4 @@
+<reasoning>
+Ania kupiła 5 pierogów po 4 zł za sztukę, co daje 5 * 4 zł = 20 zł. Kupiła też 3 naleśniki po 6 zł za sztukę, co daje 3 * 6 zł = 18 zł. Suma zapłaconych kwot to 20 zł + 18 zł = 38 zł.
+</reasoning>
+<answer>38 zł</answer>

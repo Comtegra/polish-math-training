@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie przyborów = 22 * 2 = <<22*2=44>>44 przybory.
+</reasoning>
+<answer>44</answer>

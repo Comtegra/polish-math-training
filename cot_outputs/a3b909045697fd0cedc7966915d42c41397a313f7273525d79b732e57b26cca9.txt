@@ -1,0 +1,4 @@
+<reasoning>
+Ostatecznie sprzedano = 300 - 60 = <<300-60=240>>240 produktów.
+</reasoning>
+<answer>240</answer>

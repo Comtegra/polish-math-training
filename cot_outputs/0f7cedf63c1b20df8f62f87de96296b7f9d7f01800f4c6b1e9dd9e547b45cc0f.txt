@@ -1,0 +1,4 @@
+<reasoning>
+3 * 20 = <<3*20=60>>60 zł
+</reasoning>
+<answer>60</answer>

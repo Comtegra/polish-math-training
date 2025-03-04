@@ -1,0 +1,5 @@
+<reasoning>
+Sałatki: 750 ÷ 5 = 150.
+Dania główne: 750 − 150 = 600 porcji.
+</reasoning>
+<answer>600</answer>

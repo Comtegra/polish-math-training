@@ -1,0 +1,4 @@
+<reasoning>
+6 * 5 = <<6*5=30>>30 zł
+</reasoning>
+<answer>30</answer>

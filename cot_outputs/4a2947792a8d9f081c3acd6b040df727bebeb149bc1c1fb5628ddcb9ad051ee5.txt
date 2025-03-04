@@ -1,0 +1,4 @@
+<reasoning>
+72 / 3 = <<72/3=24>>24 cukierki.
+</reasoning>
+<answer>24 cukierki</answer>

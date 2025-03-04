@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy piłki: 45 / 5 = <<45/5=9>>9.
+</reasoning>
+<answer>9</answer>

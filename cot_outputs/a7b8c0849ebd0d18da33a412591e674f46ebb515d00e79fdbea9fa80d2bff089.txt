@@ -1,0 +1,4 @@
+<reasoning>
+10000 * 7/100 = <<10000*7/100=700>>700 sztuk.
+</reasoning>
+<answer>700</answer>

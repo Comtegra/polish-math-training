@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie skarpetek = 9 * 2 = <<9*2=18>>18 skarpetek.
+</reasoning>
+<answer>18</answer>

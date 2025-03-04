@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zgłoszeń: 4 * 36 = <<4*36=144>>144.
+</reasoning>
+<answer>144</answer>

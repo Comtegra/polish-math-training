@@ -1,0 +1,5 @@
+<reasoning>
+Dzieci z okularami: 70 ÷ 7 = 10.
+Bez okularów: 70 − 10 = 60 dzieci.
+</reasoning>
+<answer>60</answer>

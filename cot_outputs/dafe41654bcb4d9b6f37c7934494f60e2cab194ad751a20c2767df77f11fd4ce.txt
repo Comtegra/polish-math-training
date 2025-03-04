@@ -1,0 +1,6 @@
+<reasoning>
+Dystans w pierwszej części: 1,5 * 50 = <<1.5*50=75>>75 km
+Dystans w drugiej części: 2,5 * 80 = <<2.5*80=200>>200 km
+Łączny dystans: 75 km + 200 km = <<75+200=275>>275 km
+</reasoning>
+<answer>275</answer>

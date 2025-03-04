@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy nieobecnych uczniów: 32 - 4 = <<32-4=28>>28.
+</reasoning>
+<answer>28</answer>

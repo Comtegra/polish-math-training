@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę ołówków: 7 * 6 = <<7*6=42>>42.
+Odejmujemy zgubione ołówki: 42 - 5 = <<42-5=37>>37.
+</reasoning>
+<answer>37</answer>

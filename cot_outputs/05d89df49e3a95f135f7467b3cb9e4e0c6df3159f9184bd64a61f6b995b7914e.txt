@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 1000 * 0.15 = <<1000*0.15=150>>150.
+Sprawnych: 1000 - 150 = <<1000-150=850>>850.
+</reasoning>
+<answer>850</answer>

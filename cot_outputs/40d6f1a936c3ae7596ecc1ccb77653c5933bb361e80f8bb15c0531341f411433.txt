@@ -1,0 +1,4 @@
+<reasoning>
+7500 * 3/100 = <<7500*3/100=225>>225 zabawek.
+</reasoning>
+<answer>225</answer>

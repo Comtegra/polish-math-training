@@ -1,0 +1,4 @@
+<reasoning>
+Liczba zielonych balonów: 250 * 0.20 = <<250*0.20=50>>50 balonów.
+</reasoning>
+<answer>50</answer>

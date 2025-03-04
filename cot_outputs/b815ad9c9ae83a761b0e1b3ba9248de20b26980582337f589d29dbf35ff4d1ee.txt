@@ -1,0 +1,5 @@
+<reasoning>
+4 * 5 = <<4*5=20>>20 puszek
+20 - 6 = <<20-6=14>>14 puszek pozostało
+</reasoning>
+<answer>14</answer>

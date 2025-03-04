@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę zapałek: 7 * 11 = <<7*11=77>>77.
+Odejmujemy zużyte zapałki: 77 - 15 = <<77-15=62>>62.
+</reasoning>
+<answer>62</answer>

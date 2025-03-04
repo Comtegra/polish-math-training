@@ -1,0 +1,6 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 zł za zeszyty
+12 + 2 = <<12+2=14>>14 zł po dodaniu długopisu
+14 + 1 = <<14+1=15>>15 zł łącznego wydatku
+</reasoning>
+<answer>15</answer>

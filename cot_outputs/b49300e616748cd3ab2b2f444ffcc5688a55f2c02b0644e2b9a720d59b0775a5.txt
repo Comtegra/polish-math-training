@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na osobę = 30 / 2 = <<30/2=15>>15 cukierków.
+</reasoning>
+<answer>15</answer>

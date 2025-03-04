@@ -1,0 +1,4 @@
+<reasoning>
+125 / 25 = <<125/25=5>>5 zł.
+</reasoning>
+<answer>5 zł</answer>

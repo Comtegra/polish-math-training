@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego długopisu: 6 / 3 = <<6/3=2>>2 zł.
+Łączny przychód: 90 * 2 = <<90*2=180>>180 zł.
+</reasoning>
+<answer>180</answer>

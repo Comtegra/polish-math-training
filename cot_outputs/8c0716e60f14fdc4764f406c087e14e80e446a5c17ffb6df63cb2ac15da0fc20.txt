@@ -1,0 +1,4 @@
+<reasoning>
+Sprzedano = 75 - 25 = <<75-25=50>>50 dań.
+</reasoning>
+<answer>50</answer>

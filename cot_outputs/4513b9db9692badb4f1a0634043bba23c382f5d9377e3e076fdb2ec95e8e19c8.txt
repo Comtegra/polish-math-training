@@ -1,0 +1,4 @@
+<reasoning>
+Krzeseł w rzędzie = 48 / 6 = <<48/6=8>>8 krzeseł.
+</reasoning>
+<answer>8</answer>

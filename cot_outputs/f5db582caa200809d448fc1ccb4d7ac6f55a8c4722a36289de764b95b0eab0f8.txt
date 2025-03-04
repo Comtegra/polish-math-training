@@ -1,0 +1,6 @@
+<reasoning>
+Koszt jednego jabłka to 1,50 zł
+Oliwia kupiła 10 jabłek
+Całkowity koszt to 10 * 1,50 zł = 15 zł
+</reasoning>
+<answer>15</answer>

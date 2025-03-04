@@ -1,0 +1,4 @@
+<reasoning>
+4 * 1 = <<4*1=4>>4 litrów
+</reasoning>
+<answer>4 litrów</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączna waga = 96 * 2 = <<96*2=192>>192 kg.
+</reasoning>
+<answer>192</answer>

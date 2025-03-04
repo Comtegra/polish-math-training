@@ -1,0 +1,4 @@
+<reasoning>
+Procent: (25 / 200) * 100 = <<(25/200*100)=12.5>>12,5%.
+</reasoning>
+<answer>12.5</answer>

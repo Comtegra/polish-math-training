@@ -1,0 +1,6 @@
+<reasoning>
+Pierwsza część: 2 * 120 = <<2*120=240>>240 km
+Druga część: 1,5 * 120 = <<1.5*120=180>>180 km
+Łącznie: 240 + 180 = <<240+180=420>>420 km
+</reasoning>
+<answer>420</answer>

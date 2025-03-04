@@ -1,0 +1,5 @@
+<reasoning>
+Zajętych: 950 ÷ 5 = 190.
+Wolnych: 950 − 190 = 760 miejsc.
+</reasoning>
+<answer>760</answer>

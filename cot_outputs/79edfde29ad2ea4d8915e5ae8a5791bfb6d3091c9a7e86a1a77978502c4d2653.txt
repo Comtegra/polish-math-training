@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie = 18 * 500 = 9000 g, czyli <<9000g/1000=9>>9 kg.
+</reasoning>
+<answer>9</answer>

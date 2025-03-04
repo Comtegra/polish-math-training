@@ -1,0 +1,5 @@
+<reasoning>
+Biletów po pełnej cenie: 150 * (2/3) = <<150*2/3=100>>100.
+Biletów z rabatem: 150 - 100 = <<150-100=50>>50.
+</reasoning>
+<answer>50</answer>

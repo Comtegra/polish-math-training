@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy godziny dziennie przez liczbę dni: 8 * 5 = <<8*5=40>>40 godzin.
+</reasoning>
+<answer>40</answer>

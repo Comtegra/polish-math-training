@@ -1,0 +1,4 @@
+<reasoning>
+3600 * 25/100 = <<3600*25/100=900>>900 książek.
+</reasoning>
+<answer>900</answer>

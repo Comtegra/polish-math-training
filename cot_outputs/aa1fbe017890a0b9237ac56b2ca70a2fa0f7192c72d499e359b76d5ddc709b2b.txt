@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 300 - 120 = <<300-120=180>>180.
+Następnie: 180 + 30 = <<180+30=210>>210.
+</reasoning>
+<answer>210</answer>

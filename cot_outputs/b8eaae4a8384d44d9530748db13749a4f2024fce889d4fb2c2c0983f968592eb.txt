@@ -1,0 +1,6 @@
+<reasoning>
+Każda karta jest warta 10 zł
+Tomek ma 4 karty
+Całkowita wartość to 4 * 10 zł = 40 zł
+</reasoning>
+<answer>40</answer>

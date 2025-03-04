@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 3 * 150 = <<3*150=450>>450 zł.
+</reasoning>
+<answer>450</answer>

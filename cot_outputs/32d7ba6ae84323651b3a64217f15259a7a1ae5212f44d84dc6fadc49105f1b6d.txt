@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy oszczędności w drugim miesiącu: 45 zł + 15 zł = <<45+15=60>>60 zł.
+Obliczamy oszczędności w trzecim miesiącu: 60 zł + (1/2 × 60 zł) = 60 zł + 30 zł = <<60+30=90>>90 zł.
+Sumujemy oszczędności: 45 zł + 60 zł + 90 zł = <<45+60+90=195>>195 zł.
+</reasoning>
+<answer>195</answer>

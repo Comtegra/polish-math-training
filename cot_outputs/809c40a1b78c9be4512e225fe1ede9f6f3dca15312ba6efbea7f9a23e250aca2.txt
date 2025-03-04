@@ -1,0 +1,4 @@
+<reasoning>
+420 / 6 = <<420/6=70>>70 zł.
+</reasoning>
+<answer>70 zł</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzone jabłka: 120 / 3 = <<120/3=40>>40.
+Dobre jabłka: 120 - 40 = <<120-40=80>>80.
+</reasoning>
+<answer>80</answer>

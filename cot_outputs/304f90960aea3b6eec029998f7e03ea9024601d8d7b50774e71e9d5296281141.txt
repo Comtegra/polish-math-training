@@ -1,0 +1,4 @@
+<reasoning>
+15 - 5 - 3 = <<15-5-3=7>>7 balonów.
+</reasoning>
+<answer>7</answer>

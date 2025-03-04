@@ -1,0 +1,4 @@
+<reasoning>
+16 * 5 = <<16*5=80>>80 gałęzi.
+</reasoning>
+<answer>80 gałęzi</answer>

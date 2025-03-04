@@ -1,0 +1,4 @@
+<reasoning>
+9 * 4 = <<9*4=36>>36 lalek.
+</reasoning>
+<answer>36</answer>

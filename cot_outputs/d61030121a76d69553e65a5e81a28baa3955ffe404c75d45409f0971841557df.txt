@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 2 * 45 = <<2*45=90>>90.
+</reasoning>
+<answer>90</answer>

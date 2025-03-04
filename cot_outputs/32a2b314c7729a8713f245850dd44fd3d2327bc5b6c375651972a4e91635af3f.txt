@@ -1,0 +1,4 @@
+<reasoning>
+500 - 500 * 20/100 = 500 - 100 = <<500-100=400>>400 kredek.
+</reasoning>
+<answer>400</answer>

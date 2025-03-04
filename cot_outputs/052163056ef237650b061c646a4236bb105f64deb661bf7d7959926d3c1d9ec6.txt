@@ -1,0 +1,4 @@
+<reasoning>
+Magnesów na tablicę = 72 / 8 = <<72/8=9>>9 magnesów.
+</reasoning>
+<answer>9</answer>

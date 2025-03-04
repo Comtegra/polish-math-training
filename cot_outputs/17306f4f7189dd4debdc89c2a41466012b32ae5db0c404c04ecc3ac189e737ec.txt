@@ -1,0 +1,4 @@
+<reasoning>
+12 - 4 = <<12-4=8>>8 kawałków
+</reasoning>
+<answer>8</answer>

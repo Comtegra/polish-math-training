@@ -1,0 +1,4 @@
+<reasoning>
+Sumujemy kawałki: 6 + 8 + 10 + 12 = <<6+8+10+12=36>>36.
+</reasoning>
+<answer>36</answer>

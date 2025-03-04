@@ -1,0 +1,4 @@
+<reasoning>
+240 / 20 = <<240/20=12>>12 dni.
+</reasoning>
+<answer>12</answer>

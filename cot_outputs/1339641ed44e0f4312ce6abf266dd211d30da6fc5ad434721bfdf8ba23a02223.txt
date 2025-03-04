@@ -1,0 +1,4 @@
+<reasoning>
+44 / 4 = <<44/4=11>>11 zł.
+</reasoning>
+<answer>11</answer>

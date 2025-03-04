@@ -1,0 +1,4 @@
+<reasoning>
+Liczba dziewczynek: 32 * 0.25 = <<32*0.25=8>>8 dziewczynek.
+</reasoning>
+<answer>8</answer>

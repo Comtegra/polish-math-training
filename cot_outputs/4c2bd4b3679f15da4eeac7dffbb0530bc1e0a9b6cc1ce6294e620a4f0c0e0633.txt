@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 96 jabłek przez 8: 96 / 8 = <<96/8=12>>12 jabłek na koszyk.
+</reasoning>
+<answer>12</answer>

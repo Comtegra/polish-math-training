@@ -1,0 +1,4 @@
+<reasoning>
+Liczba zwycięzców: 90 / 3 = <<90/3=30>>30.
+</reasoning>
+<answer>30</answer>

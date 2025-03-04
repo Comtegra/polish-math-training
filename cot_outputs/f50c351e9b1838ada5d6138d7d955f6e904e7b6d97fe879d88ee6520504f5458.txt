@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało produktów = 150 - 90 = <<150-90=60>>60 produktów.
+</reasoning>
+<answer>60</answer>

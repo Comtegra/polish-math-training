@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego pluszaka: 27 / 3 = <<27/3=9>>9 zł.
+Cena 12 pluszaków: 12 * 9 = <<12*9=108>>108 zł.
+</reasoning>
+<answer>108</answer>

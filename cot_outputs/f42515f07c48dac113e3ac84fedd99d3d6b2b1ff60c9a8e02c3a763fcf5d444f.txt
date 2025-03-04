@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy wydane monety od początkowej liczby: 50 − 17 = <<50-17=33>>33 monet.
+</reasoning>
+<answer>33</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+2400 / 6 = <<2400/6=400>>400 podręczników.
+</reasoning>
+<answer>400</answer>

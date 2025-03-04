@@ -1,0 +1,4 @@
+<reasoning>
+70 * 20/100 = <<70*20/100=14>>14 karasi.
+</reasoning>
+<answer>14</answer>

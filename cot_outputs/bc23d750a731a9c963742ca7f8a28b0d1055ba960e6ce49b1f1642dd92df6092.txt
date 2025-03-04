@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie stron = 300 * 5 = <<300*5=1500>>1500 stron.
+</reasoning>
+<answer>1500</answer>

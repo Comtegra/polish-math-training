@@ -1,0 +1,4 @@
+<reasoning>
+Średnia produkcja: 540 / 9 = <<540/9=60>>60 zabawek na godzinę.
+</reasoning>
+<answer>60</answer>

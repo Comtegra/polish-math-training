@@ -1,0 +1,4 @@
+<reasoning>
+192 / 8 = <<192/8=24>>24 ciastek.
+</reasoning>
+<answer>24 ciastek</answer>

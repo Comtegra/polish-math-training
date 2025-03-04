@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy koszt zabawek: 4 * 35 = <<4*35=140>>140 zł.
+Odejmujemy od 200 zł: 200 - 140 = <<200-140=60>>60 zł.
+</reasoning>
+<answer>60</answer>

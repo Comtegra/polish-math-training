@@ -1,0 +1,4 @@
+<reasoning>
+Ciasteczek na osobę = 24 / 8 = <<24/8=3>>3 ciasteczka.
+</reasoning>
+<answer>3</answer>

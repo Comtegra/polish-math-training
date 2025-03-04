@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie saszetek: 4 * 8 = <<4*8=32>>32 saszetek.
+</reasoning>
+<answer>32</answer>

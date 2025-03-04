@@ -1,0 +1,5 @@
+<reasoning>
+2 * 15 = <<2*15=30>>30 zł wydane na gry
+48 - 30 = <<48-30=18>>18 zł pozostało
+</reasoning>
+<answer>18</answer>

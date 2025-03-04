@@ -1,0 +1,4 @@
+<reasoning>
+Ola kupiła 6 paczek chipsów po 20 sztuk w każdej paczce, co daje 6 * 20 zł = 120 zł. Zniżka wynosi 10% z 120 zł, czyli 0,10 * 120 zł = 12 zł. Zatem Ola zapłaci 120 zł - 12 zł = 108 zł.
+</reasoning>
+<answer>108 zł</answer>

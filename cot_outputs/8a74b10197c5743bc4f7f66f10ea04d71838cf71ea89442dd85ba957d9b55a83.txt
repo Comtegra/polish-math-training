@@ -1,0 +1,5 @@
+<reasoning>
+Suma zakupów: 27 + 18 = <<27+18=45>>45 zł.
+Pozostało: 90 - 45 = <<90-45=45>>45 zł.
+</reasoning>
+<answer>45</answer>

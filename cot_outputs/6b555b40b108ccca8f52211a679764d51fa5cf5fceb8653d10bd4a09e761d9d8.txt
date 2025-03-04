@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 3 * 12 = <<3*12=36>>36.
+Następnie: 36 - 4 = <<36-4=32>>32.
+</reasoning>
+<answer>32</answer>

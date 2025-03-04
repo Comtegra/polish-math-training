@@ -1,0 +1,5 @@
+<reasoning>
+Biletów ulgowych: 360 * 0.10 = <<360*0.10=36>>36.
+Biletów normalnych: 360 - 36 = <<360-36=324>>324.
+</reasoning>
+<answer>324</answer>

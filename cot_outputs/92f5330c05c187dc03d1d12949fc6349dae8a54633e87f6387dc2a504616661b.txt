@@ -1,0 +1,6 @@
+<reasoning>
+Jacek ma 6 jabłek
+Jego przyjaciel ma 6 + 3 = 9 jabłek
+Razem mają 6 + 9 = 15 jabłek
+</reasoning>
+<answer>15</answer>

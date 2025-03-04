@@ -1,0 +1,5 @@
+<reasoning>
+15 - 7 = <<15-7=8>>8 zł po zakupie książki
+8 - 3 = <<8-3=5>>5 zł po zakupie długopisu
+</reasoning>
+<answer>5</answer>

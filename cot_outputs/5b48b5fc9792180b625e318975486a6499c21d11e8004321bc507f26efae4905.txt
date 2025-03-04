@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/4 z 48: 48 * 1/4 = <<48*1/4=12>>12 ciastek zjedzonych.
+Odejmujemy: 48 - 12 = <<48-12=36>>36 ciastek pozostało.
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw mnożymy: 5 * 2 = <<5*2=10>>10.
+Następnie odejmujemy zjedzone ciasteczka: 10 - 3 = <<10-3=7>>7.
+</reasoning>
+<answer>7</answer>

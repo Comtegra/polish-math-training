@@ -1,0 +1,4 @@
+<reasoning>
+120 - 75 = <<120-75=45>>45 miejsc.
+</reasoning>
+<answer>45</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 250 - (5 * 40) = 250 - 200 = <<250-200=50>>50 zł.
+</reasoning>
+<answer>50</answer>

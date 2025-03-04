@@ -1,0 +1,4 @@
+<reasoning>
+10 * 12 = <<10*12=120>>120 jabłek.
+</reasoning>
+<answer>120</answer>

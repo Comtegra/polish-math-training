@@ -1,0 +1,4 @@
+<reasoning>
+100 - 45 = <<100-45=55>>55 naklejek
+</reasoning>
+<answer>55</answer>

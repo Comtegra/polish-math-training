@@ -1,0 +1,4 @@
+<reasoning>
+Liczba toreb = 500 / 50 = <<500/50=10>>10 toreb.
+</reasoning>
+<answer>10</answer>

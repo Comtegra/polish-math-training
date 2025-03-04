@@ -1,0 +1,4 @@
+<reasoning>
+20 * 3200 = <<20*3200=64000>>64000 zł.
+</reasoning>
+<answer>64000 zł</answer>

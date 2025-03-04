@@ -1,0 +1,4 @@
+<reasoning>
+7 * 190 = <<7*190=1330>>1330 osób.
+</reasoning>
+<answer>1330</answer>

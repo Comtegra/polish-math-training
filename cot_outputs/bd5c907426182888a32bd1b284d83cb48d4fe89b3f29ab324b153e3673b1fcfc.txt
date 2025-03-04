@@ -1,0 +1,5 @@
+<reasoning>
+Nowych: 540 * 0.20 = <<540*0.20=108>>108.
+Starych: 540 - 108 = <<540-108=432>>432 książek.
+</reasoning>
+<answer>432</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+64 / 8 = <<64/8=8>>8 dni.
+</reasoning>
+<answer>8 dni</answer>

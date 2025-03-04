@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy zużyte koraliki: 11 * 5 = <<11*5=55>>55.
+Odejmujemy od całości: 66 - 55 = <<66-55=11>>11.
+</reasoning>
+<answer>11</answer>

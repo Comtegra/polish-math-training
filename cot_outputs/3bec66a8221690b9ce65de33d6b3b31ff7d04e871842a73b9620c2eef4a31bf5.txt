@@ -1,0 +1,4 @@
+<reasoning>
+Łączny przychód: 6 * 3500 = <<6*3500=21000>>21 000 zł.
+</reasoning>
+<answer>21000</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie butelek = 9 * 24 = <<9*24=216>>216 butelek.
+</reasoning>
+<answer>216</answer>

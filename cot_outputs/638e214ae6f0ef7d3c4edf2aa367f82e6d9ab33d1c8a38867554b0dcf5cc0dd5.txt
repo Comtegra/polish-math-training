@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie pięter = 10 * 5 = <<10*5=50>>50 pięter.
+</reasoning>
+<answer>50</answer>

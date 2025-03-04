@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba ciastek: 4 * 11 = <<4*11=44>>44 ciastek.
+Odejmujemy zjedzone ciasteczka: 44 - 8 = <<44-8=36>>36 ciastek.
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie monitorów = 12 * 2 = <<12*2=24>>24 monitory.
+</reasoning>
+<answer>24</answer>

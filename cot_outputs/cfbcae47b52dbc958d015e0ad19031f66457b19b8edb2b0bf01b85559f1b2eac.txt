@@ -1,0 +1,4 @@
+<reasoning>
+Niech T oznacza kwotę pieniędzy, którą ma Tomek. Wtedy Kasia ma T + 10 zł. Razem mają 65 zł, więc T + (T + 10 zł) = 65 zł. To upraszcza się do 2T + 10 zł = 65 zł, a następnie 2T = 55 zł. Stąd T = 55 zł / 2 = 27.5 zł. Tomek ma 27.5 zł.
+</reasoning>
+<answer>27.5</answer>

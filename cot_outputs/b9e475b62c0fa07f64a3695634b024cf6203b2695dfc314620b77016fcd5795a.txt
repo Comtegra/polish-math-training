@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie minut = 5 * 4 = <<5*4=20>>20 minut.
+</reasoning>
+<answer>20</answer>

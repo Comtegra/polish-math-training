@@ -1,0 +1,4 @@
+<reasoning>
+350 - 300 = <<350-300=50>>50 zł
+</reasoning>
+<answer>50</answer>

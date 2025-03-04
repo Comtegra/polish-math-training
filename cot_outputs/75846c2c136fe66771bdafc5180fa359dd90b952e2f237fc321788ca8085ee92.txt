@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy koszt komputera: 250 - 180 = <<250-180=70>>70 zł.
+</reasoning>
+<answer>70</answer>

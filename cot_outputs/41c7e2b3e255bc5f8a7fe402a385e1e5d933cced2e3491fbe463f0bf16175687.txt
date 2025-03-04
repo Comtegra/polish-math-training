@@ -1,0 +1,4 @@
+<reasoning>
+1500 * 40/100 = <<1500*40/100=600>>600 czasopism.
+</reasoning>
+<answer>600</answer>

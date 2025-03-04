@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba ławek: 12 * 5 = <<12*5=60>>60 ławek.
+</reasoning>
+<answer>60</answer>

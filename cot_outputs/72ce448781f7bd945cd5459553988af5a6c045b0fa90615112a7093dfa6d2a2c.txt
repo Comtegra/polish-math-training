@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 500 - 120 = <<500-120=380>>380.
+Następnie: 380 + 90 = <<380+90=470>>470.
+</reasoning>
+<answer>470</answer>

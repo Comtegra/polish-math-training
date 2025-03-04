@@ -1,0 +1,4 @@
+<reasoning>
+60 - 20 = <<60-20=40>>40 muszelek
+</reasoning>
+<answer>40</answer>

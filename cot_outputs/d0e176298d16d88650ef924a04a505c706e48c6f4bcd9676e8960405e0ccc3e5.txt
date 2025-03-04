@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy: 120 / 8 = <<120/8=15>>15.
+Następnie odejmujemy: 15 - 3 = <<15-3=12>>12.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 80 - 12 = <<80-12=68>>68.
+Dodajemy nowe drzewa: 68 + 8 = <<68+8=76>>76.
+</reasoning>
+<answer>76</answer>

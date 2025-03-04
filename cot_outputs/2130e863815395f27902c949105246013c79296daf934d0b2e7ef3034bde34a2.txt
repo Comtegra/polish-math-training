@@ -1,0 +1,4 @@
+<reasoning>
+150 / 300 * 100 = <<150/300*100=50>>50%.
+</reasoning>
+<answer>50%</answer>

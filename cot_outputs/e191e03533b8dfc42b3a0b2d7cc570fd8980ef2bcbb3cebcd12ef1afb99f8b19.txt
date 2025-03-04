@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy łączny koszt zabawek: 2 × 15 = <<2×15=30>>30 zł.
+Następnie sumujemy koszty: 35 zł + 30 zł = <<35+30=65>>65 zł.
+Odejmujemy sumę wydatków od 100 zł: 100 − 65 = <<100-65=35>>35 zł.
+</reasoning>
+<answer>35</answer>

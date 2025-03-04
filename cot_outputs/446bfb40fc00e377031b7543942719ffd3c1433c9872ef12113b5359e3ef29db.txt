@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 30% z 150: 150 * 0.30 = <<150*0.30=45>>45 powieści.
+</reasoning>
+<answer>45</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę piłek przez 3: 27 / 3 = <<27/3=9>>9 paczek.
+</reasoning>
+<answer>9</answer>

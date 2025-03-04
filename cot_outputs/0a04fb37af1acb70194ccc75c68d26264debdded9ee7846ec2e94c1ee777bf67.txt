@@ -1,0 +1,4 @@
+<reasoning>
+Szklanki soku = 10 * 3 = <<10*3=30>>30 szklanek.
+</reasoning>
+<answer>30</answer>

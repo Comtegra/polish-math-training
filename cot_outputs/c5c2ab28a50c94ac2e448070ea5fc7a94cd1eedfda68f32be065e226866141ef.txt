@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie złotych = 25 * 4 = <<25*4=100>>100 zł.
+</reasoning>
+<answer>100</answer>

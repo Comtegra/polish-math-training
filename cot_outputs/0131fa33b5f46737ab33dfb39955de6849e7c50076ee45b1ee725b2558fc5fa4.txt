@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało kawałków = 16 - 4 = <<16-4=12>>12 kawałków.
+</reasoning>
+<answer>12</answer>

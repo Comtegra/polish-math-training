@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 5 * 10 = <<5*10=50>>50.
+Następnie: 50 - 7 = <<50-7=43>>43.
+</reasoning>
+<answer>43</answer>

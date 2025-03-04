@@ -1,0 +1,4 @@
+<reasoning>
+Osób bez dzieci = 300 - 120 = <<300-120=180>>180 osób.
+</reasoning>
+<answer>180</answer>

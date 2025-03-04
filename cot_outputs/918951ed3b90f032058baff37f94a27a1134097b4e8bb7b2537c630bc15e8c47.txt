@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy nieobecnych: 36 / 4 = <<36/4=9>>9.
+Następnie: 36 - 9 = <<36-9=27>>27.
+</reasoning>
+<answer>27</answer>

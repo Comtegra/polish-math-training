@@ -1,0 +1,5 @@
+<reasoning>
+Desery: 480 ÷ 4 = 120.
+Dania główne: 480 − 120 = 360.
+</reasoning>
+<answer>360</answer>

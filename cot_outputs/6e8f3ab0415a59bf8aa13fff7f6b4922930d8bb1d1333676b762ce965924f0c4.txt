@@ -1,0 +1,4 @@
+<reasoning>
+500 / 0.8 = <<500/0.8=625>>625 zł.
+</reasoning>
+<answer>625 zł</answer>

@@ -1,0 +1,894 @@
+{"question": "Nina ma 90 balonów, z których 1/3 jest niebieskich. Ile jest niebieskich balonów?", "answer": "Obliczamy 1/3 z 90: 90 / 3 = <<90/3=30>>30 niebieskich balonów.\n#### 30"}
+{"question": "Olek kupił 5 książek, każda kosztuje 18 zł. Ile zapłacił łącznie?", "answer": "Mnożymy: 5 * 18 = <<5*18=90>>90 zł.\n#### 90"}
+{"question": "Paweł ma 75 jabłek i dzieli je na 5 koszyków. Ile jabłek znajduje się w każdym koszyku?", "answer": "Dzielimy: 75 / 5 = <<75/5=15>>15 jabłek.\n#### 15"}
+{"question": "Rafał ma 60 monet i kupił zabawkę za 25 monet. Ile monet mu zostało?", "answer": "Odejmujemy: 60 - 25 = <<60-25=35>>35 monet.\n#### 35"}
+{"question": "Sylwia upiekła 120 ciastek i sprzedała 1/4 z nich. Ile ciastek sprzedała?", "answer": "Obliczamy 1/4 z 120: 120 / 4 = <<120/4=30>>30 ciastek.\n#### 30"}
+{"question": "Tomasz zebrał 84 kamienie i ułożył je w 7 stosów. Ile kamieni znajduje się w każdym stosie?", "answer": "Dzielimy: 84 / 7 = <<84/7=12>>12 kamieni.\n#### 12"}
+{"question": "Urszula ma 100 zł i kupiła 2 zabawki po 30 zł każda. Ile pieniędzy jej zostało?", "answer": "Koszt zabawek: 2 * 30 = <<2*30=60>>60 zł.\nOdejmujemy od 100 zł: 100 - 60 = <<100-60=40>>40 zł.\n#### 40"}
+{"question": "Wojtek kupił 8 paczek cukierków, w każdej po 10 cukierków. Zjadł 12 cukierków. Ile cukierków pozostało?", "answer": "Obliczamy łączną liczbę cukierków: 8 * 10 = <<8*10=80>>80.\nOdejmujemy zjedzone: 80 - 12 = <<80-12=68>>68 cukierków.\n#### 68"}
+{"question": "Xenia ma 72 kredki i oddaje 1/3 z nich swojej koleżance. Ile kredek oddała?", "answer": "Obliczamy 1/3 z 72: 72 / 3 = <<72/3=24>>24 kredki.\n#### 24"}
+{"question": "Yuri ma 56 jabłek i dzieli je równo między 7 przyjaciół. Ile jabłek otrzymuje każdy?", "answer": "Dzielimy: 56 / 7 = <<56/7=8>>8 jabłek.\n#### 8"}
+{"question": "Zuzanna upiekła 90 babeczek, z czego 1/5 jest czekoladowych. Ile babeczek jest czekoladowych?", "answer": "Obliczamy 1/5 z 90: 90 / 5 = <<90/5=18>>18 babeczek.\n#### 18"}
+{"question": "Adam ma 44 liście i dodaje do nich 12. Ile liści ma teraz?", "answer": "Dodajemy: 44 + 12 = <<44+12=56>>56 liści.\n#### 56"}
+{"question": "Bartek kupił 15 zeszytów, każdy ma 24 strony. Ile stron ma łącznie?", "answer": "Mnożymy: 15 * 24 = <<15*24=360>>360 stron.\n#### 360"}
+{"question": "Celina ma 36 ołówków i oddała 1/3 z nich. Ile ołówków oddała?", "answer": "Obliczamy 1/3 z 36: 36 / 3 = <<36/3=12>>12 ołówków.\n#### 12"}
+{"question": "Damian kupił 4 opakowania herbatników, w każdym po 11 ciastek. Ile ciastek ma w sumie?", "answer": "Mnożymy: 4 * 11 = <<4*11=44>>44 ciastek.\n#### 44"}
+{"question": "Eryk ma 90 zł i kupił 3 zabawki po 25 zł każda. Ile pieniędzy mu zostanie?", "answer": "Koszt zabawek: 3 * 25 = <<3*25=75>>75 zł.\nOdejmujemy od 90 zł: 90 - 75 = <<90-75=15>>15 zł.\n#### 15"}
+{"question": "Felicjan ma 64 balony i dzieli je równo dla 8 przyjaciół. Ile balonów dostaje każdy?", "answer": "Dzielimy: 64 / 8 = <<64/8=8>>8 balonów.\n#### 8"}
+{"question": "Gabriela ma 56 długopisów i dzieli je na 7 paczek. Ile długopisów znajduje się w każdej paczce?", "answer": "Dzielimy: 56 / 7 = <<56/7=8>>8 długopisów.\n#### 8"}
+{"question": "Hubert kupił 2 opakowania ciastek, każde po 20 ciastek. Zjadł 10 ciastek. Ile ciastek pozostało?", "answer": "Łączna liczba ciastek: 2 * 20 = <<2*20=40>>40.\nOdejmujemy zjedzone: 40 - 10 = <<40-10=30>>30 ciastek.\n#### 30"}
+{"question": "Iwona ma 80 monet i oddała 1/4 z nich. Ile monet oddała?", "answer": "Obliczamy 1/4 z 80: 80 / 4 = <<80/4=20>>20 monet.\n#### 20"}
+{"question": "Jolanta kupiła 9 książek, każda kosztuje 15 zł. Ile zapłaciła łącznie?", "answer": "Mnożymy: 9 * 15 = <<9*15=135>>135 zł.\n#### 135"}
+{"question": "Kornel ma 48 bombek i chce je podzielić na 6 równych paczek. Ile bombek będzie w jednej paczce?", "answer": "Dzielimy: 48 / 6 = <<48/6=8>>8 bombek.\n#### 8"}
+{"question": "Leon ma 100 cukierków i zjadł 20. Ile cukierków mu pozostało?", "answer": "Odejmujemy: 100 - 20 = <<100-20=80>>80 cukierków.\n#### 80"}
+{"question": "Magdalena ma 36 kartek i rozdaje je równomiernie na 4 teczki. Ile kartek znajdzie się w każdej teczce?", "answer": "Dzielimy: 36 / 4 = <<36/4=9>>9 kartek.\n#### 9"}
+{"question": "Norbert kupił 7 paczek ołówków, każda po 9 ołówków. Ile ołówków ma łącznie?", "answer": "Mnożymy: 7 * 9 = <<7*9=63>>63 ołówków.\n#### 63"}
+{"question": "Olga upiekła 80 ciastek, z których 1/5 sprzedaje. Ile ciastek sprzedaje?", "answer": "Obliczamy 1/5 z 80: 80 / 5 = <<80/5=16>>16 ciastek.\n#### 16"}
+{"question": "Przemysław ma 90 zł i kupił 2 zabawki po 30 zł każda. Ile pieniędzy mu zostanie?", "answer": "Koszt zabawek: 2 * 30 = <<2*30=60>>60 zł.\nOdejmujemy od 90 zł: 90 - 60 = <<90-60=30>>30 zł.\n#### 30"}
+{"question": "Renata ma 120 balonów i dzieli je równo między 10 dzieci. Ile balonów otrzymuje każde dziecko?", "answer": "Dzielimy: 120 / 10 = <<120/10=12>>12 balonów.\n#### 12"}
+{"question": "Stefan kupił 3 paczki soku, każda zawiera 5 butelek. Wypił 7 butelek. Ile butelek soku pozostało?", "answer": "Łączna liczba butelek: 3 * 5 = <<3*5=15>>15.\nOdejmujemy wypite: 15 - 7 = <<15-7=8>>8 butelek.\n#### 8"}
+{"question": "Teresa ma 84 kredki i dzieli je równomiernie na 7 opakowań. Ile kredek znajduje się w każdym opakowaniu?", "answer": "Dzielimy: 84 / 7 = <<84/7=12>>12 kredek.\n#### 12"}
+{"question": "Adam kupił 24 jabłka. Następnie sprzedał 5 jabłek, a potem dostał 3 jabłka od kolegi. Ile jabłek ma teraz Adam?", "answer": "Adam ma początkowo 24 jabłka.\nSprzedaje 5: 24 − 5 = 19 jabłek.\nDostaje 3: 19 + 3 = 22 jabłka.\n#### 22"}
+{"question": "Monika miała 50 zł. Kupiła książkę za 18 zł, a następnie dostała 10 zł od przyjaciela. Ile pieniędzy ma teraz Monika?", "answer": "Monika ma początkowo 50 zł.\nPo zakupie książki: 50 − 18 = 32 zł.\nDostaje 10 zł: 32 + 10 = 42 zł.\n#### 42"}
+{"question": "W klasie jest 30 uczniów. Jeśli 2/3 uczniów przyniosło swoje zadanie domowe, ile uczniów nie przyniosło zadania?", "answer": "Obliczamy 2/3 z 30: 30 × (2/3) = 20 uczniów, którzy przynieśli zadanie.\nNie przyniosło: 30 − 20 = 10 uczniów.\n#### 10"}
+{"question": "Samochód przejechał 150 km, a następnie 80 km. Ile kilometrów przejechał łącznie?", "answer": "Łączny dystans: 150 + 80 = 230 km.\n#### 230"}
+{"question": "W pewnym sklepie cena przedmiotu została najpierw zwiększona o 20%, a potem obniżona o 20%. Czy cena końcowa jest taka sama jak początkowa? Oblicz.", "answer": "Przyjmijmy cenę początkową: 100 zł.\nPo zwiększeniu o 20%: 100 + 20 = 120 zł.\nPo obniżeniu o 20%: 120 − (20% z 120) = 120 − 24 = 96 zł.\nCena końcowa to 96 zł, czyli jest niższa od początkowej.\n#### 96 zł"}
+{"question": "Kasia miała 3/4 paczki cukierków. Zjadła 1/2 z niej. Jaka część całej paczki pozostała?", "answer": "Kasia miała 3/4 paczki.\nZjadła: (1/2) × (3/4) = 3/8 paczki.\nPozostało: 3/4 − 3/8 = 6/8 − 3/8 = 3/8 paczki.\n#### 3/8"}
+{"question": "W pewnej fabryce wyprodukowano 240 zabawek. Jeśli 1/3 z nich jest wadliwych, ile zabawek można sprzedać?", "answer": "Liczba wadliwych zabawek: 240 × (1/3) = 80.\nZabawki do sprzedaży: 240 − 80 = 160.\n#### 160"}
+{"question": "Piotr kupił 5 paczek ołówków, a w każdej paczce było 12 ołówków. Następnie rozdał 18 ołówków kolegom. Ile ołówków mu pozostało?", "answer": "Łączna liczba ołówków: 5 × 12 = 60.\nPo rozdaniu: 60 − 18 = 42 ołówki.\n#### 42"}
+{"question": "W szkolnej bibliotece jest 120 książek. Jeśli 1/4 z nich to książki przygodowe, ile jest książek nieprzygodowych?", "answer": "Książki przygodowe: 120 × (1/4) = 30.\nKsiążki nieprzygodowe: 120 − 30 = 90.\n#### 90"}
+{"question": "Kowalski spędził 2/5 swojego dnia na nauce i resztę na odpoczynku. Ile godzin odpoczywa, jeśli dzień ma 24 godziny?", "answer": "Czas nauki: 2/5 × 24 = 9.6 godziny.\nCzas odpoczynku: 24 − 9.6 = 14.4 godziny.\n#### 14.4"}
+{"question": "W sklepie trwa promocja: kup 3 zabawki, a czwarta gratis. Jeśli każda zabawka kosztuje 15 zł, ile zapłacisz za 4 zabawki?", "answer": "Cena 3 zabawek: 3 × 15 = 45 zł.\nCzwarta jest gratis, więc 0 zł.\nŁącznie: 45 zł.\n#### 45 zł"}
+{"question": "Ania miała 80 zł. Kupiła dwie książki po 15 zł każda, a następnie dostarczyła 10% rabatu na cały zakup. Ile zapłaciła ostatecznie?", "answer": "Suma cen książek: 2 × 15 = 30 zł.\nRabat 10%: 30 × 0.10 = 3 zł.\nCena po rabacie: 30 − 3 = 27 zł.\n#### 27 zł"}
+{"question": "W pewnym zadaniu matematycznym rozwiązanie wymaga wykonania 4 działań: 50 + 20, wynik pomnożony przez 2, następnie odjęcie 10, a na końcu podzielenie przez 2. Jaki jest wynik końcowy?", "answer": "Krok 1: 50 + 20 = 70.\nKrok 2: 70 × 2 = 140.\nKrok 3: 140 − 10 = 130.\nKrok 4: 130 ÷ 2 = 65.\n#### 65"}
+{"question": "W ogrodzie rośnie 48 drzew. Jeśli 1/3 z nich to dęby, a reszta to sosny, ile sosn znajduje się w ogrodzie?", "answer": "Liczba dębów: 48 × (1/3) = 16.\nLiczba sosn: 48 − 16 = 32.\n#### 32"}
+{"question": "Bilet do kina kosztuje 25 zł. Jeśli kupujesz 4 bilety, a dostajesz 10% rabatu od całkowitej ceny, ile zapłacisz?", "answer": "Cena bez rabatu: 4 × 25 = 100 zł.\nRabat 10%: 100 × 0.10 = 10 zł.\nCena po rabacie: 100 − 10 = 90 zł.\n#### 90 zł"}
+{"question": "W pewnej grze komputerowej zdobyto 360 punktów. Jeśli 25% punktów to bonusy, ile punktów zdobyto bez bonusów?", "answer": "Liczba punktów bonusowych: 360 × 0.25 = 90.\nPunkty bez bonusów: 360 − 90 = 270.\n#### 270"}
+{"question": "W klasie jest 28 uczniów. Jeśli 3/4 z nich wzięło udział w konkursie matematycznym, ile uczniów nie wzięło udziału?", "answer": "Liczba uczestniczących: 28 × (3/4) = 21.\nNie uczestniczą: 28 − 21 = 7.\n#### 7"}
+{"question": "Marek kupił 8 zeszytów. Po oddaniu 1/4 zeszytów przyjaciółce zostało mu 6. Oblicz, ile zeszytów oddał Marek.", "answer": "Oddanych zeszytów: 8 × (1/4) = 2.\nPozostało: 8 − 2 = 6.\nInformacja jest spójna.\n#### 2 oddane zeszyty"}
+{"question": "Cena produktu wzrosła z 80 zł do 100 zł. O ile procent wzrosła cena?", "answer": "Różnica: 100 zł − 80 zł = 20 zł.\nProcentowy wzrost: (20/80) × 100% = 25%.\n#### 25%"}
+{"question": "W pewnej fabryce w ciągu dnia wyprodukowano 500 elementów. Jeśli 10% z nich jest wadliwych, a 15% trafia na recykling, ile elementów jest w dobrej kondycji?", "answer": "Wadliwe elementy: 500 × 0.10 = 50.\nElementy do recyklingu: 500 × 0.15 = 75.\nElementy w dobrej kondycji: 500 − 50 − 75 = 375.\n#### 375"}
+{"question": "Ania miała 15 balonów, 5 z nich pękło, a następnie kupiła 10 nowych. Ile balonów ma teraz Ania?", "answer": "Początkowo Ania miała 15 balonów.\nPo pęknięciu 5: 15 - 5 = 10 balonów.\nKupując 10 nowych: 10 + 10 = 20 balonów.\n#### 20"}
+{"question": "Tomek miał 50 zł, kupił książkę za 18 zł, a dostał 12 zł od rodziców. Ile pieniędzy ma teraz Tomek?", "answer": "Początkowo: 50 zł.\nPo zakupie książki: 50 - 18 = 32 zł.\nPo otrzymaniu 12 zł: 32 + 12 = 44 zł.\n#### 44 zł"}
+{"question": "W pewnym ogrodzie rośnie 60 drzew. 1/3 z nich to jabłonie. Ile jabłoni znajduje się w ogrodzie?", "answer": "Obliczamy 1/3 z 60: 60 × (1/3) = 20 jabłoni.\n#### 20 jabłoni"}
+{"question": "W klasie jest 32 uczniów. Jeśli 3/8 z nich jest chorych, ile uczniów przychodzi na lekcje?", "answer": "Chorych uczniów: 32 × (3/8) = 12.\nObecnych: 32 - 12 = 20 uczniów.\n#### 20 uczniów"}
+{"question": "Marta kupiła 4 zeszyty po 7 zł każdy, a potem oddała koleżance 2 zeszyty. Ile zeszytów jej pozostało?", "answer": "Łącznie kupiła: 4 zeszyty.\nOddała 2: 4 - 2 = 2 zeszyty.\n#### 2 zeszyty"}
+{"question": "Bartek miał 80 cukierków. Rozdał 1/4 z nich kolegom, a potem dostał 10 cukierków. Ile cukierków ma teraz?", "answer": "Rozdanych: 80 × (1/4) = 20.\nPozostało: 80 - 20 = 60.\nPo otrzymaniu 10: 60 + 10 = 70 cukierków.\n#### 70 cukierków"}
+{"question": "W pewnej fabryce wyprodukowano 240 zabawek. 1/5 z nich okazało się wadliwe. Ile zabawek nadaje się do sprzedaży?", "answer": "Wadliwe: 240 × (1/5) = 48.\nSprzedawalne: 240 - 48 = 192 zabawki.\n#### 192 zabawki"}
+{"question": "Jeśli Kasia ma 3 razy więcej książek niż Ola, a razem mają 32 książki, ile książek ma Kasia?", "answer": "Oznaczmy liczbę książek Oli jako x, wtedy Kasia ma 3x.\nRównanie: x + 3x = 32 → 4x = 32, więc x = 8.\nKasia: 3 × 8 = 24 książki.\n#### 24 książki"}
+{"question": "Książka kosztowała 40 zł. Po rabacie 15% ile wynosi cena po obniżce?", "answer": "Rabat: 40 × 0.15 = 6 zł.\nCena po rabacie: 40 - 6 = 34 zł.\n#### 34 zł"}
+{"question": "W pewnej cukierni przygotowano 150 ciastek. Sprzedano 2/3 z nich. Ile ciastek pozostało?", "answer": "Sprzedano: 150 × (2/3) = 100 ciastek.\nPozostało: 150 - 100 = 50 ciastek.\n#### 50 ciastek"}
+{"question": "W ogrodzie jest 90 kwiatów. Jeśli 1/3 z nich to róże, ile jest pozostałych kwiatów?", "answer": "Róże: 90 × (1/3) = 30.\nPozostałe kwiaty: 90 - 30 = 60.\n#### 60 kwiatów"}
+{"question": "Basia miała 100 zł. Kupiła lody za 15 zł i bilety do kina za 25 zł. Ile pieniędzy jej pozostało?", "answer": "Po lodach: 100 - 15 = 85 zł.\nPo kinie: 85 - 25 = 60 zł.\n#### 60 zł"}
+{"question": "Oblicz wynik: dodaj 20 do 30, pomnóż wynik przez 2, a potem odejmij 10.", "answer": "20 + 30 = 50.\n50 × 2 = 100.\n100 - 10 = 90.\n#### 90"}
+{"question": "Janek ma 24 kredki, a jego brat ma 1,5 raza więcej. Ile kredek ma brat?", "answer": "Brat: 24 × 1.5 = 36 kredek.\n#### 36 kredek"}
+{"question": "Cena długopisu wzrosła z 8 zł do 10 zł. O ile procent wzrosła cena?", "answer": "Różnica: 10 - 8 = 2 zł.\nProcentowy wzrost: (2/8) × 100% = 25%.\n#### 25%"}
+{"question": "W sklepie sprzedano 120 zabawek. Jeśli 20% z nich było uszkodzonych, ile zabawek sprzedano jako sprawne?", "answer": "Uszkodzone: 120 × 0.20 = 24.\nSprawne: 120 - 24 = 96.\n#### 96 zabawek"}
+{"question": "Mama kupiła 3 paczki ciastek po 15 ciastek każda. Jeśli z każdej paczki zjedzono 1/5 ciastek, ile ciastek pozostało w sumie?", "answer": "Ciastek w paczce: 15.\nZjedzonych: 15 × (1/5) = 3.\nPozostało: 15 - 3 = 12 ciastek na paczkę.\nŁącznie: 3 × 12 = 36 ciastek.\n#### 36 ciastek"}
+{"question": "W bibliotece znajduje się 200 książek. Jeśli 30% z nich to powieści, ile książek nie jest powieścią?", "answer": "Powieści: 200 × 0.30 = 60 książek.\nPozostałe: 200 - 60 = 140 książek.\n#### 140 książek"}
+{"question": "W biurze pracuje 80 osób. Jeśli 3/8 z nich to kobiety, ile mężczyzn pracuje w biurze?", "answer": "Kobiety: 80 × (3/8) = 30.\nMężczyźni: 80 - 30 = 50.\n#### 50 osób"}
+{"question": "W fabryce wyprodukowano 600 elementów. Jeśli 5% było wadliwych, a 10% trafiło na recykling, ile elementów jest sprawnych?", "answer": "Wadliwe: 600 × 0.05 = 30.\nRecykling: 600 × 0.10 = 60.\nSprawne: 600 - 30 - 60 = 510.\n#### 510 elementów"}
+{"question": "Kasia kupiła 6 pudełek ołówków, w każdym po 8 ołówków. Jeśli zużyła 1/3 wszystkich ołówków, ile ołówków jej zostało?", "answer": "Łącznie: 6 × 8 = 48 ołówków.\nZużytych: 48 × (1/3) = 16.\nPozostało: 48 - 16 = 32 ołówki.\n#### 32 ołówki"}
+{"question": "Darek miał 200 punktów w grze. Stracił 15%, a potem zdobył dodatkowo 50 punktów. Ile punktów ma teraz?", "answer": "Strata: 200 × 0.15 = 30.\nPozostało: 200 - 30 = 170.\nPo zdobyciu 50: 170 + 50 = 220 punktów.\n#### 220 punktów"}
+{"question": "W konkursie zgłosiło się 120 osób. Jeśli 1/4 z nich to dzieci, ile osób to dorośli?", "answer": "Dzieci: 120 × (1/4) = 30.\nDorośli: 120 - 30 = 90.\n#### 90 osób"}
+{"question": "Sklep oferuje promocję: kup 2 zabawki, a trzeci otrzymasz gratis. Jeśli każda zabawka kosztuje 20 zł, ile zapłacisz za 3 zabawki?", "answer": "Cena 2 zabawek: 2 × 20 = 40 zł.\nTrzecia gratis.\nŁącznie: 40 zł.\n#### 40 zł"}
+{"question": "W klasie jest 28 uczniów. Jeśli 2/7 z nich otrzymało wyróżnienie, ile uczniów ma wyróżnienie?", "answer": "Uczniów z wyróżnieniem: 28 × (2/7) = 8.\n#### 8 uczniów"}
+{"question": "Piotr kupił 7 paczek kredek po 10 kredek w każdej. Jeśli oddał 5 kredek, ile kredek mu pozostało?", "answer": "Łącznie kredek: 7 × 10 = 70.\nPo oddaniu: 70 - 5 = 65 kredek.\n#### 65 kredek"}
+{"question": "W księgarni sprzedano 90 książek. Jeśli 1/3 z nich to powieści, ile sprzedano podręczników?", "answer": "Powieści: 90 × (1/3) = 30.\nPodręczniki: 90 - 30 = 60 książek.\n#### 60 książek"}
+{"question": "Kasia ma 12 jabłek, a Ola ma o 4 jabłka więcej. Ile jabłek mają razem?", "answer": "Ola: 12 + 4 = 16 jabłek.\nRazem: 12 + 16 = 28 jabłek.\n#### 28 jabłek"}
+{"question": "Na festynie sprzedano 250 biletów. Jeśli 20% biletów sprzedano z rabatem, ile biletów kupiono po regularnej cenie?", "answer": "Biletów z rabatem: 250 × 0.20 = 50.\nRegularnych: 250 - 50 = 200 biletów.\n#### 200 biletów"}
+{"question": "W klasie liczba chłopców jest dwa razy większa od liczby dziewcząt. Jeśli razem jest 27 uczniów, ile jest dziewcząt?", "answer": "Oznaczmy liczbę dziewcząt jako x, wtedy chłopców jest 2x.\nRównanie: x + 2x = 27 → 3x = 27, więc x = 9.\n#### 9 dziewcząt"}
+{"question": "Cena dżemu wynosiła 12 zł, ale po obniżce o 25% kosztuje mniej. Jaka jest nowa cena dżemu?", "answer": "Obniżka: 12 × 0.25 = 3 zł.\nNowa cena: 12 - 3 = 9 zł.\n#### 9 zł"}
+{"question": "W fabryce wyprodukowano 360 zabawek. Jeśli 1/4 z nich trafiło do sklepu, ile zabawek trafiło do magazynu?", "answer": "Do sklepu: 360 × (1/4) = 90.\nDo magazynu: 360 - 90 = 270.\n#### 270 zabawek"}
+{"question": "Ania miała 40 zł. Kupiła lody za 8 zł i ciastko za 12 zł, a następnie dostała 10 zł od przyjaciół. Ile pieniędzy ma teraz?", "answer": "Po zakupach: 40 - 8 - 12 = 20 zł.\nPo otrzymaniu 10 zł: 20 + 10 = 30 zł.\n#### 30 zł"}
+{"question": "W konkursie nagrody otrzymało 3/5 uczestników. Jeśli w konkursie było 50 osób, ile osób nie otrzymało nagrody?", "answer": "Otrzymało nagrodę: 50 × (3/5) = 30.\nNie otrzymało: 50 - 30 = 20 osób.\n#### 20 osób"}
+{"question": "W stacji benzynowej sprzedano 400 litrów paliwa. Jeśli 15% to benzyna bezołowiowa, ile litrów tej benzyny sprzedano?", "answer": "Benzyny bezołowiowej: 400 × 0.15 = 60 litrów.\n#### 60 litrów"}
+{"question": "W klasie uczniowie rozwiązali 84 zadania. Jeśli każda grupa 7 uczniów rozwiązała 12 zadań, ile uczniów było w klasie?", "answer": "Liczba grup: 84 ÷ 12 = 7.\nŁączna liczba uczniów: 7 × 7 = 49.\n#### 49 uczniów"}
+{"question": "W sklepie sprzedano 150 biletów. Jeśli 40% kupujących to studenci, ile biletów kupiło studentów?", "answer": "Biletów dla studentów: 150 × 0.40 = 60.\n#### 60 biletów"}
+{"question": "Cena telefonu zmniejszyła się o 15% z pierwotnych 800 zł. Ile wynosi cena po obniżce?", "answer": "Obniżka: 800 × 0.15 = 120 zł.\nCena po obniżce: 800 - 120 = 680 zł.\n#### 680 zł"}
+{"question": "W akwarium jest 50 ryb. Jeśli 1/5 z nich to karasie, ile ryb nie jest karasiami?", "answer": "Karasie: 50 × (1/5) = 10.\nPozostałe: 50 - 10 = 40 ryb.\n#### 40 ryb"}
+{"question": "W przedszkolu jest 30 dzieci. Jeśli 2/3 z nich uczestniczyło w zabawie, ile dzieci nie brało udziału?", "answer": "Uczestniczyło: 30 × (2/3) = 20.\nNie uczestniczyło: 30 - 20 = 10 dzieci.\n#### 10 dzieci"}
+{"question": "W sklepie komputerowym sprzedano 72 laptopy. Jeśli 1/4 z nich to modele premium, ile laptopów to modele standardowe?", "answer": "Modele premium: 72 × (1/4) = 18.\nStandardowe: 72 - 18 = 54 laptopów.\n#### 54 laptopy"}
+{"question": "W fabryce wyprodukowano 1000 butelek napoju. Jeśli 12% butelek miało wadę, ile butelek wykonano poprawnie?", "answer": "Wadliwe: 1000 × 0.12 = 120.\nPoprawne: 1000 - 120 = 880 butelek.\n#### 880 butelek"}
+{"question": "Kasia miała 3 paczki markerów po 10 sztuk. Jeśli straciła 1/3 markerów, ile markerów jej pozostało?", "answer": "Łącznie markerów: 3 × 10 = 30.\nStraconych: 30 × (1/3) = 10.\nPozostało: 30 - 10 = 20 markerów.\n#### 20 markerów"}
+{"question": "W zbiorze liczb średnia wynosiła 50. Po dodaniu liczby 70 nowa średnia wynosi 52. Ile liczb było w zbiorze pierwotnie?", "answer": "Oznaczmy liczbę elementów jako n. Suma początkowa: 50n.\nNowa suma: 50n + 70, a liczba elementów: n + 1.\nRównanie: (50n + 70)/(n + 1) = 52.\n50n + 70 = 52n + 52 → 70 - 52 = 2n → 18 = 2n, n = 9.\n#### 9 liczb"}
+{"question": "Cena roweru wynosiła 900 zł, ale obniżono ją o 10% w promocji. Ile wynosi nowa cena?", "answer": "Obniżka: 900 × 0.10 = 90 zł.\nNowa cena: 900 - 90 = 810 zł.\n#### 810 zł"}
+{"question": "Na lekcji WF-u 36 uczniów podzielono na 4 drużyny. Ile uczniów było w każdej drużynie?", "answer": "Uczniów w drużynie: 36 ÷ 4 = 9.\n#### 9 uczniów"}
+{"question": "W bibliotece wypożyczono 240 książek. Jeśli 1/3 z nich to książki przygodowe, ile książek nie jest przygodowych?", "answer": "Książki przygodowe: 240 × (1/3) = 80.\nPozostałe: 240 - 80 = 160 książek.\n#### 160 książek"}
+{"question": "W przedszkolu dzieci zebrały 90 jabłek. Jeśli 1/5 jabłek zostało zjedzonych, ile jabłek pozostało?", "answer": "Zjedzonych: 90 × (1/5) = 18.\nPozostało: 90 - 18 = 72 jabłka.\n#### 72 jabłka"}
+{"question": "W klasie zorganizowano zbiórkę pieniędzy i zebrano 500 zł, a każda osoba wpłaciła 25 zł. Ile osób wzięło udział?", "answer": "Liczba osób: 500 ÷ 25 = 20.\n#### 20 osób"}
+{"question": "Autobusem przejechano 240 km. Pierwszy odcinek to 2/5 trasy, a reszta to 144 km. Ile kilometrów wynosił pierwszy odcinek?", "answer": "Obliczamy: 240 - 144 = 96 km.\nSprawdzenie: 96/240 = 0.4 = 2/5.\n#### 96 km"}
+{"question": "W pewnym sklepie sprzedano 300 ciastek. Jeśli 1/5 z nich miało czekoladę, ile ciastek nie miało czekolady?", "answer": "Ciastek z czekoladą: 300 × (1/5) = 60.\nCiastek bez czekolady: 300 - 60 = 240.\n#### 240"}
+{"question": "Basia miała 45 zł, kupiła lody za 12 zł, a następnie dostała 8 zł od kolegi. Ile pieniędzy ma teraz Basia?", "answer": "Po zakupie lodów: 45 - 12 = 33 zł.\nPo otrzymaniu pieniędzy: 33 + 8 = 41 zł.\n#### 41 zł"}
+{"question": "W klasie jest 40 uczniów, a 3/8 z nich to chłopcy. Ile dziewcząt jest w klasie?", "answer": "Chłopcy: 40 × (3/8) = 15.\nDziewcząt: 40 - 15 = 25.\n#### 25 dziewcząt"}
+{"question": "Samochód przejechał najpierw 500 km, a potem dodatkowe 200 km. Jaki jest łączny przebieg?", "answer": "Łączny dystans: 500 + 200 = 700 km.\n#### 700 km"}
+{"question": "Książka kosztowała 50 zł, a była przeceniona o 20%. Ile wynosi cena po rabacie?", "answer": "Rabat: 50 × 0.20 = 10 zł.\nCena po rabacie: 50 - 10 = 40 zł.\n#### 40 zł"}
+{"question": "W biurze pracuje 120 osób. Jeśli 25% stanowią kobiety, ile mężczyzn pracuje w biurze?", "answer": "Kobiety: 120 × 0.25 = 30.\nMężczyźni: 120 - 30 = 90.\n#### 90 osób"}
+{"question": "W fabryce wyprodukowano 800 elementów, z czego 5% okazało się wadliwych. Ile elementów jest poprawnych?", "answer": "Wadliwe: 800 × 0.05 = 40.\nPoprawne: 800 - 40 = 760.\n#### 760 elementów"}
+{"question": "W zbiorze liczb średnia wynosiła 40. Po dodaniu liczby 60, nowa średnia wzrosła do 41. Ile liczb było w zbiorze początkowo?", "answer": "Oznaczmy liczbę elementów jako n.\n(40n + 60)/(n + 1) = 41 → 40n + 60 = 41n + 41 → n = 19.\n#### 19 liczb"}
+{"question": "Ania kupiła 5 pudełek kredek, w każdym po 12 kredek. Jeśli oddała 8 kredek, ile kredek jej pozostało?", "answer": "Łącznie kredek: 5 × 12 = 60.\nPozostało: 60 - 8 = 52.\n#### 52 kredki"}
+{"question": "W klasie 36 uczniów. Jeśli 1/3 uczniów to miłośnicy matematyki, ile uczniów nie lubi matematyki?", "answer": "Uczniów lubiących matematykę: 36 ÷ 3 = 12.\nPozostało: 36 - 12 = 24.\n#### 24 uczniów"}
+{"question": "W parku rośnie 150 drzew, a 2/5 z nich to sosny. Ile drzew stanowią inne gatunki?", "answer": "Sosny: 150 × (2/5) = 60.\nInne drzewa: 150 - 60 = 90.\n#### 90 drzew"}
+{"question": "W konkursie zgłosiło się 80 osób. Jeśli 15% z nich to zawodowcy, ile osób to amatorzy?", "answer": "Zawodowcy: 80 × 0.15 = 12.\nAmatorzy: 80 - 12 = 68.\n#### 68 osób"}
+{"question": "W sklepie sprzedano 250 długopisów. Jeśli 20% z nich to długopisy żelowe, ile stanowią długopisy standardowe?", "answer": "Długopisy żelowe: 250 × 0.20 = 50.\nStandardowe: 250 - 50 = 200.\n#### 200 długopisów"}
+{"question": "Marek kupił 9 paczek ołówków, każda po 10 ołówków. Jeśli zużył 15 ołówków, ile ołówków pozostało?", "answer": "Łącznie ołówków: 9 × 10 = 90.\nPozostało: 90 - 15 = 75.\n#### 75 ołówków"}
+{"question": "Na basenie było 80 osób. Jeśli 1/4 z nich opuściło basen, ile osób pozostało?", "answer": "Opuściło: 80 × (1/4) = 20.\nPozostało: 80 - 20 = 60.\n#### 60 osób"}
+{"question": "Sklep oferuje promocję: kup 3 zabawki, a czwarta gratis. Ile zapłacisz za 8 zabawek, jeśli każda kosztuje 25 zł?", "answer": "W promocji za 4 zabawki płacisz za 3: 3 × 25 = 75 zł.\nDla 8 zabawek – promocja działa dwa razy: 2 × 75 = 150 zł.\n#### 150 zł"}
+{"question": "W bibliotece jest 500 książek, z czego 40% to kryminały. Ile książek to inne gatunki?", "answer": "Kryminały: 500 × 0.40 = 200.\nPozostałe książki: 500 - 200 = 300.\n#### 300 książek"}
+{"question": "Cena produktu wzrosła z 120 zł do 150 zł. O ile procent wzrosła cena?", "answer": "Różnica: 150 - 120 = 30 zł.\nProcentowy wzrost: (30/120) × 100% = 25%.\n#### 25%"}
+{"question": "W biurze jest 70 komputerów. Jeśli 10% z nich jest zepsutych, ile komputerów działa poprawnie?", "answer": "Zepsute: 70 × 0.10 = 7.\nDziałające: 70 - 7 = 63.\n#### 63 komputery"}
+{"question": "W ogrodzie jest 90 kwiatów, z których 1/3 to tulipany. Ile kwiatów to inne gatunki?", "answer": "Tulipany: 90 × (1/3) = 30.\nInne kwiaty: 90 - 30 = 60.\n#### 60 kwiatów"}
+{"question": "Na festynie sprzedano 600 biletów. Jeśli 1/5 z nich to bilety ulgowe, ile biletów było sprzedanych po regularnej cenie?", "answer": "Bilety ulgowe: 600 × (1/5) = 120.\nRegularne: 600 - 120 = 480.\n#### 480 biletów"}
+{"question": "W konkursie matematycznym 32 uczniów otrzymało dyplom, co stanowi 40% uczestników. Ile osób brało udział w konkursie?", "answer": "Liczba uczestników: 32 ÷ 0.40 = 80.\n#### 80 osób"}
+{"question": "Kasia kupiła 8 książek po 15 zł każda, a następnie otrzymała rabat 10% na cały zakup. Ile zapłaciła ostatecznie?", "answer": "Łączna cena: 8 × 15 = 120 zł.\nRabat: 120 × 0.10 = 12 zł.\nCena po rabacie: 120 - 12 = 108 zł.\n#### 108 zł"}
+{"question": "W sklepie komputerowym sprzedano 90 laptopów. Jeśli 1/3 z nich to modele z dotykowym ekranem, ile modeli standardowych sprzedano?", "answer": "Modele z dotykowym ekranem: 90 ÷ 3 = 30.\nStandardowe: 90 - 30 = 60.\n#### 60 laptopów"}
+{"question": "W restauracji zjedzono 240 posiłków. Jeśli 1/4 z nich to posiłki wegetariańskie, ile posiłków to dania mięsne?", "answer": "Posiłki wegetariańskie: 240 × (1/4) = 60.\nPosiłki mięsne: 240 - 60 = 180.\n#### 180 posiłków"}
+{"question": "W fabryce wyprodukowano 1000 butelek. Jeśli 8% butelek było wadliwych, ile butelek wykonano poprawnie?", "answer": "Wadliwe: 1000 × 0.08 = 80.\nPoprawne: 1000 - 80 = 920.\n#### 920 butelek"}
+{"question": "Na wyprzedaży obniżono cenę kurtki z 200 zł o 30%. Ile wynosi nowa cena kurtki?", "answer": "Rabat: 200 × 0.30 = 60 zł.\nNowa cena: 200 - 60 = 140 zł.\n#### 140 zł"}
+{"question": "W klasie jest 50 uczniów, a 60% z nich to chłopcy. Ile dziewcząt jest w klasie?", "answer": "Chłopcy: 50 × 0.60 = 30.\nDziewcząt: 50 - 30 = 20.\n#### 20 dziewcząt"}
+{"question": "W pewnym zadaniu wykonano 150 operacji. Jeśli 1/5 z nich to dodawanie, ile operacji stanowią pozostałe działania?", "answer": "Operacje dodawania: 150 × (1/5) = 30.\nPozostałe operacje: 150 - 30 = 120.\n#### 120 operacji"}
+{"question": "W sklepie sprzedano 400 sztuk artykułu. Jeśli 25% stanowią artykuły promocyjne, ile sztuk sprzedano po regularnej cenie?", "answer": "Artykuły promocyjne: 400 × 0.25 = 100.\nRegularne: 400 - 100 = 300.\n#### 300 sztuk"}
+{"question": "Janek kupił 10 zeszytów po 4 zł każdy. Jeśli oddał 2 zeszyty, ile zeszytów pozostało Janowi?", "answer": "Łącznie zeszytów: 10.\nPozostało: 10 - 2 = 8.\n#### 8 zeszytów"}
+{"question": "W parku rośnie 200 drzew, a 35% z nich to sosny. Ile drzew to inne gatunki?", "answer": "Sosny: 200 × 0.35 = 70.\nInne drzewa: 200 - 70 = 130.\n#### 130 drzew"}
+{"question": "W szkole organizowano 5 konkursów, w których łącznie uczestniczyło 250 uczniów. Jeśli w pierwszym konkursie uczestniczyło 20% uczniów, ile osób brało udział w pierwszym konkursie?", "answer": "Uczestników w pierwszym konkursie: 250 × 0.20 = 50.\n#### 50 uczniów"}
+{"question": "Cena roweru wzrosła o 50 zł i wynosi teraz 350 zł. Jaka była pierwotna cena roweru?", "answer": "Pierwotna cena: 350 - 50 = 300 zł.\n#### 300 zł"}
+{"question": "Na basenie było 90 osób. Jeśli 1/3 z nich to dzieci, ile osób to dorośli?", "answer": "Dzieci: 90 × (1/3) = 30.\nDorośli: 90 - 30 = 60.\n#### 60 osób"}
+{"question": "W fabryce wyprodukowano 720 elementów. Jeśli 10% z nich jest wadliwych, ile elementów jest poprawnych?", "answer": "Wadliwe: 720 × 0.10 = 72.\nPoprawne: 720 - 72 = 648.\n#### 648 elementów"}
+{"question": "W biurze pracuje 96 osób, z czego 1/4 to menedżerowie. Ile osób nie jest menedżerami?", "answer": "Menedżerów: 96 × (1/4) = 24.\nPozostali pracownicy: 96 - 24 = 72.\n#### 72 osoby"}
+{"question": "W księgarni sprzedano 180 książek, a 30% z nich to literatura piękna. Ile książek należy do pozostałych gatunków?", "answer": "Literatura piękna: 180 × 0.30 = 54.\nPozostałe książki: 180 - 54 = 126.\n#### 126 książek"}
+{"question": "W sklepie spożywczym było 300 owoców. Jeśli 40% to jabłka, ile owoców stanowią inne rodzaje?", "answer": "Jabłka: 300 × 0.40 = 120.\nInne owoce: 300 - 120 = 180.\n#### 180 owoców"}
+{"question": "W pewnym zadaniu rozwiązano 96 równań. Jeśli 1/8 z nich rozwiązano błędnie, ile równań było rozwiązanych poprawnie?", "answer": "Błędnie rozwiązane: 96 ÷ 8 = 12.\nPoprawne: 96 - 12 = 84.\n#### 84 równania"}
+{"question": "Ania kupiła 3 paczki długopisów, każda po 14 długopisów. Jeśli użyła 10 długopisów, ile długopisów jej pozostało?", "answer": "Łącznie długopisów: 3 × 14 = 42.\nPozostało: 42 - 10 = 32.\n#### 32 długopisy"}
+{"question": "W restauracji sprzedano 120 pizz, z czego 15% to pizze z podwójnym serem. Ile pizz stanowiły pozostałe rodzaje?", "answer": "Pizze z podwójnym serem: 120 × 0.15 = 18.\nPozostałe pizze: 120 - 18 = 102.\n#### 102 pizze"}
+{"question": "W klasie jest 34 uczniów. Jeśli 5 uczniów nie przyniosło podręczników, ile uczniów miało podręczniki?", "answer": "Uczniów z podręcznikami: 34 - 5 = 29.\n#### 29 uczniów"}
+{"question": "W sklepie z ubraniami sprzedano 160 koszulek. Jeśli 1/4 z nich to koszulki rozmiaru L, ile koszulek to inne rozmiary?", "answer": "Koszulki L: 160 × (1/4) = 40.\nPozostałe: 160 - 40 = 120.\n#### 120 koszulek"}
+{"question": "Rozwiąż działanie: najpierw dodaj 25 i 35, następnie podziel wynik przez 5, a potem pomnóż przez 3. Jaki jest wynik końcowy?", "answer": "25 + 35 = 60.\n60 ÷ 5 = 12.\n12 × 3 = 36.\n#### 36"}
+{"question": "Książka ma 80 stron. Jeśli przeczytano 3/4 książki, ile stron pozostało do przeczytania?", "answer": "Przeczytano: 80 × 0.75 = 60 stron.\nPozostało: 80 - 60 = 20 stron.\n#### 20 stron"}
+{"question": "W konkursie było 150 uczestników. Jeśli 1/10 z nich otrzymało wyróżnienie, ile uczestników nie otrzymało wyróżnienia?", "answer": "Otrzymało wyróżnienie: 150 × (1/10) = 15.\nNie otrzymało: 150 - 15 = 135.\n#### 135 uczestników"}
+{"question": "W magazynie jest 400 pudełek, z czego 20% jest uszkodzonych. Ile pudełek jest w dobrym stanie?", "answer": "Uszkodzonych: 400 × 0.20 = 80.\nDobrych: 400 - 80 = 320.\n#### 320 pudełek"}
+{"question": "W sklepie z zabawkami sprzedano 55 zabawek. Jeśli 10 z nich to lalki, ile zabawek to nie lalki?", "answer": "Lalki: 10.\nPozostałe zabawki: 55 - 10 = 45.\n#### 45 zabawek"}
+{"question": "Na lekcji matematyki uczniowie rozwiązali 200 zadań. Jeśli 1/5 z nich dotyczyło dodawania, ile zadań dotyczyło innych działań?", "answer": "Zadania na dodawanie: 200 × (1/5) = 40.\nPozostałe: 200 - 40 = 160.\n#### 160 zadań"}
+{"question": "W sklepie było 1500 cukierków. Sprzedano 30% z nich w ciągu jednego dnia, a następnie sprzedano kolejnych 20% z pozostałych. Ile cukierków zostało w sklepie?", "answer": "Sprzedano pierwszego dnia: 1500 × 0.30 = 450.\nPozostało: 1500 − 450 = 1050.\nSprzedano drugiego dnia: 1050 × 0.20 = 210.\nPozostało: 1050 − 210 = 840.\n#### 840 cukierków"}
+{"question": "Adam zbierał pieczątki. Miał 50, potem dostał kolejne 40, a następnie oddał 30. Ile pieczątek ma teraz?", "answer": "50 + 40 = 90.\n90 − 30 = 60.\n#### 60 pieczątek"}
+{"question": "W pewnym sporcie zdobyto 120 punktów. Jeśli 1/3 punktów to punkty z rzutów wolnych, ile punktów zdobyto z innych akcji?", "answer": "Punkty z rzutów wolnych: 120 × (1/3) = 40.\nPozostałe punkty: 120 − 40 = 80.\n#### 80 punktów"}
+{"question": "Na lekcji matematyki uczniowie rozwiązali 75 zadań. Jeśli każde 5 zadań rozwiązywano przez jednego ucznia, ile uczniów brało udział?", "answer": "Liczba uczniów: 75 ÷ 5 = 15.\n#### 15 uczniów"}
+{"question": "Kowalski miał 100 zł. Kupił książkę za 35 zł i zeszyt za 15 zł. Ile pieniędzy mu zostało?", "answer": "Wydatki: 35 + 15 = 50 zł.\nPozostało: 100 − 50 = 50 zł.\n#### 50 zł"}
+{"question": "W fabryce wyprodukowano 600 urządzeń. Jeśli 10% z nich jest wadliwych, ile urządzeń jest sprawnych?", "answer": "Wadliwe: 600 × 0.10 = 60.\nSprawne: 600 − 60 = 540.\n#### 540 urządzeń"}
+{"question": "W bibliotece jest 250 książek, z których 40% to powieści. Ile książek nie jest powieścią?", "answer": "Powieści: 250 × 0.40 = 100.\nPozostałe książki: 250 − 100 = 150.\n#### 150 książek"}
+{"question": "W klasie jest 28 uczniów. Jeśli 6 uczniów poszło na konkurs, ile uczniów pozostało w klasie?", "answer": "Pozostało: 28 − 6 = 22.\n#### 22 uczniów"}
+{"question": "W pewnym sklepie obniżono cenę kurtki z 250 zł o 20%. Jaka jest nowa cena?", "answer": "Obniżka: 250 × 0.20 = 50 zł.\nNowa cena: 250 − 50 = 200 zł.\n#### 200 zł"}
+{"question": "W parku rośnie 100 drzew. Jeśli 25% to dęby, ile drzew to inne gatunki?", "answer": "Dęby: 100 × 0.25 = 25.\nInne drzewa: 100 − 25 = 75.\n#### 75 drzew"}
+{"question": "W sklepie z butami sprzedano 80 par, a 15% z nich to buty sportowe. Ile par to buty eleganckie?", "answer": "Buty sportowe: 80 × 0.15 = 12.\nButy eleganckie: 80 − 12 = 68.\n#### 68 par"}
+{"question": "W restauracji przygotowano 120 dań. Jeśli 30% to dania wegetariańskie, ile dań to dania mięsne?", "answer": "Dania wegetariańskie: 120 × 0.30 = 36.\nDania mięsne: 120 − 36 = 84.\n#### 84 dania"}
+{"question": "Kasia kupiła 4 zeszyty po 8 zł każdy, a potem dostała rabat 10% na cały zakup. Ile zapłaciła?", "answer": "Łączna cena: 4 × 8 = 32 zł.\nRabat: 32 × 0.10 = 3,2 zł.\nCena po rabacie: 32 − 3,2 = 28,8 zł.\n#### 28,8 zł"}
+{"question": "W biurze jest 120 pracowników. Jeśli 1/4 z nich to menedżerowie, ile osób nie jest menedżerami?", "answer": "Menedżerowie: 120 × (1/4) = 30.\nPozostali: 120 − 30 = 90.\n#### 90 osób"}
+{"question": "W parku zabaw jest 45 dzieci. Jeśli 1/3 z nich gra w piłkę, ile dzieci gra w berka?", "answer": "Grające w piłkę: 45 ÷ 3 = 15.\nPozostałe: 45 − 15 = 30.\n#### 30 dzieci"}
+{"question": "W sklepie komputerowym sprzedano 150 laptopów, z których 20% to modele z ekranem dotykowym. Ile laptopów to modele standardowe?", "answer": "Modele dotykowe: 150 × 0.20 = 30.\nModele standardowe: 150 − 30 = 120.\n#### 120 laptopów"}
+{"question": "W pewnym konkursie 90 uczniów zdobyło średnio 70 punktów. Jaki jest łączny wynik wszystkich uczniów?", "answer": "Łączny wynik: 90 × 70 = 6300.\n#### 6300 punktów"}
+{"question": "Ania miała 200 kart. Rozdała 30%, a potem otrzymała od koleżanki 20 kart. Ile kart ma teraz?", "answer": "Rozdane: 200 × 0.30 = 60.\nPozostało: 200 − 60 = 140.\nDodano: 140 + 20 = 160.\n#### 160 kart"}
+{"question": "W pewnej fabryce w ciągu dnia wyprodukowano 900 produktów. Jeśli 5% jest wadliwych, ile produktów można sprzedać?", "answer": "Wadliwe: 900 × 0.05 = 45.\nSprzedawalne: 900 − 45 = 855.\n#### 855 produktów"}
+{"question": "Książka ma 320 stron. Jeśli Ania przeczytała 3/8 książki, ile stron przeczytała?", "answer": "Przeczytane: 320 × (3/8) = 120.\n#### 120 stron"}
+{"question": "W koszyku było 84 jabłka. Jeśli 1/4 z nich było zielonych, ile jabłek było czerwonych?", "answer": "Zielone: 84 ÷ 4 = 21.\nCzerwone: 84 − 21 = 63.\n#### 63 jabłka"}
+{"question": "Na wycieczce uczestniczyło 48 osób. Jeśli 1/3 z nich to dzieci, ile dorosłych?", "answer": "Dzieci: 48 ÷ 3 = 16.\nDorośli: 48 − 16 = 32.\n#### 32 osób"}
+{"question": "W sali koncertowej jest 600 miejsc. Jeśli 85% miejsc zostało sprzedanych, ile miejsc zostało wolnych?", "answer": "Sprzedane: 600 × 0.85 = 510.\nWolne: 600 − 510 = 90.\n#### 90 miejsc"}
+{"question": "W sklepie z ubraniami sprzedano 250 koszulek, a 30% z nich było w rozmiarze M. Ile koszulek nie było rozmiaru M?", "answer": "Rozmiar M: 250 × 0.30 = 75.\nPozostałe: 250 − 75 = 175.\n#### 175 koszulek"}
+{"question": "W parku rośnie 150 drzew. Jeśli 2/5 z nich to sosny, ile drzew to inne gatunki?", "answer": "Sosny: 150 × (2/5) = 60.\nInne drzewa: 150 − 60 = 90.\n#### 90 drzew"}
+{"question": "W kinie sprzedano 120 biletów. Jeśli cena biletu wynosi 15 zł, ile łącznie zarobiono?", "answer": "Łączna kwota: 120 × 15 = 1800 zł.\n#### 1800 zł"}
+{"question": "W pewnym zadaniu dodaj 45 i 55, a następnie podziel przez 5. Jaki jest wynik?", "answer": "45 + 55 = 100.\n100 ÷ 5 = 20.\n#### 20"}
+{"question": "W sklepie spożywczym było 360 jaj. Sprzedano 20%, ile jaj pozostało?", "answer": "Sprzedano: 360 × 0.20 = 72.\nPozostało: 360 − 72 = 288.\n#### 288 jaj"}
+{"question": "W pewnym biurze pracuje 80 osób. Jeśli 10 osób jest na urlopie, ile osób pracuje?", "answer": "Pracujących: 80 − 10 = 70.\n#### 70 osób"}
+{"question": "W sklepie komputerowym było 200 dysków. Sprzedano 25% z nich, ile dysków pozostało?", "answer": "Sprzedano: 200 × 0.25 = 50.\nPozostało: 200 − 50 = 150.\n#### 150 dysków"}
+{"question": "W konkursie sportowym uczestniczyło 120 osób. Jeśli 2/3 zdobyło medal, ile osób nie zdobyło medalu?", "answer": "Zdobywających medal: 120 × (2/3) = 80.\nBez medalu: 120 − 80 = 40.\n#### 40 osób"}
+{"question": "W pewnym zadaniu pomnóż 16 przez 7, a potem dodaj 8. Jaki jest wynik?", "answer": "16 × 7 = 112.\n112 + 8 = 120.\n#### 120"}
+{"question": "W autobusie było 90 pasażerów. Jeśli 1/10 z nich wysiadło na pierwszym przystanku, ile pasażerów pozostało?", "answer": "Wysiadło: 90 ÷ 10 = 9.\nPozostało: 90 − 9 = 81.\n#### 81 pasażerów"}
+{"question": "W pewnym sklepie cena telewizora wynosiła 2000 zł. Po rabacie 15%, ile wynosi nowa cena?", "answer": "Rabat: 2000 × 0.15 = 300 zł.\nNowa cena: 2000 − 300 = 1700 zł.\n#### 1700 zł"}
+{"question": "W gospodarstwie jest 70 kur. Jeśli 20% z nich znosi jajka codziennie, ile kur codziennie znosi jajka?", "answer": "Kur znoszących jajka: 70 × 0.20 = 14.\n#### 14 kur"}
+{"question": "W pewnym magazynie znajduje się 400 pudeł, z których 30% jest uszkodzonych. Ile pudeł jest w dobrym stanie?", "answer": "Uszkodzonych: 400 × 0.30 = 120.\nDobrych: 400 − 120 = 280.\n#### 280 pudeł"}
+{"question": "W pewnym zadaniu odejmij 45 od 150, a następnie podziel wynik przez 5. Jaki jest wynik?", "answer": "150 − 45 = 105.\n105 ÷ 5 = 21.\n#### 21"}
+{"question": "W sali koncertowej sprzedano 800 biletów. Jeśli 10% biletów to bilety VIP, ile biletów standardowych sprzedano?", "answer": "VIP: 800 × 0.10 = 80.\nStandardowych: 800 − 80 = 720.\n#### 720 biletów"}
+{"question": "Kasia ma 60 zł. Jeśli kupi 3 książki po 12 zł każda, ile pieniędzy jej zostanie?", "answer": "Łączny koszt: 3 × 12 = 36 zł.\nPozostało: 60 − 36 = 24 zł.\n#### 24 zł"}
+{"question": "W pewnym zadaniu oblicz: (25 + 35) × 2 − 40. Jaki jest wynik?", "answer": "25 + 35 = 60.\n60 × 2 = 120.\n120 − 40 = 80.\n#### 80"}
+{"question": "W parku rośnie 240 drzew. Jeśli 1/4 z nich to sosny, ile drzew to inne gatunki?", "answer": "Sosny: 240 ÷ 4 = 60.\nInne: 240 − 60 = 180.\n#### 180 drzew"}
+{"question": "W sklepie spożywczym było 500 kg ziemniaków. Sprzedano 60% z nich, ile kg ziemniaków zostało?", "answer": "Sprzedano: 500 × 0.60 = 300 kg.\nPozostało: 500 − 300 = 200 kg.\n#### 200 kg"}
+{"question": "W pewnym zadaniu oblicz: dodaj 18 i 27, a następnie podziel przez 9. Jaki jest wynik?", "answer": "18 + 27 = 45.\n45 ÷ 9 = 5.\n#### 5"}
+{"question": "W biurze jest 84 komputery. Jeśli 1/7 z nich jest uszkodzonych, ile komputerów działa poprawnie?", "answer": "Uszkodzonych: 84 ÷ 7 = 12.\nDziałających: 84 − 12 = 72.\n#### 72 komputery"}
+{"question": "W pewnym sklepie było 360 balonów. Jeśli 30% z nich zostało sprzedanych, ile balonów zostało?", "answer": "Sprzedanych: 360 × 0.30 = 108.\nPozostało: 360 − 108 = 252.\n#### 252 balony"}
+{"question": "W klasie jest 32 uczniów. Jeśli 25% uczniów to osoby z dyplomami, ile uczniów nie ma dyplomów?", "answer": "Uczniów z dyplomami: 32 × 0.25 = 8.\nBez dyplomów: 32 − 8 = 24.\n#### 24 uczniów"}
+{"question": "Kowalski ma 5 razy więcej punktów niż Janek. Jeśli razem mają 36 punktów, ile punktów ma Janek?", "answer": "Oznaczmy punkty Janka jako x, wtedy Kowalski ma 5x.\nRównanie: x + 5x = 36, więc 6x = 36, x = 6.\n#### 6 punktów"}
+{"question": "W pewnej firmie zatrudniono 120 pracowników. Jeśli 40 pracowników to dział sprzedaży, ile pracowników pracuje w innych działach?", "answer": "Pozostali: 120 − 40 = 80.\n#### 80 pracowników"}
+{"question": "W pewnym zadaniu wykonano 150 operacji, z czego 20% to mnożenie. Ile operacji to nie mnożenie?", "answer": "Mnożenie: 150 × 0.20 = 30.\nPozostałe: 150 − 30 = 120.\n#### 120 operacji"}
+{"question": "W pewnym sklepie cena jabłka wynosiła 3 zł. Jeśli kupisz 15 jabłek, ile zapłacisz łącznie?", "answer": "Łączny koszt: 15 × 3 = 45 zł.\n#### 45 zł"}
+{"question": "W sklepie było 240 cukierków. Sprzedano 1/4 z nich, ile cukierków pozostało?", "answer": "Sprzedano: 240 × (1/4) = 60.\nPozostało: 240 − 60 = 180.\n#### 180 cukierków"}
+{"question": "Jan miał 80 zł, kupił zabawkę za 35 zł, a potem dostał 15 zł od kolegi. Ile ma teraz pieniędzy?", "answer": "80 − 35 = 45.\n45 + 15 = 60.\n#### 60 zł"}
+{"question": "W klasie jest 42 uczniów. Jeśli 1/3 z nich to dziewczęta, ile jest chłopców?", "answer": "Dziewczęta: 42 ÷ 3 = 14.\nChłopcy: 42 − 14 = 28.\n#### 28 uczniów"}
+{"question": "W bibliotece znajduje się 120 książek. Jeśli 1/5 to komiksy, ile książek należy do innych gatunków?", "answer": "Komiksy: 120 ÷ 5 = 24.\nPozostałe: 120 − 24 = 96.\n#### 96 książek"}
+{"question": "Na pikniku przygotowano 150 kanapek. Jeśli 30% z nich jest z serem, ile kanapek jest bez sera?", "answer": "Kanapki z serem: 150 × 0.30 = 45.\nBez sera: 150 − 45 = 105.\n#### 105 kanapek"}
+{"question": "W ogrodzie rośnie 90 drzew. Jeśli 1/3 z nich to brzozy, ile drzew stanowią pozostałe gatunki?", "answer": "Brzozy: 90 ÷ 3 = 30.\nPozostałe drzewa: 90 − 30 = 60.\n#### 60 drzew"}
+{"question": "W sklepie komputerowym sprzedano 72 komputery. Jeśli 1/4 z nich to laptopy, ile to komputery stacjonarne?", "answer": "Laptopy: 72 ÷ 4 = 18.\nKomputery stacjonarne: 72 − 18 = 54.\n#### 54 komputery"}
+{"question": "Kasia miała 100 zł. Kupiła książkę za 40 zł i notatnik za 15 zł. Ile pieniędzy jej zostało?", "answer": "100 − 40 − 15 = 45.\n#### 45 zł"}
+{"question": "Oblicz: 80 + 20 − 10. Jaki jest wynik?", "answer": "80 + 20 = 100.\n100 − 10 = 90.\n#### 90"}
+{"question": "Jeśli Ania przeczytała 1/2 książki liczącej 200 stron, ile stron już przeczytała?", "answer": "1/2 × 200 = 100 stron.\n#### 100 stron"}
+{"question": "W cukierni przygotowano 180 ciastek. Jeśli 1/3 z nich to ciastka czekoladowe, ile ciastek pozostało innych smaków?", "answer": "Ciastek czekoladowych: 180 ÷ 3 = 60.\nPozostałych: 180 − 60 = 120.\n#### 120 ciastek"}
+{"question": "W parku jest 84 ławki. Jeśli 1/7 z nich jest nieczynnych, ile ławek działa poprawnie?", "answer": "Nieczynnych: 84 ÷ 7 = 12.\nSprawnych: 84 − 12 = 72.\n#### 72 ławki"}
+{"question": "W szkole odbyło się 10 zajęć, każde trwające 45 minut. Ile minut trwały wszystkie zajęcia?", "answer": "10 × 45 = 450 minut.\n#### 450 minut"}
+{"question": "W magazynie jest 300 pudełek. Jeśli 20% jest uszkodzonych, ile pudełek jest w dobrym stanie?", "answer": "Uszkodzonych: 300 × 0.20 = 60.\nDobrych: 300 − 60 = 240.\n#### 240 pudełek"}
+{"question": "W fabryce wyprodukowano 500 zabawek. Jeśli 10% z nich okazało się wadliwe, ile zabawek nadaje się do sprzedaży?", "answer": "Wadliwych: 500 × 0.10 = 50.\nDo sprzedaży: 500 − 50 = 450.\n#### 450 zabawek"}
+{"question": "Kowalski ma 5 razy więcej jabłek niż Agnieszka. Jeśli razem mają 36 jabłek, ile jabłek ma Agnieszka?", "answer": "Oznaczmy jabłka Agnieszki jako x, wtedy Kowalski ma 5x.\nRównanie: x + 5x = 36 → 6x = 36, x = 6.\n#### 6 jabłek"}
+{"question": "W przedszkolu jest 48 dzieci. Jeśli 1/4 z nich to chłopcy, ile dziewczynek jest w przedszkolu?", "answer": "Chłopców: 48 × 0.25 = 12.\nDziewczynek: 48 − 12 = 36.\n#### 36 dziewczynek"}
+{"question": "Na festynie sprzedano 250 biletów. Jeśli 30% kupiło dzieci, ile biletów kupili dorośli?", "answer": "Dzieci: 250 × 0.30 = 75.\nDorośli: 250 − 75 = 175.\n#### 175 biletów"}
+{"question": "W klasie jest 38 uczniów. Jeśli 1/2 z nich przyniosło śniadanie, ile uczniów nie przyniosło śniadania?", "answer": "Przyniosło: 38 ÷ 2 = 19.\nNie przyniosło: 38 − 19 = 19.\n#### 19 uczniów"}
+{"question": "W restauracji przygotowano 210 dań. Jeśli 1/3 to dania z ryb, ile dań to pozostałe?", "answer": "Dania z ryb: 210 ÷ 3 = 70.\nPozostałe: 210 − 70 = 140.\n#### 140 dań"}
+{"question": "W ogrodzie jest 64 kwiaty. Jeśli 1/4 z nich to róże, ile kwiatów stanowią inne gatunki?", "answer": "Róże: 64 ÷ 4 = 16.\nInne: 64 − 16 = 48.\n#### 48 kwiatów"}
+{"question": "W sklepie z zabawkami sprzedano 96 zabawek. Jeśli 1/6 z nich to lalki, ile zabawek to inne rodzaje?", "answer": "Lalki: 96 ÷ 6 = 16.\nInne: 96 − 16 = 80.\n#### 80 zabawek"}
+{"question": "W książce jest 240 stron. Jeśli Kasia przeczytała 3/4 książki, ile stron jej jeszcze pozostało do przeczytania?", "answer": "Przeczytano: 240 × 0.75 = 180 stron.\nPozostało: 240 − 180 = 60 stron.\n#### 60 stron"}
+{"question": "Na basenie było 120 osób. Jeśli 1/3 z nich to dzieci, ile osób stanowią dorośli?", "answer": "Dzieci: 120 ÷ 3 = 40.\nDorośli: 120 − 40 = 80.\n#### 80 osób"}
+{"question": "W pewnym zadaniu wykonano 180 operacji. Jeśli 1/5 z nich to dodawanie, ile operacji to pozostałe działania?", "answer": "Dodawanie: 180 ÷ 5 = 36.\nPozostałe operacje: 180 − 36 = 144.\n#### 144 operacji"}
+{"question": "W kinie jest 200 miejsc. Jeśli 80% miejsc zostało sprzedanych, ile miejsc pozostało wolnych?", "answer": "Sprzedanych: 200 × 0.80 = 160.\nWolnych: 200 − 160 = 40.\n#### 40 miejsc"}
+{"question": "W sklepie spożywczym sprzedano 400 litrów mleka. Jeśli 1/5 mleka było czerstwego, ile litrów mleka było świeżych?", "answer": "Czerstwego: 400 ÷ 5 = 80.\nŚwieżych: 400 − 80 = 320.\n#### 320 litrów"}
+{"question": "W konkursie wzięło udział 150 osób. Jeśli 1/3 z nich zdobyło nagrodę, ile osób nie zdobyło nagrody?", "answer": "Zdobyło: 150 ÷ 3 = 50.\nNie zdobyło: 150 − 50 = 100.\n#### 100 osób"}
+{"question": "W magazynie znajduje się 800 paczek. Jeśli 12% paczek jest uszkodzonych, ile paczek jest w dobrym stanie?", "answer": "Uszkodzonych: 800 × 0.12 = 96.\nDobrych: 800 − 96 = 704.\n#### 704 paczek"}
+{"question": "Oblicz: (50 − 20) × 3. Jaki jest wynik?", "answer": "50 − 20 = 30.\n30 × 3 = 90.\n#### 90"}
+{"question": "W bibliotece jest 540 książek. Jeśli 1/9 to książki historyczne, ile książek to inne gatunki?", "answer": "Historyczne: 540 ÷ 9 = 60.\nInne: 540 − 60 = 480.\n#### 480 książek"}
+{"question": "Na wyprzedaży obniżono cenę kurtki z 300 zł o 25%. Jaka jest nowa cena?", "answer": "Obniżka: 300 × 0.25 = 75 zł.\nNowa cena: 300 − 75 = 225 zł.\n#### 225 zł"}
+{"question": "W sklepie z artykułami biurowymi sprzedano 150 długopisów. Jeśli 1/5 to długopisy żelowe, ile długopisów to inne rodzaje?", "answer": "Długopisy żelowe: 150 ÷ 5 = 30.\nInne: 150 − 30 = 120.\n#### 120 długopisów"}
+{"question": "W fabryce wyprodukowano 1000 sztuk. Jeśli 8% sztuk jest wadliwych, ile sztuk jest poprawnych?", "answer": "Wadliwych: 1000 × 0.08 = 80.\nPoprawnych: 1000 − 80 = 920.\n#### 920 sztuk"}
+{"question": "W sklepie zoologicznym jest 60 rybek. Jeśli 1/3 z nich to złote rybki, ile rybek to inne gatunki?", "answer": "Złote rybki: 60 ÷ 3 = 20.\nInne: 60 − 20 = 40.\n#### 40 rybek"}
+{"question": "W przedszkolu jest 50 dzieci. Jeśli 20 dzieci nosi okulary, ile dzieci nie nosi okularów?", "answer": "Nie nosi: 50 − 20 = 30.\n#### 30 dzieci"}
+{"question": "Oblicz: 75 + 25, a następnie podziel wynik przez 10. Jaki jest wynik?", "answer": "75 + 25 = 100.\n100 ÷ 10 = 10.\n#### 10"}
+{"question": "W sklepie z elektroniką sprzedano 90 telefonów. Jeśli 1/3 z nich to modele smart, ile to modele tradycyjne?", "answer": "Modele smart: 90 ÷ 3 = 30.\nModele tradycyjne: 90 − 30 = 60.\n#### 60 telefonów"}
+{"question": "W kawiarni sprzedano 120 kaw. Jeśli 1/4 kaw to espresso, ile kaw to latte lub cappuccino?", "answer": "Espresso: 120 ÷ 4 = 30.\nPozostałe: 120 − 30 = 90.\n#### 90 kaw"}
+{"question": "W szkolnej stołówce przygotowano 300 porcji obiadowych. Jeśli 1/5 to dania wegetariańskie, ile porcji to dania mięsne?", "answer": "Wegetariańskie: 300 ÷ 5 = 60.\nMięsne: 300 − 60 = 240.\n#### 240 porcji"}
+{"question": "Kasia miała 120 zł. Jeśli kupiła sukienkę za 70 zł i buty za 30 zł, ile pieniędzy jej zostało?", "answer": "120 − 70 − 30 = 20.\n#### 20 zł"}
+{"question": "W pewnym zadaniu wykonano 210 operacji. Jeśli 1/7 z nich to mnożenie, ile operacji to inne działania?", "answer": "Mnożenie: 210 ÷ 7 = 30.\nPozostałe: 210 − 30 = 180.\n#### 180 operacji"}
+{"question": "W magazynie jest 450 pudełek. Jeśli 1/10 z nich jest uszkodzonych, ile pudełek jest w dobrym stanie?", "answer": "Uszkodzonych: 450 ÷ 10 = 45.\nDobrych: 450 − 45 = 405.\n#### 405 pudełek"}
+{"question": "W restauracji przygotowano 360 porcji. Jeśli 1/3 z nich to desery, ile porcji to dania główne?", "answer": "Desery: 360 ÷ 3 = 120.\nDania główne: 360 − 120 = 240.\n#### 240 porcji"}
+{"question": "W szkole jest 55 uczniów. Jeśli 40% z nich to chłopcy, ile dziewcząt jest w szkole?", "answer": "Chłopcy: 55 × 0.40 = 22.\nDziewcząt: 55 − 22 = 33.\n#### 33 dziewcząt"}
+{"question": "W sklepie z zabawkami sprzedano 200 zabawek. Jeśli 1/5 z nich to pluszaki, ile zabawek to inne rodzaje?", "answer": "Pluszaki: 200 ÷ 5 = 40.\nInne: 200 − 40 = 160.\n#### 160 zabawek"}
+{"question": "W biurze pracuje 150 osób. Jeśli 20 osób otrzymało awans, ile osób nie awansowało?", "answer": "Nie awansowało: 150 − 20 = 130.\n#### 130 osób"}
+{"question": "Oblicz: (90 ÷ 3) + 7. Jaki jest wynik?", "answer": "90 ÷ 3 = 30.\n30 + 7 = 37.\n#### 37"}
+{"question": "W sklepie spożywczym było 250 kg jabłek. Jeśli sprzedano 60% jabłek, ile kg pozostało?", "answer": "Sprzedano: 250 × 0.60 = 150 kg.\nPozostało: 250 − 150 = 100 kg.\n#### 100 kg"}
+{"question": "W parku jest 180 drzew. Jeśli 1/6 z nich to sosny, ile drzew to inne gatunki?", "answer": "Sosny: 180 ÷ 6 = 30.\nInne: 180 − 30 = 150.\n#### 150 drzew"}
+{"question": "W sklepie było 300 balonów. Sprzedano 1/3 z nich. Ile balonów pozostało?", "answer": "Sprzedano: 300 × (1/3) = 100 balonów.\nPozostało: 300 − 100 = 200 balonów.\n#### 200"}
+{"question": "Ania kupiła 4 pudełka czekoladek, w każdym po 25 sztuk. Zjadła 10 czekoladek. Ile czekoladek pozostało?", "answer": "Łącznie czekoladek: 4 × 25 = 100.\nPo zjedzeniu: 100 − 10 = 90 czekoladek.\n#### 90"}
+{"question": "Na lekcji matematyki rozwiązano 72 zadania. Jeśli 1/8 z nich dotyczy geometrii, ile zadań dotyczy innych działów?", "answer": "Zadania z geometrii: 72 ÷ 8 = 9.\nPozostałych zadań: 72 − 9 = 63.\n#### 63"}
+{"question": "W parku rośnie 150 drzew. Jeśli 20% z nich to dęby, ile drzew to inne gatunki?", "answer": "Dęby: 150 × 0.20 = 30.\nPozostałe drzewa: 150 − 30 = 120.\n#### 120"}
+{"question": "W bibliotece znajduje się 600 książek. Jeśli 1/5 to literatura polska, ile książek to literatura obca?", "answer": "Książki polskie: 600 ÷ 5 = 120.\nLiteratura obca: 600 − 120 = 480.\n#### 480"}
+{"question": "W fabryce wyprodukowano 1000 zabawek. Jeśli 15% z nich jest wadliwych, ile zabawek jest poprawnych?", "answer": "Wadliwych: 1000 × 0.15 = 150.\nPoprawnych: 1000 − 150 = 850.\n#### 850"}
+{"question": "W sklepie spożywczym było 500 kg ziemniaków. Sprzedano 40% ziemniaków. Ile kg ziemniaków pozostało?", "answer": "Sprzedano: 500 × 0.40 = 200 kg.\nPozostało: 500 − 200 = 300 kg.\n#### 300 kg"}
+{"question": "Kasia miała 80 zł. Kupiła książkę za 35 zł, a potem dostała 20 zł od koleżanki. Ile pieniędzy ma teraz?", "answer": "Po zakupie: 80 − 35 = 45 zł.\nPo otrzymaniu: 45 + 20 = 65 zł.\n#### 65 zł"}
+{"question": "W klasie jest 30 uczniów. Jeśli 1/3 z nich przyniosło przybory, ile uczniów nie przyniosło przyborów?", "answer": "Przyniosło: 30 × (1/3) = 10 uczniów.\nNie przyniosło: 30 − 10 = 20 uczniów.\n#### 20"}
+{"question": "W szkole jest 120 uczniów. Jeśli 25% z nich ma dyplomy, ile uczniów nie ma dyplomów?", "answer": "Uczniów z dyplomami: 120 × 0.25 = 30.\nPozostałych: 120 − 30 = 90 uczniów.\n#### 90"}
+{"question": "W kinie jest 200 miejsc. Jeśli 75% miejsc zostało zajętych, ile miejsc pozostało wolnych?", "answer": "Zajętych: 200 × 0.75 = 150.\nWolnych: 200 − 150 = 50 miejsc.\n#### 50"}
+{"question": "W restauracji zaserwowano 240 porcji. Jeśli 1/4 to zupy, ile porcji to dania główne?", "answer": "Zup: 240 × (1/4) = 60 porcji.\nDania główne: 240 − 60 = 180 porcji.\n#### 180"}
+{"question": "Oblicz: dodaj 50 i 70, a następnie podziel wynik przez 6. Jaki jest wynik?", "answer": "50 + 70 = 120.\n120 ÷ 6 = 20.\n#### 20"}
+{"question": "W magazynie znajduje się 800 pudełek. Jeśli 10% jest uszkodzonych, ile pudełek jest w dobrym stanie?", "answer": "Uszkodzonych: 800 × 0.10 = 80.\nDobrych: 800 − 80 = 720 pudełek.\n#### 720"}
+{"question": "W firmie pracuje 150 osób. Jeśli 20 osób to kierownicy, ile osób to pozostali pracownicy?", "answer": "Pracowników: 150 − 20 = 130.\n#### 130"}
+{"question": "W sklepie z ubraniami sprzedano 300 koszulek. Jeśli 1/3 to rozmiar L, ile koszulek to inne rozmiary?", "answer": "Koszulki L: 300 ÷ 3 = 100.\nPozostałe: 300 − 100 = 200 koszulek.\n#### 200"}
+{"question": "W klasie jest 28 uczniów. Jeśli 1/7 z nich nie przyniosło książki, ile uczniów przyniosło książki?", "answer": "Nie przyniosło: 28 ÷ 7 = 4 uczniów.\nPrzyniosło: 28 − 4 = 24 uczniów.\n#### 24"}
+{"question": "W autobusie jest 50 miejsc. Jeśli 60% miejsc jest zajętych, ile miejsc pozostaje wolnych?", "answer": "Zajętych: 50 × 0.60 = 30 miejsc.\nWolnych: 50 − 30 = 20 miejsc.\n#### 20"}
+{"question": "W cukierni przygotowano 180 ciastek. Jeśli sprzedano 2/3 ciastek, ile ciastek pozostało?", "answer": "Sprzedano: 180 × (2/3) = 120 ciastek.\nPozostało: 180 − 120 = 60 ciastek.\n#### 60"}
+{"question": "W ogrodzie rośnie 100 drzew. Jeśli 1/5 z nich to sosny, ile drzew to inne gatunki?", "answer": "Sosny: 100 ÷ 5 = 20.\nInne drzewa: 100 − 20 = 80.\n#### 80"}
+{"question": "Cena dżemu wynosiła 15 zł. Po obniżce o 20% jaka jest nowa cena?", "answer": "Obniżka: 15 × 0.20 = 3 zł.\nNowa cena: 15 − 3 = 12 zł.\n#### 12 zł"}
+{"question": "Na loterii sprzedano 500 losów. Jeśli 5% losów wygrało, ile losów nie wygrało?", "answer": "Wygrało: 500 × 0.05 = 25 losów.\nNie wygrało: 500 − 25 = 475 losów.\n#### 475"}
+{"question": "W klasie jest 32 uczniów. Jeśli 1/4 to liderzy, ile uczniów stanowią pozostali?", "answer": "Liderzy: 32 ÷ 4 = 8.\nPozostali: 32 − 8 = 24 uczniów.\n#### 24"}
+{"question": "W sklepie sprzedano 450 długopisów. Jeśli 1/5 z nich to długopisy żelowe, ile długopisów to standardowe?", "answer": "Długopisy żelowe: 450 ÷ 5 = 90.\nStandardowe: 450 − 90 = 360 długopisów.\n#### 360"}
+{"question": "W fabryce wyprodukowano 1200 elementów. Jeśli 10% jest wadliwych, ile elementów jest poprawnych?", "answer": "Wadliwych: 1200 × 0.10 = 120.\nPoprawnych: 1200 − 120 = 1080.\n#### 1080"}
+{"question": "W restauracji przygotowano 360 dań. Jeśli 1/3 to dania wegetariańskie, ile dań to dania mięsne?", "answer": "Dania wegetariańskie: 360 ÷ 3 = 120.\nDania mięsne: 360 − 120 = 240.\n#### 240"}
+{"question": "W biurze jest 80 komputerów. Jeśli 15% jest zepsutych, ile komputerów działa poprawnie?", "answer": "Zepsutych: 80 × 0.15 = 12.\nDziała: 80 − 12 = 68 komputerów.\n#### 68"}
+{"question": "Na festynie było 240 uczestników. Jeśli 1/6 z nich brało udział w konkursie tańca, ile osób nie brało udziału?", "answer": "Uczestników konkursu: 240 ÷ 6 = 40.\nNie uczestniczyło: 240 − 40 = 200 osób.\n#### 200"}
+{"question": "W bibliotece jest 400 książek. Jeśli 20% to książki naukowe, ile książek to literatura piękna?", "answer": "Książki naukowe: 400 × 0.20 = 80.\nLiteratura piękna: 400 − 80 = 320 książek.\n#### 320"}
+{"question": "W szkole zorganizowano 5 konkursów. W pierwszym uczestniczyło 10 uczniów, w drugim o 5 więcej, a w kolejnych rośnie liczba uczestników o 5. Ile uczniów uczestniczyło łącznie?", "answer": "Uczestnicy: 10, 15, 20, 25, 30.\nSuma: 10 + 15 + 20 + 25 + 30 = 100 uczniów.\n#### 100"}
+{"question": "W sklepie z elektroniką sprzedano 60 telewizorów. Jeśli 1/3 to modele smart, ile to modele tradycyjne?", "answer": "Modele smart: 60 ÷ 3 = 20.\nModele tradycyjne: 60 − 20 = 40.\n#### 40"}
+{"question": "W zakładzie pracy zatrudniono 90 osób. Jeśli 1/10 to kierownictwo, ile osób to pracownicy?", "answer": "Kierownictwo: 90 ÷ 10 = 9.\nPracownicy: 90 − 9 = 81.\n#### 81"}
+{"question": "W akwarium jest 120 ryb. Jeśli 1/4 z nich to karasie, ile ryb stanowią inne gatunki?", "answer": "Karasie: 120 ÷ 4 = 30.\nInne ryby: 120 − 30 = 90.\n#### 90"}
+{"question": "W sklepie spożywczym było 800 litrów soku. Jeśli sprzedano 25% soku, ile litrów zostało?", "answer": "Sprzedano: 800 × 0.25 = 200 litrów.\nPozostało: 800 − 200 = 600 litrów.\n#### 600"}
+{"question": "W konkursie matematycznym 45 uczniów otrzymało dyplom, co stanowiło 50% uczestników. Ile uczniów brało udział?", "answer": "Całkowita liczba uczniów: 45 ÷ 0.50 = 90.\n#### 90"}
+{"question": "W magazynie znajduje się 1000 pudełek. Jeśli 8% jest uszkodzonych, ile pudełek jest sprawnych?", "answer": "Uszkodzonych: 1000 × 0.08 = 80.\nSprawnych: 1000 − 80 = 920.\n#### 920"}
+{"question": "W bibliotece wypożyczono 350 książek. Jeśli 1/7 to książki przygodowe, ile książek to inne gatunki?", "answer": "Książki przygodowe: 350 ÷ 7 = 50.\nInne: 350 − 50 = 300 książek.\n#### 300"}
+{"question": "Cena kurtki w sklepie została obniżona z 400 zł o 30%. Jaka jest nowa cena?", "answer": "Obniżka: 400 × 0.30 = 120 zł.\nNowa cena: 400 − 120 = 280 zł.\n#### 280 zł"}
+{"question": "W szkole jest 50 uczniów. Jeśli 60% uczniów jest obecnych, ile uczniów było nieobecnych?", "answer": "Obecnych: 50 × 0.60 = 30.\nNieobecnych: 50 − 30 = 20.\n#### 20"}
+{"question": "W fabryce wyprodukowano 700 butelek. Jeśli 5% z nich jest wadliwych, ile butelek jest poprawnych?", "answer": "Wadliwych: 700 × 0.05 = 35.\nPoprawnych: 700 − 35 = 665.\n#### 665"}
+{"question": "Na loterii sprzedano 1000 losów, z których 2% wygrało. Ile losów nie wygrało?", "answer": "Wygrało: 1000 × 0.02 = 20.\nNie wygrało: 1000 − 20 = 980 losów.\n#### 980"}
+{"question": "W restauracji sprzedano 150 pizz. Jeśli 1/3 pizz to margherita, ile pizz to inne rodzaje?", "answer": "Margherita: 150 ÷ 3 = 50.\nInne: 150 − 50 = 100 pizz.\n#### 100"}
+{"question": "W sklepie z zabawkami sprzedano 250 zabawek. Jeśli 1/5 z nich to pluszaki, ile zabawek to inne rodzaje?", "answer": "Pluszaki: 250 ÷ 5 = 50.\nInne: 250 − 50 = 200 zabawek.\n#### 200"}
+{"question": "W biurze pracuje 200 osób. Jeśli 15% to menedżerowie, ile osób to pozostali pracownicy?", "answer": "Menedżerów: 200 × 0.15 = 30.\nPracowników: 200 − 30 = 170.\n#### 170"}
+{"question": "W klubie sportowym jest 120 członków. Jeśli 1/4 to zawodnicy, ile członków to amatorzy?", "answer": "Zawodników: 120 ÷ 4 = 30.\nAmatorów: 120 − 30 = 90.\n#### 90"}
+{"question": "W cukierni przygotowano 600 ciastek. Jeśli sprzedano 2/3 z nich, ile ciastek zostało?", "answer": "Sprzedano: 600 × (2/3) = 400 ciastek.\nPozostało: 600 − 400 = 200 ciastek.\n#### 200"}
+{"question": "W akwarium jest 90 ryb. Jeśli 1/3 z nich to płotki, ile ryb to inne gatunki?", "answer": "Płotki: 90 ÷ 3 = 30.\nInne ryby: 90 − 30 = 60.\n#### 60"}
+{"question": "W szkole zorganizowano zbiórkę i zebrano 800 zł. Jeśli każdy uczeń przekazał 20 zł, ile uczniów wzięło udział?", "answer": "Liczba uczniów: 800 ÷ 20 = 40.\n#### 40"}
+{"question": "W sklepie z ubraniami sprzedano 180 koszulek. Jeśli 1/2 to koszulki w rozmiarze M, ile koszulek to inne rozmiary?", "answer": "Koszulki M: 180 ÷ 2 = 90.\nInne: 180 − 90 = 90 koszulek.\n#### 90"}
+{"question": "W magazynie znajduje się 960 pudełek. Jeśli 1/8 z nich jest uszkodzonych, ile pudełek jest sprawnych?", "answer": "Uszkodzonych: 960 ÷ 8 = 120.\nSprawnych: 960 − 120 = 840 pudełek.\n#### 840"}
+{"question": "W sklepie było 500 ołówków. Sprzedano 40% z nich. Ile ołówków pozostało?", "answer": "Sprzedano: 500 × 0.40 = 200.\nPozostało: 500 − 200 = 300 ołówków.\n#### 300"}
+{"question": "Ania miała 150 zł. Kupiła sukienkę za 90 zł, a resztę wydała na buty za 30 zł. Ile pieniędzy jej zostało?", "answer": "Po sukience: 150 − 90 = 60 zł.\nPo butach: 60 − 30 = 30 zł.\n#### 30 zł"}
+{"question": "W klasie jest 36 uczniów. Jeśli 1/3 z nich to chłopcy, ile jest dziewcząt?", "answer": "Chłopcy: 36 ÷ 3 = 12.\nDziewcząt: 36 − 12 = 24.\n#### 24 uczniów"}
+{"question": "W bibliotece znajduje się 480 książek. Jeśli 1/4 to encyklopedie, ile książek to inne gatunki?", "answer": "Encyklopedie: 480 ÷ 4 = 120.\nPozostałe: 480 − 120 = 360 książek.\n#### 360 książek"}
+{"question": "W fabryce wyprodukowano 800 zabawek. Jeśli 12% z nich jest wadliwych, ile zabawek nadaje się do sprzedaży?", "answer": "Wadliwych: 800 × 0.12 = 96.\nSprzedawalnych: 800 − 96 = 704.\n#### 704 zabawek"}
+{"question": "Kowalski miał 240 zł. Kupił komputer za 180 zł. Ile pieniędzy mu zostało?", "answer": "240 − 180 = 60 zł.\n#### 60 zł"}
+{"question": "W szkole odbyło się 8 zawodów sportowych, a łączna liczba medali wynosi 160. Ile medali przyznano na jeden zawody, zakładając równy podział?", "answer": "160 ÷ 8 = 20 medali na zawody.\n#### 20 medali"}
+{"question": "W sklepie spożywczym było 1000 kg mąki. Sprzedano 35% mąki. Ile kg mąki pozostało?", "answer": "Sprzedano: 1000 × 0.35 = 350 kg.\nPozostało: 1000 − 350 = 650 kg.\n#### 650 kg"}
+{"question": "W pewnym przedszkolu jest 60 dzieci. Jeśli 1/5 z nich ma niebieskie plecaki, ile dzieci ma plecaki w innych kolorach?", "answer": "Dzieci z niebieskimi plecakami: 60 ÷ 5 = 12.\nPozostałe: 60 − 12 = 48.\n#### 48 dzieci"}
+{"question": "Jan kupił 7 zeszytów po 8 zł każdy. Ile zapłacił łącznie?", "answer": "7 × 8 = 56 zł.\n#### 56 zł"}
+{"question": "W restauracji przygotowano 450 porcji obiadowych. Jeśli 1/3 z nich to dania wegetariańskie, ile porcji stanowią dania mięsne?", "answer": "Wegetariańskie: 450 ÷ 3 = 150.\nMięsne: 450 − 150 = 300.\n#### 300 porcji"}
+{"question": "W sklepie z zabawkami sprzedano 360 zabawek, z czego 1/6 to samochodziki. Ile zabawek to inne rodzaje?", "answer": "Samochodziki: 360 ÷ 6 = 60.\nInne: 360 − 60 = 300.\n#### 300 zabawek"}
+{"question": "Kasia miała 200 zł. Kupiła książkę za 65 zł i długopis za 15 zł. Ile pieniędzy jej zostało?", "answer": "Suma wydatków: 65 + 15 = 80 zł.\nPozostało: 200 − 80 = 120 zł.\n#### 120 zł"}
+{"question": "W biurze jest 90 komputerów. Jeśli 1/10 z nich jest nieczynnych, ile komputerów działa poprawnie?", "answer": "Nieczynnych: 90 ÷ 10 = 9.\nDziała: 90 − 9 = 81.\n#### 81 komputerów"}
+{"question": "W bibliotece wypożyczono 300 książek. Jeśli 1/5 to książki dla dzieci, ile książek to pozostałe?", "answer": "Książki dla dzieci: 300 ÷ 5 = 60.\nPozostałe: 300 − 60 = 240 książek.\n#### 240 książek"}
+{"question": "Na lekcji matematyki rozwiązano 84 zadania. Jeśli 1/7 z nich dotyczyło ułamków, ile zadań dotyczyło innych tematów?", "answer": "Zadania o ułamkach: 84 ÷ 7 = 12.\nPozostałych: 84 − 12 = 72.\n#### 72 zadania"}
+{"question": "W sklepie było 750 butelek wody. Sprzedano 60% z nich. Ile butelek pozostało?", "answer": "Sprzedano: 750 × 0.60 = 450.\nPozostało: 750 − 450 = 300 butelek.\n#### 300 butelek"}
+{"question": "W przedszkolu jest 40 dzieci. Jeśli 3/5 z nich bawi się na dworze, ile dzieci bawi się w sali?", "answer": "Bawi się na dworze: 40 × 0.60 = 24.\nW sali: 40 − 24 = 16 dzieci.\n#### 16 dzieci"}
+{"question": "W sklepie z ubraniami sprzedano 420 koszulek. Jeśli 1/3 z nich to koszulki w rozmiarze M, ile koszulek to inne rozmiary?", "answer": "Koszulki M: 420 ÷ 3 = 140.\nInne: 420 − 140 = 280.\n#### 280 koszulek"}
+{"question": "W szkole zorganizowano zbiórkę pieniędzy, z której zebrano 960 zł. Jeśli każdy uczeń wpłacił 24 zł, ile uczniów wzięło udział?", "answer": "Liczba uczniów: 960 ÷ 24 = 40.\n#### 40 uczniów"}
+{"question": "Na wyprzedaży obniżono cenę kurtki z 500 zł o 40%. Jaka jest nowa cena kurtki?", "answer": "Obniżka: 500 × 0.40 = 200 zł.\nNowa cena: 500 − 200 = 300 zł.\n#### 300 zł"}
+{"question": "W fabryce wyprodukowano 950 elementów. Jeśli 5% z nich jest wadliwych, ile elementów jest poprawnych?", "answer": "Wadliwych: 950 × 0.05 = 47.5, zaokrąglamy do 48 (przyjmując całkowitą liczbę).\nPoprawnych: 950 − 48 = 902.\n#### 902 elementy"}
+{"question": "W kinie wyświetlono film, na który sprzedano 540 biletów. Jeśli 2/3 biletów było sprzedanych w pierwszej połowie seansu, ile biletów sprzedano w drugiej połowie?", "answer": "Pierwsza połowa: 540 × (2/3) = 360.\nDruga połowa: 540 − 360 = 180.\n#### 180 biletów"}
+{"question": "W sklepie spożywczym kupiono 120 kg jabłek. Jeśli 1/4 z jabłek zostało sprzedane, ile kg jabłek pozostało?", "answer": "Sprzedano: 120 ÷ 4 = 30 kg.\nPozostało: 120 − 30 = 90 kg.\n#### 90 kg"}
+{"question": "W sali lekcyjnej znajduje się 64 krzesła. Jeśli 1/8 krzeseł jest uszkodzonych, ile krzeseł nadaje się do użytku?", "answer": "Uszkodzonych: 64 ÷ 8 = 8.\nSprawnych: 64 − 8 = 56 krzeseł.\n#### 56 krzeseł"}
+{"question": "W parku jest 540 drzew. Jeśli 1/9 z nich to sosny, ile drzew to inne gatunki?", "answer": "Sosny: 540 ÷ 9 = 60.\nInne: 540 − 60 = 480 drzew.\n#### 480 drzew"}
+{"question": "W przedszkolu zebrało się 75 dzieci. Jeśli 20 dzieci nosi czerwone kurtki, ile dzieci nosi kurtki w innych kolorach?", "answer": "Pozostało: 75 − 20 = 55 dzieci.\n#### 55 dzieci"}
+{"question": "W sklepie sprzedano 660 książek. Jeśli 1/6 z nich to podręczniki, ile książek to literatura piękna?", "answer": "Podręczniki: 660 ÷ 6 = 110.\nLiteratura piękna: 660 − 110 = 550 książek.\n#### 550 książek"}
+{"question": "W firmie zatrudnionych jest 180 pracowników. Jeśli 1/3 z nich pracuje w dziale IT, ile osób pracuje w innych działach?", "answer": "Dział IT: 180 ÷ 3 = 60.\nInni: 180 − 60 = 120 pracowników.\n#### 120 pracowników"}
+{"question": "Na festynie sprzedano 720 biletów. Jeśli 1/4 biletów kupiły osoby dorosłe, ile biletów kupiły dzieci?", "answer": "Dorośli: 720 ÷ 4 = 180.\nDzieci: 720 − 180 = 540 biletów.\n#### 540 biletów"}
+{"question": "W szkole odbyło się 6 turniejów, a łączna liczba uczestników wyniosła 300. Ile średnio uczestników było na jednym turnieju?", "answer": "300 ÷ 6 = 50 uczestników na turniej.\n#### 50"}
+{"question": "W magazynie znajduje się 880 pudełek. Jeśli 1/8 z nich jest uszkodzonych, ile pudełek jest sprawnych?", "answer": "Uszkodzonych: 880 ÷ 8 = 110.\nSprawnych: 880 − 110 = 770 pudełek.\n#### 770"}
+{"question": "W sklepie komputerowym sprzedano 420 laptopów. Jeśli 1/7 z nich to laptopy z dotykowym ekranem, ile to laptopy tradycyjne?", "answer": "Dotykowe: 420 ÷ 7 = 60.\nTradycyjne: 420 − 60 = 360.\n#### 360 laptopów"}
+{"question": "W kawiarni sprzedano 240 kaw. Jeśli 1/5 kaw to cappuccino, ile kaw to espresso lub latte?", "answer": "Cappuccino: 240 ÷ 5 = 48.\nPozostałe: 240 − 48 = 192 kaw.\n#### 192 kaw"}
+{"question": "W sklepie z artykułami sportowymi sprzedano 300 piłek. Jeśli 1/10 z nich to piłki nożne, ile piłek to inne rodzaje?", "answer": "Piłki nożne: 300 ÷ 10 = 30.\nInne: 300 − 30 = 270 piłek.\n#### 270 piłek"}
+{"question": "W parku linowym uczestniczyło 95 osób. Jeśli 1/5 z nich to dzieci, ile osób dorosłych brało udział?", "answer": "Dzieci: 95 ÷ 5 = 19.\nDorośli: 95 − 19 = 76 osób.\n#### 76 osób"}
+{"question": "W sklepie zoologicznym było 150 papug. Sprzedano 30% papug. Ile papug pozostało?", "answer": "Sprzedano: 150 × 0.30 = 45.\nPozostało: 150 − 45 = 105 papug.\n#### 105 papug"}
+{"question": "W muzeum znajduje się 240 eksponatów. Jeśli 1/8 z nich to rzeźby, ile eksponatów to obrazy lub fotografie?", "answer": "Rzeźby: 240 ÷ 8 = 30.\nPozostałe: 240 − 30 = 210 eksponatów.\n#### 210 eksponatów"}
+{"question": "W sklepie z narzędziami sprzedano 560 młotków. Jeśli 1/7 z nich to młotki udarowe, ile młotków to młotki standardowe?", "answer": "Młotki udarowe: 560 ÷ 7 = 80.\nStandardowe: 560 − 80 = 480 młotków.\n#### 480 młotków"}
+{"question": "W biurze znajduje się 100 biurek. Jeśli 15 biurek jest zajętych przez menedżerów, ile biurek jest dostępnych dla pracowników?", "answer": "Dostępnych: 100 − 15 = 85 biurek.\n#### 85"}
+{"question": "W sklepie spożywczym było 640 litrów soku. Sprzedano 75% soku. Ile litrów soku pozostało?", "answer": "Sprzedano: 640 × 0.75 = 480 litrów.\nPozostało: 640 − 480 = 160 litrów.\n#### 160 litrów"}
+{"question": "W sklepie było 400 ołówków. Sprzedano 25% z nich. Ile ołówków pozostało?", "answer": "Sprzedano: 400 × 0.25 = 100 ołówków.\nPozostało: 400 − 100 = 300 ołówków.\n#### 300"}
+{"question": "W przedszkolu jest 90 dzieci. Jeśli 1/3 z nich nosi plecaki, ile dzieci nosi inne torby?", "answer": "Dzieci z plecakami: 90 ÷ 3 = 30.\nDzieci z innymi torbami: 90 − 30 = 60.\n#### 60"}
+{"question": "Na festynie sprzedano 540 biletów. Jeśli 20% biletów było ulgowych, ile biletów sprzedano po pełnej cenie?", "answer": "Biletów ulgowych: 540 × 0.20 = 108.\nBiletów pełnych: 540 − 108 = 432.\n#### 432"}
+{"question": "W bibliotece jest 800 książek. Jeśli 1/4 to powieści, ile książek należy do innych gatunków?", "answer": "Powieści: 800 ÷ 4 = 200.\nPozostałe książki: 800 − 200 = 600.\n#### 600"}
+{"question": "W fabryce wyprodukowano 1500 zabawek. Jeśli 10% z nich jest wadliwych, ile zabawek jest poprawnych?", "answer": "Wadliwych: 1500 × 0.10 = 150.\nPoprawnych: 1500 − 150 = 1350.\n#### 1350"}
+{"question": "W sklepie spożywczym było 1000 kg mąki. Sprzedano 45% mąki. Ile kg mąki pozostało?", "answer": "Sprzedano: 1000 × 0.45 = 450 kg.\nPozostało: 1000 − 450 = 550 kg.\n#### 550 kg"}
+{"question": "Kasia miała 300 zł. Kupiła sukienkę za 180 zł, a następnie dostała 50 zł. Ile pieniędzy ma teraz?", "answer": "Po sukience: 300 − 180 = 120 zł.\nPo otrzymaniu: 120 + 50 = 170 zł.\n#### 170 zł"}
+{"question": "W klasie jest 42 uczniów. Jeśli 1/2 z nich przyniosło zadanie domowe, ile uczniów nie przyniosło?", "answer": "Przyniosło: 42 ÷ 2 = 21 uczniów.\nNie przyniosło: 42 − 21 = 21 uczniów.\n#### 21"}
+{"question": "Na lekcji matematyki rozwiązano 96 zadań. Jeśli 1/4 z nich dotyczyło algebry, ile zadań dotyczyło innych działów?", "answer": "Zadań o algebrze: 96 ÷ 4 = 24.\nPozostałych: 96 − 24 = 72.\n#### 72"}
+{"question": "W kinie jest 250 miejsc. Jeśli 80% miejsc jest zajętych, ile miejsc jest wolnych?", "answer": "Zajętych: 250 × 0.80 = 200.\nWolnych: 250 − 200 = 50.\n#### 50"}
+{"question": "W restauracji przygotowano 360 posiłków. Jeśli 1/3 to zupy, ile posiłków to dania główne?", "answer": "Zup: 360 ÷ 3 = 120.\nDania główne: 360 − 120 = 240.\n#### 240"}
+{"question": "W sklepie z ubraniami sprzedano 480 koszulek. Jeśli 1/5 to koszulki w rozmiarze S, ile koszulek to inne rozmiary?", "answer": "Koszulki S: 480 ÷ 5 = 96.\nInne koszulki: 480 − 96 = 384.\n#### 384"}
+{"question": "W parku jest 600 drzew. Jeśli 1/6 to dęby, ile drzew to inne gatunki?", "answer": "Dęby: 600 ÷ 6 = 100.\nPozostałe drzewa: 600 − 100 = 500.\n#### 500"}
+{"question": "W biurze pracuje 120 osób. Jeśli 1/3 to menedżerowie, ile osób to pracownicy?", "answer": "Menedżerów: 120 ÷ 3 = 40.\nPracowników: 120 − 40 = 80.\n#### 80"}
+{"question": "W sklepie komputerowym sprzedano 150 laptopów. Jeśli 1/5 to laptopy gamingowe, ile laptopów to modele standardowe?", "answer": "Laptopów gamingowych: 150 ÷ 5 = 30.\nStandardowych: 150 − 30 = 120.\n#### 120"}
+{"question": "W cukierni przygotowano 300 ciastek. Jeśli sprzedano 2/3 ciastek, ile ciastek zostało?", "answer": "Sprzedano: 300 × (2/3) = 200.\nPozostało: 300 − 200 = 100.\n#### 100"}
+{"question": "W sklepie z zabawkami sprzedano 420 zabawek. Jeśli 1/7 to pluszaki, ile zabawek to inne rodzaje?", "answer": "Pluszaki: 420 ÷ 7 = 60.\nInne zabawki: 420 − 60 = 360.\n#### 360"}
+{"question": "W przedszkolu jest 60 dzieci. Jeśli 1/4 z nich bawi się na zewnątrz, ile dzieci bawi się w sali?", "answer": "Na zewnątrz: 60 ÷ 4 = 15.\nW sali: 60 − 15 = 45.\n#### 45"}
+{"question": "W muzeum znajduje się 700 eksponatów. Jeśli 1/5 to obrazy, ile eksponatów to rzeźby lub inne?", "answer": "Obrazy: 700 ÷ 5 = 140.\nPozostałe: 700 − 140 = 560.\n#### 560"}
+{"question": "Na boisku gra 44 zawodników. Jeśli 1/11 to bramkarze, ile zawodników to pozostali?", "answer": "Bramkarzy: 44 ÷ 11 = 4.\nPozostali: 44 − 4 = 40.\n#### 40"}
+{"question": "W sklepie spożywczym było 880 kg ziemniaków. Sprzedano 30% ziemniaków. Ile kg ziemniaków pozostało?", "answer": "Sprzedano: 880 × 0.30 = 264 kg.\nPozostało: 880 − 264 = 616 kg.\n#### 616 kg"}
+{"question": "W klasie jest 50 uczniów. Jeśli 20% to uczniowie z wyróżnieniem, ile uczniów nie ma wyróżnienia?", "answer": "Uczniów z wyróżnieniem: 50 × 0.20 = 10.\nPozostałych: 50 − 10 = 40.\n#### 40"}
+{"question": "W biurze jest 75 komputerów. Jeśli 1/5 z nich jest zepsutych, ile komputerów działa poprawnie?", "answer": "Zepsutych: 75 ÷ 5 = 15.\nDziała: 75 − 15 = 60.\n#### 60"}
+{"question": "Na festynie sprzedano 960 biletów. Jeśli 1/4 biletów było sprzedanych z rabatem, ile biletów sprzedano po pełnej cenie?", "answer": "Biletów z rabatem: 960 ÷ 4 = 240.\nPełnych: 960 − 240 = 720.\n#### 720"}
+{"question": "W sklepie z artykułami biurowymi sprzedano 540 długopisów. Jeśli 1/9 to długopisy żelowe, ile długopisów to standardowe?", "answer": "Długopisów żelowych: 540 ÷ 9 = 60.\nStandardowych: 540 − 60 = 480.\n#### 480"}
+{"question": "W sklepie z elektroniką sprzedano 300 telefonów. Jeśli 1/10 to smartfony, ile telefonów to modele klasyczne?", "answer": "Smartfony: 300 ÷ 10 = 30.\nKlasycznych: 300 − 30 = 270.\n#### 270"}
+{"question": "W sali koncertowej jest 1000 miejsc. Jeśli 70% miejsc jest zajętych, ile miejsc jest wolnych?", "answer": "Zajętych: 1000 × 0.70 = 700.\nWolnych: 1000 − 700 = 300.\n#### 300"}
+{"question": "W restauracji przygotowano 500 porcji obiadowych. Jeśli 1/5 to posiłki wegetariańskie, ile to posiłków mięsnych?", "answer": "Posiłki wegetariańskie: 500 ÷ 5 = 100.\nMięsnych: 500 − 100 = 400.\n#### 400"}
+{"question": "W magazynie znajduje się 750 pudełek. Jeśli 1/10 jest uszkodzonych, ile pudełek jest sprawnych?", "answer": "Uszkodzonych: 750 ÷ 10 = 75.\nSprawnych: 750 − 75 = 675.\n#### 675"}
+{"question": "W przedszkolu jest 80 dzieci. Jeśli 1/4 z nich nosi niebieskie plecaki, ile dzieci nosi plecaki innych kolorów?", "answer": "Niebieskie plecaki: 80 ÷ 4 = 20.\nInne kolory: 80 − 20 = 60.\n#### 60"}
+{"question": "W bibliotece wypożyczono 640 książek. Jeśli 1/8 to komiksy, ile książek to inne gatunki?", "answer": "Komiksy: 640 ÷ 8 = 80.\nPozostałe: 640 − 80 = 560.\n#### 560"}
+{"question": "W sklepie z zabawkami sprzedano 540 zabawek. Jeśli 1/6 to gry planszowe, ile zabawek to pozostałe?", "answer": "Gry planszowe: 540 ÷ 6 = 90.\nPozostałe: 540 − 90 = 450.\n#### 450"}
+{"question": "Na wyprzedaży obniżono cenę kurtki z 600 zł o 35%. Jaka jest nowa cena?", "answer": "Obniżka: 600 × 0.35 = 210 zł.\nNowa cena: 600 − 210 = 390 zł.\n#### 390 zł"}
+{"question": "W sklepie spożywczym kupiono 1200 kg ryżu. Jeśli 15% ryżu zużyto, ile kg pozostało?", "answer": "Zużyto: 1200 × 0.15 = 180 kg.\nPozostało: 1200 − 180 = 1020 kg.\n#### 1020 kg"}
+{"question": "W firmie zatrudnionych jest 240 pracowników. Jeśli 1/3 pracuje w dziale sprzedaży, ile pracowników pracuje w innych działach?", "answer": "Dział sprzedaży: 240 ÷ 3 = 80.\nInnych: 240 − 80 = 160.\n#### 160"}
+{"question": "W sali lekcyjnej jest 64 ławki. Jeśli 1/8 z nich jest uszkodzonych, ile ławek nadaje się do użytku?", "answer": "Uszkodzonych: 64 ÷ 8 = 8.\nSprawnych: 64 − 8 = 56.\n#### 56"}
+{"question": "W sklepie komputerowym sprzedano 360 laptopów. Jeśli 1/6 to laptopy z procesorem i7, ile to laptopy z innym procesorem?", "answer": "Laptopy i7: 360 ÷ 6 = 60.\nPozostałe: 360 − 60 = 300.\n#### 300"}
+{"question": "Na boisku gra 22 piłkarzy. Jeśli 1/11 z nich to bramkarze, ile to pozostali zawodnicy?", "answer": "Bramkarzy: 22 ÷ 11 = 2.\nPozostali: 22 − 2 = 20.\n#### 20"}
+{"question": "W kinie sprzedano 800 biletów. Jeśli 25% to bilety VIP, ile biletów to bilety standardowe?", "answer": "VIP: 800 × 0.25 = 200.\nStandardowe: 800 − 200 = 600.\n#### 600"}
+{"question": "W szkole odbyło się 4 egzaminy, na których uczniowie zdobyli łącznie 320 punktów. Jaki był średni wynik na egzamin?", "answer": "Średni wynik: 320 ÷ 4 = 80.\n#### 80"}
+{"question": "W muzeum znajduje się 540 eksponatów. Jeśli 1/3 to rzeźby, ile eksponatów to obrazy lub fotografie?", "answer": "Rzeźby: 540 ÷ 3 = 180.\nPozostałe: 540 − 180 = 360.\n#### 360"}
+{"question": "W sklepie z ubraniami sprzedano 500 par butów. Jeśli 20% par to buty sportowe, ile par to buty eleganckie?", "answer": "Buty sportowe: 500 × 0.20 = 100.\nButy eleganckie: 500 − 100 = 400.\n#### 400"}
+{"question": "W przedszkolu jest 96 dzieci. Jeśli 1/4 dzieci ma niebieskie plecaki, ile dzieci ma plecaki innych kolorów?", "answer": "Niebieskie: 96 ÷ 4 = 24.\nInne: 96 − 24 = 72.\n#### 72"}
+{"question": "Na festynie sprzedano 840 biletów. Jeśli 1/7 biletów było ulgowych, ile biletów sprzedano po pełnej cenie?", "answer": "Biletów ulgowych: 840 ÷ 7 = 120.\nPełnych: 840 − 120 = 720.\n#### 720"}
+{"question": "W restauracji przygotowano 720 posiłków. Jeśli 1/6 to zupy, ile posiłków to dania główne?", "answer": "Zupy: 720 ÷ 6 = 120.\nDania główne: 720 − 120 = 600.\n#### 600"}
+{"question": "W szkole jest 66 uczniów. Jeśli 1/3 z nich to uczniowie z wyróżnieniem, ile uczniów nie ma wyróżnienia?", "answer": "Uczniów z wyróżnieniem: 66 ÷ 3 = 22.\nPozostałych: 66 − 22 = 44.\n#### 44"}
+{"question": "W bibliotece jest 900 książek. Jeśli 1/5 to literatura piękna, ile książek to pozostałe gatunki?", "answer": "Literatura piękna: 900 ÷ 5 = 180.\nPozostałe: 900 − 180 = 720.\n#### 720"}
+{"question": "W sklepie spożywczym było 800 kg makaronu. Jeśli sprzedano 30% makaronu, ile kg pozostało?", "answer": "Sprzedano: 800 × 0.30 = 240 kg.\nPozostało: 800 − 240 = 560 kg.\n#### 560 kg"}
+{"question": "W fabryce wyprodukowano 1100 elementów. Jeśli 8% elementów jest wadliwych, ile elementów jest poprawnych?", "answer": "Wadliwych: 1100 × 0.08 = 88.\nPoprawnych: 1100 − 88 = 1012.\n#### 1012"}
+{"question": "W biurze jest 150 pracowników. Jeśli 1/5 z nich to dyrektorzy, ile pracowników nie jest dyrektorami?", "answer": "Dyrektorów: 150 ÷ 5 = 30.\nPozostałych: 150 − 30 = 120.\n#### 120"}
+{"question": "W sklepie było 350 długopisów. Sprzedano 30% z nich. Ile długopisów pozostało?", "answer": "Sprzedano: 350 × 0.30 = 105 długopisów.\nPozostało: 350 − 105 = 245 długopisów.\n#### 245"}
+{"question": "Jan kupił 10 zeszytów po 5 zł. Ile zapłacił łącznie?", "answer": "10 × 5 = 50 zł.\n#### 50 zł"}
+{"question": "W parku rośnie 120 drzew. Jeśli 1/4 z nich to sosny, ile drzew to inne gatunki?", "answer": "Sosny: 120 ÷ 4 = 30.\nInne drzewa: 120 − 30 = 90.\n#### 90"}
+{"question": "W szkole jest 55 uczniów. Jeśli 40% to chłopcy, ile dziewcząt jest w klasie?", "answer": "Chłopcy: 55 × 0.40 = 22.\nDziewcząt: 55 − 22 = 33.\n#### 33"}
+{"question": "W sklepie komputerowym sprzedano 300 komputerów, z których 1/5 to laptopy. Ile komputerów to modele stacjonarne?", "answer": "Laptopy: 300 ÷ 5 = 60.\nStacjonarne: 300 − 60 = 240.\n#### 240"}
+{"question": "Na lekcji matematyki rozwiązano 100 zadań, z których 1/10 dotyczyło algebry. Ile zadań dotyczyło innych działów?", "answer": "Algebra: 100 ÷ 10 = 10.\nInne zadania: 100 − 10 = 90.\n#### 90"}
+{"question": "W restauracji przygotowano 450 posiłków, a 1/3 z nich to zupy. Ile posiłków stanowią dania główne?", "answer": "Zupy: 450 ÷ 3 = 150.\nDania główne: 450 − 150 = 300.\n#### 300"}
+{"question": "Kasia miała 250 zł. Kupiła książkę za 70 zł i długopis za 15 zł. Ile pieniędzy jej zostało?", "answer": "Wydatki: 70 + 15 = 85 zł.\nPozostało: 250 − 85 = 165 zł.\n#### 165 zł"}
+{"question": "W bibliotece znajduje się 600 książek, z których 1/5 to literatura naukowa. Ile książek to inne gatunki?", "answer": "Literatura naukowa: 600 ÷ 5 = 120.\nPozostałe: 600 − 120 = 480.\n#### 480"}
+{"question": "W sklepie spożywczym było 800 kg ziemniaków, sprzedano 25%. Ile kg ziemniaków pozostało?", "answer": "Sprzedano: 800 × 0.25 = 200 kg.\nPozostało: 800 − 200 = 600 kg.\n#### 600 kg"}
+{"question": "Na festynie sprzedano 500 biletów, z czego 20% było ulgowych. Ile biletów kupiły osoby dorosłe (pełna cena)?", "answer": "Ulgowe: 500 × 0.20 = 100.\nPełne: 500 − 100 = 400.\n#### 400"}
+{"question": "W przedszkolu jest 70 dzieci, a 1/7 z nich nosi okulary. Ile dzieci nie nosi okularów?", "answer": "Dzieci z okularami: 70 ÷ 7 = 10.\nBez okularów: 70 − 10 = 60.\n#### 60"}
+{"question": "W szkole zorganizowano 8 konkursów, w których średnio brało udział po 15 uczniów. Ile uczniów uczestniczyło łącznie?", "answer": "8 × 15 = 120 uczniów.\n#### 120"}
+{"question": "W muzeum znajduje się 300 eksponatów, z których 1/10 to rzeźby. Ile eksponatów to pozostałe?", "answer": "Rzeźby: 300 ÷ 10 = 30.\nPozostałe: 300 − 30 = 270.\n#### 270"}
+{"question": "W sklepie z ubraniami sprzedano 420 koszulek, a 1/7 z nich to rozmiar XL. Ile koszulek to inne rozmiary?", "answer": "Rozmiar XL: 420 ÷ 7 = 60.\nInne: 420 − 60 = 360.\n#### 360"}
+{"question": "W kinie sprzedano 900 biletów, z których 1/3 to bilety VIP. Ile to bilety standardowe?", "answer": "VIP: 900 ÷ 3 = 300.\nStandardowe: 900 − 300 = 600.\n#### 600"}
+{"question": "W klasie jest 44 uczniów, a 1/4 z nich to uczniowie z wyróżnieniem. Ile uczniów nie ma wyróżnienia?", "answer": "Uczniów z wyróżnieniem: 44 ÷ 4 = 11.\nPozostali: 44 − 11 = 33.\n#### 33"}
+{"question": "W restauracji przygotowano 640 porcji, z których 1/8 to desery. Ile porcji stanowią dania główne?", "answer": "Desery: 640 ÷ 8 = 80.\nDania główne: 640 − 80 = 560.\n#### 560"}
+{"question": "W bibliotece wypożyczono 480 książek, a 1/6 z nich to książki dla dzieci. Ile książek to literatura dla dorosłych?", "answer": "Dla dzieci: 480 ÷ 6 = 80.\nDla dorosłych: 480 − 80 = 400.\n#### 400"}
+{"question": "W sklepie spożywczym było 1000 litrów mleka, sprzedano 35%. Ile litrów mleka pozostało?", "answer": "Sprzedano: 1000 × 0.35 = 350 litrów.\nPozostało: 1000 − 350 = 650 litrów.\n#### 650"}
+{"question": "W parku jest 240 ławek, a 1/5 z nich jest uszkodzonych. Ile ławek nadaje się do użytku?", "answer": "Uszkodzonych: 240 ÷ 5 = 48.\nSprawnych: 240 − 48 = 192.\n#### 192"}
+{"question": "W szkole odbyło się 5 konkursów, w których łącznie wzięło udział 250 uczniów. Ile średnio uczniów uczestniczyło w jednym konkursie?", "answer": "Średnio: 250 ÷ 5 = 50 uczniów.\n#### 50"}
+{"question": "W przedszkolu jest 80 dzieci, a 1/4 z nich ma niebieskie plecaki. Ile dzieci ma plecaki innych kolorów?", "answer": "Niebieskie: 80 ÷ 4 = 20.\nInne: 80 − 20 = 60.\n#### 60"}
+{"question": "W sklepie z elektroniką sprzedano 500 telewizorów, z których 1/10 to modele smart. Ile to modele tradycyjne?", "answer": "Modele smart: 500 ÷ 10 = 50.\nTradycyjne: 500 − 50 = 450.\n#### 450"}
+{"question": "W biurze jest 200 komputerów, a 1/5 z nich jest przestarzałych. Ile komputerów jest nowoczesnych?", "answer": "Przestarzałych: 200 ÷ 5 = 40.\nNowoczesnych: 200 − 40 = 160.\n#### 160"}
+{"question": "Kasia kupiła 15 książek po 12 zł każda. Ile zapłaciła łącznie?", "answer": "15 × 12 = 180 zł.\n#### 180 zł"}
+{"question": "W sklepie było 600 paczek, a 1/6 z nich jest uszkodzonych. Ile paczek jest sprawnych?", "answer": "Uszkodzonych: 600 ÷ 6 = 100.\nSprawnych: 600 − 100 = 500.\n#### 500"}
+{"question": "W kinie znajduje się 750 miejsc, a 80% z nich zostało zajętych. Ile miejsc pozostało wolnych?", "answer": "Zajętych: 750 × 0.80 = 600.\nWolnych: 750 − 600 = 150.\n#### 150"}
+{"question": "W bibliotece jest 1000 książek, a 1/5 to literatura piękna. Ile książek to inne gatunki?", "answer": "Literatura piękna: 1000 ÷ 5 = 200.\nInne: 1000 − 200 = 800.\n#### 800"}
+{"question": "W sklepie spożywczym było 450 kg owoców, a sprzedano 40%. Ile kg owoców pozostało?", "answer": "Sprzedano: 450 × 0.40 = 180 kg.\nPozostało: 450 − 180 = 270 kg.\n#### 270 kg"}
+{"question": "W przedszkolu jest 50 dzieci, a 1/5 z nich to dzieci z niebieskimi kurtkami. Ile dzieci ma kurtki innego koloru?", "answer": "Dzieci z niebieskimi: 50 ÷ 5 = 10.\nPozostało: 50 − 10 = 40.\n#### 40"}
+{"question": "W sklepie z zabawkami sprzedano 360 zabawek, a 1/4 to gry planszowe. Ile zabawek to inne rodzaje?", "answer": "Gry planszowe: 360 ÷ 4 = 90.\nInne: 360 − 90 = 270.\n#### 270"}
+{"question": "W klasie jest 60 uczniów, a 1/3 przyniosło śniadanie. Ile uczniów nie przyniosło śniadania?", "answer": "Przyniosło: 60 ÷ 3 = 20.\nNie przyniosło: 60 − 20 = 40.\n#### 40"}
+{"question": "W muzeum jest 800 eksponatów, a 1/8 to obrazy. Ile eksponatów to rzeźby lub inne?", "answer": "Obrazy: 800 ÷ 8 = 100.\nPozostałe: 800 − 100 = 700.\n#### 700"}
+{"question": "Na festynie sprzedano 680 biletów, z czego 15% było ulgowych. Ile biletów sprzedano po pełnej cenie?", "answer": "Ulgowe: 680 × 0.15 = 102.\nPełne: 680 − 102 = 578.\n#### 578"}
+{"question": "W restauracji przygotowano 540 porcji, a 1/3 to desery. Ile porcji to dania główne?", "answer": "Desery: 540 ÷ 3 = 180.\nDania główne: 540 − 180 = 360.\n#### 360"}
+{"question": "W sklepie z ubraniami sprzedano 360 koszulek, a 1/4 to koszulki sportowe. Ile koszulek to eleganckie?", "answer": "Koszulki sportowe: 360 ÷ 4 = 90.\nEleganckie: 360 − 90 = 270.\n#### 270"}
+{"question": "W bibliotece wypożyczono 720 książek, a 1/6 to podręczniki. Ile książek to literatura inna?", "answer": "Podręczniki: 720 ÷ 6 = 120.\nInna literatura: 720 − 120 = 600.\n#### 600"}
+{"question": "W sklepie spożywczym było 550 kg mąki, sprzedano 50%. Ile kg mąki pozostało?", "answer": "Sprzedano: 550 × 0.50 = 275 kg.\nPozostało: 550 − 275 = 275 kg.\n#### 275 kg"}
+{"question": "W kinie jest 300 miejsc, a 1/3 z nich to miejsca VIP. Ile miejsc to miejsca standardowe?", "answer": "Miejsca VIP: 300 ÷ 3 = 100.\nStandardowe: 300 − 100 = 200.\n#### 200"}
+{"question": "W przedszkolu jest 90 dzieci, a 1/10 z nich ma okulary. Ile dzieci nie ma okularów?", "answer": "Z okularami: 90 ÷ 10 = 9.\nBez okularów: 90 − 9 = 81.\n#### 81"}
+{"question": "W sklepie komputerowym sprzedano 420 komputerów, a 1/7 to laptopy. Ile komputerów to modele stacjonarne?", "answer": "Laptopy: 420 ÷ 7 = 60.\nStacjonarne: 420 − 60 = 360.\n#### 360"}
+{"question": "W sali lekcyjnej jest 64 krzeseł, a 1/8 jest uszkodzonych. Ile krzeseł jest sprawnych?", "answer": "Uszkodzonych: 64 ÷ 8 = 8.\nSprawnych: 64 − 8 = 56.\n#### 56"}
+{"question": "W muzeum jest 540 eksponatów, a 1/9 to rzeźby. Ile eksponatów to pozostałe?", "answer": "Rzeźby: 540 ÷ 9 = 60.\nPozostałe: 540 − 60 = 480.\n#### 480"}
+{"question": "W restauracji przygotowano 600 posiłków, a 1/5 to dania wegetariańskie. Ile posiłków to dania mięsne?", "answer": "Wegetariańskie: 600 ÷ 5 = 120.\nMięsne: 600 − 120 = 480.\n#### 480"}
+{"question": "W szkole jest 66 uczniów, a 1/3 to uczniowie z dyplomem. Ile uczniów nie ma dyplomu?", "answer": "Dyplomowani: 66 ÷ 3 = 22.\nPozostali: 66 − 22 = 44.\n#### 44"}
+{"question": "W sklepie spożywczym było 1000 litrów wody, sprzedano 55%. Ile litrów wody pozostało?", "answer": "Sprzedano: 1000 × 0.55 = 550 litrów.\nPozostało: 1000 − 550 = 450 litrów.\n#### 450"}
+{"question": "W bibliotece jest 800 książek, a 1/4 to podręczniki. Ile książek to literatura inna?", "answer": "Podręczniki: 800 ÷ 4 = 200.\nInne: 800 − 200 = 600.\n#### 600"}
+{"question": "W szkole zorganizowano 7 konkursów, w których łącznie wzięło udział 490 uczniów. Ile średnio uczniów uczestniczyło w jednym konkursie?", "answer": "Średnio: 490 ÷ 7 = 70.\n#### 70"}
+{"question": "W restauracji sprzedano 450 pizz, a 1/5 to margherita. Ile pizz to inne rodzaje?", "answer": "Margherita: 450 ÷ 5 = 90.\nInne: 450 − 90 = 360.\n#### 360"}
+{"question": "W sklepie było 450 jabłek. Sprzedano 1/3 z nich. Ile jabłek pozostało?", "answer": "Sprzedano: 450 ÷ 3 = 150 jabłek.\nPozostało: 450 − 150 = 300 jabłek.\n#### 300 jabłek"}
+{"question": "Jan kupił 8 paczek ołówków, w każdej po 12 sztuk. Oddał 10 ołówków. Ile ołówków pozostało?", "answer": "Łącznie ołówków: 8 × 12 = 96.\nPo oddaniu: 96 − 10 = 86 ołówków.\n#### 86 ołówków"}
+{"question": "W klasie jest 36 uczniów. Jeśli 1/3 uczniów przyprowadziło rodziców, ile uczniów pozostało bez rodziców?", "answer": "Przyprowadzili: 36 ÷ 3 = 12.\nBez rodziców: 36 − 12 = 24 uczniów.\n#### 24 uczniów"}
+{"question": "W kinie sprzedano 480 biletów. Jeśli 1/5 biletów to bilety VIP, ile biletów standardowych sprzedano?", "answer": "Bilety VIP: 480 ÷ 5 = 96.\nBilety standardowe: 480 − 96 = 384.\n#### 384 biletów"}
+{"question": "W restauracji przygotowano 600 porcji. Jeśli 1/4 z nich to zupy, ile porcji stanowią dania główne?", "answer": "Zupy: 600 ÷ 4 = 150.\nDania główne: 600 − 150 = 450.\n#### 450 porcji"}
+{"question": "W magazynie znajduje się 800 pudełek. Jeśli 10% z nich jest uszkodzonych, ile pudełek jest sprawnych?", "answer": "Uszkodzonych: 800 × 0.10 = 80.\nSprawnych: 800 − 80 = 720.\n#### 720 pudełek"}
+{"question": "Na wyprzedaży obniżono cenę kurtki z 500 zł o 20%. Jaka jest nowa cena kurtki?", "answer": "Obniżka: 500 × 0.20 = 100 zł.\nNowa cena: 500 − 100 = 400 zł.\n#### 400 zł"}
+{"question": "W sklepie spożywczym było 1000 kg ziemniaków. Sprzedano 40% ziemniaków. Ile kg ziemniaków pozostało?", "answer": "Sprzedano: 1000 × 0.40 = 400 kg.\nPozostało: 1000 − 400 = 600 kg.\n#### 600 kg"}
+{"question": "W przedszkolu jest 50 dzieci. Jeśli 1/5 z nich nosi plecaki, ile dzieci nosi inne torby?", "answer": "Dzieci z plecakami: 50 ÷ 5 = 10.\nInne: 50 − 10 = 40 dzieci.\n#### 40 dzieci"}
+{"question": "W firmie zatrudnionych jest 150 pracowników. Jeśli 1/3 z nich to kierownicy, ile pracowników nie jest kierownikami?", "answer": "Kierowników: 150 ÷ 3 = 50.\nPozostałych: 150 − 50 = 100 pracowników.\n#### 100 pracowników"}
+{"question": "W bibliotece jest 900 książek. Jeśli 1/6 książek to komiksy, ile książek należy do innych gatunków?", "answer": "Komiksy: 900 ÷ 6 = 150.\nPozostałe: 900 − 150 = 750 książek.\n#### 750 książek"}
+{"question": "W sklepie komputerowym sprzedano 360 komputerów. Jeśli 1/4 z nich to laptopy, ile komputerów to modele stacjonarne?", "answer": "Laptopy: 360 ÷ 4 = 90.\nStacjonarne: 360 − 90 = 270.\n#### 270 komputerów"}
+{"question": "W szkole odbyło się 7 konkursów, a łącznie w nich wzięło udział 490 uczniów. Jaki był średni udział w konkursie?", "answer": "Średnia: 490 ÷ 7 = 70 uczniów na konkurs.\n#### 70 uczniów"}
+{"question": "Na festynie sprzedano 800 biletów. Jeśli 1/8 biletów było ulgowych, ile biletów sprzedano po pełnej cenie?", "answer": "Biletów ulgowych: 800 ÷ 8 = 100.\nBiletów pełnych: 800 − 100 = 700.\n#### 700 biletów"}
+{"question": "W sklepie z ubraniami sprzedano 600 koszulek. Jeśli 1/5 z nich to koszulki w rozmiarze S, ile koszulek to inne rozmiary?", "answer": "Koszulki S: 600 ÷ 5 = 120.\nPozostałe: 600 − 120 = 480 koszulek.\n#### 480 koszulek"}
+{"question": "W restauracji przygotowano 540 posiłków, z których 1/3 to desery. Ile posiłków stanowią dania główne?", "answer": "Desery: 540 ÷ 3 = 180.\nDania główne: 540 − 180 = 360.\n#### 360 posiłków"}
+{"question": "W kinie jest 1000 miejsc, z których 75% jest zajętych. Ile miejsc jest wolnych?", "answer": "Zajętych: 1000 × 0.75 = 750.\nWolnych: 1000 − 750 = 250.\n#### 250 miejsc"}
+{"question": "W przedszkolu jest 80 dzieci. Jeśli 1/4 z nich ma okulary, ile dzieci nie ma okularów?", "answer": "Dzieci z okularami: 80 ÷ 4 = 20.\nBez okularów: 80 − 20 = 60.\n#### 60 dzieci"}
+{"question": "W sklepie spożywczym było 700 kg makaronu. Sprzedano 50% makaronu. Ile kg makaronu pozostało?", "answer": "Sprzedano: 700 × 0.50 = 350 kg.\nPozostało: 700 − 350 = 350 kg.\n#### 350 kg"}
+{"question": "W bibliotece wypożyczono 500 książek. Jeśli 1/5 to podręczniki, ile książek to literatura popularna?", "answer": "Podręczniki: 500 ÷ 5 = 100.\nLiteratura popularna: 500 − 100 = 400 książek.\n#### 400 książek"}
+{"question": "W sklepie z zabawkami sprzedano 420 zabawek. Jeśli 1/7 z nich to samochodziki, ile zabawek to inne rodzaje?", "answer": "Samochodziki: 420 ÷ 7 = 60.\nInne: 420 − 60 = 360.\n#### 360 zabawek"}
+{"question": "W klasie jest 40 uczniów. Jeśli 1/4 uczniów otrzymało dyplomy, ile uczniów nie ma dyplomów?", "answer": "Dyplomów: 40 ÷ 4 = 10.\nBez dyplomów: 40 − 10 = 30.\n#### 30 uczniów"}
+{"question": "W firmie zatrudnionych jest 200 pracowników. Jeśli 1/5 z nich to dyrektorzy, ile pracowników nie jest dyrektorami?", "answer": "Dyrektorów: 200 ÷ 5 = 40.\nPozostałych: 200 − 40 = 160.\n#### 160 pracowników"}
+{"question": "W sali lekcyjnej jest 64 krzeseł. Jeśli 1/8 krzeseł jest uszkodzonych, ile krzeseł jest sprawnych?", "answer": "Uszkodzonych: 64 ÷ 8 = 8.\nSprawnych: 64 − 8 = 56.\n#### 56 krzeseł"}
+{"question": "W sklepie spożywczym było 900 kg ryżu. Sprzedano 30% ryżu. Ile kg ryżu pozostało?", "answer": "Sprzedano: 900 × 0.30 = 270 kg.\nPozostało: 900 − 270 = 630 kg.\n#### 630 kg"}
+{"question": "Na wyprzedaży obniżono cenę telewizora z 2000 zł o 15%. Jaka jest nowa cena telewizora?", "answer": "Obniżka: 2000 × 0.15 = 300 zł.\nNowa cena: 2000 − 300 = 1700 zł.\n#### 1700 zł"}
+{"question": "W sklepie z artykułami biurowymi sprzedano 600 długopisów, z czego 1/6 to długopisy żelowe. Ile długopisów to modele standardowe?", "answer": "Długopisy żelowe: 600 ÷ 6 = 100.\nStandardowe: 600 − 100 = 500.\n#### 500 długopisów"}
+{"question": "W restauracji przygotowano 480 porcji, z których 1/8 to sałatki. Ile porcji stanowią główne dania?", "answer": "Sałatki: 480 ÷ 8 = 60.\nGłówne dania: 480 − 60 = 420.\n#### 420 porcji"}
+{"question": "W kinie sprzedano 720 biletów, z których 1/3 to bilety VIP. Ile to bilety standardowe?", "answer": "Bilety VIP: 720 ÷ 3 = 240.\nBilety standardowe: 720 − 240 = 480.\n#### 480 biletów"}
+{"question": "W sklepie komputerowym sprzedano 540 komputerów, z których 1/5 to laptopy. Ile komputerów to modele stacjonarne?", "answer": "Laptopy: 540 ÷ 5 = 108.\nStacjonarne: 540 − 108 = 432.\n#### 432 komputerów"}
+{"question": "W klasie jest 30 uczniów. Jeśli 1/3 uczniów przyniosło zadania, ile uczniów nie przyniosło zadań?", "answer": "Przyniosło: 30 ÷ 3 = 10.\nNie przyniosło: 30 − 10 = 20.\n#### 20 uczniów"}
+{"question": "W bibliotece jest 750 książek, z których 1/5 to biografie. Ile książek to inne gatunki?", "answer": "Biografie: 750 ÷ 5 = 150.\nInne: 750 − 150 = 600 książek.\n#### 600 książek"}
+{"question": "W sklepie z ubraniami sprzedano 480 par butów, z których 1/4 to modele sportowe. Ile par to modele eleganckie?", "answer": "Sportowe: 480 ÷ 4 = 120.\nEleganckie: 480 − 120 = 360.\n#### 360 par butów"}
+{"question": "W szkole odbyło się 6 turniejów, a łącznie uczestniczyło 300 uczniów. Jaki był średni udział w turnieju?", "answer": "Średni udział: 300 ÷ 6 = 50 uczniów.\n#### 50 uczniów"}
+{"question": "W restauracji przygotowano 650 porcji, z których 1/10 to desery. Ile porcji stanowią dania główne?", "answer": "Desery: 650 ÷ 10 = 65.\nDania główne: 650 − 65 = 585.\n#### 585 porcji"}
+{"question": "W sklepie spożywczym było 1000 litrów soku. Sprzedano 60% soku. Ile litrów soku pozostało?", "answer": "Sprzedano: 1000 × 0.60 = 600 litrów.\nPozostało: 1000 − 600 = 400 litrów.\n#### 400 litrów"}
+{"question": "W kinie jest 850 miejsc. Jeśli 80% miejsc jest zajętych, ile miejsc jest wolnych?", "answer": "Zajętych: 850 × 0.80 = 680.\nWolnych: 850 − 680 = 170.\n#### 170 miejsc"}
+{"question": "W bibliotece wypożyczono 400 książek, z których 1/4 to literatura dziecięca. Ile książek to literatura dla dorosłych?", "answer": "Literatura dziecięca: 400 ÷ 4 = 100.\nDla dorosłych: 400 − 100 = 300.\n#### 300 książek"}
+{"question": "W sklepie z zabawkami sprzedano 500 zabawek, z których 1/5 to puzzle. Ile zabawek to inne rodzaje?", "answer": "Puzzle: 500 ÷ 5 = 100.\nInne: 500 − 100 = 400.\n#### 400 zabawek"}
+{"question": "W przedszkolu jest 72 dzieci. Jeśli 1/6 z nich ma czerwone plecaki, ile dzieci ma plecaki innych kolorów?", "answer": "Czerwone plecaki: 72 ÷ 6 = 12.\nInne: 72 − 12 = 60.\n#### 60 dzieci"}
+{"question": "W sklepie komputerowym sprzedano 600 komputerów, z których 1/4 to laptopy. Ile komputerów to modele stacjonarne?", "answer": "Laptopy: 600 ÷ 4 = 150.\nStacjonarne: 600 − 150 = 450.\n#### 450 komputerów"}
+{"question": "W sali lekcyjnej jest 50 krzeseł, a 20% z nich jest uszkodzonych. Ile krzeseł jest sprawnych?", "answer": "Uszkodzonych: 50 × 0.20 = 10.\nSprawnych: 50 − 10 = 40.\n#### 40 krzeseł"}
+{"question": "W restauracji przygotowano 780 porcji, z których 1/3 to zupy. Ile porcji to główne dania?", "answer": "Zupy: 780 ÷ 3 = 260.\nGłówne dania: 780 − 260 = 520.\n#### 520 porcji"}
+{"question": "W kinie sprzedano 960 biletów, z których 1/5 to bilety VIP. Ile biletów to bilety standardowe?", "answer": "Bilety VIP: 960 ÷ 5 = 192.\nBilety standardowe: 960 − 192 = 768.\n#### 768 biletów"}
+{"question": "W sklepie spożywczym było 850 kg owoców. Sprzedano 50% owoców. Ile kg owoców pozostało?", "answer": "Sprzedano: 850 × 0.50 = 425 kg.\nPozostało: 850 − 425 = 425 kg.\n#### 425 kg"}
+{"question": "W przedszkolu jest 100 dzieci, a 1/10 z nich ma niebieskie opaski. Ile dzieci ma opaski innego koloru?", "answer": "Dzieci z niebieskimi opaskami: 100 ÷ 10 = 10.\nPozostałych: 100 − 10 = 90.\n#### 90 dzieci"}
+{"question": "W sklepie z ubraniami sprzedano 540 koszulek, z których 1/3 to koszulki sportowe. Ile koszulek to modele eleganckie?", "answer": "Koszulki sportowe: 540 ÷ 3 = 180.\nEleganckie: 540 − 180 = 360.\n#### 360 koszulek"}
+{"question": "W bibliotece jest 950 książek, z których 1/5 to literatura naukowa. Ile książek to inne gatunki?", "answer": "Literatura naukowa: 950 ÷ 5 = 190.\nInne: 950 − 190 = 760.\n#### 760 książek"}
+{"question": "W restauracji przygotowano 800 porcji, z których 1/4 to desery. Ile porcji to dania główne?", "answer": "Desery: 800 ÷ 4 = 200.\nDania główne: 800 − 200 = 600.\n#### 600 porcji"}
+{"question": "W sklepie komputerowym sprzedano 720 laptopów, z których 1/6 to laptopy gamingowe. Ile laptopów to modele standardowe?", "answer": "Laptopy gamingowe: 720 ÷ 6 = 120.\nStandardowe: 720 − 120 = 600.\n#### 600 laptopów"}
+{"question": "W sklepie było 520 jabłek. Sprzedano 35% z nich. Ile jabłek pozostało?", "answer": "Sprzedano: 520 × 0.35 = 182 jabłka.\nPozostało: 520 − 182 = 338 jabłek.\n#### 338"}
+{"question": "W klasie jest 28 uczniów. Jeśli 1/7 z nich ma dyplomy, ile uczniów nie ma dyplomów?", "answer": "Uczniów z dyplomami: 28 ÷ 7 = 4.\nBez dyplomów: 28 − 4 = 24 uczniów.\n#### 24"}
+{"question": "Jan kupił 12 zeszytów po 4 zł. Ile zapłacił łącznie?", "answer": "Łączny koszt: 12 × 4 = 48 zł.\n#### 48 zł"}
+{"question": "W bibliotece jest 840 książek. Jeśli 1/4 to powieści, ile książek należy do innych gatunków?", "answer": "Powieści: 840 ÷ 4 = 210.\nInne gatunki: 840 − 210 = 630 książek.\n#### 630"}
+{"question": "W restauracji przygotowano 720 posiłków. Jeśli 1/3 to zupy, ile posiłków to dania główne?", "answer": "Zupy: 720 ÷ 3 = 240.\nDania główne: 720 − 240 = 480 porcji.\n#### 480"}
+{"question": "W sklepie komputerowym sprzedano 600 komputerów. Jeśli 1/5 to laptopy, ile to modele stacjonarne?", "answer": "Laptopy: 600 ÷ 5 = 120.\nStacjonarne: 600 − 120 = 480 komputerów.\n#### 480"}
+{"question": "W przedszkolu jest 64 dzieci. Jeśli 1/8 z nich ma czerwone plecaki, ile dzieci ma plecaki innych kolorów?", "answer": "Dzieci z czerwonymi plecakami: 64 ÷ 8 = 8.\nPozostałe: 64 − 8 = 56 dzieci.\n#### 56"}
+{"question": "W sklepie spożywczym było 980 kg ziemniaków. Sprzedano 30% ziemniaków. Ile kg ziemniaków pozostało?", "answer": "Sprzedano: 980 × 0.30 = 294 kg.\nPozostało: 980 − 294 = 686 kg.\n#### 686 kg"}
+{"question": "W kinie sprzedano 780 biletów. Jeśli 1/6 to bilety VIP, ile biletów to bilety standardowe?", "answer": "Bilety VIP: 780 ÷ 6 = 130.\nBilety standardowe: 780 − 130 = 650 biletów.\n#### 650"}
+{"question": "W sklepie z ubraniami sprzedano 540 koszulek. Jeśli 1/3 to koszulki XL, ile koszulek to inne rozmiary?", "answer": "Koszulki XL: 540 ÷ 3 = 180.\nInne rozmiary: 540 − 180 = 360 koszulek.\n#### 360"}
+{"question": "W muzeum znajduje się 600 eksponatów. Jeśli 1/5 to obrazy, ile eksponatów to rzeźby lub fotografie?", "answer": "Obrazy: 600 ÷ 5 = 120.\nPozostałe eksponaty: 600 − 120 = 480.\n#### 480"}
+{"question": "W firmie pracuje 180 osób. Jeśli 1/6 to menedżerowie, ile osób nie jest menedżerami?", "answer": "Menedżerów: 180 ÷ 6 = 30.\nPozostałych: 180 − 30 = 150 osób.\n#### 150"}
+{"question": "W szkole zorganizowano zbiórkę, podczas której zebrano 540 zł. Jeśli każdy uczeń wpłacił 18 zł, ile uczniów wzięło udział?", "answer": "Liczba uczniów: 540 ÷ 18 = 30.\n#### 30"}
+{"question": "W sklepie spożywczym było 750 kg mąki. Sprzedano 40% mąki. Ile kg mąki pozostało?", "answer": "Sprzedano: 750 × 0.40 = 300 kg.\nPozostało: 750 − 300 = 450 kg.\n#### 450 kg"}
+{"question": "W kinie jest 1000 miejsc. Jeśli 85% miejsc zostało zajętych, ile miejsc jest wolnych?", "answer": "Zajętych: 1000 × 0.85 = 850.\nWolnych: 1000 − 850 = 150 miejsc.\n#### 150"}
+{"question": "W przedszkolu jest 90 dzieci. Jeśli 1/3 z nich uczestniczy w zabawie, ile dzieci nie uczestniczy?", "answer": "Uczestniczących: 90 ÷ 3 = 30.\nNie uczestniczących: 90 − 30 = 60 dzieci.\n#### 60"}
+{"question": "W bibliotece wypożyczono 660 książek. Jeśli 1/11 to komiksy, ile książek to literatura inna?", "answer": "Komiksy: 660 ÷ 11 = 60.\nLiteratura inna: 660 − 60 = 600 książek.\n#### 600"}
+{"question": "Jan kupił 7 paczek długopisów, w każdej 10 długopisów. Oddał 5 długopisów. Ile długopisów mu pozostało?", "answer": "Łącznie długopisów: 7 × 10 = 70.\nPozostało: 70 − 5 = 65 długopisów.\n#### 65"}
+{"question": "W sklepie komputerowym sprzedano 480 komputerów. Jeśli 1/4 to laptopy, ile to modele stacjonarne?", "answer": "Laptopy: 480 ÷ 4 = 120.\nStacjonarne: 480 − 120 = 360 komputerów.\n#### 360"}
+{"question": "W restauracji przygotowano 540 porcji, z czego 1/9 to sałatki. Ile porcji to dania główne?", "answer": "Sałatki: 540 ÷ 9 = 60.\nDania główne: 540 − 60 = 480 porcji.\n#### 480"}
+{"question": "Wojtek miał 100 jabłek, zjadł 35 i oddał 25. Ile jabłek zostało?", "answer": "100 - 35 = <<100-35=65>>65\n65 - 25 = <<65-25=40>>40 jabłek\n#### 40"}
+{"question": "Zofia kupiła 5 książek po 20 zł. Ile zapłaciła łącznie?", "answer": "5 * 20 = <<5*20=100>>100 zł\n#### 100"}
+{"question": "Adam kupił 4 paczki herbaty po 250 ml. Ile ml herbaty kupił?", "answer": "4 * 250 = <<4*250=1000>>1000 ml\n#### 1000 ml"}
+{"question": "Bartek miał 150 punktów, zdobył 40 i stracił 20. Ile punktów ma teraz?", "answer": "150 + 40 = <<150+40=190>>190\n190 - 20 = <<190-20=170>>170 punktów\n#### 170"}
+{"question": "Cezary kupił 6 zeszytów po 8 zł. Ile zapłacił łącznie?", "answer": "6 * 8 = <<6*8=48>>48 zł\n#### 48"}
+{"question": "Daria miała 90 cukierków, zjadła 30 i oddała 10. Ile cukierków zostało?", "answer": "90 - 30 = <<90-30=60>>60\n60 - 10 = <<60-10=50>>50 cukierków\n#### 50"}
+{"question": "Ewa kupiła 2 paczki mleka po 1,3 litra. Ile litrów mleka kupiła?", "answer": "2 * 1.3 = <<2*1.3=2.6>>2.6 litrów\n#### 2.6 litrów"}
+{"question": "Filip zebrał 84 liści i ułożył je w 7 stosów. Ile liści przypada na jeden stos?", "answer": "84 / 7 = <<84/7=12>>12 liści\n#### 12"}
+{"question": "Grzegorz kupił 4 paczki ołówków po 12 sztuk. Ile ołówków kupił?", "answer": "4 * 12 = <<4*12=48>>48 ołówków\n#### 48"}
+{"question": "Halina upiekła 3 torty, każdy podzieliła na 10 kawałków, zjadła 12 kawałków. Ile kawałków zostało?", "answer": "3 * 10 = <<3*10=30>>30 kawałków\n30 - 12 = <<30-12=18>>18 kawałków\n#### 18"}
+{"question": "Irena miała 200 zł, kupiła płaszcz za 160 zł. Ile pieniędzy zostało?", "answer": "200 - 160 = <<200-160=40>>40 zł\n#### 40"}
+{"question": "Jan kupił 3 paczki długopisów po 7 sztuk. Ile długopisów kupił?", "answer": "3 * 7 = <<3*7=21>>21 długopisów\n#### 21"}
+{"question": "Kasia miała 140 balonów, 50 pękło. Ile balonów zostało?", "answer": "140 - 50 = <<140-50=90>>90 balonów\n#### 90"}
+{"question": "Ludwik kupił 4 paczki ciastek po 18 ciastek. Ile ciastek kupił?", "answer": "4 * 18 = <<4*18=72>>72 ciastek\n#### 72"}
+{"question": "Maria miała 300 zł, kupiła sukienkę za 240 zł. Ile pieniędzy zostało?", "answer": "300 - 240 = <<300-240=60>>60 zł\n#### 60"}
+{"question": "Norbert kupił 5 paczek soku po 2 litry. Ile litrów soku kupił?", "answer": "5 * 2 = <<5*2=10>>10 litrów\n#### 10"}
+{"question": "Olek zebrał 96 liści, podzielił je na 8 stosów. Ile liści przypada na jeden stos?", "answer": "96 / 8 = <<96/8=12>>12 liści\n#### 12"}
+{"question": "Paula kupiła 3 książki po 18 zł. Ile zapłaciła łącznie?", "answer": "3 * 18 = <<3*18=54>>54 zł\n#### 54"}
+{"question": "Rafał miał 210 cukierków, zjadł 90 i oddał 60. Ile cukierków zostało?", "answer": "210 - 90 = <<210-90=120>>120\n120 - 60 = <<120-60=60>>60 cukierków\n#### 60"}
+{"question": "Sebastian kupił 4 paczki makaronu po 750 g. Ile gramów makaronu kupił?", "answer": "4 * 750 = <<4*750=3000>>3000 g\n#### 3000 g"}
+{"question": "Teresa miała 400 punktów, straciła 150 i zdobyła 100. Ile punktów ma teraz?", "answer": "400 - 150 = <<400-150=250>>250\n250 + 100 = <<250+100=350>>350 punktów\n#### 350"}
+{"question": "Urszula kupiła 5 paczek długopisów po 4 sztuki. Ile długopisów kupiła?", "answer": "5 * 4 = <<5*4=20>>20 długopisów\n#### 20"}
+{"question": "Wojtek miał 130 jabłek, zjadł 60 i oddał 30. Ile jabłek zostało?", "answer": "130 - 60 = <<130-60=70>>70\n70 - 30 = <<70-30=40>>40 jabłek\n#### 40"}
+{"question": "Zofia kupiła 3 zeszyty po 14 zł. Ile zapłaciła łącznie?", "answer": "3 * 14 = <<3*14=42>>42 zł\n#### 42"}
+{"question": "Adam kupił 4 książki po 18 zł. Ile zapłacił łącznie?", "answer": "4 * 18 = <<4*18=72>>72 zł\n#### 72"}
+{"question": "Bartek miał 320 zł, kupił grę za 270 zł. Ile pieniędzy zostało?", "answer": "320 - 270 = <<320-270=50>>50 zł\n#### 50"}
+{"question": "Cezary kupił 6 paczek herbaty po 200 ml. Ile ml herbaty kupił?", "answer": "6 * 200 = <<6*200=1200>>1200 ml\n#### 1200 ml"}
+{"question": "Daria miała 140 cukierków, zjadła 50 i oddała 30. Ile cukierków zostało?", "answer": "140 - 50 = <<140-50=90>>90\n90 - 30 = <<90-30=60>>60 cukierków\n#### 60"}
+{"question": "Ewa kupiła 3 paczki mleka po 1,4 litra. Ile litrów mleka kupiła?", "answer": "3 * 1.4 = <<3*1.4=4.2>>4.2 litrów\n#### 4.2 litrów"}
+{"question": "Filip zebrał 110 liści, ułożył je w 11 stosów. Ile liści przypada na jeden stos?", "answer": "110 / 11 = <<110/11=10>>10 liści\n#### 10"}
+{"question": "Grzegorz kupił 6 paczek ołówków po 9 sztuk. Ile ołówków kupił?", "answer": "6 * 9 = <<6*9=54>>54 ołówków\n#### 54"}
+{"question": "Halina upiekła 4 torty, każdy podzieliła na 10 kawałków, zjadła 8 kawałków. Ile kawałków zostało?", "answer": "4 * 10 = <<4*10=40>>40 kawałków\n40 - 8 = <<40-8=32>>32 kawałków\n#### 32"}
+{"question": "Irena miała 200 zł, kupiła kurtkę za 150 zł. Ile zł zostało?", "answer": "200 - 150 = <<200-150=50>>50 zł\n#### 50"}
+{"question": "Jan kupił 3 paczki długopisów po 8 sztuk. Ile długopisów kupił?", "answer": "3 * 8 = <<3*8=24>>24 długopisów\n#### 24"}
+{"question": "Kasia miała 180 balonów, 70 pękło. Ile balonów zostało?", "answer": "180 - 70 = <<180-70=110>>110 balonów\n#### 110"}
+{"question": "Ludwik kupił 4 paczki ciastek po 14 ciastek. Ile ciastek kupił?", "answer": "4 * 14 = <<4*14=56>>56 ciastek\n#### 56"}
+{"question": "Maria miała 300 zł, kupiła spódnicę za 210 zł. Ile zł zostało?", "answer": "300 - 210 = <<300-210=90>>90 zł\n#### 90"}
+{"question": "Norbert kupił 5 paczek soku po 2 litry. Ile litrów soku kupił?", "answer": "5 * 2 = <<5*2=10>>10 litrów\n#### 10"}
+{"question": "Alicja miała 30 jabłek, kupiła 15 i zjadła 10. Ile jabłek zostało?", "answer": "30 + 15 = <<30+15=45>>45\n45 - 10 = <<45-10=35>>35 jabłek\n#### 35"}
+{"question": "Bartek miał 50 cukierków, oddał 20 i zjadł 5. Ile cukierków zostało?", "answer": "50 - 20 = <<50-20=30>>30\n30 - 5 = <<30-5=25>>25 cukierków\n#### 25"}
+{"question": "Cezary kupił 3 zeszyty po 8 zł. Ile zapłacił łącznie?", "answer": "3 * 8 = <<3*8=24>>24 zł\n#### 24"}
+{"question": "Daria miała 120 zł, kupiła książkę za 70 zł i długopis za 10 zł. Ile pieniędzy zostało?", "answer": "120 - 70 = <<120-70=50>>50 zł\n50 - 10 = <<50-10=40>>40 zł\n#### 40"}
+{"question": "Ewa kupiła 4 opakowania soku po 1,5 litra. Ile litrów soku kupiła?", "answer": "4 * 1.5 = <<4*1.5=6>>6 litrów\n#### 6 litrów"}
+{"question": "Filip miał 200 punktów, stracił 80 i zdobył 50. Ile punktów ma teraz?", "answer": "200 - 80 = <<200-80=120>>120\n120 + 50 = <<120+50=170>>170 punktów\n#### 170"}
+{"question": "Grzegorz kupił 5 paczek kredek po 6 sztuk. Ile kredek kupił?", "answer": "5 * 6 = <<5*6=30>>30 kredek\n#### 30"}
+{"question": "Halina upiekła 4 babeczki, każdą podzieliła na 4 kawałki. Ile kawałków otrzymała?", "answer": "4 * 4 = <<4*4=16>>16 kawałków\n#### 16"}
+{"question": "Irena miała 90 zł, kupiła torebkę za 65 zł. Ile pieniędzy zostało?", "answer": "90 - 65 = <<90-65=25>>25 zł\n#### 25"}
+{"question": "Jan kupił 10 długopisów po 3 zł. Ile zapłacił łącznie?", "answer": "10 * 3 = <<10*3=30>>30 zł\n#### 30"}
+{"question": "Kasia miała 120 balonów, 50 pękło. Ile balonów zostało?", "answer": "120 - 50 = <<120-50=70>>70 balonów\n#### 70"}
+{"question": "Ludwik kupił 3 paczki ciastek po 12 ciastek. Ile ciastek kupił?", "answer": "3 * 12 = <<3*12=36>>36 ciastek\n#### 36"}
+{"question": "Maria miała 150 zł, kupiła spodnie za 90 zł. Ile pieniędzy zostało?", "answer": "150 - 90 = <<150-90=60>>60 zł\n#### 60"}
+{"question": "Norbert kupił 4 paczki soku po 2 litry. Ile litrów soku kupił?", "answer": "4 * 2 = <<4*2=8>>8 litrów\n#### 8"}
+{"question": "Olek zebrał 84 liści, podzielił je na 7 stosów. Ile liści przypada na jeden stos?", "answer": "84 / 7 = <<84/7=12>>12 liści\n#### 12"}
+{"question": "Paula kupiła 3 zeszyty po 10 zł oraz 1 długopis za 4 zł. Ile zapłaciła łącznie?", "answer": "3 * 10 = <<3*10=30>>30 zł\n30 + 4 = <<30+4=34>>34 zł\n#### 34"}
+{"question": "Rafał miał 180 cukierków, zjadł 60 i oddał 30. Ile cukierków zostało?", "answer": "180 - 60 = <<180-60=120>>120\n120 - 30 = <<120-30=90>>90 cukierków\n#### 90"}
+{"question": "Sebastian kupił 4 paczki makaronu po 500 g. Ile gramów makaronu kupił?", "answer": "4 * 500 = <<4*500=2000>>2000 g\n#### 2000 g"}
+{"question": "Teresa miała 300 punktów, straciła 100 i zdobyła 70. Ile punktów ma teraz?", "answer": "300 - 100 = <<300-100=200>>200\n200 + 70 = <<200+70=270>>270 punktów\n#### 270"}
+{"question": "Urszula kupiła 2 paczki długopisów po 8 sztuk. Ile długopisów kupiła?", "answer": "2 * 8 = <<2*8=16>>16 długopisów\n#### 16"}
+{"question": "Wojtek miał 100 jabłek, zjadł 40 i oddał 20. Ile jabłek zostało?", "answer": "100 - 40 = <<100-40=60>>60\n60 - 20 = <<60-20=40>>40 jabłek\n#### 40"}
+{"question": "Zofia kupiła 5 książek po 20 zł. Ile zapłaciła łącznie?", "answer": "5 * 20 = <<5*20=100>>100 zł\n#### 100"}
+{"question": "Adam kupił 3 paczki herbaty po 250 ml. Ile ml herbaty kupił?", "answer": "3 * 250 = <<3*250=750>>750 ml\n#### 750 ml"}
+{"question": "Bartek miał 150 punktów, zdobył 50 i stracił 30. Ile punktów ma teraz?", "answer": "150 + 50 = <<150+50=200>>200\n200 - 30 = <<200-30=170>>170 punktów\n#### 170"}
+{"question": "Cezary kupił 6 zeszytów po 9 zł. Ile zapłacił łącznie?", "answer": "6 * 9 = <<6*9=54>>54 zł\n#### 54"}
+{"question": "Daria miała 80 cukierków, zjadła 25 i oddała 10. Ile cukierków zostało?", "answer": "80 - 25 = <<80-25=55>>55\n55 - 10 = <<55-10=45>>45 cukierków\n#### 45"}
+{"question": "Ewa kupiła 3 paczki mleka po 1 litr. Ile litrów mleka kupiła?", "answer": "3 * 1 = <<3*1=3>>3 litry\n#### 3"}
+{"question": "Filip zebrał 90 liści, ułożył je w 10 stosów. Ile liści przypada na jeden stos?", "answer": "90 / 10 = <<90/10=9>>9 liści\n#### 9"}
+{"question": "Grzegorz kupił 4 paczki ołówków po 10 sztuk. Ile ołówków kupił?", "answer": "4 * 10 = <<4*10=40>>40 ołówków\n#### 40"}
+{"question": "Halina upiekła 3 torty, każdy podzieliła na 12 kawałków, zjadła 8 kawałków. Ile kawałków zostało?", "answer": "3 * 12 = <<3*12=36>>36 kawałków\n36 - 8 = <<36-8=28>>28 kawałków\n#### 28"}
+{"question": "Irena miała 150 zł, kupiła płaszcz za 100 zł. Ile pieniędzy zostało?", "answer": "150 - 100 = <<150-100=50>>50 zł\n#### 50"}
+{"question": "Jan kupił 2 paczki długopisów po 10 sztuk. Ile długopisów kupił?", "answer": "2 * 10 = <<2*10=20>>20 długopisów\n#### 20"}
+{"question": "Kasia miała 140 balonów, 50 pękło. Ile balonów zostało?", "answer": "140 - 50 = <<140-50=90>>90 balonów\n#### 90"}
+{"question": "Ludwik kupił 3 paczki ciastek po 14 ciastek. Ile ciastek kupił?", "answer": "3 * 14 = <<3*14=42>>42 ciastek\n#### 42"}
+{"question": "Maria miała 200 zł, kupiła kurtkę za 150 zł. Ile pieniędzy zostało?", "answer": "200 - 150 = <<200-150=50>>50 zł\n#### 50"}
+{"question": "Norbert kupił 4 paczki soku po 2,5 litra. Ile litrów soku kupił?", "answer": "4 * 2.5 = <<4*2.5=10>>10 litrów\n#### 10"}
+{"question": "Olek zebrał 105 liści, podzielił je na 7 stosów. Ile liści przypada na jeden stos?", "answer": "105 / 7 = <<105/7=15>>15 liści\n#### 15"}
+{"question": "Paula kupiła 4 zeszyty po 9 zł. Ile zapłaciła łącznie?", "answer": "4 * 9 = <<4*9=36>>36 zł\n#### 36"}
+{"question": "Rafał miał 210 cukierków, zjadł 90 i oddał 60. Ile cukierków zostało?", "answer": "210 - 90 = <<210-90=120>>120\n120 - 60 = <<120-60=60>>60 cukierków\n#### 60"}
+{"question": "Sebastian kupił 4 paczki makaronu po 750 g. Ile gramów makaronu kupił?", "answer": "4 * 750 = <<4*750=3000>>3000 g\n#### 3000 g"}
+{"question": "Teresa miała 400 punktów, straciła 150 i zdobyła 100. Ile punktów ma teraz?", "answer": "400 - 150 = <<400-150=250>>250\n250 + 100 = <<250+100=350>>350 punktów\n#### 350"}
+{"question": "Urszula kupiła 5 paczek długopisów po 4 sztuki. Ile długopisów kupiła?", "answer": "5 * 4 = <<5*4=20>>20 długopisów\n#### 20"}
+{"question": "Wojtek miał 130 jabłek, zjadł 60 i oddał 30. Ile jabłek zostało?", "answer": "130 - 60 = <<130-60=70>>70\n70 - 30 = <<70-30=40>>40 jabłek\n#### 40"}
+{"question": "Zofia kupiła 3 zeszyty po 14 zł. Ile zapłaciła łącznie?", "answer": "3 * 14 = <<3*14=42>>42 zł\n#### 42"}
+{"question": "Adam kupił 4 książki po 18 zł. Ile zapłacił łącznie?", "answer": "4 * 18 = <<4*18=72>>72 zł\n#### 72"}
+{"question": "Bartek miał 320 zł, kupił grę za 270 zł. Ile pieniędzy zostało?", "answer": "320 - 270 = <<320-270=50>>50 zł\n#### 50"}
+{"question": "Cezary kupił 6 paczek herbaty po 200 ml. Ile ml herbaty kupił?", "answer": "6 * 200 = <<6*200=1200>>1200 ml\n#### 1200 ml"}
+{"question": "Daria miała 140 cukierków, zjadła 50 i oddała 30. Ile cukierków zostało?", "answer": "140 - 50 = <<140-50=90>>90\n90 - 30 = <<90-30=60>>60 cukierków\n#### 60"}
+{"question": "Ewa kupiła 3 paczki mleka po 1,4 litra. Ile litrów mleka kupiła?", "answer": "3 * 1.4 = <<3*1.4=4.2>>4.2 litrów\n#### 4.2 litrów"}
+{"question": "Filip zebrał 110 liści, ułożył je w 11 stosów. Ile liści przypada na jeden stos?", "answer": "110 / 11 = <<110/11=10>>10 liści\n#### 10"}
+{"question": "Grzegorz kupił 6 paczek ołówków po 9 sztuk. Ile ołówków kupił?", "answer": "6 * 9 = <<6*9=54>>54 ołówków\n#### 54"}
+{"question": "Halina upiekła 4 torty, każdy podzieliła na 10 kawałków, zjadła 8 kawałków. Ile kawałków zostało?", "answer": "4 * 10 = <<4*10=40>>40 kawałków\n40 - 8 = <<40-8=32>>32 kawałków\n#### 32"}
+{"question": "Irena miała 200 zł, kupiła kurtkę za 150 zł. Ile zł zostało?", "answer": "200 - 150 = <<200-150=50>>50 zł\n#### 50"}
+{"question": "Jan kupił 3 paczki długopisów po 8 sztuk. Ile długopisów kupił?", "answer": "3 * 8 = <<3*8=24>>24 długopisów\n#### 24"}
+{"question": "Kasia miała 180 balonów, 70 pękło. Ile balonów zostało?", "answer": "180 - 70 = <<180-70=110>>110 balonów\n#### 110"}
+{"question": "Ludwik kupił 4 paczki ciastek po 10 ciastek. Ile ciastek kupił?", "answer": "4 * 10 = <<4*10=40>>40 ciastek\n#### 40"}
+{"question": "Maria miała 300 zł, kupiła sukienkę za 220 zł. Ile zł zostało?", "answer": "300 - 220 = <<300-220=80>>80 zł\n#### 80"}
+{"question": "Norbert kupił 5 paczek soku po 2 litry. Ile litrów soku kupił?", "answer": "5 * 2 = <<5*2=10>>10 litrów\n#### 10"}
+{"question": "Ania miała 20 jabłek, kupiła 10 i zjadła 5. Ile jabłek zostało?", "answer": "20 + 10 = <<20+10=30>>30\n30 - 5 = <<30-5=25>>25 jabłek\n#### 25"}
+{"question": "Bartek miał 50 cukierków, oddał 15 i zjadł 10. Ile cukierków zostało?", "answer": "50 - 15 = <<50-15=35>>35\n35 - 10 = <<35-10=25>>25 cukierków\n#### 25"}
+{"question": "Cezary kupił 4 zeszyty po 6 zł. Ile zapłacił łącznie?", "answer": "4 * 6 = <<4*6=24>>24 zł\n#### 24"}
+{"question": "Daria miała 100 zł, kupiła sukienkę za 70 zł i długopis za 5 zł. Ile pieniędzy zostało?", "answer": "100 - 70 = <<100-70=30>>30 zł\n30 - 5 = <<30-5=25>>25 zł\n#### 25"}
+{"question": "Ewa kupiła 3 paczki mleka po 1,2 litra. Ile litrów mleka kupiła?", "answer": "3 * 1.2 = <<3*1.2=3.6>>3.6 litrów\n#### 3.6 litrów"}
+{"question": "Filip miał 200 punktów, stracił 50, a zdobył 30. Ile punktów ma teraz?", "answer": "200 - 50 = <<200-50=150>>150\n150 + 30 = <<150+30=180>>180 punktów\n#### 180"}
+{"question": "Grzegorz kupił 5 paczek kredek po 8 sztuk. Ile kredek kupił?", "answer": "5 * 8 = <<5*8=40>>40 kredek\n#### 40"}
+{"question": "Halina upiekła 4 babeczki, każdą podzieliła na 4 kawałki. Ile kawałków otrzymała?", "answer": "4 * 4 = <<4*4=16>>16 kawałków\n#### 16"}
+{"question": "Irena miała 90 zł, kupiła torebkę za 55 zł. Ile pieniędzy zostało?", "answer": "90 - 55 = <<90-55=35>>35 zł\n#### 35"}
+{"question": "Jan kupił 10 długopisów po 2 zł. Ile zapłacił łącznie?", "answer": "10 * 2 = <<10*2=20>>20 zł\n#### 20"}
+{"question": "Kasia miała 120 balonów, 40 pękło. Ile balonów zostało?", "answer": "120 - 40 = <<120-40=80>>80 balonów\n#### 80"}
+{"question": "Ludwik kupił 3 paczki ciastek po 10 ciastek. Ile ciastek kupił?", "answer": "3 * 10 = <<3*10=30>>30 ciastek\n#### 30"}
+{"question": "Maria miała 150 zł, kupiła spódnicę za 85 zł. Ile pieniędzy zostało?", "answer": "150 - 85 = <<150-85=65>>65 zł\n#### 65"}
+{"question": "Norbert kupił 4 paczki soku po 2 litry. Ile litrów soku kupił?", "answer": "4 * 2 = <<4*2=8>>8 litrów\n#### 8"}
+{"question": "Olek zebrał 84 liści, podzielił je na 7 stosów. Ile liści przypada na jeden stos?", "answer": "84 / 7 = <<84/7=12>>12 liści\n#### 12"}
+{"question": "Paula kupiła 3 zeszyty po 10 zł i 1 długopis za 4 zł. Ile zapłaciła łącznie?", "answer": "3 * 10 = <<3*10=30>>30 zł\n30 + 4 = <<30+4=34>>34 zł\n#### 34"}
+{"question": "Rafał miał 180 cukierków, zjadł 60, oddał 30. Ile cukierków zostało?", "answer": "180 - 60 = <<180-60=120>>120\n120 - 30 = <<120-30=90>>90 cukierków\n#### 90"}
+{"question": "Sebastian kupił 4 paczki makaronu po 500 g. Ile gramów makaronu kupił?", "answer": "4 * 500 = <<4*500=2000>>2000 g\n#### 2000 g"}
+{"question": "Teresa miała 300 punktów, straciła 100, zdobyła 70. Ile punktów ma teraz?", "answer": "300 - 100 = <<300-100=200>>200\n200 + 70 = <<200+70=270>>270 punktów\n#### 270"}
+{"question": "Urszula kupiła 2 paczki długopisów po 8 sztuk. Ile długopisów kupiła?", "answer": "2 * 8 = <<2*8=16>>16 długopisów\n#### 16"}
+{"question": "Wojtek miał 100 jabłek, zjadł 40, oddał 20. Ile jabłek zostało?", "answer": "100 - 40 = <<100-40=60>>60\n60 - 20 = <<60-20=40>>40 jabłek\n#### 40"}
+{"question": "Zofia kupiła 5 książek po 20 zł. Ile zapłaciła łącznie?", "answer": "5 * 20 = <<5*20=100>>100 zł\n#### 100"}
+{"question": "Adam kupił 3 paczki herbaty po 250 ml. Ile ml herbaty kupił?", "answer": "3 * 250 = <<3*250=750>>750 ml\n#### 750 ml"}
+{"question": "Bartek miał 150 punktów, zdobył 50, stracił 30. Ile punktów ma teraz?", "answer": "150 + 50 = <<150+50=200>>200\n200 - 30 = <<200-30=170>>170 punktów\n#### 170"}
+{"question": "Cezary kupił 6 zeszytów po 7 zł. Ile zapłacił łącznie?", "answer": "6 * 7 = <<6*7=42>>42 zł\n#### 42"}
+{"question": "Daria miała 80 cukierków, zjadła 25, oddała 10. Ile cukierków zostało?", "answer": "80 - 25 = <<80-25=55>>55\n55 - 10 = <<55-10=45>>45 cukierków\n#### 45"}
+{"question": "Ewa kupiła 3 paczki mleka po 1 litr. Ile litrów mleka kupiła?", "answer": "3 * 1 = <<3*1=3>>3 litry\n#### 3"}
+{"question": "Filip zebrał 90 liści, ułożył je w 10 stosów. Ile liści przypada na jeden stos?", "answer": "90 / 10 = <<90/10=9>>9 liści\n#### 9"}
+{"question": "Grzegorz kupił 4 paczki ołówków po 10 sztuk. Ile ołówków kupił?", "answer": "4 * 10 = <<4*10=40>>40 ołówków\n#### 40"}
+{"question": "Halina upiekła 3 torty, każdy podzieliła na 12 kawałków, zjadła 8 kawałków. Ile kawałków zostało?", "answer": "3 * 12 = <<3*12=36>>36 kawałków\n36 - 8 = <<36-8=28>>28 kawałków\n#### 28"}
+{"question": "Irena miała 150 zł, kupiła płaszcz za 100 zł. Ile pieniędzy zostało?", "answer": "150 - 100 = <<150-100=50>>50 zł\n#### 50"}
+{"question": "Jan kupił 2 paczki długopisów po 10 sztuk. Ile długopisów kupił?", "answer": "2 * 10 = <<2*10=20>>20 długopisów\n#### 20"}
+{"question": "Kasia miała 180 balonów, 70 pękło. Ile balonów zostało?", "answer": "180 - 70 = <<180-70=110>>110 balonów\n#### 110"}
+{"question": "Ludwik kupił 4 paczki ciastek po 10 ciastek. Ile ciastek kupił?", "answer": "4 * 10 = <<4*10=40>>40 ciastek\n#### 40"}
+{"question": "Maria miała 300 zł, kupiła sukienkę za 220 zł. Ile pieniędzy zostało?", "answer": "300 - 220 = <<300-220=80>>80 zł\n#### 80"}
+{"question": "Norbert kupił 5 paczek soku po 2 litry. Ile litrów soku kupił?", "answer": "5 * 2 = <<5*2=10>>10 litrów\n#### 10"}
+{"question": "Olek zebrał 96 liści, podzielił je na 8 stosów. Ile liści przypada na jeden stos?", "answer": "96 / 8 = <<96/8=12>>12 liści\n#### 12"}
+{"question": "Paula kupiła 3 książki po 18 zł. Ile zapłaciła łącznie?", "answer": "3 * 18 = <<3*18=54>>54 zł\n#### 54"}
+{"question": "Rafał miał 210 cukierków, zjadł 90 i oddał 60. Ile cukierków zostało?", "answer": "210 - 90 = <<210-90=120>>120\n120 - 60 = <<120-60=60>>60 cukierków\n#### 60"}
+{"question": "Sebastian kupił 4 paczki makaronu po 750 g. Ile gramów makaronu kupił?", "answer": "4 * 750 = <<4*750=3000>>3000 g\n#### 3000 g"}
+{"question": "Teresa miała 400 punktów, straciła 150 i zdobyła 100. Ile punktów ma teraz?", "answer": "400 - 150 = <<400-150=250>>250\n250 + 100 = <<250+100=350>>350 punktów\n#### 350"}
+{"question": "Urszula kupiła 5 paczek długopisów po 4 sztuki. Ile długopisów kupiła?", "answer": "5 * 4 = <<5*4=20>>20 długopisów\n#### 20"}
+{"question": "Wojtek miał 130 jabłek, zjadł 60 i oddał 30. Ile jabłek zostało?", "answer": "130 - 60 = <<130-60=70>>70\n70 - 30 = <<70-30=40>>40 jabłek\n#### 40"}
+{"question": "Zofia kupiła 3 zeszyty po 11 zł. Ile zapłaciła łącznie?", "answer": "3 * 11 = <<3*11=33>>33 zł\n#### 33"}
+{"question": "Adam kupił 4 książki po 18 zł. Ile zapłacił łącznie?", "answer": "4 * 18 = <<4*18=72>>72 zł\n#### 72"}
+{"question": "Bartek miał 320 zł, kupił grę za 270 zł. Ile pieniędzy zostało?", "answer": "320 - 270 = <<320-270=50>>50 zł\n#### 50"}
+{"question": "Cezary kupił 6 paczek herbaty po 200 ml. Ile ml herbaty kupił?", "answer": "6 * 200 = <<6*200=1200>>1200 ml\n#### 1200 ml"}
+{"question": "Daria miała 140 cukierków, zjadła 50 i oddała 30. Ile cukierków zostało?", "answer": "140 - 50 = <<140-50=90>>90\n90 - 30 = <<90-30=60>>60 cukierków\n#### 60"}
+{"question": "Ewa kupiła 3 paczki mleka po 1,4 litra. Ile litrów mleka kupiła?", "answer": "3 * 1.4 = <<3*1.4=4.2>>4.2 litrów\n#### 4.2 litrów"}
+{"question": "Filip zebrał 110 liści, ułożył je w 11 stosów. Ile liści przypada na jeden stos?", "answer": "110 / 11 = <<110/11=10>>10 liści\n#### 10"}
+{"question": "Grzegorz kupił 6 paczek ołówków po 9 sztuk. Ile ołówków kupił?", "answer": "6 * 9 = <<6*9=54>>54 ołówków\n#### 54"}
+{"question": "Halina upiekła 4 torty, każdy podzieliła na 10 kawałków, zjadła 8 kawałków. Ile kawałków zostało?", "answer": "4 * 10 = <<4*10=40>>40 kawałków\n40 - 8 = <<40-8=32>>32 kawałków\n#### 32"}
+{"question": "Irena miała 200 zł, kupiła kurtkę za 150 zł. Ile zł zostało?", "answer": "200 - 150 = <<200-150=50>>50 zł\n#### 50"}
+{"question": "Jan kupił 3 paczki długopisów po 8 sztuk. Ile długopisów kupił?", "answer": "3 * 8 = <<3*8=24>>24 długopisów\n#### 24"}
+{"question": "Kasia miała 180 balonów, 70 pękło. Ile balonów zostało?", "answer": "180 - 70 = <<180-70=110>>110 balonów\n#### 110"}
+{"question": "Ludwik kupił 4 paczki ciastek po 10 ciastek. Ile ciastek kupił?", "answer": "4 * 10 = <<4*10=40>>40 ciastek\n#### 40"}
+{"question": "Maria miała 300 zł, kupiła sukienkę za 220 zł. Ile pieniędzy zostało?", "answer": "300 - 220 = <<300-220=80>>80 zł\n#### 80"}
+{"question": "Norbert kupił 5 paczek soku po 2 litry. Ile litrów soku kupił?", "answer": "5 * 2 = <<5*2=10>>10 litrów\n#### 10"}
+{"question": "Ania miała 15 jabłek, kupiła 10 i oddała 5. Ile jabłek zostało?", "answer": "15 + 10 = <<15+10=25>>25\n25 - 5 = <<25-5=20>>20 jabłek\n#### 20"}
+{"question": "Bartosz miał 40 cukierków, zjadł 10, oddał 8. Ile cukierków zostało?", "answer": "40 - 10 = <<40-10=30>>30\n30 - 8 = <<30-8=22>>22 cukierków\n#### 22"}
+{"question": "Celina kupiła 3 zeszyty po 4 zł. Ile zapłaciła łącznie?", "answer": "3 * 4 = <<3*4=12>>12 zł\n#### 12"}
+{"question": "Darek miał 100 zł, kupił grę za 60 zł. Ile pieniędzy zostało?", "answer": "100 - 60 = <<100-60=40>>40 zł\n#### 40"}
+{"question": "Ewa kupiła 2 paczki soku po 3 litry. Ile litrów soku kupiła?", "answer": "2 * 3 = <<2*3=6>>6 litrów\n#### 6 litrów"}
+{"question": "Filip miał 150 punktów, stracił 30, zdobył 10. Ile punktów ma teraz?", "answer": "150 - 30 = <<150-30=120>>120\n120 + 10 = <<120+10=130>>130 punktów\n#### 130"}
+{"question": "Gabriel kupił 4 książki po 12 zł. Ile zapłacił łącznie?", "answer": "4 * 12 = <<4*12=48>>48 zł\n#### 48"}
+{"question": "Hanna miała 80 cukierków, zjadła 20, oddała 10. Ile cukierków zostało?", "answer": "80 - 20 = <<80-20=60>>60\n60 - 10 = <<60-10=50>>50 cukierków\n#### 50"}
+{"question": "Irek kupił 5 zeszytów po 7 zł. Ile zapłacił łącznie?", "answer": "5 * 7 = <<5*7=35>>35 zł\n#### 35"}
+{"question": "Jadwiga miała 60 zł, kupiła 2 lody po 10 zł. Ile pieniędzy zostało?", "answer": "60 - (2 * 10) = <<60-20=40>>40 zł\n#### 40"}
+{"question": "Kamil miał 30 jabłek, zjadł 12, oddał 3. Ile jabłek zostało?", "answer": "30 - 12 = <<30-12=18>>18\n18 - 3 = <<18-3=15>>15 jabłek\n#### 15"}
+{"question": "Lidia kupiła 6 paczek herbaty po 250 ml. Ile ml herbaty kupiła?", "answer": "6 * 250 = <<6*250=1500>>1500 ml\n#### 1500 ml"}
+{"question": "Marek miał 100 punktów, stracił 50, zdobył 40. Ile punktów ma teraz?", "answer": "100 - 50 = <<100-50=50>>50\n50 + 40 = <<50+40=90>>90 punktów\n#### 90"}
+{"question": "Natalia miała 90 cukierków, oddała 15, zjadła 10. Ile cukierków zostało?", "answer": "90 - 15 = <<90-15=75>>75\n75 - 10 = <<75-10=65>>65 cukierków\n#### 65"}
+{"question": "Olga kupiła 3 zeszyty po 10 zł i 2 długopisy po 2 zł. Ile zapłaciła łącznie?", "answer": "3 * 10 = <<3*10=30>>30 zł\n2 * 2 = <<2*2=4>>4 zł\n30 + 4 = <<30+4=34>>34 zł\n#### 34"}
+{"question": "Paweł miał 200 zł, kupił grę za 120 zł. Ile pieniędzy zostało?", "answer": "200 - 120 = <<200-120=80>>80 zł\n#### 80"}
+{"question": "Rafał kupił 2 paczki ciastek, każda po 15 ciastek. Ile ciastek kupił?", "answer": "2 * 15 = <<2*15=30>>30 ciastek\n#### 30"}
+{"question": "Szymon miał 50 jabłek, zjadł 5, oddał 10. Ile jabłek zostało?", "answer": "50 - 5 = <<50-5=45>>45\n45 - 10 = <<45-10=35>>35 jabłek\n#### 35"}
+{"question": "Tomasz kupił 4 paczki farb, każda po 2 puszki. Ile puszek kupił?", "answer": "4 * 2 = <<4*2=8>>8 puszek\n#### 8 puszek"}
+{"question": "Ula miała 80 zł, kupiła książkę za 35 zł. Ile zł zostało?", "answer": "80 - 35 = <<80-35=45>>45 zł\n#### 45"}
+{"question": "Wiktor kupił 7 zeszytów po 5 zł. Ile zapłacił?", "answer": "7 * 5 = <<7*5=35>>35 zł\n#### 35"}
+{"question": "Zuzanna miała 100 cukierków, zjadła 20, oddała 10. Ile cukierków zostało?", "answer": "100 - 20 = <<100-20=80>>80\n80 - 10 = <<80-10=70>>70 cukierków\n#### 70"}
+{"question": "Adam kupił 3 paczki makaronu po 400 g. Ile gramów makaronu kupił?", "answer": "3 * 400 = <<3*400=1200>>1200 g\n#### 1200 g"}
+{"question": "Bartosz miał 120 punktów, stracił 30, zdobył 20. Ile punktów ma teraz?", "answer": "120 - 30 = <<120-30=90>>90\n90 + 20 = <<90+20=110>>110 punktów\n#### 110"}
+{"question": "Celina kupiła 2 zeszyty po 12 zł. Ile zapłaciła łącznie?", "answer": "2 * 12 = <<2*12=24>>24 zł\n#### 24"}
+{"question": "Darek miał 80 jabłek, oddał 20. Ile jabłek zostało?", "answer": "80 - 20 = <<80-20=60>>60 jabłek\n#### 60"}
+{"question": "Ewa kupiła 4 paczki soku po 2 litry. Ile litrów soku kupiła?", "answer": "4 * 2 = <<4*2=8>>8 litrów\n#### 8 litrów"}
+{"question": "Filip miał 150 cukierków, zjadł 50. Ile cukierków zostało?", "answer": "150 - 50 = <<150-50=100>>100 cukierków\n#### 100"}
+{"question": "Gabriel kupił 5 długopisów po 2 zł. Ile zapłacił łącznie?", "answer": "5 * 2 = <<5*2=10>>10 zł\n#### 10"}
+{"question": "Hanna miała 45 zł, kupiła 1 zeszyt za 15 zł. Ile zł zostało?", "answer": "45 - 15 = <<45-15=30>>30 zł\n#### 30"}
+{"question": "Irek kupił 4 książki po 10 zł. Ile zapłacił łącznie?", "answer": "4 * 10 = <<4*10=40>>40 zł\n#### 40"}
+{"question": "Jadwiga miała 100 cukierków, oddała 10. Ile cukierków zostało?", "answer": "100 - 10 = <<100-10=90>>90 cukierków\n#### 90"}
+{"question": "Kamil kupił 3 paczki herbaty po 250 ml. Ile ml herbaty kupił?", "answer": "3 * 250 = <<3*250=750>>750 ml\n#### 750 ml"}
+{"question": "Lidia miała 150 punktów, straciła 50, zdobyła 30. Ile punktów ma teraz?", "answer": "150 - 50 = <<150-50=100>>100\n100 + 30 = <<100+30=130>>130 punktów\n#### 130"}
+{"question": "Marek kupił 6 zeszytów po 4 zł. Ile zapłacił łącznie?", "answer": "6 * 4 = <<6*4=24>>24 zł\n#### 24"}
+{"question": "Natalia miała 120 zł, kupiła sukienkę za 70 zł. Ile zł zostało?", "answer": "120 - 70 = <<120-70=50>>50 zł\n#### 50"}
+{"question": "Olga kupiła 3 paczki ciastek, każda po 12 ciastek. Ile ciastek kupiła?", "answer": "3 * 12 = <<3*12=36>>36 ciastek\n#### 36"}
+{"question": "Paweł miał 200 punktów, stracił 70, zdobył 50. Ile punktów ma teraz?", "answer": "200 - 70 = <<200-70=130>>130\n130 + 50 = <<130+50=180>>180 punktów\n#### 180"}
+{"question": "Rafał kupił 2 zeszyty po 15 zł. Ile zapłacił łącznie?", "answer": "2 * 15 = <<2*15=30>>30 zł\n#### 30"}
+{"question": "Szymon miał 80 jabłek, zjadł 20, oddał 10. Ile jabłek zostało?", "answer": "80 - 20 = <<80-20=60>>60\n60 - 10 = <<60-10=50>>50 jabłek\n#### 50"}
+{"question": "Tomasz kupił 3 paczki farb, każda po 4 puszki. Ile puszek kupił?", "answer": "3 * 4 = <<3*4=12>>12 puszek\n#### 12"}
+{"question": "Ula miała 100 cukierków, zjadła 30, oddała 10. Ile cukierków zostało?", "answer": "100 - 30 = <<100-30=70>>70\n70 - 10 = <<70-10=60>>60 cukierków\n#### 60"}
+{"question": "Wiktor kupił 4 zeszyty po 6 zł. Ile zapłacił łącznie?", "answer": "4 * 6 = <<4*6=24>>24 zł\n#### 24"}
+{"question": "Zuzanna miała 80 zł, kupiła 1 zeszyt za 20 zł. Ile zł zostało?", "answer": "80 - 20 = <<80-20=60>>60 zł\n#### 60"}
+{"question": "Adam kupił 2 paczki makaronu po 600 g. Ile gramów makaronu kupił?", "answer": "2 * 600 = <<2*600=1200>>1200 g\n#### 1200"}
+{"question": "Bartosz miał 150 punktów, stracił 50, zdobył 30. Ile punktów ma teraz?", "answer": "150 - 50 = <<150-50=100>>100\n100 + 30 = <<100+30=130>>130 punktów\n#### 130"}
+{"question": "Celina kupiła 3 zeszyty po 8 zł. Ile zapłaciła łącznie?", "answer": "3 * 8 = <<3*8=24>>24 zł\n#### 24"}
+{"question": "Darek miał 90 jabłek, oddał 20. Ile jabłek zostało?", "answer": "90 - 20 = <<90-20=70>>70 jabłek\n#### 70"}
+{"question": "Ewa kupiła 4 paczki soku po 3 litry. Ile litrów soku kupiła?", "answer": "4 * 3 = <<4*3=12>>12 litrów\n#### 12 litrów"}
+{"question": "Filip miał 150 cukierków, zjadł 60, ile cukierków zostało?", "answer": "150 - 60 = <<150-60=90>>90 cukierków\n#### 90"}
+{"question": "Gabriel kupił 2 długopisy po 3 zł. Ile zapłacił łącznie?", "answer": "2 * 3 = <<2*3=6>>6 zł\n#### 6"}
+{"question": "Hanna miała 70 zł, kupiła 1 zeszyt za 15 zł. Ile zł zostało?", "answer": "70 - 15 = <<70-15=55>>55 zł\n#### 55"}
+{"question": "Irena kupiła 3 paczki ołówków po 4 sztuki. Ile ołówków kupiła?", "answer": "3 * 4 = <<3*4=12>>12 ołówków\n#### 12"}
+{"question": "Jan miała 100 cukierków, oddała 30. Ile cukierków zostało?", "answer": "100 - 30 = <<100-30=70>>70 cukierków\n#### 70"}
+{"question": "Kamil kupił 2 paczki herbaty po 300 ml. Ile ml herbaty kupił?", "answer": "2 * 300 = <<2*300=600>>600 ml\n#### 600 ml"}
+{"question": "Lidia miała 150 punktów, straciła 60, zdobyła 20. Ile punktów ma teraz?", "answer": "150 - 60 = <<150-60=90>>90\n90 + 20 = <<90+20=110>>110 punktów\n#### 110"}
+{"question": "Marek kupił 4 zeszyty po 5 zł. Ile zapłacił łącznie?", "answer": "4 * 5 = <<4*5=20>>20 zł\n#### 20"}
+{"question": "W sklepie sprzedano 180 pudełek, a każde pudełko kosztowało 22 zł. Ile wyniósł przychód?", "answer": "180 * 22 = <<180*22=3960>>3960 zł.\n#### 3960 zł"}
+{"question": "W bibliotece znajduje się 8000 książek, a 25% z nich to literatura faktu. Ile książek to literatura faktu?", "answer": "8000 * 25/100 = <<8000*25/100=2000>>2000 książek.\n#### 2000"}
+{"question": "Jeśli 3 zeszyty kosztują 18 zł, ile kosztuje jeden zeszyt?", "answer": "18 / 3 = <<18/3=6>>6 zł.\n#### 6 zł"}
+{"question": "W kinie było 400 miejsc, a 90% z nich zostało zapełnionych. Ile miejsc było zapełnionych?", "answer": "400 * 90/100 = <<400*90/100=360>>360 miejsc.\n#### 360"}
+{"question": "W szkole jest 500 uczniów, a 60% z nich to chłopcy. Ile jest chłopców?", "answer": "500 * 60/100 = <<500*60/100=300>>300 uczniów.\n#### 300"}
+{"question": "W ogrodzie zoologicznym znajduje się 50 lwów, a 10% z nich jest młodych. Ile lwów jest młodych?", "answer": "50 * 10/100 = <<50*10/100=5>>5 lwów.\n#### 5"}
+{"question": "W pewnym sklepie sprzedano 48 lodów. Jeśli każdy lód kosztował 4,50 zł, ile wyniósł przychód?", "answer": "48 * 4,50 = <<48*4.50=216>>216 zł.\n#### 216 zł"}
+{"question": "W kinie sprzedano 120 biletów, a każdy bilet kosztował 15 zł. Ile wyniósł łączny przychód?", "answer": "120 * 15 = <<120*15=1800>>1800 zł.\n#### 1800 zł"}
+{"question": "Na festynie kupiono 200 balonów, a 5% z nich pękło. Ile balonów pozostało?", "answer": "5% z 200 = 10; 200 - 10 = <<200-10=190>>190 balonów.\n#### 190 balonów"}
+{"question": "W klasie jest 25 uczniów, z których 40% to dziewczęta. Ile dziewcząt jest w klasie?", "answer": "25 * 40/100 = <<25*40/100=10>>10 dziewcząt.\n#### 10"}
+{"question": "W ogrodzie rośnie 30 drzew, a przy każdym drzewie jest 2 krzewy. Ile roślin znajduje się w ogrodzie?", "answer": "30 * (1+2) = 30 * 3 = <<30*3=90>>90 roślin.\n#### 90"}
+{"question": "Kasia kupiła 6 zeszytów po 7 zł każdy. Ile zapłaciła łącznie?", "answer": "6 * 7 = <<6*7=42>>42 zł.\n#### 42 zł"}
+{"question": "W sklepie komputerowym sprzedano 8 myszek po 80 zł każda. Ile wyniósł przychód?", "answer": "8 * 80 = <<8*80=640>>640 zł.\n#### 640 zł"}
+{"question": "W magazynie jest 300 pudeł, a 20% z nich jest uszkodzonych. Ile pudeł jest w dobrym stanie?", "answer": "300 * 20/100 = 60 uszkodzonych; 300 - 60 = <<300-60=240>>240 pudeł.\n#### 240"}
+{"question": "W szkole zorganizowano zbiórkę pieniędzy i zebrano 800 zł, co stanowiło 80% planowanej kwoty. Ile wynosiła planowana kwota?", "answer": "800 / 0.8 = <<800/0.8=1000>>1000 zł.\n#### 1000 zł"}
+{"question": "Na lekcji matematyki rozwiązano 36 zadań, a 25% z nich było trudnych. Ile zadań było łatwych?", "answer": "25% z 36 = 9; 36 - 9 = <<36-9=27>>27 zadań.\n#### 27"}
+{"question": "W fabryce wyprodukowano 5000 sztuk, a 4% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "5000 * 4/100 = <<5000*4/100=200>>200 sztuk.\n#### 200"}
+{"question": "W restauracji sprzedano 90 porcji obiadu, a każda kosztowała 25 zł. Ile wyniósł przychód?", "answer": "90 * 25 = <<90*25=2250>>2250 zł.\n#### 2250 zł"}
+{"question": "W sklepie spożywczym sprzedano 150 litrów wody po 2,50 zł za litr. Ile wyniósł przychód?", "answer": "150 * 2,50 = <<150*2.50=375>>375 zł.\n#### 375 zł"}
+{"question": "W parku jest 60 ławek, a 1/3 z nich jest zajętych. Ile ławek jest wolnych?", "answer": "1/3 z 60 = 20; 60 - 20 = <<60-20=40>>40 ławek.\n#### 40"}
+{"question": "W biurze jest 18 pracowników, a każdy zarabia 3000 zł miesięcznie. Ile wynosi łączna pensja?", "answer": "18 * 3000 = <<18*3000=54000>>54000 zł.\n#### 54000 zł"}
+{"question": "W sklepie z zabawkami sprzedano 40 pluszaków po 45 zł każdy. Ile wyniósł przychód?", "answer": "40 * 45 = <<40*45=1800>>1800 zł.\n#### 1800 zł"}
+{"question": "W klubie sportowym jest 24 członków, a 1/4 z nich to zawodnicy. Ile jest zawodników?", "answer": "24 / 4 = <<24/4=6>>6 zawodników.\n#### 6"}
+{"question": "W bibliotece znajduje się 1200 książek, a 30% z nich to powieści. Ile książek to powieści?", "answer": "1200 * 30/100 = <<1200*30/100=360>>360 książek.\n#### 360"}
+{"question": "W sali koncertowej jest 350 miejsc, a 80% z nich zostało sprzedanych. Ile miejsc zostało sprzedanych?", "answer": "350 * 80/100 = <<350*80/100=280>>280 miejsc.\n#### 280"}
+{"question": "W sklepie komputerowym 10 klawiatur kosztuje 500 zł. Jaka jest cena jednej klawiatury?", "answer": "500 / 10 = <<500/10=50>>50 zł.\n#### 50 zł"}
+{"question": "W supermarkecie sprzedano 250 kg ziemniaków po 3,20 zł za kilogram. Ile wyniósł przychód?", "answer": "250 * 3,20 = <<250*3.20=800>>800 zł.\n#### 800 zł"}
+{"question": "W restauracji przygotowano 180 deserów, a 10% z nich zostało odrzuconych. Ile deserów zostało sprzedanych?", "answer": "10% z 180 = 18; 180 - 18 = <<180-18=162>>162 deserów.\n#### 162"}
+{"question": "W parku linowym odbyło się 12 kursów, a w każdym kursie uczestniczyło 15 osób. Ile osób łącznie wzięło udział?", "answer": "12 * 15 = <<12*15=180>>180 osób.\n#### 180"}
+{"question": "W przedszkolu jest 40 dzieci, a każde dziecko ma 2 zabawki. Ile zabawek jest łącznie?", "answer": "40 * 2 = <<40*2=80>>80 zabawek.\n#### 80"}
+{"question": "W sklepie spożywczym sprzedano 100 opakowań jogurtu po 3,50 zł za opakowanie. Ile wyniósł przychód?", "answer": "100 * 3,50 = <<100*3.50=350>>350 zł.\n#### 350 zł"}
+{"question": "W biurze jest 22 pracowników, a 1/2 z nich pracuje w dziale IT. Ile osób pracuje w dziale IT?", "answer": "22 / 2 = <<22/2=11>>11 pracowników.\n#### 11"}
+{"question": "W sklepie rowerowym sprzedano 15 rowerów, każdy kosztował 1200 zł. Ile wyniósł przychód?", "answer": "15 * 1200 = <<15*1200=18000>>18000 zł.\n#### 18000 zł"}
+{"question": "W fabryce wyprodukowano 8000 sztuk, a 5% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "8000 * 5/100 = <<8000*5/100=400>>400 sztuk.\n#### 400"}
+{"question": "W kinie było 450 miejsc, a 70% z nich zostało zapełnionych. Ile miejsc było zapełnionych?", "answer": "450 * 70/100 = <<450*70/100=315>>315 miejsc.\n#### 315"}
+{"question": "W sali gimnastycznej jest 30 ławek, a na każdej siedzi 4 osoby. Ile osób może jednocześnie siedzieć?", "answer": "30 * 4 = <<30*4=120>>120 osób.\n#### 120"}
+{"question": "W sklepie komputerowym sprzedano 20 drukarek po 400 zł każda. Ile wyniósł przychód?", "answer": "20 * 400 = <<20*400=8000>>8000 zł.\n#### 8000 zł"}
+{"question": "W bibliotece jest 2500 książek, a 15% z nich to encyklopedie. Ile encyklopedii znajduje się w bibliotece?", "answer": "2500 * 15/100 = <<2500*15/100=375>>375 encyklopedii.\n#### 375"}
+{"question": "W restauracji podano 120 porcji zupy, a 20% z nich zostało odrzuconych. Ile porcji zupy zostało?", "answer": "20% z 120 = 24; 120 - 24 = <<120-24=96>>96 porcji.\n#### 96"}
+{"question": "W sklepie spożywczym sprzedano 500 kg mąki po 2,80 zł za kilogram. Ile wyniósł przychód?", "answer": "500 * 2,80 = <<500*2.80=1400>>1400 zł.\n#### 1400 zł"}
+{"question": "W parku jest 80 drzew, a przy każdym drzewie rośnie 3 kwiaty. Ile kwiatów jest łącznie?", "answer": "80 * 3 = <<80*3=240>>240 kwiatów.\n#### 240"}
+{"question": "W kinie sprzedano 200 biletów, a każdy kosztował 12 zł. Ile wyniósł przychód?", "answer": "200 * 12 = <<200*12=2400>>2400 zł.\n#### 2400 zł"}
+{"question": "W szkole jest 18 klas, a w każdej klasie jest 30 uczniów. Ile uczniów jest w szkole?", "answer": "18 * 30 = <<18*30=540>>540 uczniów.\n#### 540"}
+{"question": "W sklepie komputerowym sprzedano 16 myszek po 65 zł każda. Ile wyniósł przychód?", "answer": "16 * 65 = <<16*65=1040>>1040 zł.\n#### 1040 zł"}
+{"question": "W parku rozrywki odwiedziło 2500 osób, a 10% z nich kupiło bilet VIP. Ile osób kupiło bilet VIP?", "answer": "2500 * 10/100 = <<2500*10/100=250>>250 osób.\n#### 250"}
+{"question": "W restauracji przygotowano 300 posiłków, a 5% z nich zostało zwróconych. Ile posiłków zostało sprzedanych?", "answer": "5% z 300 = 15; 300 - 15 = <<300-15=285>>285 posiłków.\n#### 285"}
+{"question": "W fabryce wyprodukowano 6000 sztuk, a 8% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "6000 * 8/100 = <<6000*8/100=480>>480 sztuk.\n#### 480"}
+{"question": "W sklepie spożywczym sprzedano 75 litrów soku po 4,20 zł za litr. Ile wyniósł przychód?", "answer": "75 * 4,20 = <<75*4.20=315>>315 zł.\n#### 315 zł"}
+{"question": "W bibliotece znajduje się 1800 książek, a 1/3 z nich to literatura popularnonaukowa. Ile książek to literatura popularnonaukowa?", "answer": "1800 / 3 = <<1800/3=600>>600 książek.\n#### 600"}
+{"question": "W kinie było 600 miejsc, a 75% z nich zostało sprzedanych. Ile miejsc zostało sprzedanych?", "answer": "600 * 75/100 = <<600*75/100=450>>450 miejsc.\n#### 450"}
+{"question": "W sklepie komputerowym 12 monitorów kosztuje 8400 zł. Jaka jest cena jednego monitora?", "answer": "8400 / 12 = <<8400/12=700>>700 zł.\n#### 700 zł"}
+{"question": "W restauracji sprzedano 210 deserów, a 20% z nich było wegańskich. Ile deserów było wegańskich?", "answer": "210 * 20/100 = <<210*20/100=42>>42 deserów.\n#### 42"}
+{"question": "W sklepie sprzedano 55 par rękawiczek, a każda para kosztowała 35 zł. Ile wyniósł przychód?", "answer": "55 * 35 = <<55*35=1925>>1925 zł.\n#### 1925 zł"}
+{"question": "W szkole jest 40 uczniów, a 25% z nich dostało stypendium. Ile uczniów dostało stypendium?", "answer": "40 * 25/100 = <<40*25/100=10>>10 uczniów.\n#### 10"}
+{"question": "W parku jest 120 drzew, a 1/4 z nich to dęby. Ile dębów jest w parku?", "answer": "120 / 4 = <<120/4=30>>30 dębów.\n#### 30"}
+{"question": "W sklepie komputerowym sprzedano 30 pendrive'ów po 25 zł każdy. Ile wyniósł przychód?", "answer": "30 * 25 = <<30*25=750>>750 zł.\n#### 750 zł"}
+{"question": "W sklepie sprzedano 210 jabłek po 3,50 zł każde. Ile wyniósł przychód?", "answer": "210 * 3,50 = <<210*3.50=735>>735 zł.\n#### 735 zł"}
+{"question": "Na festynie rozdano 500 balonów, z czego 10% pękło. Ile balonów pozostało?", "answer": "10% z 500 = 50; 500 - 50 = <<500-50=450>>450 balonów.\n#### 450"}
+{"question": "W bibliotece znajduje się 3200 książek, a 1/8 to albumy. Ile albumów jest w bibliotece?", "answer": "3200 / 8 = <<3200/8=400>>400 albumów.\n#### 400"}
+{"question": "W klasie jest 30 uczniów, z czego 40% to chłopcy. Ile jest dziewcząt?", "answer": "40% z 30 = 12 chłopców; 30 - 12 = <<30-12=18>>18 dziewcząt.\n#### 18"}
+{"question": "W sklepie komputerowym sprzedano 14 laptopów po 3200 zł każdy. Ile wyniósł przychód?", "answer": "14 * 3200 = <<14*3200=44800>>44800 zł.\n#### 44800 zł"}
+{"question": "W przedszkolu jest 60 dzieci, a każde dziecko otrzymało 3 kredki. Ile kredek wydano łącznie?", "answer": "60 * 3 = <<60*3=180>>180 kredek.\n#### 180"}
+{"question": "W fabryce wyprodukowano 9500 sztuk, a 6% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "9500 * 6/100 = <<9500*6/100=570>>570 sztuk.\n#### 570"}
+{"question": "W restauracji podano 80 porcji zupy, a 15% zostało zwróconych. Ile porcji zupy zostało podanych?", "answer": "15% z 80 = 12; 80 - 12 = <<80-12=68>>68 porcji.\n#### 68"}
+{"question": "W kinie wyświetlono 7 seansów, na każdy seans przyszło średnio 150 osób. Ile osób łącznie obejrzało film?", "answer": "7 * 150 = <<7*150=1050>>1050 osób.\n#### 1050"}
+{"question": "W sklepie z ubraniami sprzedano 50 par spodni po 120 zł każda. Ile wyniósł przychód?", "answer": "50 * 120 = <<50*120=6000>>6000 zł.\n#### 6000 zł"}
+{"question": "W bibliotece zorganizowano czytelniczy konkurs. Z 80 książek 25% to bestsellery. Ile książek to bestsellery?", "answer": "80 * 25/100 = <<80*25/100=20>>20 książek.\n#### 20"}
+{"question": "W sklepie spożywczym sprzedano 120 kg ziemniaków po 2,30 zł za kilogram. Ile wyniósł przychód?", "answer": "120 * 2,30 = <<120*2.30=276>>276 zł.\n#### 276 zł"}
+{"question": "W parku jest 90 ławek, a 1/3 z nich jest zajętych. Ile ławek jest wolnych?", "answer": "90 / 3 = 30 zajętych; 90 - 30 = <<90-30=60>>60 ławek.\n#### 60"}
+{"question": "W przedszkolu jest 48 dzieci, a 1/4 z nich ma niebieskie plecaki. Ile dzieci ma niebieskie plecaki?", "answer": "48 / 4 = <<48/4=12>>12 dzieci.\n#### 12"}
+{"question": "W sklepie komputerowym sprzedano 18 drukarek po 550 zł każda. Ile wyniósł przychód?", "answer": "18 * 550 = <<18*550=9900>>9900 zł.\n#### 9900 zł"}
+{"question": "W fabryce wyprodukowano 7200 butelek, a 8% z nich było wadliwych. Ile butelek było wadliwych?", "answer": "7200 * 8/100 = <<7200*8/100=576>>576 butelek.\n#### 576"}
+{"question": "W kinie sprzedano 280 biletów, a każdy bilet kosztował 18 zł. Ile wyniósł przychód?", "answer": "280 * 18 = <<280*18=5040>>5040 zł.\n#### 5040 zł"}
+{"question": "W sklepie spożywczym sprzedano 75 litrów soku po 4,00 zł za litr. Ile wyniósł przychód?", "answer": "75 * 4,00 = <<75*4.00=300>>300 zł.\n#### 300 zł"}
+{"question": "W bibliotece znajduje się 4500 książek, a 20% to literatura faktu. Ile książek to literatura faktu?", "answer": "4500 * 20/100 = <<4500*20/100=900>>900 książek.\n#### 900"}
+{"question": "W restauracji przygotowano 150 posiłków, a 10% z nich zostało zwróconych. Ile posiłków zostało sprzedanych?", "answer": "150 - (150 * 10/100) = 150 - 15 = <<150-15=135>>135 posiłków.\n#### 135"}
+{"question": "W sklepie z zabawkami sprzedano 64 puzzle, a każda paczka kosztowała 32 zł. Ile wyniósł przychód?", "answer": "64 * 32 = <<64*32=2048>>2048 zł.\n#### 2048 zł"}
+{"question": "W parku jest 100 drzew, a 1/5 z nich to dęby. Ile dębów jest w parku?", "answer": "100 / 5 = <<100/5=20>>20 dębów.\n#### 20"}
+{"question": "W przedszkolu rozdzielono 90 zeszytów między dzieci. Jeśli każde dziecko otrzymało 3 zeszyty, ile dzieci otrzymało zeszyty?", "answer": "90 / 3 = <<90/3=30>>30 dzieci.\n#### 30"}
+{"question": "W sklepie komputerowym sprzedano 25 pendrive'ów po 40 zł każdy. Ile wyniósł przychód?", "answer": "25 * 40 = <<25*40=1000>>1000 zł.\n#### 1000 zł"}
+{"question": "W bibliotece jest 6000 książek, a 15% to komiksy. Ile komiksów jest w bibliotece?", "answer": "6000 * 15/100 = <<6000*15/100=900>>900 komiksów.\n#### 900"}
+{"question": "W restauracji sprzedano 200 deserów, a 20% z nich to czekoladowe. Ile deserów to czekoladowe?", "answer": "200 * 20/100 = <<200*20/100=40>>40 deserów.\n#### 40"}
+{"question": "W sklepie spożywczym sprzedano 130 kg mąki po 2,10 zł za kilogram. Ile wyniósł przychód?", "answer": "130 * 2,10 = <<130*2.10=273>>273 zł.\n#### 273 zł"}
+{"question": "W parku sportowym jest 80 ławek, a 3/8 z nich jest zajętych. Ile ławek jest wolnych?", "answer": "3/8 z 80 = 30; 80 - 30 = <<80-30=50>>50 ławek.\n#### 50"}
+{"question": "W fabryce wyprodukowano 8500 sztuk, a 5% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "8500 * 5/100 = <<8500*5/100=425>>425 sztuk.\n#### 425"}
+{"question": "W kinie sprzedano 300 biletów, a każdy bilet kosztował 22 zł. Ile wyniósł przychód?", "answer": "300 * 22 = <<300*22=6600>>6600 zł.\n#### 6600 zł"}
+{"question": "W sklepie komputerowym sprzedano 30 myszek po 55 zł każda. Ile wyniósł przychód?", "answer": "30 * 55 = <<30*55=1650>>1650 zł.\n#### 1650 zł"}
+{"question": "W restauracji przygotowano 250 porcji, a 12% z nich zostało zwróconych. Ile porcji zostało sprzedanych?", "answer": "12% z 250 = 30; 250 - 30 = <<250-30=220>>220 porcji.\n#### 220"}
+{"question": "W sklepie spożywczym sprzedano 400 litrów mleka po 3,00 zł za litr. Ile wyniósł przychód?", "answer": "400 * 3,00 = <<400*3.00=1200>>1200 zł.\n#### 1200 zł"}
+{"question": "W klasie jest 28 uczniów, a 35% to chłopcy. Ile chłopców jest w klasie? (Przyjmij wynik zaokrąglony do całości)", "answer": "28 * 35/100 = <<28*35/100=9.8>>≈10 chłopców.\n#### 10"}
+{"question": "W bibliotece odbyło się 5 spotkań autorskich, na każdym przyszło 45 osób. Ile osób łącznie uczestniczyło?", "answer": "5 * 45 = <<5*45=225>>225 osób.\n#### 225"}
+{"question": "W sklepie z ubraniami sprzedano 75 torebek po 85 zł każda. Ile wyniósł przychód?", "answer": "75 * 85 = <<75*85=6375>>6375 zł.\n#### 6375 zł"}
+{"question": "W parku linowym odbyło się 10 kursów, a każdy kurs miał 16 uczestników. Ile osób wzięło udział?", "answer": "10 * 16 = <<10*16=160>>160 osób.\n#### 160"}
+{"question": "W restauracji sprzedano 130 kaw, a każda kosztowała 12 zł. Ile wyniósł przychód?", "answer": "130 * 12 = <<130*12=1560>>1560 zł.\n#### 1560 zł"}
+{"question": "W sklepie komputerowym sprzedano 50 klawiatur po 75 zł każda. Ile wyniósł przychód?", "answer": "50 * 75 = <<50*75=3750>>3750 zł.\n#### 3750 zł"}
+{"question": "W bibliotece jest 3600 książek, a 10% to albumy. Ile albumów znajduje się w bibliotece?", "answer": "3600 * 10/100 = <<3600*10/100=360>>360 albumów.\n#### 360"}
+{"question": "W sklepie spożywczym sprzedano 220 kg cukru po 3,40 zł za kilogram. Ile wyniósł przychód?", "answer": "220 * 3,40 = <<220*3.40=748>>748 zł.\n#### 748 zł"}
+{"question": "W kinie zorganizowano 6 seansów, na każdy seans przyszło 200 osób. Ile osób łącznie obejrzało film?", "answer": "6 * 200 = <<6*200=1200>>1200 osób.\n#### 1200"}
+{"question": "W przedszkolu jest 55 dzieci, a każde dziecko otrzymało 4 kredki. Ile kredek wydano łącznie?", "answer": "55 * 4 = <<55*4=220>>220 kredek.\n#### 220"}
+{"question": "W sklepie komputerowym sprzedano 35 laptopów po 2800 zł każdy. Ile wyniósł przychód?", "answer": "35 * 2800 = <<35*2800=98000>>98000 zł.\n#### 98000 zł"}
+{"question": "W restauracji przygotowano 210 porcji obiadu, a 5% z nich zostało zwróconych. Ile porcji zostało sprzedanych? (Wynik zaokrąglij do najbliższej całości)", "answer": "5% z 210 = 10,5; 210 - 10,5 ≈ <<210-10.5=199.5>>200 porcji.\n#### 200 porcji"}
+{"question": "W sklepie spożywczym sprzedano 95 litrów soku po 4,80 zł za litr. Ile wyniósł przychód?", "answer": "95 * 4,80 = <<95*4.80=456>>456 zł.\n#### 456 zł"}
+{"question": "W parku jest 140 drzew, a 1/7 z nich to brzozy. Ile brzoz jest w parku?", "answer": "140 / 7 = <<140/7=20>>20 brzoz.\n#### 20"}
+{"question": "W bibliotece odbyło się 8 spotkań autorskich, na każdym przyszło 55 osób. Ile osób łącznie uczestniczyło?", "answer": "8 * 55 = <<8*55=440>>440 osób.\n#### 440"}
+{"question": "W sklepie z zabawkami sprzedano 90 zestawów klocków, każdy kosztował 65 zł. Ile wyniósł przychód?", "answer": "90 * 65 = <<90*65=5850>>5850 zł.\n#### 5850 zł"}
+{"question": "W restauracji sprzedano 175 deserów, a każdy kosztował 28 zł. Ile wyniósł przychód?", "answer": "175 * 28 = <<175*28=4900>>4900 zł.\n#### 4900 zł"}
+{"question": "W sklepie sprzedano 130 par butów po 220 zł każda. Ile wyniósł przychód?", "answer": "130 * 220 = <<130*220=28600>>28600 zł.\n#### 28600 zł"}
+{"question": "W fabryce wyprodukowano 12000 sztuk, a 3% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "12000 * 3/100 = <<12000*3/100=360>>360 sztuk.\n#### 360"}
+{"question": "W szkole jest 32 klasy, każda z 25 uczniami. Ile uczniów jest w szkole?", "answer": "32 * 25 = <<32*25=800>>800 uczniów.\n#### 800"}
+{"question": "Na festynie sprzedano 450 biletów po 18 zł. Ile wyniósł przychód?", "answer": "450 * 18 = <<450*18=8100>>8100 zł.\n#### 8100 zł"}
+{"question": "W bibliotece jest 5400 książek, a 15% to literatura piękna. Ile książek to literatura piękna?", "answer": "5400 * 15/100 = <<5400*15/100=810>>810 książek.\n#### 810 książek"}
+{"question": "W restauracji przygotowano 220 porcji obiadu, a 10% zostało zwróconych. Ile porcji sprzedano?", "answer": "10% z 220 = 22; 220 - 22 = <<220-22=198>>198 porcji.\n#### 198 porcji"}
+{"question": "W sklepie komputerowym sprzedano 24 monitory po 800 zł każda. Ile wyniósł przychód?", "answer": "24 * 800 = <<24*800=19200>>19200 zł.\n#### 19200 zł"}
+{"question": "W kinie sprzedano 500 biletów po 25 zł. Ile wyniósł przychód?", "answer": "500 * 25 = <<500*25=12500>>12500 zł.\n#### 12500 zł"}
+{"question": "W supermarkecie sprzedano 320 kg jabłek po 3,10 zł/kg. Ile wyniósł przychód?", "answer": "320 * 3,10 = <<320*3.10=992>>992 zł.\n#### 992 zł"}
+{"question": "W przedszkolu jest 40 dzieci, a każde otrzymało 5 kredek. Ile kredek wydano łącznie?", "answer": "40 * 5 = <<40*5=200>>200 kredek.\n#### 200"}
+{"question": "W sklepie z zabawkami sprzedano 75 zestawów puzzli po 48 zł. Ile wyniósł przychód?", "answer": "75 * 48 = <<75*48=3600>>3600 zł.\n#### 3600 zł"}
+{"question": "W restauracji przygotowano 300 posiłków, a 12% z nich zostało zwróconych. Ile posiłków sprzedano?", "answer": "12% z 300 = 36; 300 - 36 = <<300-36=264>>264 posiłków.\n#### 264"}
+{"question": "W bibliotece odbyło się 6 spotkań, na każdym przyszło 65 osób. Ile osób łącznie uczestniczyło?", "answer": "6 * 65 = <<6*65=390>>390 osób.\n#### 390"}
+{"question": "W sklepie spożywczym sprzedano 210 litrów mleka po 2,95 zł/litr. Ile wyniósł przychód?", "answer": "210 * 2,95 = <<210*2.95=619.50>>619,50 zł.\n#### 619,50 zł"}
+{"question": "W sklepie komputerowym sprzedano 30 laptopów po 3200 zł każda. Ile wyniósł przychód?", "answer": "30 * 3200 = <<30*3200=96000>>96000 zł.\n#### 96000 zł"}
+{"question": "W parku jest 150 drzew, a 1/5 z nich to sosny. Ile sosnowych drzew jest w parku?", "answer": "150 / 5 = <<150/5=30>>30 sosnowych drzew.\n#### 30"}
+{"question": "W fabryce wyprodukowano 10000 sztuk, a 7% z nich było wadliwych. Ile sztuk było wadliwych?", "answer": "10000 * 7/100 = <<10000*7/100=700>>700 sztuk.\n#### 700"}
+{"question": "W kinie było 600 miejsc, a 85% z nich zostało sprzedanych. Ile miejsc sprzedano?", "answer": "600 * 85/100 = <<600*85/100=510>>510 miejsc.\n#### 510"}
+{"question": "W restauracji podano 260 posiłków, a 5% z nich zostało zwróconych. Ile posiłków sprzedano?", "answer": "5% z 260 = 13; 260 - 13 = <<260-13=247>>247 posiłków.\n#### 247"}
+{"question": "W sklepie spożywczym sprzedano 140 kg cukru po 3,25 zł/kg. Ile wyniósł przychód?", "answer": "140 * 3,25 = <<140*3.25=455>>455 zł.\n#### 455 zł"}
+{"question": "W szkole jest 20 klas, każda ma 30 uczniów. Ile uczniów jest w szkole?", "answer": "20 * 30 = <<20*30=600>>600 uczniów.\n#### 600"}
+{"question": "W bibliotece jest 4000 książek, a 20% to komiksy. Ile książek to komiksy?", "answer": "4000 * 20/100 = <<4000*20/100=800>>800 książek.\n#### 800 książek"}
+{"question": "W sklepie komputerowym sprzedano 18 drukarek po 750 zł każda. Ile wyniósł przychód?", "answer": "18 * 750 = <<18*750=13500>>13500 zł.\n#### 13500 zł"}
+{"question": "W kinie sprzedano 320 biletów po 16 zł. Ile wyniósł przychód?", "answer": "320 * 16 = <<320*16=5120>>5120 zł.\n#### 5120 zł"}
+{"question": "W restauracji przygotowano 280 deserów, a 15% z nich to wegańskie. Ile deserów to wegańskie?", "answer": "280 * 15/100 = <<280*15/100=42>>42 deserów.\n#### 42"}
+{"question": "W sklepie spożywczym sprzedano 180 litrów soku po 3,80 zł/litr. Ile wyniósł przychód?", "answer": "180 * 3,80 = <<180*3.80=684>>684 zł.\n#### 684 zł"}
+{"question": "W parku jest 120 ław, a na każdej siedzi 3 osoby. Ile osób może siedzieć jednocześnie?", "answer": "120 * 3 = <<120*3=360>>360 osób.\n#### 360"}
+{"question": "W bibliotece odbyło się 10 spotkań autorskich, na każdym przyszło 80 osób. Ile osób łącznie uczestniczyło?", "answer": "10 * 80 = <<10*80=800>>800 osób.\n#### 800"}
+{"question": "W sklepie z ubraniami sprzedano 90 koszulek po 45 zł. Ile wyniósł przychód?", "answer": "90 * 45 = <<90*45=4050>>4050 zł.\n#### 4050 zł"}
+{"question": "W fabryce wyprodukowano 7500 sztuk, a 4% było wadliwych. Ile sztuk było wadliwych?", "answer": "7500 * 4/100 = <<7500*4/100=300>>300 sztuk.\n#### 300"}
+{"question": "W kinie sprzedano 250 biletów po 20 zł. Ile wyniósł przychód?", "answer": "250 * 20 = <<250*20=5000>>5000 zł.\n#### 5000 zł"}
+{"question": "W sklepie spożywczym sprzedano 200 kg mąki po 2,75 zł/kg. Ile wyniósł przychód?", "answer": "200 * 2,75 = <<200*2.75=550>>550 zł.\n#### 550 zł"}
+{"question": "W przedszkolu jest 35 dzieci, a każde otrzymało 6 kolorowanek. Ile kolorowanek wydano łącznie?", "answer": "35 * 6 = <<35*6=210>>210 kolorowanek.\n#### 210"}
+{"question": "W sklepie komputerowym sprzedano 12 tabletów po 1500 zł. Ile wyniósł przychód?", "answer": "12 * 1500 = <<12*1500=18000>>18000 zł.\n#### 18000 zł"}
+{"question": "W restauracji przygotowano 310 posiłków, a 8% z nich zostało zwróconych. Ile posiłków sprzedano? (wynik zaokrąglij do całości)", "answer": "8% z 310 = 24.8; 310 - 24.8 ≈ <<310-24.8=285>>285 posiłków.\n#### 285 posiłków"}
+{"question": "W sklepie z zabawkami sprzedano 85 zestawów klocków po 60 zł. Ile wyniósł przychód?", "answer": "85 * 60 = <<85*60=5100>>5100 zł.\n#### 5100 zł"}
+{"question": "W bibliotece jest 5000 książek, a 10% to podręczniki. Ile książek to podręczniki?", "answer": "5000 * 10/100 = <<5000*10/100=500>>500 książek.\n#### 500"}
+{"question": "W kinie odbyło się 9 seansów, na każdy seans przyszło 140 osób. Ile osób łącznie obejrzało film?", "answer": "9 * 140 = <<9*140=1260>>1260 osób.\n#### 1260"}
+{"question": "W restauracji sprzedano 230 deserów po 22 zł. Ile wyniósł przychód?", "answer": "230 * 22 = <<230*22=5060>>5060 zł.\n#### 5060 zł"}
+{"question": "W sklepie spożywczym sprzedano 160 litrów mleka po 3,15 zł/litr. Ile wyniósł przychód?", "answer": "160 * 3,15 = <<160*3.15=504>>504 zł.\n#### 504 zł"}
+{"question": "W szkole jest 24 klasy, a każda ma 32 uczniów. Ile uczniów jest w szkole?", "answer": "24 * 32 = <<24*32=768>>768 uczniów.\n#### 768"}
+{"question": "W bibliotece odbyło się 7 spotkań autorskich, na każdym przyszło 95 osób. Ile osób łącznie uczestniczyło?", "answer": "7 * 95 = <<7*95=665>>665 osób.\n#### 665"}
+{"question": "W sklepie komputerowym sprzedano 40 myszek po 85 zł. Ile wyniósł przychód?", "answer": "40 * 85 = <<40*85=3400>>3400 zł.\n#### 3400 zł"}
+{"question": "W kinie sprzedano 380 biletów po 17 zł. Ile wyniósł przychód?", "answer": "380 * 17 = <<380*17=6460>>6460 zł.\n#### 6460 zł"}
+{"question": "W restauracji przygotowano 270 posiłków, a 12% zostało zwróconych. Ile posiłków sprzedano? (wynik zaokrąglij do całości)", "answer": "12% z 270 = 32.4; 270 - 32.4 ≈ <<270-32.4=238>>238 posiłków.\n#### 238 posiłków"}
+{"question": "W sklepie spożywczym sprzedano 110 kg ziemniaków po 2,50 zł/kg. Ile wyniósł przychód?", "answer": "110 * 2,50 = <<110*2.50=275>>275 zł.\n#### 275 zł"}
+{"question": "W przedszkolu jest 45 dzieci, a każde dziecko otrzymało 8 kartek. Ile kartek wydano łącznie?", "answer": "45 * 8 = <<45*8=360>>360 kartek.\n#### 360"}
+{"question": "W sklepie z ubraniami sprzedano 65 torebek po 95 zł. Ile wyniósł przychód?", "answer": "65 * 95 = <<65*95=6175>>6175 zł.\n#### 6175 zł"}
+{"question": "W bibliotece znajduje się 4200 książek, a 30% to literatura młodzieżowa. Ile książek to literatura młodzieżowa?", "answer": "4200 * 30/100 = <<4200*30/100=1260>>1260 książek.\n#### 1260"}
+{"question": "W restauracji sprzedano 190 kaw, a każda kosztowała 14 zł. Ile wyniósł przychód?", "answer": "190 * 14 = <<190*14=2660>>2660 zł.\n#### 2660 zł"}
+{"question": "W sklepie sprzedano 145 parasolek, a każdy kosztował 35 zł. Ile wyniósł przychód?", "answer": "145 * 35 = <<145*35=5075>>5075 zł.\n#### 5075 zł"}
+{"question": "W bibliotece jest 6000 książek, a 25% to powieści. Ile powieści jest w bibliotece?", "answer": "6000 * 25/100 = <<6000*25/100=1500>>1500 książek.\n#### 1500 książek"}
+{"question": "Na festynie sprzedano 320 bilety po 18 zł. Ile wyniósł przychód?", "answer": "320 * 18 = <<320*18=5760>>5760 zł.\n#### 5760 zł"}
+{"question": "W kinie wyświetlono 8 seansów, a na każdy seans przyszło 175 osób. Ile osób łącznie obejrzało film?", "answer": "8 * 175 = <<8*175=1400>>1400 osób.\n#### 1400 osób"}
+{"question": "W szkole jest 28 klas, a każda ma 24 uczniów. Ile uczniów jest w szkole?", "answer": "28 * 24 = <<28*24=672>>672 uczniów.\n#### 672 uczniów"}
+{"question": "W restauracji sprzedano 120 obiadów, każdy za 32 zł. Ile wyniósł przychód?", "answer": "120 * 32 = <<120*32=3840>>3840 zł.\n#### 3840 zł"}
+{"question": "W sklepie spożywczym sprzedano 220 kg jabłek po 4,10 zł/kg. Ile wyniósł przychód?", "answer": "220 * 4.10 = <<220*4.10=902>>902 zł.\n#### 902 zł"}
+{"question": "W sklepie komputerowym sprzedano 15 tabletów po 2500 zł. Ile wyniósł przychód?", "answer": "15 * 2500 = <<15*2500=37500>>37500 zł.\n#### 37500 zł"}
+{"question": "W bibliotece odbyło się 12 spotkań, na każde przyszło 78 osób. Ile osób łącznie uczestniczyło?", "answer": "12 * 78 = <<12*78=936>>936 osób.\n#### 936 osób"}
+{"question": "W przedszkolu jest 50 dzieci, a każde dostało 7 ołówków. Ile ołówków wydano łącznie?", "answer": "50 * 7 = <<50*7=350>>350 ołówków.\n#### 350 ołówków"}
+{"question": "W sklepie z zabawkami sprzedano 80 zestawów klocków po 55 zł. Ile wyniósł przychód?", "answer": "80 * 55 = <<80*55=4400>>4400 zł.\n#### 4400 zł"}
+{"question": "W restauracji przygotowano 270 porcji, a 15% z nich zostało odrzuconych. Ile porcji sprzedano? (wynik zaokrąglij do całości)", "answer": "15% z 270 = 40.5; 270 - 40.5 ≈ <<270-40.5=229.5>>≈230 porcji.\n#### 230 porcji"}
+{"question": "W sklepie spożywczym sprzedano 350 litrów soku po 3,80 zł/litr. Ile wyniósł przychód?", "answer": "350 * 3.80 = <<350*3.80=1330>>1330 zł.\n#### 1330 zł"}
+{"question": "W kinie sprzedano 240 biletów po 12 zł. Ile wyniósł przychód?", "answer": "240 * 12 = <<240*12=2880>>2880 zł.\n#### 2880 zł"}
+{"question": "W sklepie komputerowym sprzedano 40 myszek po 60 zł. Ile wyniósł przychód?", "answer": "40 * 60 = <<40*60=2400>>2400 zł.\n#### 2400 zł"}
+{"question": "W szkole jest 30 klas, a każda ma 20 uczniów. Ile uczniów jest w szkole?", "answer": "30 * 20 = <<30*20=600>>600 uczniów.\n#### 600 uczniów"}

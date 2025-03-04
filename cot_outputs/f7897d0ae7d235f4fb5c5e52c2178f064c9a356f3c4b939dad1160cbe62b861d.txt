@@ -1,0 +1,4 @@
+<reasoning>
+4 * 0.9 = <<4*0.9=3.6>>3.6 litra
+</reasoning>
+<answer>3.6</answer>

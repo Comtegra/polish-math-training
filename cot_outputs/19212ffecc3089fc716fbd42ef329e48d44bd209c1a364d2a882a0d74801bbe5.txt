@@ -1,0 +1,4 @@
+<reasoning>
+5000 * 10/100 = <<5000*10/100=500>>500 części.
+</reasoning>
+<answer>500</answer>

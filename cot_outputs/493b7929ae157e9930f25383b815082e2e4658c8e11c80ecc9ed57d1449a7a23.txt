@@ -1,0 +1,4 @@
+<reasoning>
+Wojtek kupi 3 sztuki odzieży sportowej po 25 zł za każdą. Aby znaleźć całkowitą kwotę, mnożymy liczbę sztuk przez cenę za sztukę: 3 * 25 zł = 75 zł.
+</reasoning>
+<answer>75 zł</answer>

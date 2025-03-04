@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 36 * 4 = <<36*4=144>>144.
+</reasoning>
+<answer>144</answer>

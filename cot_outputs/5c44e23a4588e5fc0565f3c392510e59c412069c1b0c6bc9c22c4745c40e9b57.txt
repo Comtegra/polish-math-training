@@ -1,0 +1,5 @@
+<reasoning>
+Sumujemy kawałki: 4 * 10 = <<4*10=40>>40.
+Odejmujemy zjedzone kawałki: 40 - 6 = <<40-6=34>>34.
+</reasoning>
+<answer>34</answer>

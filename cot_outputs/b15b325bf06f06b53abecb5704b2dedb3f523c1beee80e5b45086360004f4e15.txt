@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie butów = 220 - 70 = <<220-70=150>>150 butów.
+</reasoning>
+<answer>150</answer>

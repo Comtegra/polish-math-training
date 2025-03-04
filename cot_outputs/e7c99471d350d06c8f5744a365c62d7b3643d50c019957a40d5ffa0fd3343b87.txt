@@ -1,0 +1,4 @@
+<reasoning>
+2500 / 10 = <<2500/10=250>>250 zł.
+</reasoning>
+<answer>250 zł</answer>

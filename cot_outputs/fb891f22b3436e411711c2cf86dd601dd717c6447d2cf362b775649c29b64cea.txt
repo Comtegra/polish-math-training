@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 200 - 85 = <<200-85=115>>115.
+Następnie dodajemy: 115 + 40 = <<115+40=155>>155.
+</reasoning>
+<answer>155</answer>

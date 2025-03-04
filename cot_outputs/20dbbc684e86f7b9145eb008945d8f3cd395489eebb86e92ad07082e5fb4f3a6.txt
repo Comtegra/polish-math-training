@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy liście: 56 + 24 = <<56+24=80>>80.
+Dzielimy na 4 stosy: 80 / 4 = <<80/4=20>>20.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+80 / 5 = <<80/5=16>>16 karasi.
+</reasoning>
+<answer>16</answer>

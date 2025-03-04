@@ -1,0 +1,4 @@
+<reasoning>
+7 * 4 = <<7*4=28>>28 zł
+</reasoning>
+<answer>28</answer>

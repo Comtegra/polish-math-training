@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy działające komputery przed naprawą: 15 - 4 = <<15-4=11>>11.
+Dodajemy naprawione komputery: 11 + 3 = <<11+3=14>>14.
+</reasoning>
+<answer>14</answer>

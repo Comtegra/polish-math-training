@@ -1,0 +1,4 @@
+<reasoning>
+35 - 5 = <<35-5=30>>30 liści
+</reasoning>
+<answer>30</answer>

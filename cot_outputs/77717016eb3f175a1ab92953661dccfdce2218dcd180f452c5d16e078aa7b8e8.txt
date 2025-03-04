@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dzielimy kredki: 24 / 4 = <<24/4=6>>6.
+Następnie dodajemy dodatkowe kredki: 6 + 2 = <<6+2=8>>8.
+</reasoning>
+<answer>8</answer>

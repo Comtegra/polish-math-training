@@ -1,0 +1,5 @@
+<reasoning>
+Rozlanych: 360 * 0.10 = <<360*0.10=36>>36 litrów.
+Pozostało: 360 - 36 = <<360-36=324>>324 litrów.
+</reasoning>
+<answer>324</answer>

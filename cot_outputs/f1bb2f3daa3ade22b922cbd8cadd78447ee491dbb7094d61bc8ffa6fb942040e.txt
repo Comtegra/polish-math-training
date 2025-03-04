@@ -1,0 +1,4 @@
+<reasoning>
+Piotr wyda na książkę 50 zł i na bilety 35 zł. Zostanie mu 100 - 50 - 35 = 15 zł.
+</reasoning>
+<answer>15</answer>

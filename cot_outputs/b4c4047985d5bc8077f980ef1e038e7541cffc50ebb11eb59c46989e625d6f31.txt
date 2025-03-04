@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ciastek: 3 * 14 = <<3*14=42>>42 ciastek.
+Następnie odejmujemy zjedzone ciastka: 42 - 5 = <<42-5=37>>37 ciastek.
+</reasoning>
+<answer>37</answer>

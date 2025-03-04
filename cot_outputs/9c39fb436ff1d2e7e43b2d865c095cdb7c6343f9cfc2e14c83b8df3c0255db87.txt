@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 60 * (3/5) = <<60*(3/5)=36>>36 ciastek.
+Pozostało: 60 - 36 = <<60-36=24>>24 ciastek.
+</reasoning>
+<answer>24</answer>

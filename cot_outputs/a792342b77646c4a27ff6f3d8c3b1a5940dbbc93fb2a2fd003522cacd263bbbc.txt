@@ -1,0 +1,4 @@
+<reasoning>
+Po zużyciu 6 kg ziemniaków Ani zostało 20 - 6 = 14 kg ziemniaków.
+</reasoning>
+<answer>14</answer>

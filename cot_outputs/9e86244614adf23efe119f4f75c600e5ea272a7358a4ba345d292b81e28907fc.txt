@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 1200 * 0.05 = <<1200*0.05=60>>60 elementów.
+Sprawnych: 1200 - 60 = <<1200-60=1140>>1140 elementów.
+</reasoning>
+<answer>1140</answer>

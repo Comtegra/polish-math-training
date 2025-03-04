@@ -1,0 +1,4 @@
+<reasoning>
+Niesprzedanych dań = 150 - 135 = <<150-135=15>>15 dań.
+</reasoning>
+<answer>15</answer>

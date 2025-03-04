@@ -1,0 +1,4 @@
+<reasoning>
+Liczba uczniów: 64 / 8 = <<64/8=8>>8 uczniów.
+</reasoning>
+<answer>8</answer>

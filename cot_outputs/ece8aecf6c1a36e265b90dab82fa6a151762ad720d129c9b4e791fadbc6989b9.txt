@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy początkową liczbę ołówków: 3 * 15 = <<3*15=45>>45 ołówków.
+Odejmujemy rozdane ołówki: 45 - 10 = <<45-10=35>>35 ołówków.
+</reasoning>
+<answer>35</answer>

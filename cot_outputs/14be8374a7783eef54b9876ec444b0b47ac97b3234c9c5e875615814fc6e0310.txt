@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba ciastek: 100 * 3 = <<100*3=300>>300 ciastek.
+</reasoning>
+<answer>300</answer>

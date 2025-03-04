@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę uczniów na wycieczce: 240 / 3 = <<240/3=80>>80.
+Następnie odejmujemy: 240 - 80 = <<240-80=160>>160.
+</reasoning>
+<answer>160</answer>

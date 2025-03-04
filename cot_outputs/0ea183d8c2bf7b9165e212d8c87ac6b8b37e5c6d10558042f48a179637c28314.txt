@@ -1,0 +1,5 @@
+<reasoning>
+50 - 15 = <<50-15=35>>35 kredek
+35 + 5 = <<35+5=40>>40 kredek
+</reasoning>
+<answer>40</answer>

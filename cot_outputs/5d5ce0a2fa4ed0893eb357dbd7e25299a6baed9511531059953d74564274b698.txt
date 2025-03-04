@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych zadań = 48 - 12 = <<48-12=36>>36 zadań.
+</reasoning>
+<answer>36</answer>

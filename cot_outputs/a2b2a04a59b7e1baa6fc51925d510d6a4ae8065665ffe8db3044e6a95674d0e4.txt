@@ -1,0 +1,5 @@
+<reasoning>
+Sumujemy kawałki: 8 + 10 + 12 = <<8+10+12=30>>30.
+Odejmujemy zjedzone kawałki: 30 - 9 = <<30-9=21>>21.
+</reasoning>
+<answer>21</answer>

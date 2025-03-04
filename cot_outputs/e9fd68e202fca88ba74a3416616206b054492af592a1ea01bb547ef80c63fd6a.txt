@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt zakupów: 18 + 2 = <<18+2=20>>20 zł.
+Pozostała kwota: 50 - 20 = <<50-20=30>>30 zł.
+</reasoning>
+<answer>30</answer>

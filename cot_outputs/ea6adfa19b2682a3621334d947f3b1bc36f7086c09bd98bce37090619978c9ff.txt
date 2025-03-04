@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało pomarańczy = 42 - 18 = <<42-18=24>>24 pomarańczy.
+</reasoning>
+<answer>24</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 75 kamieni przez 5: 75 / 5 = <<75/5=15>>15 kamieni na stos.
+</reasoning>
+<answer>15</answer>

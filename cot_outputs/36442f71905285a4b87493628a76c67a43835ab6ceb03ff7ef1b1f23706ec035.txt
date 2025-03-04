@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy dystans tygodniowy: 3 * 4 = <<3*4=12>>12 km.
+</reasoning>
+<answer>12</answer>

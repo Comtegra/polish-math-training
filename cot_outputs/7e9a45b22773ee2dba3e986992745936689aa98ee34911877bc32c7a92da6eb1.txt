@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 4 * 10 * 3 = <<4*10*3=120>>120 jajek
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 950 * 0.08 = <<950*0.08=76>>76.
+Sprawnych: 950 - 76 = <<950-76=874>>874.
+</reasoning>
+<answer>874</answer>

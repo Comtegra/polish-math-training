@@ -1,0 +1,4 @@
+<reasoning>
+10 * 950 = <<10*950=9500>>9500 zł.
+</reasoning>
+<answer>9500 zł</answer>

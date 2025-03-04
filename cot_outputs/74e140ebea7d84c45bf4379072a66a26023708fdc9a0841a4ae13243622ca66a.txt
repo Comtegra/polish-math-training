@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 70% z 360: 360 * 0,70 = <<360*0.70=252>>252 uczniów
+</reasoning>
+<answer>252</answer>

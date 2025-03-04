@@ -1,0 +1,5 @@
+<reasoning>
+Liczba chłopców: 54 / 3 = <<54/3=18>>18.
+Liczba dziewczynek: 54 - 18 = <<54-18=36>>36.
+</reasoning>
+<answer>36</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/5 z 75: 75 / 5 = <<75/5=15>>15 drzew wyciętych.
+Pozostało: 75 - 15 = <<75-15=60>>60.
+</reasoning>
+<answer>60</answer>

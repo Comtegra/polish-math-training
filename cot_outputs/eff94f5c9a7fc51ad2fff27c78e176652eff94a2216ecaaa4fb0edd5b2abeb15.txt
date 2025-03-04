@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy koszt roweru: 120 - 80 = <<120-80=40>>40.
+Następnie odejmujemy koszt książki: 40 - 15 = <<40-15=25>>25.
+</reasoning>
+<answer>25</answer>

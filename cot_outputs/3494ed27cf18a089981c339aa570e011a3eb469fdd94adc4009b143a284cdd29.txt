@@ -1,0 +1,4 @@
+<reasoning>
+Oskar kupił 5 pudełek zapałek po 150 sztuk, więc ma 5 * 150 = 750 zapałek.
+</reasoning>
+<answer>750</answer>

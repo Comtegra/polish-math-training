@@ -1,0 +1,4 @@
+<reasoning>
+Radek kupił razem 8 kg jabłek i 6 kg gruszek, co daje 8 + 6 = 14 kg owoców.
+</reasoning>
+<answer>14</answer>

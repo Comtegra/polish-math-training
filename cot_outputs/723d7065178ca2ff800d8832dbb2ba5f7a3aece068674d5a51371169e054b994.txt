@@ -1,0 +1,4 @@
+<reasoning>
+480 / 3 = <<480/3=160>>160 uczniów.
+</reasoning>
+<answer>160</answer>

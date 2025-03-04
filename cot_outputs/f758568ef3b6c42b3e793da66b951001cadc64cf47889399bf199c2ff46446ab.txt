@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę opakowań przez litr w każdym: 2 × 1,5 = <<2×1.5=3>>3 litry.
+</reasoning>
+<answer>3</answer>

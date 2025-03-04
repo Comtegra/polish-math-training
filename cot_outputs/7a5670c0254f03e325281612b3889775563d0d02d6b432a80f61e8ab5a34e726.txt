@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie hot dogów = 5 * 6 = <<5*6=30>>30 hot dogów.
+</reasoning>
+<answer>30</answer>

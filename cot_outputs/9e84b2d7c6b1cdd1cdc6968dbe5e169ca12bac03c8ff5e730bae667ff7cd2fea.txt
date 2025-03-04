@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę uszkodzonych ołówków: 36 / 3 = <<36/3=12>>12.
+Liczba dobrych ołówków: 36 - 12 = <<36-12=24>>24.
+</reasoning>
+<answer>24</answer>

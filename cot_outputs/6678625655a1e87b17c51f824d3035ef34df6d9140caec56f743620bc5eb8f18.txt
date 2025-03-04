@@ -1,0 +1,4 @@
+<reasoning>
+Niech x oznacza kwotę, którą Tomek wydał na książki. Wtedy Bartek wydał x + 30 zł. Razem wydali 200 zł, więc x + (x + 30 zł) = 200 zł. To upraszcza się do 2x + 30 zł = 200 zł, a następnie 2x = 170 zł. Stąd x = 170 zł / 2 = 85 zł. Bartek wydał 85 zł + 30 zł = 115 zł. Więc Bartek nie kupił książek za mniej niż 50 zł.
+</reasoning>
+<answer>115</answer>

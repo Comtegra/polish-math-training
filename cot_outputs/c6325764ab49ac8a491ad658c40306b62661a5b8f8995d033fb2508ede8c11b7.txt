@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt zakupów: 55 + 7 = <<55+7=62>>62 zł.
+Pozostało: 120 - 62 = <<120-62=58>>58 zł.
+</reasoning>
+<answer>58</answer>

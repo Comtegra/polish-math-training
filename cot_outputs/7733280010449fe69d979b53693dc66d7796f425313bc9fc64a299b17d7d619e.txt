@@ -1,0 +1,6 @@
+<reasoning>
+Uczniów z 2 zeszytami: 22 * 2 = <<22*2=44>>44.
+Uczniów z 3 zeszytami: 4 * 3 = <<4*3=12>>12.
+Łącznie: 44 + 12 = <<44+12=56>>56 zeszytów.
+</reasoning>
+<answer>56</answer>

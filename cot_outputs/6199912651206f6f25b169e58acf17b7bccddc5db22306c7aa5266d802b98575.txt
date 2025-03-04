@@ -1,0 +1,4 @@
+<reasoning>
+100 / 5 = <<100/5=20>>20 drzew.
+</reasoning>
+<answer>20</answer>

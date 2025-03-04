@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 45 * 12 = <<45*12=540>>540 zł.
+</reasoning>
+<answer>540</answer>

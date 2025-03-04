@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie książek = 3 * 3 = <<3*3=9>>9 książek.
+</reasoning>
+<answer>9</answer>

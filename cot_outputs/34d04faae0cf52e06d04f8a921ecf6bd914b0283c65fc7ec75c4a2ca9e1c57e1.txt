@@ -1,0 +1,4 @@
+<reasoning>
+Ukończyło bieg = 50 - 8 = <<50-8=42>>42 osób.
+</reasoning>
+<answer>42</answer>

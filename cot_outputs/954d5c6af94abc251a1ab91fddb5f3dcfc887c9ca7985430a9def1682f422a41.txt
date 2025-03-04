@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie długopisów: 3 * 12 = <<3*12=36>>36.
+Pozostało: 36 - 4 = <<36-4=32>>32 długopisów.
+</reasoning>
+<answer>32</answer>

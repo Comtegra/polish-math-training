@@ -1,0 +1,4 @@
+<reasoning>
+2 * 1,50 = 3 zł, 45 - 3 = <<45-3=42>>42 zł.
+</reasoning>
+<answer>42 zł</answer>

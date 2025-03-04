@@ -1,0 +1,4 @@
+<reasoning>
+5 * 300 = <<5*300=1500>>1500 ml
+</reasoning>
+<answer>1500 ml</answer>

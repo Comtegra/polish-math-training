@@ -1,0 +1,4 @@
+<reasoning>
+20% z 80 = 16; 80 - 16 = <<80-16=64>>64 porcji.
+</reasoning>
+<answer>64</answer>

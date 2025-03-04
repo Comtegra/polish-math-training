@@ -1,0 +1,4 @@
+<reasoning>
+95 * 42 = <<95*42=3990>>3990 zł.
+</reasoning>
+<answer>3990 zł</answer>

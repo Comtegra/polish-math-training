@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie ołówków = 7 * 8 = <<7*8=56>>56 ołówków.
+</reasoning>
+<answer>56</answer>

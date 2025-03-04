@@ -1,0 +1,4 @@
+<reasoning>
+Przy promocji za każdą 2 pary płacisz 8 zł, więc za 10 par (5 razy) zapłacisz 5 * 8 = <<5*8=40>>40 zł.
+</reasoning>
+<answer>40</answer>

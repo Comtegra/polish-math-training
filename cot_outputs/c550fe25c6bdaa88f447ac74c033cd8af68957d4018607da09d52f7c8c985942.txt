@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy całkowitą liczbę ołówków: 3 * 12 = <<3*12=36>>36 ołówków.
+Następnie odejmujemy oddane ołówki: 36 - 7 = <<36-7=29>>29 ołówków.
+</reasoning>
+<answer>29</answer>

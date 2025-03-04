@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnie = 12 - 3 = <<12-3=9>>9 uczniów.
+</reasoning>
+<answer>9</answer>

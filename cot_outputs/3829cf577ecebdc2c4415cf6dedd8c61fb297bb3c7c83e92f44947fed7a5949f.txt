@@ -1,0 +1,5 @@
+<reasoning>
+Suma pieniędzy: 36 + 48 = <<36+48=84>>84 zł.
+Średnia: 84 / 2 = <<84/2=42>>42 zł.
+</reasoning>
+<answer>42</answer>

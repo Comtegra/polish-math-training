@@ -1,0 +1,4 @@
+<reasoning>
+4200 / 15 = <<4200/15=280>>280 zł.
+</reasoning>
+<answer>280 zł</answer>

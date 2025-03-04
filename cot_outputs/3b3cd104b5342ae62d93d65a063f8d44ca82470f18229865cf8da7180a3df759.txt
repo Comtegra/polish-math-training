@@ -1,0 +1,4 @@
+<reasoning>
+Po pożyczeniu 4 książek Julia będzie miała 12 - 4 = 8 książek. Po zakupie 6 nowych książek będzie miała 8 + 6 = 14 książek.
+</reasoning>
+<answer>14</answer>

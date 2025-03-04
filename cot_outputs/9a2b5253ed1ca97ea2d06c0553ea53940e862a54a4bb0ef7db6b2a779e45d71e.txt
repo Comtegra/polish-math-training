@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie liści = 40 * 25 = <<40*25=1000>>1000 liści.
+</reasoning>
+<answer>1000</answer>

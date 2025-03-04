@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 6 paczek cukierków to 6 paczek * 3 złote na paczkę = 18 złotych.
+</reasoning>
+<answer>18 złotych</answer>

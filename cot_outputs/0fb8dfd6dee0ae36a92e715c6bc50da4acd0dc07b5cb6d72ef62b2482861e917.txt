@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 100 zabawek przez 5: 100 / 5 = <<100/5=20>>20 zabawek na kategorię.
+</reasoning>
+<answer>20</answer>

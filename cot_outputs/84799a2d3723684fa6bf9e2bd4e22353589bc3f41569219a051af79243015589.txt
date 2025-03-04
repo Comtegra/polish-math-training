@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 500 - (2 * 200) = 500 - 400 = <<500-400=100>>100 zł.
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+90 / 10 = <<90/10=9>>9 liści
+</reasoning>
+<answer>9</answer>

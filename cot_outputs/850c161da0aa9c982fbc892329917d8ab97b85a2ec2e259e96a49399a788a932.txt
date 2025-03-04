@@ -1,0 +1,4 @@
+<reasoning>
+2 * 18 = <<2*18=36>>36 zł
+</reasoning>
+<answer>36</answer>

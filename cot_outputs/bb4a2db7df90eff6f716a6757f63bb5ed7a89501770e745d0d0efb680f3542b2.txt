@@ -1,0 +1,4 @@
+<reasoning>
+10 * 200 = <<10*200=2000>>2000 osób.
+</reasoning>
+<answer>2000 osób</answer>

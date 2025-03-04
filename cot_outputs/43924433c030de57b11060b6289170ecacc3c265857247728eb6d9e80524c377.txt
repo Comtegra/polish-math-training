@@ -1,0 +1,4 @@
+<reasoning>
+Dobrych ołówków = 200 - 50 = <<200-50=150>>150 ołówków.
+</reasoning>
+<answer>150</answer>

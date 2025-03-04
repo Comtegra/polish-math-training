@@ -1,0 +1,4 @@
+<reasoning>
+8% z 250 = 20; 250 - 20 = <<250-20=230>>230 posiłków.
+</reasoning>
+<answer>230</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+6 * 1.8 = <<6*1.8=10.8>>10.8 litrów
+</reasoning>
+<answer>10.8 litrów</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+12 * 150 = <<12*150=1800>>1800 osób.
+</reasoning>
+<answer>1800 osób</answer>

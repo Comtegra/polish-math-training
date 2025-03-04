@@ -1,0 +1,4 @@
+<reasoning>
+450 / 50 = <<450/50=9>>9 km na litr.
+</reasoning>
+<answer>9 km/litr</answer>

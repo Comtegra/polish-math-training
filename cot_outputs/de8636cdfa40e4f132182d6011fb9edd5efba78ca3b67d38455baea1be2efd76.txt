@@ -1,0 +1,4 @@
+<reasoning>
+18 - 6 = <<18-6=12>>12 książek
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Liczba chłopców: 150 * (2/5) = <<150*0.4=60>>60 chłopców.
+</reasoning>
+<answer>60</answer>

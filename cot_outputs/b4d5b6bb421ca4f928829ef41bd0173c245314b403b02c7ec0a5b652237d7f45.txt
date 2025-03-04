@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy 56 przez 7: 56 ÷ 7 = <<56÷7=8>>8.
+Mnożymy wynik przez 5: 8 × 5 = <<8×5=40>>40.
+</reasoning>
+<answer>40</answer>

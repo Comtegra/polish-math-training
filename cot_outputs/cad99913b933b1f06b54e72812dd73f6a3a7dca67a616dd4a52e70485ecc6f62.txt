@@ -1,0 +1,6 @@
+<reasoning>
+Piotr ma 6 książek przygodowych
+Ma 4 książki fantastyczne
+W sumie ma 6 + 4 = 10 książek
+</reasoning>
+<answer>10</answer>

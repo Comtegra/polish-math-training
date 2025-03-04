@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 200 naklejek przez 10: 200 / 10 = <<200/10=20>>20 naklejek na paczkę.
+</reasoning>
+<answer>20</answer>

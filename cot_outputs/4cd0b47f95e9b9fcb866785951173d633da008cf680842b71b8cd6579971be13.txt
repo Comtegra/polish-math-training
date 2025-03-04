@@ -1,0 +1,4 @@
+<reasoning>
+22 * 110 = <<22*110=2420>>2420 zł.
+</reasoning>
+<answer>2420 zł</answer>

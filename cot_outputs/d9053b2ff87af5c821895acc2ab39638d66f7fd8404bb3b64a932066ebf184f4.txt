@@ -1,0 +1,4 @@
+<reasoning>
+Dodajemy: 150 + 30 = <<150+30=180>>180.
+</reasoning>
+<answer>180</answer>

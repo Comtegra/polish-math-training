@@ -1,0 +1,4 @@
+<reasoning>
+4 * 350 = <<4*350=1400>>1400 ml
+</reasoning>
+<answer>1400 ml</answer>

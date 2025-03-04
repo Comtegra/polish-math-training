@@ -1,0 +1,4 @@
+<reasoning>
+Michał kupił 3 sztuki odzieży sportowej po 30 zł za sztukę, co daje 3 * 30 zł = 90 zł. Zniżka wynosi 15% z 90 zł, czyli 0,15 * 90 zł = 13,50 zł. Zatem Michał zapłaci 90 zł - 13,50 zł = 76,50 zł.
+</reasoning>
+<answer>76,50 zł</answer>

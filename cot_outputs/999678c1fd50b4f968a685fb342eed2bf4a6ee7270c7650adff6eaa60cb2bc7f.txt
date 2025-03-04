@@ -1,0 +1,4 @@
+<reasoning>
+Potrzeba 2 szklanek mąki, 1/3 szklanki cukru i 1 szklankę masła. Aby znaleźć całkowitą liczbę szklanek potrzebnych na ciasto, sumujemy te wartości: 2 + (1/3) + 1 = 3 + 1/3 = (9/3) + (1/3) = 10/3 = 3.333... szklanki (przybliżenie: 3.33 szklanki).
+</reasoning>
+<answer>3.33 szklanki (przybliżenie)</answer>

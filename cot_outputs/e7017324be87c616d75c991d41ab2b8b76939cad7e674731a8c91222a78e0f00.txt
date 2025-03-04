@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę ołówków z opakowań: 2 * 10 = <<2*10=20>>20 ołówków.
+Dodajemy dodatkowe ołówki: 20 + 5 = <<20+5=25>>25 ołówków.
+</reasoning>
+<answer>25</answer>

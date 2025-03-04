@@ -1,0 +1,4 @@
+<reasoning>
+180 / 0.6 = <<180/0.6=300>>300 długopisów.
+</reasoning>
+<answer>300 długopisów</answer>

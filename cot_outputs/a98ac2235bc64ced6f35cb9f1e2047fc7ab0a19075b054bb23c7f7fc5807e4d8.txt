@@ -1,0 +1,5 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 zł wydane
+100 - 12 = <<100-12=88>>88 zł
+</reasoning>
+<answer>88</answer>

@@ -1,0 +1,6 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 zł za jabłka
+2 * 5 = <<2*5=10>>10 zł za gruszki
+12 + 10 = <<12+10=22>>22 zł
+</reasoning>
+<answer>22</answer>

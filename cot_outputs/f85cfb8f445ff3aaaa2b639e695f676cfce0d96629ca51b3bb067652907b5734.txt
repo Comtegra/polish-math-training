@@ -1,0 +1,4 @@
+<reasoning>
+Ania zapłaciła 20 zł * 5 = 100 zł za wszystkie książki
+</reasoning>
+<answer>100 zł</answer>

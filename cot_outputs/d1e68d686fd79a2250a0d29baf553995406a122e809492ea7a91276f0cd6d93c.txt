@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 27 uczniów przez 3: 27 / 3 = <<27/3=9>>9 uczniów na grupę.
+</reasoning>
+<answer>9</answer>

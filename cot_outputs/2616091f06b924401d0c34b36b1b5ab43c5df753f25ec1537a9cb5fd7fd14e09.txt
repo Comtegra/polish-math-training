@@ -1,0 +1,4 @@
+<reasoning>
+18 * 4 = <<18*4=72>>72 okien.
+</reasoning>
+<answer>72</answer>

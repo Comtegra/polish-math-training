@@ -1,0 +1,4 @@
+<reasoning>
+Liczba osób: 240 / 6 = <<240/6=40>>40.
+</reasoning>
+<answer>40</answer>

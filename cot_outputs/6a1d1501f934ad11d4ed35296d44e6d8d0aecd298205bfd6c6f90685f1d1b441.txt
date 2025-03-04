@@ -1,0 +1,5 @@
+<reasoning>
+20 - 7 = <<20-7=13>>13 książek
+13 + 5 = <<13+5=18>>18 książek
+</reasoning>
+<answer>18</answer>

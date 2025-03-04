@@ -1,0 +1,4 @@
+<reasoning>
+15 * 920 = <<15*920=13800>>13800 zł.
+</reasoning>
+<answer>13800 zł</answer>

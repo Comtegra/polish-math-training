@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę kredek: 3 * 10 = <<3*10=30>>30.
+Odejmujemy wypożyczone kredki: 30 - 9 = <<30-9=21>>21.
+</reasoning>
+<answer>21</answer>

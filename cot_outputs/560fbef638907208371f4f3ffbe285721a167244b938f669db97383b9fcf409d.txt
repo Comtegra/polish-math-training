@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie ołówków = 2 * 12 = <<2*12=24>>24 ołówków.
+</reasoning>
+<answer>24</answer>

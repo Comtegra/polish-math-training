@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 4 paczek karmy dla psów to 4 * 6 zł = 24 zł. Koszt 2 paczek karmy dla kotów to 2 * 8 zł = 16 zł. Razem zapłacił 24 zł + 16 zł = 40 zł.
+</reasoning>
+<answer>40</answer>

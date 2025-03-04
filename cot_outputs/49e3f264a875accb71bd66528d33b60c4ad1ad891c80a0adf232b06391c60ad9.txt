@@ -1,0 +1,5 @@
+<reasoning>
+4 * 3 = <<4*3=12>>12 litrów soku
+12 - 5 = <<12-5=7>>7 litrów pozostało
+</reasoning>
+<answer>7</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+35 * 2 = <<35*2=70>>70 kanapek.
+</reasoning>
+<answer>70</answer>

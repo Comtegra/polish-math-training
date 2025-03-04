@@ -1,0 +1,4 @@
+<reasoning>
+Lidia zapłaciła za kalendarze 12 * 5 = 60 zł.
+</reasoning>
+<answer>60</answer>

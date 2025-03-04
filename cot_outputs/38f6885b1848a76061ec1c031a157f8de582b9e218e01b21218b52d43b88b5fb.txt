@@ -1,0 +1,4 @@
+<reasoning>
+2 * 8 = <<2*8=16>>16 długopisów
+</reasoning>
+<answer>16</answer>

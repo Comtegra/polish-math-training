@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy sprzedane butelki: 85 - 30 = <<85-30=55>>55.
+</reasoning>
+<answer>55</answer>

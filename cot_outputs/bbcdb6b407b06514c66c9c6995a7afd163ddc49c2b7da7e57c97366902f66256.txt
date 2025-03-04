@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba kredek: 6 * 8 = <<6*8=48>>48 kredek.
+Pozostało: 48 - 14 = <<48-14=34>>34 kredek.
+</reasoning>
+<answer>34</answer>

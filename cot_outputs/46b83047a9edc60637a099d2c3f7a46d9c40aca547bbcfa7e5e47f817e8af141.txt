@@ -1,0 +1,4 @@
+<reasoning>
+6400 * 8/100 = <<6400*8/100=512>>512 części.
+</reasoning>
+<answer>512</answer>

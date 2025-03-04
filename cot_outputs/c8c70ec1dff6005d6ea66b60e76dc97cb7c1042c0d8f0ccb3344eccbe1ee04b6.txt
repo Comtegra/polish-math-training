@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 72 kwiaty przez 9: 72 / 9 = <<72/9=8>>8 bukietów.
+</reasoning>
+<answer>8</answer>

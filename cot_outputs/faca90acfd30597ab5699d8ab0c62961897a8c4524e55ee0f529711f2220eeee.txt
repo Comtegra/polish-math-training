@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy przeczytane strony z jednej książki: 120 * (3/5) = <<120*3/5=72>>72 stron.
+Łącznie przeczytanych stron: 5 * 72 = <<5*72=360>>360 stron.
+</reasoning>
+<answer>360</answer>

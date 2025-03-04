@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ołówków: 8 * 5 = <<8*5=40>>40 ołówków.
+Odejmujemy stracone ołówki: 40 - 3 = <<40-3=37>>37 ołówków.
+</reasoning>
+<answer>37</answer>

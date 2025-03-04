@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dodajemy: 72 + 18 = <<72+18=90>>90.
+Następnie dzielimy na 5 osób: 90 / 5 = <<90/5=18>>18.
+</reasoning>
+<answer>18</answer>

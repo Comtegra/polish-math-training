@@ -1,0 +1,5 @@
+<reasoning>
+Liczba powieści: 720 * 0.25 = <<720*0.25=180>>180 książek.
+Książek innych gatunków: 720 - 180 = <<720-180=540>>540.
+</reasoning>
+<answer>540</answer>

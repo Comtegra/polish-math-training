@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy kwiaty na wazy: 45 / 5 = <<45/5=9>>9.
+Następnie dodajemy dodatkowe kwiaty: 9 + 2 = <<9+2=11>>11.
+</reasoning>
+<answer>11</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+1280 / 16 = <<1280/16=80>>80 zł.
+</reasoning>
+<answer>80 zł</answer>

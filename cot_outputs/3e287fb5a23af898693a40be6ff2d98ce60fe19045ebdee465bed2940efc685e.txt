@@ -1,0 +1,6 @@
+<reasoning>
+Początkowo 4 pączki
+Zjedzono 4 / 2 = <<4/2=2>>2 pączki
+Pozostało 4 - 2 = <<4-2=2>>2 pączki
+</reasoning>
+<answer>2</answer>

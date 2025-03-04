@@ -1,0 +1,4 @@
+<reasoning>
+Liczba dziewczynek: 36 * (1/3) = <<36/3=12>>12 dziewczynek.
+</reasoning>
+<answer>12</answer>

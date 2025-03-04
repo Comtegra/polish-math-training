@@ -1,0 +1,4 @@
+<reasoning>
+Łączna produkcja: 750 * 5 = <<750*5=3750>>3750 jednostek.
+</reasoning>
+<answer>3750</answer>

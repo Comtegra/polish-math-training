@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/3 z 72: 72 / 3 = <<72/3=24>>24.
+Odejmujemy pęknięte balony: 72 - 24 = <<72-24=48>>48.
+</reasoning>
+<answer>48</answer>

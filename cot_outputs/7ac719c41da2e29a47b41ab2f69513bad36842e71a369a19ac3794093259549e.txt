@@ -1,0 +1,4 @@
+<reasoning>
+Obniżka: 250 * 20/100 = 50, więc 250 - 50 = <<250-50=200>>200 zł.
+</reasoning>
+<answer>200</answer>

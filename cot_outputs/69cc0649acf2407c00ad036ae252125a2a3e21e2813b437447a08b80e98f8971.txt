@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie ciasteczek: 5 * 16 = <<5*16=80>>80.
+Pozostało: 80 - 12 = <<80-12=68>>68 ciasteczek.
+</reasoning>
+<answer>68</answer>

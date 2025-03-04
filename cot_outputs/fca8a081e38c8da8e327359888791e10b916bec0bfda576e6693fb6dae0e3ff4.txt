@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba godzin: 50 * 8 = <<50*8=400>>400 godzin
+</reasoning>
+<answer>400</answer>

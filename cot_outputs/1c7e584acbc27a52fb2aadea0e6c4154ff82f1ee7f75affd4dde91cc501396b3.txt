@@ -1,0 +1,4 @@
+<reasoning>
+20% z 250 = 50; 250 - 50 = <<250-50=200>>200 porcji.
+</reasoning>
+<answer>200</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+15000 * 4/100 = <<15000*4/100=600>>600 sztuk.
+</reasoning>
+<answer>600</answer>

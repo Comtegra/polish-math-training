@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie osób = 80 * 3 = <<80*3=240>>240 osób.
+</reasoning>
+<answer>240</answer>

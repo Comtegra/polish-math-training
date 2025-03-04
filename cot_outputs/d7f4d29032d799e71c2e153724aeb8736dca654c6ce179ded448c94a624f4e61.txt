@@ -1,0 +1,4 @@
+<reasoning>
+Adam ma 4 butelki * 1,5 litra na butelkę = 6 litrów mleka.
+</reasoning>
+<answer>6 litrów</answer>

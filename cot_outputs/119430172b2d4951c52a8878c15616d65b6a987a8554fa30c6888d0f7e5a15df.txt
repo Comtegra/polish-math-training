@@ -1,0 +1,4 @@
+<reasoning>
+48 / 8 = <<48/8=6>>6 ciastek na dziecko.
+</reasoning>
+<answer>6</answer>

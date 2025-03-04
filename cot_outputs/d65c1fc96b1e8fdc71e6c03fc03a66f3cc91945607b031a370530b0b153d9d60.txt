@@ -1,0 +1,4 @@
+<reasoning>
+60 / 20 = <<60/20=3>>3 zł.
+</reasoning>
+<answer>3 zł</answer>

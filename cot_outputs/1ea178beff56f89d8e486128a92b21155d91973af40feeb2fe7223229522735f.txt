@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie deserów = 6 * 10 = <<6*10=60>>60 deserów.
+</reasoning>
+<answer>60</answer>

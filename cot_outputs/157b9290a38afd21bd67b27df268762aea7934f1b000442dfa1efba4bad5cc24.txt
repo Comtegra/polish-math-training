@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dzielimy cukierki: 60 / 5 = <<60/5=12>>12.
+Następnie odejmujemy cukierki z każdej grupy: 12 - 4 = <<12-4=8>>8.
+</reasoning>
+<answer>8</answer>

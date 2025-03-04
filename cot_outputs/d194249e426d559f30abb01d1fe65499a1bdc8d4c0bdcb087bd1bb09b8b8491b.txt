@@ -1,0 +1,4 @@
+<reasoning>
+72 / 18 = <<72/18=4>>4 jabłka na osobę.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie naprawionych = 10 * 4 = <<10*4=40>>40 samochodów.
+</reasoning>
+<answer>40</answer>

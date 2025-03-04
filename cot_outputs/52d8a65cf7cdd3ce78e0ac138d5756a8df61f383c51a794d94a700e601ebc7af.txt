@@ -1,0 +1,5 @@
+<reasoning>
+Ciastek z orzechami: 500 / 10 = <<500/10=50>>50.
+Pozostałych: 500 - 50 = <<500-50=450>>450.
+</reasoning>
+<answer>450</answer>

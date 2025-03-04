@@ -1,0 +1,5 @@
+<reasoning>
+150 - 70 = <<150-70=80>>80 cukierków
+80 - 30 = <<80-30=50>>50 cukierków
+</reasoning>
+<answer>50</answer>

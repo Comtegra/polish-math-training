@@ -1,0 +1,7 @@
+<reasoning>
+Odwrócony dystans: 3 * 60 = <<3*60=180>>180 mil
+W 4-godzinnym powrocie, przez 2 godzin nie ruszał, przez 0.5 godziny przejechał 30 * 0.5 = <<30*0.5=15>>15 mil, a przez pozostałe 1.5 godziny 80 * 1.5 = <<80*1.5=120>>120 mil
+Łącznie przejechał: 15 + 120 = <<15+120=135>>135 mil
+Odległość od domu = 180 - 135 = <<180-135=45>>45 mil
+</reasoning>
+<answer>45</answer>

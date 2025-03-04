@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę gum: 5 * 9 = <<5*9=45>>45.
+Następnie odejmujemy zużyte gumy: 45 - 7 = <<45-7=38>>38.
+</reasoning>
+<answer>38</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Cena pełna: 5 * 4 = 20 zł; zniżkowa: 2 * (4/2) = 4 zł; 20 + 4 = <<20+4=24>>24 zł.
+</reasoning>
+<answer>24 zł</answer>

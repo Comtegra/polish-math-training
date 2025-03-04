@@ -1,0 +1,4 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 zapałek.
+</reasoning>
+<answer>12</answer>

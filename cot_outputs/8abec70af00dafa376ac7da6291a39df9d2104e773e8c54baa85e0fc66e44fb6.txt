@@ -1,0 +1,5 @@
+<reasoning>
+100 - 25 = <<100-25=75>>75 naklejek
+75 + 15 = <<75+15=90>>90 naklejek
+</reasoning>
+<answer>90</answer>

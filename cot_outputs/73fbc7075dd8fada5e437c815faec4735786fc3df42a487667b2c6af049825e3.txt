@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało koszulek = 75 - 25 = <<75-25=50>>50 koszulek.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie miejsc = 30 * 3 = <<30*3=90>>90 miejsc.
+</reasoning>
+<answer>90</answer>

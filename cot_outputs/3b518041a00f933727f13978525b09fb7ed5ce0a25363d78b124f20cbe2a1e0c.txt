@@ -1,0 +1,5 @@
+<reasoning>
+Oddanych po terminie: 750 / 10 = <<750/10=75>>75.
+Na czas: 750 - 75 = <<750-75=675>>675.
+</reasoning>
+<answer>675</answer>

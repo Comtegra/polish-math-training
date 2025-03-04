@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zł = 10 * 4,5 = <<10*4.5=45>>45 zł.
+</reasoning>
+<answer>45</answer>

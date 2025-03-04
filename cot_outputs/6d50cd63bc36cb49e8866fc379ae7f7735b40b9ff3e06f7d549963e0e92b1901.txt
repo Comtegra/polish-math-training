@@ -1,0 +1,4 @@
+<reasoning>
+Działających krzeseł = 30 - 12 = <<30-12=18>>18 krzeseł.
+</reasoning>
+<answer>18</answer>

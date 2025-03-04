@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało warstw = 10 - 3 = <<10-3=7>>7 warstw.
+</reasoning>
+<answer>7</answer>

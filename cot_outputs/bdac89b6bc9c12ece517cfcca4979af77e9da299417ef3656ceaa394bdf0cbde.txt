@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba kredek: 5 * 20 = <<5*20=100>>100 kredek.
+Pozostało: 100 - 15 = <<100-15=85>>85 kredek.
+</reasoning>
+<answer>85</answer>

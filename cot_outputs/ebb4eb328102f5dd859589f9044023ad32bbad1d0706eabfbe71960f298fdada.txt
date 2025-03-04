@@ -1,0 +1,4 @@
+<reasoning>
+Liczba dzieci uczestniczących: 45 / 3 = <<45/3=15>>15
+</reasoning>
+<answer>15</answer>

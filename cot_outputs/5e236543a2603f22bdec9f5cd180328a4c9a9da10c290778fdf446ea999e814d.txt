@@ -1,0 +1,4 @@
+<reasoning>
+500 * 60/100 = <<500*60/100=300>>300 miejsc.
+</reasoning>
+<answer>300</answer>

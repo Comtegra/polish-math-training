@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy książki Adama od całości: 60 - 25 = <<60-25=35>>35.
+</reasoning>
+<answer>35</answer>

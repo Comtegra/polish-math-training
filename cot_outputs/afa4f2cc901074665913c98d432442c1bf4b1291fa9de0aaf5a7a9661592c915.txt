@@ -1,0 +1,4 @@
+<reasoning>
+12 - 12/3 = 12 - 4 = <<12-4=8>>8 świeczek.
+</reasoning>
+<answer>8</answer>

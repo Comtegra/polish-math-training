@@ -1,0 +1,7 @@
+<reasoning>
+Pierwszego dnia: 150 stron
+Drugiego dnia: 150 + 50 = <<150+50=200>>200 stron
+Łącznie przeczytane w dwa dni: 150 + 200 = <<150+200=350>>350 stron
+Trzeciego dnia: 600 - 350 = <<600-350=250>>250 stron
+</reasoning>
+<answer>250</answer>

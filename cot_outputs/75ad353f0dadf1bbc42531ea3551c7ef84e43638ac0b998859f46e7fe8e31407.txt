@@ -1,0 +1,7 @@
+<reasoning>
+Obliczamy dobre zabawki w poniedziałek: 250 − (10% z 250 = 25) = <<250-25=225>>225.
+Dla środy: 300 − (10% z 300 = 30) = <<300-30=270>>270.
+Dla piątku: 450 − (10% z 450 = 45) = <<450-45=405>>405.
+Sumujemy dobre zabawki: 225 + 270 + 405 = <<225+270+405=900>>900.
+</reasoning>
+<answer>900</answer>

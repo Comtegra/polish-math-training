@@ -1,0 +1,5 @@
+<reasoning>
+Łączna ilość potrzebna: 3 * 250 = <<3*250=750>>750 g
+Brakuje: 750 - 600 = <<750-600=150>>150 g
+</reasoning>
+<answer>150</answer>

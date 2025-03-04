@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 1/5 z 300: 300 / 5 = <<300/5=60>>60 uczniów.
+</reasoning>
+<answer>60</answer>

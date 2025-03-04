@@ -1,0 +1,4 @@
+<reasoning>
+Ewa przeszła 5 km - 1,5 km = 3,5 km.
+</reasoning>
+<answer>3,5 km</answer>

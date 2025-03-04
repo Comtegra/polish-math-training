@@ -1,0 +1,4 @@
+<reasoning>
+Liczba bukietów = 36 / 6 = <<36/6=6>>6 bukietów.
+</reasoning>
+<answer>6</answer>

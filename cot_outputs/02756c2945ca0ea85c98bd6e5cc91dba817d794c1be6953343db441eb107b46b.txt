@@ -1,0 +1,6 @@
+<reasoning>
+3 * 18 = <<3*18=54>>54 zł za książki
+2 * 7 = <<2*7=14>>14 zł za zeszyty
+54 + 14 = <<54+14=68>>68 zł łącznie
+</reasoning>
+<answer>68</answer>

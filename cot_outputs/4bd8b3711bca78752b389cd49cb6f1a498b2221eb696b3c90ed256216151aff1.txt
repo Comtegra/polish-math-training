@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba siedzisk: 20 * 3 = <<20*3=60>>60 siedzisk.
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Liczba czerwonych farb: 45 / 3 = <<45/3=15>>15.
+Pozostałych farb: 45 - 15 = <<45-15=30>>30 farb.
+</reasoning>
+<answer>30</answer>

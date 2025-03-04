@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 72 * 24 = <<72*24=1728>>1728 klocków.
+</reasoning>
+<answer>1728</answer>

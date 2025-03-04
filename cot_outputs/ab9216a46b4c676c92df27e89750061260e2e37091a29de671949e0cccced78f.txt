@@ -1,0 +1,4 @@
+<reasoning>
+Sprawne krzesła: 50 - 10 = <<50-10=40>>40 krzeseł.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 240 - (3 * 55) = 240 - 165 = <<240-165=75>>75 zł.
+</reasoning>
+<answer>75</answer>

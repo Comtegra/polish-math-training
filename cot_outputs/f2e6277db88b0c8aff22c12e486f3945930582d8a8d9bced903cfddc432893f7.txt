@@ -1,0 +1,4 @@
+<reasoning>
+9000 * 2/100 = <<9000*2/100=180>>180 części.
+</reasoning>
+<answer>180 części</answer>

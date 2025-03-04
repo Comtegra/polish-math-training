@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy wydatki: 80 - 25 = <<80-25=55>>55.
+Następnie dodajemy otrzymane pieniądze: 55 + 15 = <<55+15=70>>70.
+</reasoning>
+<answer>70</answer>

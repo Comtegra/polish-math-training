@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 200 / 5 = <<200/5=40>>40.
+Sprawnych: 200 - 40 = <<200-40=160>>160.
+</reasoning>
+<answer>160</answer>

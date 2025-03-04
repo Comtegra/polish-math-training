@@ -1,0 +1,4 @@
+<reasoning>
+3 * 11 = <<3*11=33>>33 zł
+</reasoning>
+<answer>33</answer>

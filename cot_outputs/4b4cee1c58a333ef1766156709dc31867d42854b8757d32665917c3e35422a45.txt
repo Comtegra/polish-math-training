@@ -1,0 +1,5 @@
+<reasoning>
+Literatura piękna: 720 ÷ 8 = 90.
+Inne gatunki: 720 − 90 = 630 książek.
+</reasoning>
+<answer>630</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba saszetek: 9 * 4 = <<9*4=36>>36 saszetek.
+</reasoning>
+<answer>36</answer>

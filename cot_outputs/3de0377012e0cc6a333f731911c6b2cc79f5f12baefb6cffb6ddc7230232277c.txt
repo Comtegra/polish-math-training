@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 95 - 35 = <<95-35=60>>60.
+Następnie: 60 + 20 = <<60+20=80>>80.
+</reasoning>
+<answer>80</answer>

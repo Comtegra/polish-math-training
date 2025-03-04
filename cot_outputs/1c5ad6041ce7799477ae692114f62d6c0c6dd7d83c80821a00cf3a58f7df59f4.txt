@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 68 / 4 = 17 paczek z resztą 0, więc można utworzyć <<68/4=17>>17 pełnych paczek.
+</reasoning>
+<answer>17</answer>

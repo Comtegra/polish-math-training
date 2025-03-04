@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej piłki: 75 / 5 = <<75/5=15>>15 zł.
+8 * 15 = <<8*15=120>>120 zł.
+</reasoning>
+<answer>120</answer>

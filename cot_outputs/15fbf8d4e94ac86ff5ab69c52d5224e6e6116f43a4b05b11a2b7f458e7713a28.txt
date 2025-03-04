@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie użyć = 18 * 2 = <<18*2=36>>36 użyć.
+</reasoning>
+<answer>36</answer>

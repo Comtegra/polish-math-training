@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych ołówków = 360 - 60 = <<360-60=300>>300 ołówków.
+</reasoning>
+<answer>300</answer>

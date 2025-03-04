@@ -1,0 +1,4 @@
+<reasoning>
+12 produktów = 4 zestawy, za każdy zestaw płacisz za 2: 4 * 2 * 10 = <<4*2*10=80>>80 zł.
+</reasoning>
+<answer>80 zł</answer>

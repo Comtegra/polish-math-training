@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę jabłek: 3 * 8 = <<3*8=24>>24 jabłka.
+Odejmujemy zjedzone jabłka: 24 - 4 = <<24-4=20>>20 jabłek.
+</reasoning>
+<answer>20</answer>

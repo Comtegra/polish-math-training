@@ -1,0 +1,5 @@
+<reasoning>
+Pozostało po sprzedaży: 300 - 180 = <<300-180=120>>120
+Po uzupełnieniu: 120 + 50 = <<120+50=170>>170
+</reasoning>
+<answer>170</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy ołówki z pudełek: 4 * 8 = <<4*8=32>>32.
+Dodajemy dokupione ołówki: 32 + 10 = <<32+10=42>>42.
+</reasoning>
+<answer>42</answer>

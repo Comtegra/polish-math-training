@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 12 * 5 = <<12*5=60>>60 osób.
+</reasoning>
+<answer>60</answer>

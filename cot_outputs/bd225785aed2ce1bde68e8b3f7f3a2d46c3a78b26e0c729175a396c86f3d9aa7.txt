@@ -1,0 +1,4 @@
+<reasoning>
+20% z 75 = 15; 75 - 15 = <<75-15=60>>60 porcji.
+</reasoning>
+<answer>60 porcji</answer>

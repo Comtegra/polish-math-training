@@ -1,0 +1,4 @@
+<reasoning>
+Łączny wydatek = 3 * 25 = 75; pozostało = 120 - 75 = <<120-75=45>>45 zł.
+</reasoning>
+<answer>45</answer>

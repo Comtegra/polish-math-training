@@ -1,0 +1,4 @@
+<reasoning>
+Liczba zwycięzców: 150 * 0.10 = <<150*0.10=15>>15 osób.
+</reasoning>
+<answer>15</answer>

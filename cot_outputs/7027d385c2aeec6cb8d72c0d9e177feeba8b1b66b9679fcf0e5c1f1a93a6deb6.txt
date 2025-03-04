@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie jabłek = 75 + 25 = <<75+25=100>>100 jabłek.
+</reasoning>
+<answer>100</answer>

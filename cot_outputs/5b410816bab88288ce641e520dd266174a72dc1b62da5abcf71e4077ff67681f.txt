@@ -1,0 +1,4 @@
+<reasoning>
+240 / 5 = <<240/5=48>>48 pasażerów.
+</reasoning>
+<answer>48</answer>

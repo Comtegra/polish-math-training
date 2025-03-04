@@ -1,0 +1,5 @@
+<reasoning>
+90 - 40 = <<90-40=50>>50 zł po zakupie
+50 + 15 = <<50+15=65>>65 zł łącznie
+</reasoning>
+<answer>65</answer>

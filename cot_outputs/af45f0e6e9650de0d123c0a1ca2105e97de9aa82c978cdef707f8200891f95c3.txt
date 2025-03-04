@@ -1,0 +1,4 @@
+<reasoning>
+Janek ma 5 + 2 = 7 jabłek. Razem mają 5 + 7 = 12 jabłek.
+</reasoning>
+<answer>12</answer>

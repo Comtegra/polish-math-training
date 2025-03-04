@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę błędnych zadań: 24 ÷ 4 = <<24÷4=6>>6.
+Odejmujemy błędne zadania: 24 − 6 = <<24-6=18>>18 poprawnych zadań.
+</reasoning>
+<answer>18</answer>

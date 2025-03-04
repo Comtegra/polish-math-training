@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę jabłek: 7 * 25 = <<7*25=175>>175 jabłek.
+Odejmujemy uszkodzone jabłka: 175 - 15 = <<175-15=160>>160 jabłek.
+</reasoning>
+<answer>160</answer>

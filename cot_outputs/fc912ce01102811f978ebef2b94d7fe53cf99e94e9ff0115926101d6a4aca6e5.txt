@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kół = 14 * 2 = <<14*2=28>>28 kół.
+</reasoning>
+<answer>28</answer>

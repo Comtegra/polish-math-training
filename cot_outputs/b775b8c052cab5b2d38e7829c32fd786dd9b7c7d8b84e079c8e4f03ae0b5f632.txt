@@ -1,0 +1,4 @@
+<reasoning>
+64 / 8 = <<64/8=8>>8 naklejek na album
+</reasoning>
+<answer>8</answer>

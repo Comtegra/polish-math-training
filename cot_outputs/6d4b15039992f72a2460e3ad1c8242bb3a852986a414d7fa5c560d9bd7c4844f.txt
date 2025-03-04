@@ -1,0 +1,4 @@
+<reasoning>
+50 - 30 = <<50-30=20>>20 zł
+</reasoning>
+<answer>20</answer>

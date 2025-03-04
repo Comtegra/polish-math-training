@@ -1,0 +1,4 @@
+<reasoning>
+Bartosz zapłacił za tkaninę 9 * 25 = 225 zł.
+</reasoning>
+<answer>225</answer>

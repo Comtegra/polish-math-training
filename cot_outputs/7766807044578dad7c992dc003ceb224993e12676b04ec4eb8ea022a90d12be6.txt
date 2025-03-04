@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie przedmiotów = 240 * 12 = <<240*12=2880>>2880 przedmiotów.
+</reasoning>
+<answer>2880</answer>

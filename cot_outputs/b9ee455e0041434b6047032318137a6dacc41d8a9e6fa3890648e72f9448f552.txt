@@ -1,0 +1,4 @@
+<reasoning>
+32 / 4 = <<32/4=8>>8 uczniów.
+</reasoning>
+<answer>8</answer>

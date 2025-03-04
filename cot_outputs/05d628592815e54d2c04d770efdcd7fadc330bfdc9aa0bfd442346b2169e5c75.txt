@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie cukierków = 32 * 3 = <<32*3=96>>96 cukierków.
+</reasoning>
+<answer>96</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Koszt przed rabatem: 4 * 8 = <<4*8=32>>32 zł.
+Cena po rabacie: 32 - 5 = <<32-5=27>>27 zł.
+</reasoning>
+<answer>27</answer>

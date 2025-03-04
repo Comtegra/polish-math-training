@@ -1,0 +1,4 @@
+<reasoning>
+Czas = 240 / 60 = <<240/60=4>>4 godziny.
+</reasoning>
+<answer>4</answer>

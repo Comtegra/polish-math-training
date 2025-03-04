@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę kredek: 7 * 12 = <<7*12=84>>84.
+Następnie odejmujemy zgubione: 84 - 5 = <<84-5=79>>79 kredek.
+</reasoning>
+<answer>79</answer>

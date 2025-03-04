@@ -1,0 +1,4 @@
+<reasoning>
+7 * 250 = <<7*250=1750>>1750 ml
+</reasoning>
+<answer>1750 ml</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 28 * 3 = <<28*3=84>>84.
+</reasoning>
+<answer>84</answer>

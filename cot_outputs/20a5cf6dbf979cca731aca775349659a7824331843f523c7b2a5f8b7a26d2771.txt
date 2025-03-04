@@ -1,0 +1,5 @@
+<reasoning>
+Liczba encyklopedii: 500 / 10 = <<500/10=50>>50 książek.
+Nie encyklopedii: 500 - 50 = <<500-50=450>>450 książek.
+</reasoning>
+<answer>450</answer>

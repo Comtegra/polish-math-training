@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 63 balony przez 7: 63 / 7 = <<63/7=9>>9 balonów na dziecko.
+</reasoning>
+<answer>9</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę kredek: 10 * 4 = <<10*4=40>>40 kredek.
+Odejmujemy zgubione kredki: 40 - 6 = <<40-6=34>>34 kredek.
+</reasoning>
+<answer>34</answer>

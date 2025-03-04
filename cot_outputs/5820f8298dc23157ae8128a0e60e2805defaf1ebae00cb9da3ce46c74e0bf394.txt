@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie jabłek = 18 * 40 = <<18*40=720>>720 jabłek.
+</reasoning>
+<answer>720</answer>

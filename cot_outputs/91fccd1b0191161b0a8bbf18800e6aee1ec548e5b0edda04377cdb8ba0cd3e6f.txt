@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/4 z 32: 32 / 4 = <<32/4=8>>8 uczniów nieobecnych.
+Obecnych: 32 - 8 = <<32-8=24>>24.
+</reasoning>
+<answer>24</answer>

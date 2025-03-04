@@ -1,0 +1,4 @@
+<reasoning>
+56 * 2,80 = <<56*2.80=156,8>>156,8 zł.
+</reasoning>
+<answer>156,8 zł</answer>

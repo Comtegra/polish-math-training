@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego długopisu: 21 / 7 = <<21/7=3>>3 zł.
+14 długopisów: 14 * 3 = <<14*3=42>>42 zł.
+</reasoning>
+<answer>42</answer>

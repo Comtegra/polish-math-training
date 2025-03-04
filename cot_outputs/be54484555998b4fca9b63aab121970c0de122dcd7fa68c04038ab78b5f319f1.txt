@@ -1,0 +1,4 @@
+<reasoning>
+4 * 2.5 = <<4*2.5=10>>10 litrów
+</reasoning>
+<answer>10</answer>

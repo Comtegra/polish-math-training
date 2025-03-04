@@ -1,0 +1,5 @@
+<reasoning>
+Rozlanych: 240 / 8 = <<240/8=30>>30 litrów.
+Pozostało: 240 - 30 = <<240-30=210>>210 litrów.
+</reasoning>
+<answer>210</answer>

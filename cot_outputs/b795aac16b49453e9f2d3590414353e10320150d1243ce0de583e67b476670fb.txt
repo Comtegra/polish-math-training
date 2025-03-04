@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę butelek przez cenę: 4 * 3.50 = <<4*3.50=14>>14.
+</reasoning>
+<answer>14</answer>

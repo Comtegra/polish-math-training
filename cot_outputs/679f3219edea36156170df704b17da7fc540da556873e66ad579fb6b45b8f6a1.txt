@@ -1,0 +1,4 @@
+<reasoning>
+Oskar kupi 5 sztuk odzieży sportowej po 20 zł za sztukę, co daje 5 * 20 zł = 100 zł. Kupi też 2 sztuki obuwia po 150 zł za sztukę, co daje 2 * 150 zł = 300 zł. Suma zapłaconych kwot to 100 zł + 300 zł = 400 zł.
+</reasoning>
+<answer>400 zł</answer>

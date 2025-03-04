@@ -1,0 +1,4 @@
+<reasoning>
+800 / 5 = <<800/5=160>>160 podręczników.
+</reasoning>
+<answer>160</answer>

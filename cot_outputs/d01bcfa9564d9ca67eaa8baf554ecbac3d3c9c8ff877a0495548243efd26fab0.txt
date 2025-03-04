@@ -1,0 +1,6 @@
+<reasoning>
+Oszczędności z miesięcy: 12 * 200 = <<12*200=2400>>2400 zł
+Razem z początkowymi: 2400 + 500 = <<2400+500=2900>>2900 zł
+Po zakupie roweru: 2900 - 2500 = <<2900-2500=400>>400 zł
+</reasoning>
+<answer>400</answer>

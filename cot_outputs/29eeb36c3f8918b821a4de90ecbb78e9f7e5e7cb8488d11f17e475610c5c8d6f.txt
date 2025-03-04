@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 10 * 5 = <<10*5=50>>50 zł.
+</reasoning>
+<answer>50</answer>

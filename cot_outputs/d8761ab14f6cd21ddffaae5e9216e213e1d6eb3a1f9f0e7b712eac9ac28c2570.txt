@@ -1,0 +1,4 @@
+<reasoning>
+Koszt jednego jajka to 10 zł / 10 jajek = 1 zł na jajko.
+</reasoning>
+<answer>1 zł za jajko</answer>

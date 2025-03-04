@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 5 * 14 = <<5*14=70>>70.
+Następnie: 70 - 6 = <<70-6=64>>64.
+</reasoning>
+<answer>64</answer>

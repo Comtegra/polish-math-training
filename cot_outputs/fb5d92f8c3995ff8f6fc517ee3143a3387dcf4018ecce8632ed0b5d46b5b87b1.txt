@@ -1,0 +1,4 @@
+<reasoning>
+90 - 15 = <<90-15=75>>75 porcji.
+</reasoning>
+<answer>75</answer>

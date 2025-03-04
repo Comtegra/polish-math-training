@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 45 długopisów na 3 rodzaje: 45 / 3 = <<45/3=15>>15 długopisów każdego rodzaju.
+</reasoning>
+<answer>15</answer>

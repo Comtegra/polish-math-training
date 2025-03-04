@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt zabawek: 4 * 45 = <<4*45=180>>180 zł.
+Pozostała kwota: 200 - 180 = <<200-180=20>>20 zł.
+</reasoning>
+<answer>20</answer>

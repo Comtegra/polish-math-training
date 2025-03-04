@@ -1,0 +1,4 @@
+<reasoning>
+Balonów na dziecko = 84 / 7 = <<84/7=12>>12 balonów.
+</reasoning>
+<answer>12</answer>

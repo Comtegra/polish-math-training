@@ -1,0 +1,4 @@
+<reasoning>
+4 - 1 = <<4-1=3>>3 jabłka
+</reasoning>
+<answer>3</answer>

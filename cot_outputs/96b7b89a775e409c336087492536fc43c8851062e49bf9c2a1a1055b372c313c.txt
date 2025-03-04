@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy: 60 - 25 = <<60-25=35>>35.
+Następnie dodajemy: 35 + 10 = <<35+10=45>>45.
+</reasoning>
+<answer>45</answer>

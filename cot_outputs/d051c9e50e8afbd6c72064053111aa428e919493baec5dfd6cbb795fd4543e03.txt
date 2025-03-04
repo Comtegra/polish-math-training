@@ -1,0 +1,4 @@
+<reasoning>
+12 + 8 = <<12+8=20>>20 znaczków
+</reasoning>
+<answer>20</answer>

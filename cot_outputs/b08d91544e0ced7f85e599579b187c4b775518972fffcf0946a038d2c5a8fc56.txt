@@ -1,0 +1,4 @@
+<reasoning>
+Jasiek ma 10 monet po 50 groszy każda. Całkowita wartość monet to 10 * 50 groszy = 500 groszy. Ponieważ 1 złoty = 100 groszy, to 500 groszy = 5 złotych. Przeliczmy 5 złotych na gramy: 5 zł = 5 * 18 g = 90 g. Zatem wszystkie monety Jasia razem ważą 90 g.
+</reasoning>
+<answer>90 g</answer>

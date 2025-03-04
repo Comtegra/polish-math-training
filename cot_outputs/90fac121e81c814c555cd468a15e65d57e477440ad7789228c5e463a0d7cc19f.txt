@@ -1,0 +1,4 @@
+<reasoning>
+Uścisków = C(10,2) = 10 * 9 / 2 = <<10*9/2=45>>45 uścisków.
+</reasoning>
+<answer>45</answer>

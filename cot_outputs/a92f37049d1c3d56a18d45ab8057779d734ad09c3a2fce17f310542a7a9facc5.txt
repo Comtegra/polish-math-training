@@ -1,0 +1,4 @@
+<reasoning>
+Bukiety = 96 / 12 = <<96/12=8>>8 bukietów.
+</reasoning>
+<answer>8</answer>

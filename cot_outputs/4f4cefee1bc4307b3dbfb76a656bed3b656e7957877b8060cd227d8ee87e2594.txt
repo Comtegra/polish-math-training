@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 72 / 4 = <<72/4=18>>18 pękniętych balonów.
+Następnie: 72 - 18 = <<72-18=54>>54.
+</reasoning>
+<answer>54</answer>

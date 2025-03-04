@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 3,2 * 7 = <<3.2*7=22.4>>22,4 zł.
+</reasoning>
+<answer>22,4</answer>

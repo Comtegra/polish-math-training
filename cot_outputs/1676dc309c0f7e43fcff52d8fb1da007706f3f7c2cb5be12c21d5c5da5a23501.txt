@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 36 jabłek przez 4: 36 / 4 = <<36/4=9>>9 jabłek na osobę.
+</reasoning>
+<answer>9</answer>

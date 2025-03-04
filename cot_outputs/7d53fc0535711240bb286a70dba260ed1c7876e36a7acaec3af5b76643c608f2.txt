@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy zwiędłe kwiaty: 100 - 25 = <<100-25=75>>75.
+</reasoning>
+<answer>75</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 45 + 30 = <<45+30=75>>75.
+Następnie: 75 - 20 = <<75-20=55>>55.
+</reasoning>
+<answer>55</answer>

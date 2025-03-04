@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw: 50 / 5 = <<50/5=10>>10.
+Następnie dodajemy: 10 + 2 = <<10+2=12>>12.
+</reasoning>
+<answer>12</answer>

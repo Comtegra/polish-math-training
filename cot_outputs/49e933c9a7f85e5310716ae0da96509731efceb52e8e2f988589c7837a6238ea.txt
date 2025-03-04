@@ -1,0 +1,5 @@
+<reasoning>
+3 * 20 = <<3*20=60>>60 ciastek początkowo
+60 - 10 = <<60-10=50>>50 ciastek pozostało
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+42 - 12 = <<42-12=30>>30 kredek
+</reasoning>
+<answer>30</answer>

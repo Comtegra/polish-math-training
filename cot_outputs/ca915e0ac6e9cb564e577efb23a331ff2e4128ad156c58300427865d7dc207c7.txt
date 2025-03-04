@@ -1,0 +1,4 @@
+<reasoning>
+7200 * 20/100 = <<7200*20/100=1440>>1440 podręczników.
+</reasoning>
+<answer>1440</answer>

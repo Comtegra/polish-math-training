@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 400 * 0,75 = <<400*0.75=300>>300 osób
+</reasoning>
+<answer>300</answer>

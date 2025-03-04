@@ -1,0 +1,5 @@
+<reasoning>
+Bramkarzy: 44 / 4 = <<44/4=11>>11.
+Pozostałych: 44 - 11 = <<44-11=33>>33.
+</reasoning>
+<answer>33</answer>

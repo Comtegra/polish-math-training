@@ -1,0 +1,4 @@
+<reasoning>
+240 - 240/8 = 240 - 30 = <<240-30=210>>210 balonów.
+</reasoning>
+<answer>210</answer>

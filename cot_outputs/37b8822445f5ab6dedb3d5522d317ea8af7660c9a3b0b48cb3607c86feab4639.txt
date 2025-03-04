@@ -1,0 +1,4 @@
+<reasoning>
+Cukierków na dziecko = 64 / 16 = <<64/16=4>>4 cukierki.
+</reasoning>
+<answer>4</answer>

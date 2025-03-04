@@ -1,0 +1,5 @@
+<reasoning>
+Biletów ulgowych: 300 * 0.20 = <<300*0.20=60>>60.
+Biletów normalnych: 300 - 60 = <<300-60=240>>240.
+</reasoning>
+<answer>240</answer>

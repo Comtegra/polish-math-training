@@ -1,0 +1,4 @@
+<reasoning>
+6 * 20 = <<6*20=120>>120 saszetek.
+</reasoning>
+<answer>120</answer>

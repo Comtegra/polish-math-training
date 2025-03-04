@@ -1,0 +1,4 @@
+<reasoning>
+Ola ma 80 cm wzrostu. Jej starsza siostra ma 15 cm więcej niż Ola, więc wzrost siostry to: 80 cm + 15 cm = 95 cm.
+</reasoning>
+<answer>95 cm</answer>

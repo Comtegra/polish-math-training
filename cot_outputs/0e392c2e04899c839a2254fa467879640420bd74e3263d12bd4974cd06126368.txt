@@ -1,0 +1,4 @@
+<reasoning>
+Ciasto czekoladowe waży 1000 gramów i zostanie podzielone na 8 równych porcji. Aby znaleźć wagę każdej porcji, dzielimy całkowitą wagę przez liczbę porcji: 1000 g / 8 = 125 g. Zatem każda porcja ciasta waży 125 g.
+</reasoning>
+<answer>125 g</answer>

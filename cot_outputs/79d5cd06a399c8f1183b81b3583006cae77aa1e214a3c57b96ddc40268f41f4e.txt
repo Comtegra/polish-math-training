@@ -1,0 +1,4 @@
+<reasoning>
+Liczba bukietów = 18 / 3 = <<18/3=6>>6 bukietów.
+</reasoning>
+<answer>6</answer>

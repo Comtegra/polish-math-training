@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 120 / 4 = <<120/4=30>>30 osób.
+</reasoning>
+<answer>30</answer>

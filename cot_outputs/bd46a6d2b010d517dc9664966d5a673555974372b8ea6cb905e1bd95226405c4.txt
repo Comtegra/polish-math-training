@@ -1,0 +1,5 @@
+<reasoning>
+Koszt zeszytów: 5 * 6 = <<5*6=30>>30 zł.
+Dodajemy koszt długopisu: 30 + 2 = <<30+2=32>>32 zł.
+</reasoning>
+<answer>32</answer>

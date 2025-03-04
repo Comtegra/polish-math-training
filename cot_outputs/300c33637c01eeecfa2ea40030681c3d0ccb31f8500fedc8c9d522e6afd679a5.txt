@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 99 naklejek przez 11: 99 / 11 = <<99/11=9>>9 naklejek na paczkę.
+</reasoning>
+<answer>9</answer>

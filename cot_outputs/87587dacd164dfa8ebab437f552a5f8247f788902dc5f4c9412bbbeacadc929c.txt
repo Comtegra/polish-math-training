@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę ciastek: 8 * 9 = <<8*9=72>>72 ciastek.
+Odejmujemy zjedzone ciastka: 72 - 5 = <<72-5=67>>67 ciastek.
+</reasoning>
+<answer>67</answer>

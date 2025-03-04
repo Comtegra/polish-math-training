@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało kanapek = 18 - 7 = <<18-7=11>>11 kanapek.
+</reasoning>
+<answer>11</answer>

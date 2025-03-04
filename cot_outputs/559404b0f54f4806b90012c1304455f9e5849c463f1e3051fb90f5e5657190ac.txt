@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 180 - (4 * 35) = 180 - 140 = <<180-140=40>>40 zł.
+</reasoning>
+<answer>40</answer>

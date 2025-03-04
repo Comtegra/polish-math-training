@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 3 * 8 = <<3*8=24>>24.
+Następnie: 24 - 2 = <<24-2=22>>22.
+</reasoning>
+<answer>22</answer>

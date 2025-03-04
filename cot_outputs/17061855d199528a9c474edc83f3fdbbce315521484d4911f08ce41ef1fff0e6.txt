@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy łączną liczbę piłek: 9 * 4 = <<9*4=36>>36.
+Następnie odejmujemy wypożyczone piłki: 36 - 6 = <<36-6=30>>30.
+</reasoning>
+<answer>30</answer>

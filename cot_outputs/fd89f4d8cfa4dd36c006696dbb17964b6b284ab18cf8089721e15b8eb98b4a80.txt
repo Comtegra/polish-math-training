@@ -1,0 +1,4 @@
+<reasoning>
+9 produktów = 3 zestawy, płacisz za 3*2 = 6 produktów, 6 * 15 = <<6*15=90>>90 zł.
+</reasoning>
+<answer>90</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+4 * 15 = <<4*15=60>>60 zł
+</reasoning>
+<answer>60</answer>

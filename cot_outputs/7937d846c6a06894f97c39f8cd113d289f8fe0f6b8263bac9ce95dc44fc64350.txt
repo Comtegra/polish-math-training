@@ -1,0 +1,4 @@
+<reasoning>
+Kanapek na osobę = 36 / 9 = <<36/9=4>>4 kanapki.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 840 / 7 = <<840/7=120>>120.
+Sprawnych: 840 - 120 = <<840-120=720>>720.
+</reasoning>
+<answer>720</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych = 540 - 90 = <<540-90=450>>450 ołówków.
+</reasoning>
+<answer>450</answer>

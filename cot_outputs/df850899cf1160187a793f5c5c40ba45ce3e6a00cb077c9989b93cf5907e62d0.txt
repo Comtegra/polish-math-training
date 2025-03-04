@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 84 / 7 = <<84/7=12>>12 piłek.
+Dobrzych: 84 - 12 = <<84-12=72>>72 piłek.
+</reasoning>
+<answer>72</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie zdobyte punkty: 40 + 30 + 50 = <<40+30+50=120>>120
+Nowy wynik: 250 + 120 = <<250+120=370>>370
+</reasoning>
+<answer>370</answer>

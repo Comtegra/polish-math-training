@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 6 * 18 = <<6*18=108>>108 zł.
+</reasoning>
+<answer>108</answer>

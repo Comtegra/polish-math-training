@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 50 * 2 = <<50*2=100>>100 uczniów.
+</reasoning>
+<answer>100</answer>

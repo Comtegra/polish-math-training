@@ -1,0 +1,4 @@
+<reasoning>
+7 * 180 = <<7*180=1260>>1260 ml
+</reasoning>
+<answer>1260 ml</answer>

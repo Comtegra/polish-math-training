@@ -1,0 +1,4 @@
+<reasoning>
+Z jabłek: 12 / 3 = 4; z pomarańczy: 8 / 2 = 4. Możesz przygotować <<min(4,4)=4>>4 sałatki.
+</reasoning>
+<answer>4</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 1500 / 200 = <<1500/200=7.5>>7,5 dni
+</reasoning>
+<answer>7,5</answer>

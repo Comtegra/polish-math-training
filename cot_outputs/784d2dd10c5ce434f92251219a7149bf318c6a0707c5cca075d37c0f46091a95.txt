@@ -1,0 +1,4 @@
+<reasoning>
+Balonów na osobę: 200 / 25 = <<200/25=8>>8.
+</reasoning>
+<answer>8</answer>

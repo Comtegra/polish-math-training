@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie ciastek = 8 * 6 = <<8*6=48>>48 ciastek.
+</reasoning>
+<answer>48</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę rozdzielonych cukierków: 8 × 5 = <<8×5=40>>40 cukierków.
+Odejmujemy od całości: 120 − 40 = <<120-40=80>>80 cukierków.
+</reasoning>
+<answer>80</answer>

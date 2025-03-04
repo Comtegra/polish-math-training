@@ -1,0 +1,5 @@
+<reasoning>
+Butelki na dzień: 120 * 8 = <<120*8=960>>960
+Butelki w tygodniu: 960 * 5 = <<960*5=4800>>4800
+</reasoning>
+<answer>4800</answer>

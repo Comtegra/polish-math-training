@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę rozdanych kart: 7 × 15 = <<7×15=105>>105 kart.
+Odejmujemy od całości: 150 − 105 = <<150-105=45>>45 kart.
+</reasoning>
+<answer>45</answer>

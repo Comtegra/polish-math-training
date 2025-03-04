@@ -1,0 +1,4 @@
+<reasoning>
+150 * 2/3 = <<150*2/3=100>>100 pokoi.
+</reasoning>
+<answer>100</answer>

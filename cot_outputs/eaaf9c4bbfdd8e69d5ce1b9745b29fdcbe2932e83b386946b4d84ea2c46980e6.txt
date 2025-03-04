@@ -1,0 +1,4 @@
+<reasoning>
+W klasie Janka są 3 rzędy ławek, a w każdym rzędzie jest 5 ławek. Aby znaleźć całkowitą liczbę ławek, mnożymy liczbę rzędów przez liczbę ławek w każdym rzędzie: 3 * 5 = 15 ławek.
+</reasoning>
+<answer>15 ławek</answer>

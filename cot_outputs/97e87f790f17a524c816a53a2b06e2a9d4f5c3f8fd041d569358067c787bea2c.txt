@@ -1,0 +1,5 @@
+<reasoning>
+24 - 4 = <<24-4=20>>20
+20 - 6 = <<20-6=14>>14 cukierków
+</reasoning>
+<answer>14</answer>

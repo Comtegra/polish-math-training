@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 45 balonów przez 5: 45 / 5 = <<45/5=9>>9 balonów w koszyku.
+</reasoning>
+<answer>9</answer>

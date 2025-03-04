@@ -1,0 +1,4 @@
+<reasoning>
+Zużycie paliwa = (8/100) * 250 = <<8/100*250=20>>20 litrów.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączny dystans = 60 * 2 = <<60*2=120>>120 km.
+</reasoning>
+<answer>120</answer>

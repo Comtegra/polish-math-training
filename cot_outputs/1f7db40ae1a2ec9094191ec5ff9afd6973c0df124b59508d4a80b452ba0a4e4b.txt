@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej czekolady: 20 / 5 = <<20/5=4>>4 zł.
+Cena 15 czekolad: 15 * 4 = <<15*4=60>>60 zł.
+</reasoning>
+<answer>60</answer>

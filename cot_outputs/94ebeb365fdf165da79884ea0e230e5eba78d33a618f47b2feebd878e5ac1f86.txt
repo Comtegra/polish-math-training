@@ -1,0 +1,4 @@
+<reasoning>
+48 / 4 = <<48/4=12>>12 kartek na zeszyt
+</reasoning>
+<answer>12</answer>

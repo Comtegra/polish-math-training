@@ -1,0 +1,4 @@
+<reasoning>
+12% z 260 = 31.2; 260 - 31.2 ≈ <<260-31.2=229>>229 porcji.
+</reasoning>
+<answer>229 porcji</answer>

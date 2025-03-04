@@ -1,0 +1,4 @@
+<reasoning>
+Sprawnych ołówków = 90 - 20 = <<90-20=70>>70 ołówków.
+</reasoning>
+<answer>70</answer>

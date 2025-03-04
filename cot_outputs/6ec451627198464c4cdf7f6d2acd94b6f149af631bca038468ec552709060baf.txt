@@ -1,0 +1,4 @@
+<reasoning>
+8 * 9 = <<8*9=72>>72 ciastek
+</reasoning>
+<answer>72</answer>

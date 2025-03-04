@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie sprzedanych = 120 - 30 = <<120-30=90>>90 zabawek.
+</reasoning>
+<answer>90</answer>

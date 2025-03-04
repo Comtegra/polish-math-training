@@ -1,0 +1,4 @@
+<reasoning>
+40 * 5 = <<40*5=200>>200 kWh.
+</reasoning>
+<answer>200 kWh</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy koszt bez rabatu: 3 * 27 = <<3*27=81>>81 zł.
+Odejmujemy rabat: 81 - 15 = <<81-15=66>>66 zł.
+</reasoning>
+<answer>66</answer>

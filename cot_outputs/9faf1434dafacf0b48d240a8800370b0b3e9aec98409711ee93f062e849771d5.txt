@@ -1,0 +1,4 @@
+<reasoning>
+Suma: 35 + 50 = <<35+50=85>>85 zł.
+</reasoning>
+<answer>85</answer>

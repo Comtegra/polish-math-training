@@ -1,0 +1,4 @@
+<reasoning>
+20 * 6 = <<20*6=120>>120 krzeseł.
+</reasoning>
+<answer>120</answer>

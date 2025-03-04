@@ -1,0 +1,5 @@
+<reasoning>
+Modele specjalne: 96 / 8 = <<96/8=12>>12.
+Standardowych: 96 - 12 = <<96-12=84>>84.
+</reasoning>
+<answer>84</answer>

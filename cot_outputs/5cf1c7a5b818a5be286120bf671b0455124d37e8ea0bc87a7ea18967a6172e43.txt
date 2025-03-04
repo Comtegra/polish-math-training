@@ -1,0 +1,6 @@
+<reasoning>
+Łączna liczba ołówków: 120 * 10 = <<120*10=1200>>1200.
+Sprzedano: 1200 / 3 = <<1200/3=400>>400.
+Pozostało: 1200 - 400 = <<1200-400=800>>800 ołówków.
+</reasoning>
+<answer>800</answer>

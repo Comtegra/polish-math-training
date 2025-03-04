@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 64 balony przez 8: 64 / 8 = <<64/8=8>>8 balonów na dziecko.
+</reasoning>
+<answer>8</answer>

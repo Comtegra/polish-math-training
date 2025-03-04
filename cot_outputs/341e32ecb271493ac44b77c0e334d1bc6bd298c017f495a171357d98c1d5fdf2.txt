@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie: 4 * 15 = <<4*15=60>>60 czekoladek.
+Pozostało: 60 - 10 = <<60-10=50>>50 czekoladek.
+</reasoning>
+<answer>50</answer>

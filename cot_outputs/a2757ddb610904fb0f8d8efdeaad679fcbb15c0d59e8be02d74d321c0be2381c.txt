@@ -1,0 +1,7 @@
+<reasoning>
+Koszt książki i zeszytu: 45 + 15 = <<45+15=60>>60 zł
+Pozostało: 120 - 60 = <<120-60=60>>60 zł
+Zakup po rabacie: 30 zł * 80% = <<30*0.8=24>>24 zł
+Pozostało: 60 - 24 = <<60-24=36>>36 zł
+</reasoning>
+<answer>36</answer>

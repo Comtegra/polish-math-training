@@ -1,0 +1,5 @@
+<reasoning>
+Kasia będzie miała: 15 + 5 = <<15+5=20>>20 balonów.
+Razem: 10 + 20 = <<10+20=30>>30 balonów.
+</reasoning>
+<answer>30</answer>

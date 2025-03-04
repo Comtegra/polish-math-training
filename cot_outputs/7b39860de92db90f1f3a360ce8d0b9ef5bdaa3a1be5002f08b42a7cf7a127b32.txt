@@ -1,0 +1,4 @@
+<reasoning>
+160 * 3.20 = <<160*3.20=512>>512 zł.
+</reasoning>
+<answer>512 zł</answer>

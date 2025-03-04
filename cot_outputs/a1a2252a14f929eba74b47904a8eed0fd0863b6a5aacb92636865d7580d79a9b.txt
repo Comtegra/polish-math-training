@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy łączną liczbę drzew: 5 * 9 = <<5*9=45>>45 drzew.
+</reasoning>
+<answer>45</answer>

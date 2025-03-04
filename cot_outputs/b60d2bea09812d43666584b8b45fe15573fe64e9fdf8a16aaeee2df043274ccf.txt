@@ -1,0 +1,7 @@
+<reasoning>
+Obliczmy, ile GB stanowi 60% pliku: 500 GB * 60% = <<500*0.6=300>>300 GB
+Czas pobierania 300 GB: 300 / 5 = <<300/5=60>>60 minut
+Czas pobrania całego pliku po restarcie: 500 / 5 = <<500/5=100>>100 minut
+Łączny czas: 60 minut (przed restartem) + 10 minut (restart) + 100 minut (po restarcie) = <<60+10+100=170>>170 minut
+</reasoning>
+<answer>170</answer>

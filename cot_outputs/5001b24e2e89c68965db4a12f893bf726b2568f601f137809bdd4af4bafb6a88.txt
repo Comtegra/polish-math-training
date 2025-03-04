@@ -1,0 +1,4 @@
+<reasoning>
+36 / 3 = <<36/3=12>>12 dziewcząt.
+</reasoning>
+<answer>12</answer>

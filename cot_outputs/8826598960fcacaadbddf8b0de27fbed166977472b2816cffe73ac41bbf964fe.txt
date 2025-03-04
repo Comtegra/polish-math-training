@@ -1,0 +1,4 @@
+<reasoning>
+36 - 16 = <<36-16=20>>20 balonów
+</reasoning>
+<answer>20</answer>

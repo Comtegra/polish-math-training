@@ -1,0 +1,4 @@
+<reasoning>
+Liczba paczek = 36 / 6 = <<36/6=6>>6 paczek.
+</reasoning>
+<answer>6</answer>

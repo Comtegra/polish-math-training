@@ -1,0 +1,4 @@
+<reasoning>
+40 * 3 = <<40*3=120>>120 osób.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 120 / 6 = <<120/6=20>>20.
+</reasoning>
+<answer>20</answer>

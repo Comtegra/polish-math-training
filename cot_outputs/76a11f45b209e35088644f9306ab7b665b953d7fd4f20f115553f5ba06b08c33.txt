@@ -1,0 +1,4 @@
+<reasoning>
+15 * 250 = <<15*250=3750>>3750 GB.
+</reasoning>
+<answer>3750 GB</answer>

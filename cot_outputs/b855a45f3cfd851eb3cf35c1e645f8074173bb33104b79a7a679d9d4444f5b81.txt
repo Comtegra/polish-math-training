@@ -1,0 +1,4 @@
+<reasoning>
+Oblicz rabat: 0,30 * 200 = 60 zł, więc cena = 200 - 60 = <<200-60=140>>140 zł.
+</reasoning>
+<answer>140</answer>

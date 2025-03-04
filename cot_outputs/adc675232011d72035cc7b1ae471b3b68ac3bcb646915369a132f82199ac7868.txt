@@ -1,0 +1,4 @@
+<reasoning>
+Kasia zaoszczędziła 30% z 2400 zł, czyli 0.3 * 2400 zł = 720 zł. Pozostała kwota, którą musi zaoszczędzić, to 2400 zł - 720 zł = 1680 zł.
+</reasoning>
+<answer>1680</answer>

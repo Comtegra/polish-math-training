@@ -1,0 +1,5 @@
+<reasoning>
+Dzieci z zielonymi plecakami: 50 ÷ 5 = 10.
+Pozostałych: 50 − 10 = 40 dzieci.
+</reasoning>
+<answer>40</answer>

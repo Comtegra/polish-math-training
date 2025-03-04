@@ -1,0 +1,4 @@
+<reasoning>
+240 - 240 * 15/100 = 240 - 36 = <<240-36=204>>204 posiłków.
+</reasoning>
+<answer>204</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Zuzia podzieli ryż na 6 porcji, więc każda porcja będzie ważyć 24 / 6 = 4 kg.
+</reasoning>
+<answer>4</answer>

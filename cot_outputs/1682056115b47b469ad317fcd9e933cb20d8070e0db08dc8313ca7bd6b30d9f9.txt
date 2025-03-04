@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy połowę ciasteczek: 40 / 2 = <<40/2=20>>20 ciasteczek.
+</reasoning>
+<answer>20</answer>

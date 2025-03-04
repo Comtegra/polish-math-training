@@ -1,0 +1,4 @@
+<reasoning>
+Liczba dystrybutorów = 1000 / 50 = <<1000/50=20>>20.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Koszt żelków to 10 paczek * 3 złote na paczkę = 30 złotych.
+</reasoning>
+<answer>30 złotych</answer>

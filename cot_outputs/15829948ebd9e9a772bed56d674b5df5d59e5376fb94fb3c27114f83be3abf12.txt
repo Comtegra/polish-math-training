@@ -1,0 +1,4 @@
+<reasoning>
+63 / 7 = <<63/7=9>>9 liści
+</reasoning>
+<answer>9</answer>

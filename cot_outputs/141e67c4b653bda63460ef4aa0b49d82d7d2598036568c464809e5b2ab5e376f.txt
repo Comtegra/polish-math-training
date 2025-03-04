@@ -1,0 +1,4 @@
+<reasoning>
+Eksponatów wewnątrz = 80 - 15 = <<80-15=65>>65 eksponatów.
+</reasoning>
+<answer>65</answer>

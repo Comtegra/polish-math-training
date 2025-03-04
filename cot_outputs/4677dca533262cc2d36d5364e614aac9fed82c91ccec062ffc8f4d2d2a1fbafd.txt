@@ -1,0 +1,5 @@
+<reasoning>
+3 * 8 = <<3*8=24>>24 kawałków początkowo
+24 - 5 = <<24-5=19>>19 kawałków pozostało
+</reasoning>
+<answer>19</answer>

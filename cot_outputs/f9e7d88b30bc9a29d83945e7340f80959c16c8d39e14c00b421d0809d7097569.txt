@@ -1,0 +1,5 @@
+<reasoning>
+Zajęte miejsca: 500 * 0.60 = <<500*0.60=300>>300
+Wolne miejsca: 500 - 300 = <<500-300=200>>200
+</reasoning>
+<answer>200</answer>

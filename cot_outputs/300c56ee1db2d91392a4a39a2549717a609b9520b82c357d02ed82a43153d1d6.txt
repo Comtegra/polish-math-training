@@ -1,0 +1,4 @@
+<reasoning>
+32 * 3/8 = <<32*3/8=12>>12 dziewcząt.
+</reasoning>
+<answer>12</answer>

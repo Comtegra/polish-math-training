@@ -1,0 +1,6 @@
+<reasoning>
+Koszt jednego biletu to 45 zł
+Kuba kupił 2 bilety
+Całkowita kwota to 2 * 45 zł = 90 zł
+</reasoning>
+<answer>90</answer>

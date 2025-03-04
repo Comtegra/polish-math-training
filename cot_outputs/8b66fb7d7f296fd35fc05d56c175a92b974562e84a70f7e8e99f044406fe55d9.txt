@@ -1,0 +1,4 @@
+<reasoning>
+300 - 300/10 = 300 - 30 = <<300-30=270>>270 balonów.
+</reasoning>
+<answer>270</answer>

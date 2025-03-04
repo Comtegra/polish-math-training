@@ -1,0 +1,5 @@
+<reasoning>
+Książek oddanych po terminie: 480 / 8 = <<480/8=60>>60.
+Na czas: 480 - 60 = <<480-60=420>>420.
+</reasoning>
+<answer>420</answer>

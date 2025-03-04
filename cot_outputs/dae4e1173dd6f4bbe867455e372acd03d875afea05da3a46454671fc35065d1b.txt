@@ -1,0 +1,4 @@
+<reasoning>
+Łączna masa makulatury to 18 kg + 27 kg = 45 kg.
+</reasoning>
+<answer>45 kg</answer>

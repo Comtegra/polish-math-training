@@ -1,0 +1,4 @@
+<reasoning>
+Niech x oznacza kwotę pieniędzy, którą ma Kuba. Wtedy Tomek ma x + 70 zł. Razem mają 180 zł, więc x + (x + 70 zł) = 180 zł. To upraszcza się do 2x + 70 zł = 180 zł, a następnie 2x = 110 zł. Stąd x = 110 zł / 2 = 55 zł. Kuba ma 55 zł.
+</reasoning>
+<answer>55</answer>

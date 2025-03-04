@@ -1,0 +1,6 @@
+<reasoning>
+2 * 9 = <<2*9=18>>18 cukierków początkowo
+2 * 5 = <<2*5=10>>10 cukierków zjedzonych
+18 - 10 = <<18-10=8>>8 cukierków pozostało
+</reasoning>
+<answer>8</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba ciastek: 2 * 15 = <<2*15=30>>30.
+Odejmujemy zjedzone: 30 - 8 = <<30-8=22>>22 ciastek.
+</reasoning>
+<answer>22</answer>

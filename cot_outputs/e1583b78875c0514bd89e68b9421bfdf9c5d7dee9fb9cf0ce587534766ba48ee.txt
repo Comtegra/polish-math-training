@@ -1,0 +1,4 @@
+<reasoning>
+Liczba pakietów = 48 / 3 = <<48/3=16>>16 pakietów.
+</reasoning>
+<answer>16</answer>

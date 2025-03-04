@@ -1,0 +1,4 @@
+<reasoning>
+3,5 * 5 = <<3.5*5=17.5>>17,5 zł.
+</reasoning>
+<answer>17,5 zł</answer>

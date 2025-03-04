@@ -1,0 +1,4 @@
+<reasoning>
+Nadaje się = 200 - 20 = <<200-20=180>>180 zeszytów.
+</reasoning>
+<answer>180</answer>

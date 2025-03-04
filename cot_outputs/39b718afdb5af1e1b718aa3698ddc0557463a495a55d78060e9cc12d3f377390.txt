@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 30 * 4 = <<30*4=120>>120 ptaków.
+</reasoning>
+<answer>120</answer>

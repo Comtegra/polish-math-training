@@ -1,0 +1,4 @@
+<reasoning>
+Obniżka = 25% z 80 = 0.25 * 80 = 20 zł, cena = 80 - 20 = <<80-20=60>>60 zł.
+</reasoning>
+<answer>60</answer>

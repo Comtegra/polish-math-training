@@ -1,0 +1,4 @@
+<reasoning>
+Paweł ma 12 paczek * 450 g = 5400 g makaronu
+</reasoning>
+<answer>5400 g</answer>

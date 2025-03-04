@@ -1,0 +1,5 @@
+<reasoning>
+3 * 12 = <<3*12=36>>36 ciastek początkowo
+36 - 6 = <<36-6=30>>30 ciastek
+</reasoning>
+<answer>30</answer>

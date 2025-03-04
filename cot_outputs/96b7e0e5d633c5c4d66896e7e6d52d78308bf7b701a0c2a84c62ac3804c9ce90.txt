@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy punkty z obu rund: 15 + 20 = <<15+20=35>>35.
+Następnie dodajemy do początkowej liczby punktów: 100 + 35 = <<100+35=135>>135.
+</reasoning>
+<answer>135</answer>

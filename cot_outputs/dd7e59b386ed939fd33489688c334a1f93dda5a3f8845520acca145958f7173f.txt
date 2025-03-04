@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie książek = 15 * 4 = <<15*4=60>>60 książek.
+</reasoning>
+<answer>60</answer>

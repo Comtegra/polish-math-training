@@ -1,0 +1,4 @@
+<reasoning>
+50 * 2 = <<50*2=100>>100 zabawek.
+</reasoning>
+<answer>100</answer>

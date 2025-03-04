@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba długopisów: 4 * 10 = <<4*10=40>>40.
+Pozostało: 40 - 6 = <<40-6=34>>34 długopisów.
+</reasoning>
+<answer>34</answer>

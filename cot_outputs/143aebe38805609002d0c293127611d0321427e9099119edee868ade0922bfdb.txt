@@ -1,0 +1,5 @@
+<reasoning>
+Zniszczonych: 250 / 5 = <<250/5=50>>50 książek.
+Pozostało: 250 - 50 = <<250-50=200>>200 książek.
+</reasoning>
+<answer>200</answer>

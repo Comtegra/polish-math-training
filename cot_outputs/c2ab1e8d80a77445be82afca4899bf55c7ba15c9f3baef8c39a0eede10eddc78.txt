@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę kredek: 4 * 15 = <<4*15=60>>60 kredek.
+Odejmujemy oddane kredki: 60 - 10 = <<60-10=50>>50 kredek.
+</reasoning>
+<answer>50</answer>

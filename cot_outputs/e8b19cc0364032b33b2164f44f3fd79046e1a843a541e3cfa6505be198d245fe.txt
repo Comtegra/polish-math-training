@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zdjęć = 9 * 4 = <<9*4=36>>36 zdjęć.
+</reasoning>
+<answer>36</answer>

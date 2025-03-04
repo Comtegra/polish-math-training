@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 1/3 z 84: 84 / 3 = <<84/3=28>>28 gołębi.
+</reasoning>
+<answer>28</answer>

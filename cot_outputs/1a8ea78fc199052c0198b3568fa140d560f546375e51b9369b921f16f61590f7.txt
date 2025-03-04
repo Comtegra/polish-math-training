@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy muszle: 180 / 6 = <<180/6=30>>30.
+</reasoning>
+<answer>30</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego ołówka: 10 / 5 = <<10/5=2>>2 zł.
+Łączny koszt: 20 * 2 = <<20*2=40>>40 zł.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+6 * 4 = <<6*4=24>>24 ołówki
+</reasoning>
+<answer>24</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego zestawu po rabacie: 250 * 0.90 = <<250*0.90=225>>225 zł
+Łącznie: 3 * 225 = <<3*225=675>>675 zł
+</reasoning>
+<answer>675</answer>

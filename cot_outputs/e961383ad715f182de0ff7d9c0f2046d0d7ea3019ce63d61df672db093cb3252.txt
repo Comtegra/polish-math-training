@@ -1,0 +1,4 @@
+<reasoning>
+28 - 8 = <<28-8=20>>20 liści
+</reasoning>
+<answer>20</answer>

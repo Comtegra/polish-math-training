@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 40 kart to 40 kart * 2 złote na kartę = 80 złotych.
+</reasoning>
+<answer>80 złotych</answer>

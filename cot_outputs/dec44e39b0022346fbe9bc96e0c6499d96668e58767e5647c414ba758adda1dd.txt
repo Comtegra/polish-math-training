@@ -1,0 +1,4 @@
+<reasoning>
+Jabłek na osobę = 72 / 9 = <<72/9=8>>8 jabłek.
+</reasoning>
+<answer>8</answer>

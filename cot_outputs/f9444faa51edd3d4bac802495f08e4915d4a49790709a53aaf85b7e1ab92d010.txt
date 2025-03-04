@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie miejsc = 8 * 6 = <<8*6=48>>48 osób.
+</reasoning>
+<answer>48</answer>

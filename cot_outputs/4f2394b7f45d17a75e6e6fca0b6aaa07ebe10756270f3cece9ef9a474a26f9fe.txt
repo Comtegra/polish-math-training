@@ -1,0 +1,5 @@
+<reasoning>
+Liczba biletów ulgowych: 300 / 10 = <<300/10=30>>30.
+Biletów po pełnej cenie: 300 - 30 = <<300-30=270>>270.
+</reasoning>
+<answer>270</answer>

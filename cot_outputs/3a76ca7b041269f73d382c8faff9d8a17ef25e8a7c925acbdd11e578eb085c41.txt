@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie tablic = 24 * 2 = <<24*2=48>>48 tablic.
+</reasoning>
+<answer>48</answer>

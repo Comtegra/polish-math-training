@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kredek = 24 * 7 = <<24*7=168>>168 kredek.
+</reasoning>
+<answer>168</answer>

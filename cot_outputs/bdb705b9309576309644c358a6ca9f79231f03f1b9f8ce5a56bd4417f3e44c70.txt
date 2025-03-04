@@ -1,0 +1,4 @@
+<reasoning>
+Dostępnych książek = 540 - 120 = <<540-120=420>>420 książek.
+</reasoning>
+<answer>420</answer>

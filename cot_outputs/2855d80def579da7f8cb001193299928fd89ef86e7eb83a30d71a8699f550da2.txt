@@ -1,0 +1,5 @@
+<reasoning>
+3 * 250 = <<3*250=750>>750 ml herbaty
+750 + 150 = <<750+150=900>>900 ml łącznej objętości
+</reasoning>
+<answer>900</answer>

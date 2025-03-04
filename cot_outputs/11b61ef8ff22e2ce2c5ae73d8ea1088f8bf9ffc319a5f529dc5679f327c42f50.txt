@@ -1,0 +1,4 @@
+<reasoning>
+3 * 18 = <<3*18=54>>54 ciastek
+</reasoning>
+<answer>54</answer>

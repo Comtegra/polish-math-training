@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 80 przez 10: 80 / 10 = <<80/10=8>>8 kanapek na osobę.
+</reasoning>
+<answer>8</answer>

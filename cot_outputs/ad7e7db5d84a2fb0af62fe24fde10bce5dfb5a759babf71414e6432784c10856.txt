@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 36 kartek przez 6: 36 / 6 = <<36/6=6>>6 kartek na stos.
+</reasoning>
+<answer>6</answer>

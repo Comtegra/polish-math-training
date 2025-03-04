@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba kaczek: 5 * 12 = <<5*12=60>>60 kaczek.
+</reasoning>
+<answer>60</answer>

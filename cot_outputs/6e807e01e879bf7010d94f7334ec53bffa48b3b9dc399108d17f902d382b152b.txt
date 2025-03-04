@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 1/3 z 90: 90 * 1/3 = <<90*1/3=30>>30 ciastek.
+</reasoning>
+<answer>30</answer>

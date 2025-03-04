@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedanych: 850 × 0.90 = 765.
+Wolnych: 850 − 765 = 85 miejsc.
+</reasoning>
+<answer>85</answer>

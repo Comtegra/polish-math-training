@@ -1,0 +1,4 @@
+<reasoning>
+36 / 6 = <<36/6=6>>6 ołówków na osobę
+</reasoning>
+<answer>6</answer>

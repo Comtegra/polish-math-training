@@ -1,0 +1,5 @@
+<reasoning>
+Podnosimy 4 do potęgi 3: 4³ = <<4^3=64>>64.
+Mnożymy wynik przez 2: 64 × 2 = <<64×2=128>>128.
+</reasoning>
+<answer>128</answer>

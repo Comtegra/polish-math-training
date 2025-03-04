@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy kredki: 32 / 8 = <<32/8=4>>4.
+</reasoning>
+<answer>4</answer>

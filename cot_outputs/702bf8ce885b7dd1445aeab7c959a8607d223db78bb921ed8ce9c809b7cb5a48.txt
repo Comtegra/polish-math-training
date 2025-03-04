@@ -1,0 +1,4 @@
+<reasoning>
+600 / 8 = <<600/8=75>>75 zabawek dziennie.
+</reasoning>
+<answer>75</answer>

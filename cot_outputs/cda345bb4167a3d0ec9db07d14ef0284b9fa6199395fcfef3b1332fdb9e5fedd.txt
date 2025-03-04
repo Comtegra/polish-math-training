@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy koszt piłki: 100 - 35 = <<100-35=65>>65.
+Następnie dodajemy prezent: 65 + 20 = <<65+20=85>>85.
+</reasoning>
+<answer>85</answer>

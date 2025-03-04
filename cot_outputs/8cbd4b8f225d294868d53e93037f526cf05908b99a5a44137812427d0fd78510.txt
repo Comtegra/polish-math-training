@@ -1,0 +1,6 @@
+<reasoning>
+4 * 5 = <<4*5=20>>20 zł za zeszyty
+3 * 2 = <<3*2=6>>6 zł za długopisy
+20 + 6 = <<20+6=26>>26 zł łącznie
+</reasoning>
+<answer>26</answer>

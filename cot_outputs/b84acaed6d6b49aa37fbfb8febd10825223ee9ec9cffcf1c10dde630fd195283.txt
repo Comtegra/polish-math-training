@@ -1,0 +1,4 @@
+<reasoning>
+8000 * 5/100 = <<8000*5/100=400>>400 sztuk.
+</reasoning>
+<answer>400</answer>

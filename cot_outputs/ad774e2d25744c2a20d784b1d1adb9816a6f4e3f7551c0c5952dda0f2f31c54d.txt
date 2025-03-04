@@ -1,0 +1,4 @@
+<reasoning>
+Ania kupiła 10 książek o kosmosie po 5 zł za sztukę, co daje 10 * 5 zł = 50 zł. Zniżka wynosi 10% z 50 zł, czyli 0,10 * 50 zł = 5 zł. Zatem Ania zapłaci 50 zł - 5 zł = 45 zł.
+</reasoning>
+<answer>45 zł</answer>

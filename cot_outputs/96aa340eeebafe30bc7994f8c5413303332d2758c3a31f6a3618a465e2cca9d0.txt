@@ -1,0 +1,4 @@
+<reasoning>
+72 / 6 = <<72/6=12>>12 liści
+</reasoning>
+<answer>12</answer>

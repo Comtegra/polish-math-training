@@ -1,0 +1,4 @@
+<reasoning>
+5000 * 65/100 = <<5000*65/100=3250>>3250 miejsc.
+</reasoning>
+<answer>3250</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Koszyków = 28 / 4 = <<28/4=7>>7 koszyków.
+</reasoning>
+<answer>7</answer>

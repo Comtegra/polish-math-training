@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 3/5 z 45: 45 * 3/5 = <<45*3/5=27>>27 czerwonych balonów.
+</reasoning>
+<answer>27</answer>

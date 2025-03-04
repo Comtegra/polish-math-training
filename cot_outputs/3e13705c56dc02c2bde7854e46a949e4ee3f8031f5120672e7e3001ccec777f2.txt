@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało: 200 - 120 = <<200-120=80>>80 zł.
+</reasoning>
+<answer>80</answer>

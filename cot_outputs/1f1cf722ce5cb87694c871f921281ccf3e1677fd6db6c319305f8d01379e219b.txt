@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 800 × 0.25 = 200 kg.
+Pozostało: 800 − 200 = 600 kg.
+</reasoning>
+<answer>600 kg</answer>

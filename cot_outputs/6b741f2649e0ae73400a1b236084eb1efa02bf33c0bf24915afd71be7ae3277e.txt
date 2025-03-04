@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 720 * 0.10 = <<720*0.10=72>>72.
+Dobrych: 720 - 72 = <<720-72=648>>648 butelek.
+</reasoning>
+<answer>648</answer>

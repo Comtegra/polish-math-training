@@ -1,0 +1,4 @@
+<reasoning>
+100 - 25 = <<100-25=75>>75 balonów
+</reasoning>
+<answer>75</answer>

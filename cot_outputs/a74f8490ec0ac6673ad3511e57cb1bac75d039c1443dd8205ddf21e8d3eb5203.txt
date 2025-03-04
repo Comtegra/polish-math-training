@@ -1,0 +1,4 @@
+<reasoning>
+45 * 3 = <<45*3=135>>135 zabawek.
+</reasoning>
+<answer>135</answer>

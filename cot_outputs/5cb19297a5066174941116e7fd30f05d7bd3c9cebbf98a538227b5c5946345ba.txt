@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 72 / 8 = <<72/8=9>>9.
+</reasoning>
+<answer>9</answer>

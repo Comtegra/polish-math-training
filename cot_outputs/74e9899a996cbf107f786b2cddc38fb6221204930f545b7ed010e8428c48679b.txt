@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało ryb = 30 - 5 = <<30-5=25>>25 ryb.
+</reasoning>
+<answer>25</answer>

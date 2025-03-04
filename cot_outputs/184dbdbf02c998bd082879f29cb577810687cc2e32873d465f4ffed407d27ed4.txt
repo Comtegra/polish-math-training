@@ -1,0 +1,5 @@
+<reasoning>
+3 * 16 = <<3*16=48>>48 ciastek początkowo
+48 - 8 = <<48-8=40>>40 ciastek
+</reasoning>
+<answer>40</answer>

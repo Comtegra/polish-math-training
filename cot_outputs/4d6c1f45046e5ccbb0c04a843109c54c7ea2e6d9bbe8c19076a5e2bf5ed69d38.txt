@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy 1/4 z 84: 84 * 1/4 = <<84*1/4=21>>21 kartek.
+</reasoning>
+<answer>21</answer>

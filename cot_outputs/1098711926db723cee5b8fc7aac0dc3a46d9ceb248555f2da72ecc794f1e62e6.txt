@@ -1,0 +1,4 @@
+<reasoning>
+40 / 4 = <<40/4=10>>10 techników.
+</reasoning>
+<answer>10</answer>

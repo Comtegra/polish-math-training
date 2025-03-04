@@ -1,0 +1,5 @@
+<reasoning>
+2 * 15 = <<2*15=30>>30 zł wydane na książki
+60 - 30 = <<60-30=30>>30 zł pozostało
+</reasoning>
+<answer>30</answer>

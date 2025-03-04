@@ -1,0 +1,5 @@
+<reasoning>
+Sumujemy przeczytane strony: 30 + 25 = <<30+25=55>>55.
+Odejmujemy: 100 - 55 = <<100-55=45>>45.
+</reasoning>
+<answer>45</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Zwróconych: 84 / 7 = <<84/7=12>>12.
+Sprzedanych: 84 - 12 = <<84-12=72>>72 porcji.
+</reasoning>
+<answer>72</answer>

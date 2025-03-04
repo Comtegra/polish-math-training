@@ -1,0 +1,5 @@
+<reasoning>
+25 + 10 = <<25+10=35>>35
+35 - 5 = <<35-5=30>>30 jabłek
+</reasoning>
+<answer>30</answer>

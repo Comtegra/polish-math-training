@@ -1,0 +1,4 @@
+<reasoning>
+Ukończyło = 80 - 20 = <<80-20=60>>60 osób.
+</reasoning>
+<answer>60</answer>

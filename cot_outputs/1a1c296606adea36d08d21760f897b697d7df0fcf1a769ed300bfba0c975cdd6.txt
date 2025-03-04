@@ -1,0 +1,4 @@
+<reasoning>
+250 * 3.40 = <<250*3.40=850>>850 zł.
+</reasoning>
+<answer>850 zł</answer>

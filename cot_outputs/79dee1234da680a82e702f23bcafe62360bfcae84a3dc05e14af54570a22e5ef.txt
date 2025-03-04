@@ -1,0 +1,6 @@
+<reasoning>
+Łączna liczba kawałków: 4 * 12 = <<4*12=48>>48
+Zjedzone kawałki: 5 + 3 = <<5+3=8>>8
+Pozostało: 48 - 8 = <<48-8=40>>40
+</reasoning>
+<answer>40</answer>

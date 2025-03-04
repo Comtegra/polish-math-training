@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 150 - 60 = <<150-60=90>>90.
+Następnie: 90 + 25 = <<90+25=115>>115.
+</reasoning>
+<answer>115</answer>

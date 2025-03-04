@@ -1,0 +1,4 @@
+<reasoning>
+24 * 3 = <<24*3=72>>72 km.
+</reasoning>
+<answer>72 km</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało długopisów = 500 - 125 = <<500-125=375>>375 długopisów.
+</reasoning>
+<answer>375</answer>

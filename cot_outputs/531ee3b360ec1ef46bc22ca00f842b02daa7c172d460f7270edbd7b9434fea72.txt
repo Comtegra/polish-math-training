@@ -1,0 +1,4 @@
+<reasoning>
+Jakub kupił 4 sztuki odzieży sportowej po 25 zł za sztukę, co daje 4 * 25 zł = 100 zł. Kupił też 3 paczki chipsów po 5 zł za paczkę, co daje 3 * 5 zł = 15 zł. Suma zapłaconych kwot to 100 zł + 15 zł = 115 zł.
+</reasoning>
+<answer>115 zł</answer>

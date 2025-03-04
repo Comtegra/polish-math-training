@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę rozdanych balonów: 4 * 3 = <<4*3=12>>12.
+Odejmujemy rozdane balony: 28 - 12 = <<28-12=16>>16.
+</reasoning>
+<answer>16</answer>

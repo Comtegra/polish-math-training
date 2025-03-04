@@ -1,0 +1,4 @@
+<reasoning>
+40 * 65 = <<40*65=2600>>2600 zł.
+</reasoning>
+<answer>2600 zł</answer>

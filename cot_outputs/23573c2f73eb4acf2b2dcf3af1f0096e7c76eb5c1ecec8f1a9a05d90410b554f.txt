@@ -1,0 +1,6 @@
+<reasoning>
+Kasia ma 72 książki
+Jej siostra ma 56 książek
+Łącznie mają 72 + 56 = 128 książek
+</reasoning>
+<answer>128</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie cukru = 2 * 5 = <<2*5=10>>10 szklanek.
+</reasoning>
+<answer>10</answer>

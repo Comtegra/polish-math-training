@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba pluszaków: 28 * 2 = <<28*2=56>>56 pluszaków.
+</reasoning>
+<answer>56</answer>

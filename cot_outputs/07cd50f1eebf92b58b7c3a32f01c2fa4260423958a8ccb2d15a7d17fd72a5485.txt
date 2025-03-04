@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę czekoladek: 4 * 18 = <<4*18=72>>72 czekoladki.
+Odejmujemy sprzedane czekoladki: 72 - 22 = <<72-22=50>>50 czekoladek.
+</reasoning>
+<answer>50</answer>

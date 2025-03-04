@@ -1,0 +1,4 @@
+<reasoning>
+180 * 1.95 = <<180*1.95=351>>351 zł.
+</reasoning>
+<answer>351 zł</answer>

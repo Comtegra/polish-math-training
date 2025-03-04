@@ -1,0 +1,4 @@
+<reasoning>
+W grupach po 3: płacisz za 2, więc za 9 produktów płacisz za 6: 6 * 20 = <<6*20=120>>120 zł.
+</reasoning>
+<answer>120</answer>

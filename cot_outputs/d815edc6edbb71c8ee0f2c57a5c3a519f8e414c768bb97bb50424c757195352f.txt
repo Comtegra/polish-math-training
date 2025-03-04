@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy kupione książki: 16 + 9 = <<16+9=25>>25.
+Odejmujemy oddane książki: 25 - 4 = <<25-4=21>>21.
+</reasoning>
+<answer>21</answer>

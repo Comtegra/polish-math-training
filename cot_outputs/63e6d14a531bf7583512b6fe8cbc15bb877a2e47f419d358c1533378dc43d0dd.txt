@@ -1,0 +1,5 @@
+<reasoning>
+60 - 10 = <<60-10=50>>50 cukierków do podziału
+50 / 5 = <<50/5=10>>10 cukierków na przyjaciela
+</reasoning>
+<answer>10</answer>

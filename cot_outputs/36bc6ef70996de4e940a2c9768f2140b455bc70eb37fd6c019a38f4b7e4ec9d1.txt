@@ -1,0 +1,4 @@
+<reasoning>
+24 - 8 = <<24-8=16>>16 jabłek
+</reasoning>
+<answer>16</answer>

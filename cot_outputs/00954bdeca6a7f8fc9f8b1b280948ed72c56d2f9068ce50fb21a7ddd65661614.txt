@@ -1,0 +1,4 @@
+<reasoning>
+10% z 300 = 30; 300 - 30 = <<300-30=270>>270 porcji.
+</reasoning>
+<answer>270</answer>

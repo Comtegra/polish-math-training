@@ -1,0 +1,5 @@
+<reasoning>
+Koszt obu książek wynosi 50 zł + 60 zł = 110 zł
+Kasia ma 300 zł > 110 zł, więc ma wystarczająco pieniędzy
+</reasoning>
+<answer>Tak</answer>

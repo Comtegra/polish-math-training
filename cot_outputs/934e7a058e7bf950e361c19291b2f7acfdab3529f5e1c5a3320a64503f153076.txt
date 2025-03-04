@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie siedzeń = 70 * 3 = <<70*3=210>>210 siedzeń.
+</reasoning>
+<answer>210</answer>

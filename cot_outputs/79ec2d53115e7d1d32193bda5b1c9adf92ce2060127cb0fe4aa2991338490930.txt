@@ -1,0 +1,4 @@
+<reasoning>
+Liczba butelek = 1.8 / 0.6 = <<1.8/0.6=3>>3 butelki.
+</reasoning>
+<answer>3</answer>

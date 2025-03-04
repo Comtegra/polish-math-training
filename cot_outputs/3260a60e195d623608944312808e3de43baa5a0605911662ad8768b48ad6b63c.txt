@@ -1,0 +1,4 @@
+<reasoning>
+5000 * 4/100 = <<5000*4/100=200>>200 zabawek.
+</reasoning>
+<answer>200</answer>

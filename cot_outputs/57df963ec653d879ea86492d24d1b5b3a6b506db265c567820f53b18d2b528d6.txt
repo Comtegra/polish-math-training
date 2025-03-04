@@ -1,0 +1,5 @@
+<reasoning>
+Zjedzono: 180 / 5 = <<180/5=36>>36 kanapek.
+Pozostało: 180 - 36 = <<180-36=144>>144 kanapek.
+</reasoning>
+<answer>144</answer>

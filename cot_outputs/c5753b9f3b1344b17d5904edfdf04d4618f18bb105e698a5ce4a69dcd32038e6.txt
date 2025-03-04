@@ -1,0 +1,4 @@
+<reasoning>
+70 * 50 = <<70*50=3500>>3500 owoców.
+</reasoning>
+<answer>3500</answer>

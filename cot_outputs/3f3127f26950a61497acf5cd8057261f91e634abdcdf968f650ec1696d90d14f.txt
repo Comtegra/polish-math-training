@@ -1,0 +1,4 @@
+<reasoning>
+12 * 28 = <<12*28=336>>336 uczniów.
+</reasoning>
+<answer>336</answer>

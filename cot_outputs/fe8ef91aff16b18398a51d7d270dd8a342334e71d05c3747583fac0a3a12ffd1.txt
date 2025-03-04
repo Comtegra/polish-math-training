@@ -1,0 +1,4 @@
+<reasoning>
+200 - 45 = <<200-45=155>>155 kanapek.
+</reasoning>
+<answer>155</answer>

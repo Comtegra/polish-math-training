@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy sprzedane batony: 110 - 40 = <<110-40=70>>70.
+Dodajemy uzupełnienie: 70 + 15 = <<70+15=85>>85.
+</reasoning>
+<answer>85</answer>

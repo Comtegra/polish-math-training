@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 500 * 0.05 = <<500*0.05=25>>25 kg.
+Dobrych: 500 - 25 = <<500-25=475>>475 kg.
+</reasoning>
+<answer>475</answer>

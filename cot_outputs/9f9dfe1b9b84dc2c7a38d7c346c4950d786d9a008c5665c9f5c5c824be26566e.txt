@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie krzeseł = 15 * 4 = <<15*4=60>>60 krzeseł.
+</reasoning>
+<answer>60</answer>

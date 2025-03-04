@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy liczbę jabłek zjedzonych z jednego koszyka: 2, a następnie mnożymy: 9 * 2 = <<9*2=18>>18.
+</reasoning>
+<answer>18</answer>

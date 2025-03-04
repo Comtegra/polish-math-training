@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało balonów = 150 - 25 = <<150-25=125>>125 balonów.
+</reasoning>
+<answer>125</answer>

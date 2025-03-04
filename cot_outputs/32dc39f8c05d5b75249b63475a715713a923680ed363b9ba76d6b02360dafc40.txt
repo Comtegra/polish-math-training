@@ -1,0 +1,5 @@
+<reasoning>
+Stron na godzinę: 12 * 150 = <<12*150=1800>>1800 stron.
+W ciągu 2 godzin: 1800 * 2 = <<1800*2=3600>>3600 stron.
+</reasoning>
+<answer>3600</answer>

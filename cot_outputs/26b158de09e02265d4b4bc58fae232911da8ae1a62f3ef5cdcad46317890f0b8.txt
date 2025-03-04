@@ -1,0 +1,4 @@
+<reasoning>
+300 / 10 = <<300/10=30>>30 zł.
+</reasoning>
+<answer>30</answer>

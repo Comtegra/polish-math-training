@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba owoców: 15 * 8 = <<15*8=120>>120 owoców.
+</reasoning>
+<answer>120</answer>

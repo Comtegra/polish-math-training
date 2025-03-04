@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 180 - 60 = <<180-60=120>>120.
+Następnie: 120 + 20 = <<120+20=140>>140.
+</reasoning>
+<answer>140</answer>

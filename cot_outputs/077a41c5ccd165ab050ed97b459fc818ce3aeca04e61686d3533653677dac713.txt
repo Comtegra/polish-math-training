@@ -1,0 +1,4 @@
+<reasoning>
+24 / 4 = <<24/4=6>>6 menadżerów.
+</reasoning>
+<answer>6 menadżerów</answer>

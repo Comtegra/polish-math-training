@@ -1,0 +1,5 @@
+<reasoning>
+Rozlanych: 200 / 10 = <<200/10=20>>20 butelek.
+Pozostało: 200 - 20 = <<200-20=180>>180 butelek.
+</reasoning>
+<answer>180</answer>

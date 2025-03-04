@@ -1,0 +1,5 @@
+<reasoning>
+2 * 10 = <<2*10=20>>20 zł za zeszyty
+20 + 3 = <<20+3=23>>23 zł
+</reasoning>
+<answer>23</answer>

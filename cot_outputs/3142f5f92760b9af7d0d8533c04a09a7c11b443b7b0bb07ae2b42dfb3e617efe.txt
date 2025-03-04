@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dodajemy przeczytane strony: 25 + 15 = <<25+15=40>>40.
+Następnie odejmujemy od całkowitej liczby stron: 60 - 40 = <<60-40=20>>20.
+</reasoning>
+<answer>20</answer>

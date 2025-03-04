@@ -1,0 +1,6 @@
+<reasoning>
+Koszt przed rabatem: 10 * 4 = <<10*4=40>>40 zł.
+Rabat: 40 * 0.10 = <<40*0.10=4>>4 zł.
+Cena po rabacie: 40 - 4 = <<40-4=36>>36 zł.
+</reasoning>
+<answer>36</answer>

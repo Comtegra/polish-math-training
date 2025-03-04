@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie gałęzi: 20 * 4 = <<20*4=80>>80 gałęzi.
+</reasoning>
+<answer>80</answer>

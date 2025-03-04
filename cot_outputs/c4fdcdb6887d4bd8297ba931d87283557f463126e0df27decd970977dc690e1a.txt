@@ -1,0 +1,5 @@
+<reasoning>
+Starożytności: 840 ÷ 7 = 120.
+Pozostałych: 840 − 120 = 720 eksponatów.
+</reasoning>
+<answer>720</answer>

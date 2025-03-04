@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę książek przez cenę: 7 * 25 = <<7*25=175>>175 zł.
+</reasoning>
+<answer>175</answer>

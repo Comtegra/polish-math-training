@@ -1,0 +1,4 @@
+<reasoning>
+6 * 8 = <<6*8=48>>48 czekoladek
+</reasoning>
+<answer>48</answer>

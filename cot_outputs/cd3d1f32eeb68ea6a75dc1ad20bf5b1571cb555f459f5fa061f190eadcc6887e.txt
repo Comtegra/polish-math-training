@@ -1,0 +1,5 @@
+<reasoning>
+Biletów ulgowych: 240 / 8 = <<240/8=30>>30.
+Biletów normalnych: 240 - 30 = <<240-30=210>>210.
+</reasoning>
+<answer>210</answer>

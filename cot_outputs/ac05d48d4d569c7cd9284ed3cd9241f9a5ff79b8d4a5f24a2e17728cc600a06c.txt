@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało jabłek = 30 - 10 = <<30-10=20>>20 jabłek.
+</reasoning>
+<answer>20</answer>

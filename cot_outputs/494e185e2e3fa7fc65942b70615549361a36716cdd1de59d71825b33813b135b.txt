@@ -1,0 +1,4 @@
+<reasoning>
+44 - 19 = <<44-19=25>>25 litrów
+</reasoning>
+<answer>25</answer>

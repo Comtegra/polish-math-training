@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedane miejsca: 75 000 * 0.85 = <<75000*0.85=63750>>63 750
+Niesprzedane: 75 000 - 63 750 = <<75000-63750=11250>>11 250
+</reasoning>
+<answer>11250</answer>

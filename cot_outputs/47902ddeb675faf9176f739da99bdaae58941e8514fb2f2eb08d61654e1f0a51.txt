@@ -1,0 +1,6 @@
+<reasoning>
+Łączna liczba baterii: 5 * 4 = <<5*4=20>>20
+Zużytych: 20 * 0.20 = <<20*0.20=4>>4
+Pozostało: 20 - 4 = <<20-4=16>>16
+</reasoning>
+<answer>16</answer>

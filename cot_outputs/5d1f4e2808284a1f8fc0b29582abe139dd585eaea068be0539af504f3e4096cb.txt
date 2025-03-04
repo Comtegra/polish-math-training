@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 81 kartek przez 9: 81 / 9 = <<81/9=9>>9 kartek na zeszyt.
+</reasoning>
+<answer>9</answer>

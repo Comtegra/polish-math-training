@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 10 * 12 = <<10*12=120>>120.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Pierwszego dnia Kuba wydał 200 zł * 40% = 80 zł. Pozostało mu 200 zł - 80 zł = 120 zł. Drugiego dnia wydał 120 zł * 2/3 = 80 zł. Pozostało mu 120 zł - 80 zł = 40 zł.
+</reasoning>
+<answer>40</answer>

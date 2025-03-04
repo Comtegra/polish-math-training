@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 75 / 5 = <<75/5=15>>15.
+</reasoning>
+<answer>15</answer>

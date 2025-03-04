@@ -1,0 +1,4 @@
+<reasoning>
+Łączny koszt = 2 * 220 = 440; pozostało = 500 - 440 = <<500-440=60>>60 zł.
+</reasoning>
+<answer>60</answer>

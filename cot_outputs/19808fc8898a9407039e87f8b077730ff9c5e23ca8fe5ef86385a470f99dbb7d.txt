@@ -1,0 +1,4 @@
+<reasoning>
+Pozostałych książek = 600 - 150 = <<600-150=450>>450 książek.
+</reasoning>
+<answer>450</answer>

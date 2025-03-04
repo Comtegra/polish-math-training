@@ -1,0 +1,4 @@
+<reasoning>
+Wolnych łóżek = 150 - 45 = <<150-45=105>>105 łóżek.
+</reasoning>
+<answer>105</answer>

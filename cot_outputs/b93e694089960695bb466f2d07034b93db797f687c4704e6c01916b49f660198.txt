@@ -1,0 +1,5 @@
+<reasoning>
+2 * 18 = <<2*18=36>>36 ciastek początkowo
+36 - 10 = <<36-10=26>>26 ciastek pozostało
+</reasoning>
+<answer>26</answer>

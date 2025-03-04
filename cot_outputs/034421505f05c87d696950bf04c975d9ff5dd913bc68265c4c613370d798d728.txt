@@ -1,0 +1,4 @@
+<reasoning>
+Każda koleżanka otrzyma 400 g / 8 = 50 g cukru
+</reasoning>
+<answer>50 g</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+2 * 16 = <<2*16=32>>32 ciastek
+</reasoning>
+<answer>32</answer>

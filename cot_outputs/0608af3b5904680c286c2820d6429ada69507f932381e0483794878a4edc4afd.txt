@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 3 opakowań kredek to 3 * 5 zł = 15 zł. Koszt 2 opakowań długopisów to 2 * 4 zł = 8 zł. Koszt zeszytu to 10 zł. Razem zapłacił 15 zł + 8 zł + 10 zł = 33 zł.
+</reasoning>
+<answer>33</answer>

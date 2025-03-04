@@ -1,0 +1,4 @@
+<reasoning>
+Mąki = (36 / 12) * 3 = 3 * 3 = <<3*3=9>>9 szklanek.
+</reasoning>
+<answer>9</answer>

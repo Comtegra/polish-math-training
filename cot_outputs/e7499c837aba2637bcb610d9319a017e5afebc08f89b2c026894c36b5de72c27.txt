@@ -1,0 +1,5 @@
+<reasoning>
+Suma: 48 + 72 = <<48+72=120>>120 zł.
+Średnia: 120 / 2 = <<120/2=60>>60 zł.
+</reasoning>
+<answer>60</answer>

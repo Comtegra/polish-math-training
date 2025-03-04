@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie sprzedanych = 75 - 25 = <<75-25=50>>50 kg.
+</reasoning>
+<answer>50</answer>

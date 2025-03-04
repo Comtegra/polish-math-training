@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 4 * 32 = <<4*32=128>>128 stron.
+</reasoning>
+<answer>128</answer>

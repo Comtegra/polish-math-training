@@ -1,0 +1,4 @@
+<reasoning>
+180 / 90 = 2, 2 * 6 = <<2*6=12>>12 litrów.
+</reasoning>
+<answer>12</answer>

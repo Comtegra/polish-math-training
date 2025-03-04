@@ -1,0 +1,4 @@
+<reasoning>
+11 * 145 = <<11*145=1595>>1595 osób.
+</reasoning>
+<answer>1595</answer>

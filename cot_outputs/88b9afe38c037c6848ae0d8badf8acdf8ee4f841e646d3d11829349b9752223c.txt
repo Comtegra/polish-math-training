@@ -1,0 +1,4 @@
+<reasoning>
+Babeczki = 30 / 2 = <<30/2=15>>15 babeczek.
+</reasoning>
+<answer>15</answer>

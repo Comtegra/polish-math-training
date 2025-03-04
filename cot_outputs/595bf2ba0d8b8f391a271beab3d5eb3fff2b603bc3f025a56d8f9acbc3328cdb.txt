@@ -1,0 +1,5 @@
+<reasoning>
+Zwróconych: 160 / 8 = <<160/8=20>>20 książek.
+Na czas: 160 - 20 = <<160-20=140>>140 książek.
+</reasoning>
+<answer>140</answer>

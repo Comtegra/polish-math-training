@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 32 jabłka przez 4: 32 / 4 = <<32/4=8>>8 jabłek na osobę.
+</reasoning>
+<answer>8</answer>

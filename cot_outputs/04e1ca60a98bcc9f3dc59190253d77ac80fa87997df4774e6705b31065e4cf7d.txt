@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy pęknięte balony: 84 - 21 = <<84-21=63>>63.
+</reasoning>
+<answer>63</answer>

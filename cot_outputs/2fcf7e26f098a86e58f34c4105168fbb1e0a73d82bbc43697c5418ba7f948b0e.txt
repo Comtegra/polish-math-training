@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba części: 6 * 4 = <<6*4=24>>24 części.
+</reasoning>
+<answer>24</answer>

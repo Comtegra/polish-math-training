@@ -1,0 +1,4 @@
+<reasoning>
+210 / 7 = <<210/7=30>>30 zł.
+</reasoning>
+<answer>30</answer>

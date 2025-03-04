@@ -1,0 +1,6 @@
+<reasoning>
+Michał ma 6 butelek mleka
+Jego siostra ma 6 - 2 = 4 butelki mleka
+Razem mają 6 + 4 = 10 butelek mleka
+</reasoning>
+<answer>10</answer>

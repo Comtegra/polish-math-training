@@ -1,0 +1,4 @@
+<reasoning>
+Wadliwe = 10% z 540 = 54; poprawnych = 540 - 54 = <<540-54=486>>486 ołówków.
+</reasoning>
+<answer>486</answer>

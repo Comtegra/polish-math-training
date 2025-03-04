@@ -1,0 +1,5 @@
+<reasoning>
+20 + 5 = <<20+5=25>>25
+25 - 4 = <<25-4=21>>21 jabłek
+</reasoning>
+<answer>21</answer>

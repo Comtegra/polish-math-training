@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę książek: 8 * 30 = <<8*30=240>>240 książek.
+Odejmujemy wyjęte książki: 240 - 50 = <<240-50=190>>190 książek.
+</reasoning>
+<answer>190</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Z proporcji 3:2, soku jabłkowego = 15 * (2/3) = <<15*2/3=10>>10 części.
+</reasoning>
+<answer>10</answer>

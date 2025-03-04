@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dzielimy 20 jabłek między 4 kolegów: 20 ÷ 4 = <<20÷4=5>>5 jabłek na osobę.
+Następnie do każdego dodajemy 3 jabłka: 5 + 3 = <<5+3=8>>8 jabłek.
+</reasoning>
+<answer>8</answer>

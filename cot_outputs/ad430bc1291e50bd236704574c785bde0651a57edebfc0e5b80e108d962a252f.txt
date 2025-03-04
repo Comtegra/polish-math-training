@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba naklejek: 4 * 12 = <<4*12=48>>48 naklejek.
+Pozostało: 48 - 10 = <<48-10=38>>38 naklejek.
+</reasoning>
+<answer>38</answer>

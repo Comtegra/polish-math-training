@@ -1,0 +1,4 @@
+<reasoning>
+5 * 8 = <<5*8=40>>40 kredek
+</reasoning>
+<answer>40</answer>

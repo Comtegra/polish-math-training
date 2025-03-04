@@ -1,0 +1,5 @@
+<reasoning>
+80 - 25 = <<80-25=55>>55
+55 - 15 = <<55-15=40>>40 cukierków
+</reasoning>
+<answer>40</answer>

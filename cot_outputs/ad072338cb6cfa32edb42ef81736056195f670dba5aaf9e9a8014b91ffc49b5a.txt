@@ -1,0 +1,4 @@
+<reasoning>
+Cena normalna = 3 * 10 = 30 zł, po zniżce = 30 - 5 = <<30-5=25>>25 zł.
+</reasoning>
+<answer>25</answer>

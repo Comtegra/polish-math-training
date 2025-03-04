@@ -1,0 +1,4 @@
+<reasoning>
+Piotr kupił 3 sztuki odzieży sportowej po 25 zł za sztukę, co daje 3 * 25 zł = 75 zł. Zniżka wynosi 5% z 75 zł, czyli 0,05 * 75 zł = 3,75 zł. Zatem Piotr zapłaci 75 zł - 3,75 zł = 71,25 zł.
+</reasoning>
+<answer>71,25 zł</answer>

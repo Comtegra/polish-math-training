@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 4 * 9 = <<4*9=36>>36.
+Następnie: 36 - 3 = <<36-3=33>>33.
+</reasoning>
+<answer>33</answer>

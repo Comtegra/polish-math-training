@@ -1,0 +1,4 @@
+<reasoning>
+Nauczyciel rozdał po 2 cukierki każdemu z 25 uczniów, więc rozdał 25 * 2 = 50 cukierków.
+</reasoning>
+<answer>50</answer>

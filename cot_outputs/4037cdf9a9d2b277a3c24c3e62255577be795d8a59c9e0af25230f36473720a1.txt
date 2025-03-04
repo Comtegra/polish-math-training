@@ -1,0 +1,5 @@
+<reasoning>
+Koszt t-shirtów: 3 * 45 = <<3*45=135>>135 zł.
+Całkowity koszt: 135 + 80 = <<135+80=215>>215 zł.
+</reasoning>
+<answer>215</answer>

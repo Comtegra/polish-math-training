@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy uschnięte kwiaty: 144 / 3 = <<144/3=48>>48.
+Pozostało: 144 - 48 = <<144-48=96>>96.
+</reasoning>
+<answer>96</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 4 * 5 = <<4*5=20>>20.
+Odejmujemy zużyte: 20 - 6 = <<20-6=14>>14.
+</reasoning>
+<answer>14</answer>

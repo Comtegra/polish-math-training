@@ -1,0 +1,4 @@
+<reasoning>
+60 / 5 = <<60/5=12>>12 znaczków.
+</reasoning>
+<answer>12</answer>

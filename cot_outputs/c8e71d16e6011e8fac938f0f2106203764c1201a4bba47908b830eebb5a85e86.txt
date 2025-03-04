@@ -1,0 +1,5 @@
+<reasoning>
+Wyłączonych: 18 / 3 = <<18/3=6>>6.
+Działa: 18 - 6 = <<18-6=12>>12 komputerów.
+</reasoning>
+<answer>12</answer>

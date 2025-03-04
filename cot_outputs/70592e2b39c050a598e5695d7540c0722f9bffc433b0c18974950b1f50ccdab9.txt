@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie napojów: 60 * 2 = <<60*2=120>>120 napojów.
+</reasoning>
+<answer>120</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie produktów = 360 * 6 = <<360*6=2160>>2160 produktów.
+</reasoning>
+<answer>2160</answer>

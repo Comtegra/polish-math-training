@@ -1,0 +1,4 @@
+<reasoning>
+96 / 4 = 24 użytych, więc 96 - 24 = <<96-24=72>>72 talerzy.
+</reasoning>
+<answer>72</answer>

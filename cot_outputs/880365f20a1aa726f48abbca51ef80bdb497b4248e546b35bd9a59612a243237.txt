@@ -1,0 +1,4 @@
+<reasoning>
+10% z 200 = 20; 200 - 20 = <<200-20=180>>180 myszek.
+</reasoning>
+<answer>180 myszek</answer>

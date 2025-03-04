@@ -1,0 +1,4 @@
+<reasoning>
+300 - 220 = <<300-220=80>>80 zł
+</reasoning>
+<answer>80</answer>

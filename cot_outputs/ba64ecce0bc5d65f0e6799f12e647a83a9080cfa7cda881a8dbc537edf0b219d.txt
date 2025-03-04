@@ -1,0 +1,5 @@
+<reasoning>
+Desery: 900 ÷ 3 = 300.
+Dania główne: 900 − 300 = 600 porcji.
+</reasoning>
+<answer>600</answer>

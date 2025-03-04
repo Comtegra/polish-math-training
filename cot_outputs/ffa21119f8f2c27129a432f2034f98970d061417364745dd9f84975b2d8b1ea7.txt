@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego zeszytu: 28 / 7 = <<28/7=4>>4 zł.
+Łącznie: 21 * 4 = <<21*4=84>>84 zł.
+</reasoning>
+<answer>84</answer>

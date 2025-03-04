@@ -1,0 +1,4 @@
+<reasoning>
+6 * 3 = <<6*3=18>>18 kawałków
+</reasoning>
+<answer>18</answer>

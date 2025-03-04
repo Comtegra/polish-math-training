@@ -1,0 +1,5 @@
+<reasoning>
+Laptopy: 420 ÷ 7 = 60.
+Stacjonarne: 420 − 60 = 360 komputerów.
+</reasoning>
+<answer>360</answer>

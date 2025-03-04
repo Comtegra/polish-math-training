@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 54 liście przez 6: 54 / 6 = <<54/6=9>>9 liści na wianuszek.
+</reasoning>
+<answer>9</answer>

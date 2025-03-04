@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 5 paczek chipsów to 5 * 4 zł = 20 zł. Koszt 4 butelek oranżady to 4 * 3 zł = 12 zł. Razem Tomek wydał 20 zł + 12 zł = 32 zł. Pozostało mu 200 zł - 32 zł = 168 zł.
+</reasoning>
+<answer>168</answer>

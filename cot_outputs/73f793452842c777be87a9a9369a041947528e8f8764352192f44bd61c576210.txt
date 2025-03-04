@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie balonów: 40 * 3 = <<40*3=120>>120 balonów.
+</reasoning>
+<answer>120</answer>

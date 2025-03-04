@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy łączną liczbę łóżek: 10 * 2 = <<10*2=20>>20 łóżek.
+</reasoning>
+<answer>20</answer>

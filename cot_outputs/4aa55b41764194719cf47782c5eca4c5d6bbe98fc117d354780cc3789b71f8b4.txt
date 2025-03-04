@@ -1,0 +1,4 @@
+<reasoning>
+480 - 480*5/100 = 480 - 24 = <<480-24=456>>456 szalików.
+</reasoning>
+<answer>456</answer>

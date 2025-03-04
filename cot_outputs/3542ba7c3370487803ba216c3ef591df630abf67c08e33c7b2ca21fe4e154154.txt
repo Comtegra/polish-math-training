@@ -1,0 +1,4 @@
+<reasoning>
+180 - 120 = <<180-120=60>>60 zł
+</reasoning>
+<answer>60</answer>

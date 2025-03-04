@@ -1,0 +1,5 @@
+<reasoning>
+50 - 20 = <<50-20=30>>30 naklejek po rozdaniu
+30 + 15 = <<30+15=45>>45 naklejek po otrzymaniu od siostry
+</reasoning>
+<answer>45</answer>

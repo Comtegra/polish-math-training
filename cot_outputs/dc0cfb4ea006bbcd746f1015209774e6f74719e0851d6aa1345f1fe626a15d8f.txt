@@ -1,0 +1,4 @@
+<reasoning>
+Wolnych pokoi = 200 - 160 = <<200-160=40>>40 pokoi.
+</reasoning>
+<answer>40</answer>

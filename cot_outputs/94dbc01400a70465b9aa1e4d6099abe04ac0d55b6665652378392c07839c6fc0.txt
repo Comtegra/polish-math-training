@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej koszuli: 84 / 3 = <<84/3=28>>28 zł.
+Łącznie: 5 * 28 = <<5*28=140>>140 zł.
+</reasoning>
+<answer>140</answer>

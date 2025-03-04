@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie owoców = 35 * 6 = <<35*6=210>>210 owoców.
+</reasoning>
+<answer>210</answer>

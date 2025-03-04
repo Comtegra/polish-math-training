@@ -1,0 +1,4 @@
+<reasoning>
+30 * 32 = <<30*32=960>>960 uczniów.
+</reasoning>
+<answer>960</answer>

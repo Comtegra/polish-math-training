@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego banana: 8 / 5 = <<8/5=1.6>>1,6 zł.
+Łączny koszt: 25 * 1,6 = <<25*1.6=40>>40 zł.
+</reasoning>
+<answer>40</answer>

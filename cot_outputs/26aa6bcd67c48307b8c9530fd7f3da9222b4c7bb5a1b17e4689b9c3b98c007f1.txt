@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy napisane strony: 84 / 3 = <<84/3=28>>28.
+Następnie: 84 - 28 = <<84-28=56>>56.
+</reasoning>
+<answer>56</answer>

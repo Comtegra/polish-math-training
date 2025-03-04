@@ -1,0 +1,4 @@
+<reasoning>
+48 * (1+2) = 48*3 = <<48*3=144>>144 roślin.
+</reasoning>
+<answer>144</answer>

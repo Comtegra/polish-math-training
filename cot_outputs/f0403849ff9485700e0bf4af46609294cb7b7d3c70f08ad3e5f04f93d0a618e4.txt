@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę uczniów opuszczających lekcję: 28 / 4 = <<28/4=7>>7.
+Następnie odejmujemy: 28 - 7 = <<28-7=21>>21.
+</reasoning>
+<answer>21</answer>

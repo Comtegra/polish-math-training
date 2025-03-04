@@ -1,0 +1,5 @@
+<reasoning>
+Zapełnionych miejsc: 250 * 0.80 = <<250*0.80=200>>200.
+Wolnych miejsc: 250 - 200 = <<250-200=50>>50.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Czerwonych: 500 / 5 = <<500/5=100>>100.
+Nieczerwonych: 500 - 100 = <<500-100=400>>400.
+</reasoning>
+<answer>400</answer>

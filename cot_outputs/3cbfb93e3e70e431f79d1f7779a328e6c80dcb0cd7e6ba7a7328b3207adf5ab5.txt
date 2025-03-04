@@ -1,0 +1,4 @@
+<reasoning>
+96 / 8 = <<96/8=12>>12 kamieni
+</reasoning>
+<answer>12</answer>

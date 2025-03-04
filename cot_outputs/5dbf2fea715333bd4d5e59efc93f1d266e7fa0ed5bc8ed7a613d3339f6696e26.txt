@@ -1,0 +1,4 @@
+<reasoning>
+15 * 2 = <<15*2=30>>30 zł.
+</reasoning>
+<answer>30</answer>

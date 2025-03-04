@@ -1,0 +1,4 @@
+<reasoning>
+Liczba podlewań = 60 / 4 = <<60/4=15>>15 razy.
+</reasoning>
+<answer>15</answer>

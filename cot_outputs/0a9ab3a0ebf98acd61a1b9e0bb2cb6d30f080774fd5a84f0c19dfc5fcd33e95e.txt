@@ -1,0 +1,4 @@
+<reasoning>
+90 - 30 = <<90-30=60>>60 liści
+</reasoning>
+<answer>60</answer>

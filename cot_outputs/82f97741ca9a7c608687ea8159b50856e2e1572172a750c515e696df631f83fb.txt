@@ -1,0 +1,5 @@
+<reasoning>
+Uczniów z dyplomami: 48 ÷ 3 = 16.
+Bez dyplomów: 48 − 16 = 32 uczniów.
+</reasoning>
+<answer>32</answer>

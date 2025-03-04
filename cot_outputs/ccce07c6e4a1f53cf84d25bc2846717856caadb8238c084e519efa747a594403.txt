@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy: 200 + 30 = <<200+30=230>>230.
+Następnie: 230 - 15 = <<230-15=215>>215.
+Na końcu: 215 + 20 = <<215+20=235>>235.
+</reasoning>
+<answer>235</answer>

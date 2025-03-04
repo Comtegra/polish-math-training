@@ -1,0 +1,4 @@
+<reasoning>
+8 * (250/100) = 8 * 2.5 = <<8*2.5=20>>20 litrów.
+</reasoning>
+<answer>20</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy monety dla jednej osoby: 90 - 5 = <<90-5=85>>85.
+Dzielimy pozostałe monety między 5 uczniów: 85 / 5 = <<85/5=17>>17.
+</reasoning>
+<answer>17</answer>

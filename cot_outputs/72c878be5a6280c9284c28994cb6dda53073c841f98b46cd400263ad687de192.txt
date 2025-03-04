@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dodajemy zdobyte punkty: 70 + 15 = <<70+15=85>>85.
+Następnie odejmujemy stracone punkty: 85 - 10 = <<85-10=75>>75.
+</reasoning>
+<answer>75</answer>

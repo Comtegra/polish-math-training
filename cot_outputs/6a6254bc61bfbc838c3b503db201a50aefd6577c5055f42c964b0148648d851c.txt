@@ -1,0 +1,4 @@
+<reasoning>
+45 * 80 = <<45*80=3600>>3600 owoców.
+</reasoning>
+<answer>3600</answer>

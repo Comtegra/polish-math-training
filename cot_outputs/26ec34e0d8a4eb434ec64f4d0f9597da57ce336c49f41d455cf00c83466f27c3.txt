@@ -1,0 +1,5 @@
+<reasoning>
+Biletów ulgowych: 420 / 7 = <<420/7=60>>60.
+Biletów normalnych: 420 - 60 = <<420-60=360>>360.
+</reasoning>
+<answer>360</answer>

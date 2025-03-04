@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zeszytów = 250 - 50 = <<250-50=200>>200 zeszytów.
+</reasoning>
+<answer>200</answer>

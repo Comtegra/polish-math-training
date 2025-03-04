@@ -1,0 +1,5 @@
+<reasoning>
+Kasia ma: 45 + 20 = <<45+20=65>>65 znaczków.
+Łącznie: 45 + 65 = <<45+65=110>>110 znaczków.
+</reasoning>
+<answer>110</answer>

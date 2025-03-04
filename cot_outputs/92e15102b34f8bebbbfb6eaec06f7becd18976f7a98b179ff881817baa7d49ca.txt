@@ -1,0 +1,4 @@
+<reasoning>
+Brat Marka ma 600 g / 2 = 300 g cukru
+</reasoning>
+<answer>300 g</answer>

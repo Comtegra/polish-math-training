@@ -1,0 +1,6 @@
+<reasoning>
+3 * 20 = <<3*20=60>>60 zł za książki
+2 * 3 = <<2*3=6>>6 zł za długopisy
+60 + 6 = <<60+6=66>>66 zł łącznie
+</reasoning>
+<answer>66</answer>

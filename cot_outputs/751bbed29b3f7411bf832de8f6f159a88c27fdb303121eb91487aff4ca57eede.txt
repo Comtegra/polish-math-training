@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy całkowitą liczbę puszek: 3 * 5 = <<3*5=15>>15.
+Odejmujemy zużyte puszki: 15 - 7 = <<15-7=8>>8.
+</reasoning>
+<answer>8</answer>

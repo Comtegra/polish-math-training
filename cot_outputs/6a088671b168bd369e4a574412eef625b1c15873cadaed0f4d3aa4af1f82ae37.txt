@@ -1,0 +1,5 @@
+<reasoning>
+Liczba wadliwych: 700 * 0.10 = <<700*0.10=70>>70.
+Dobrych: 700 - 70 = <<700-70=630>>630.
+</reasoning>
+<answer>630</answer>

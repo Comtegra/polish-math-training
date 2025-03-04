@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej pary: 40 / 5 = <<40/5=8>>8 zł.
+Łącznie: 9 * 8 = <<9*8=72>>72 zł.
+</reasoning>
+<answer>72</answer>

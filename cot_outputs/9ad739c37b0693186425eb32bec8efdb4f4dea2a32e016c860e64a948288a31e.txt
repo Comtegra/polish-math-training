@@ -1,0 +1,5 @@
+<reasoning>
+Litrów rozlanych: 420 * 0.15 = <<420*0.15=63>>63.
+Pozostało: 420 - 63 = <<420-63=357>>357 litrów.
+</reasoning>
+<answer>357</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie ołówków = 8 * 10 = <<8*10=80>>80 ołówków.
+</reasoning>
+<answer>80</answer>

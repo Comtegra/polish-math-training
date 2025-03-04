@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 84 / 7 = <<84/7=12>>12 pudełek.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+3 * 5 = <<3*5=15>>15 długopisów
+</reasoning>
+<answer>15</answer>

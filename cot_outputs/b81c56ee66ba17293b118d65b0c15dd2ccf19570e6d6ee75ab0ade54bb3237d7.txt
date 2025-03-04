@@ -1,0 +1,6 @@
+<reasoning>
+Podzielmy 9 czekolad na grupy po 3: 9 / 3 = <<9/3=3>>3 grupy.
+W każdej grupie płaci za 2 czekolady: 3 * 2 = 6 czekolad.
+Koszt: 6 * 5 = <<6*5=30>>30 zł.
+</reasoning>
+<answer>30</answer>

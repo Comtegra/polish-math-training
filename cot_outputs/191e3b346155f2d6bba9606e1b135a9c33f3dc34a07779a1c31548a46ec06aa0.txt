@@ -1,0 +1,4 @@
+<reasoning>
+Ostatecznie sprzedano = 85 - 20 = <<85-20=65>>65 kaw.
+</reasoning>
+<answer>65</answer>

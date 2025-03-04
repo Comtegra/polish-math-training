@@ -1,0 +1,4 @@
+<reasoning>
+Łączna ilość soku: 8 * 1,5 = <<8*1.5=12>>12 litrów.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Tomek kupił 3 pudełka kredek po 12 sztuk każde. Aby znaleźć całkowitą liczbę sztuk kredek, mnożymy liczbę pudełek przez liczbę sztuk w każdym pudełku: 3 * 12 = 36 sztuk kredek.
+</reasoning>
+<answer>36 sztuk kredek</answer>

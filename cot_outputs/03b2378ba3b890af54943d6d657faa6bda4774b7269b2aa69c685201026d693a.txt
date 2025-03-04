@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie origami = 12 * 5 = <<12*5=60>>60 origami.
+</reasoning>
+<answer>60</answer>

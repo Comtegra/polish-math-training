@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 6 * 120 = <<6*120=720>>720 widzów.
+</reasoning>
+<answer>720</answer>

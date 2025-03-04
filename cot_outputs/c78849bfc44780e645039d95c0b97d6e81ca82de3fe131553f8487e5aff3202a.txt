@@ -1,0 +1,4 @@
+<reasoning>
+Niech x oznacza kwotę, którą zapłaciła Ola. Wtedy Marek zapłacił x + 15 zł. Razem zapłacili 75 zł, więc x + (x + 15 zł) = 75 zł. To upraszcza się do 2x + 15 zł = 75 zł, a następnie 2x = 60 zł. Stąd x = 60 zł / 2 = 30 zł. Ola zapłaciła 30 zł.
+</reasoning>
+<answer>30</answer>

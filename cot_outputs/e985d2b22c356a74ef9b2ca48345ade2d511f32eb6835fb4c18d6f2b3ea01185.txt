@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 120 stron przez 4 dni: 120 / 4 = <<120/4=30>>30 stron dziennie.
+</reasoning>
+<answer>30</answer>

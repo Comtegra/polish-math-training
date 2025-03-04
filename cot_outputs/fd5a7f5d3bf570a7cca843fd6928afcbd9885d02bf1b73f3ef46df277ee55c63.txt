@@ -1,0 +1,4 @@
+<reasoning>
+Marek wydał 5 * 15 zł na książki i 3 * 3 zł na zeszyty. Zatem łączna kwota: (5 * 15) + (3 * 3) = 75 zł + 9 zł = 84 zł.
+</reasoning>
+<answer>84</answer>

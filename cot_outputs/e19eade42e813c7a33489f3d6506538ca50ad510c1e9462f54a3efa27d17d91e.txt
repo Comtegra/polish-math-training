@@ -1,0 +1,4 @@
+<reasoning>
+45 / 3 = <<45/3=15>>15 ciastek.
+</reasoning>
+<answer>15</answer>

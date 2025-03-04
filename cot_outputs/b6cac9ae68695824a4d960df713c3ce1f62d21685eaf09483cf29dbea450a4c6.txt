@@ -1,0 +1,4 @@
+<reasoning>
+Łączna produkcja: 150 * 6 = <<150*6=900>>900 sztuk.
+</reasoning>
+<answer>900</answer>

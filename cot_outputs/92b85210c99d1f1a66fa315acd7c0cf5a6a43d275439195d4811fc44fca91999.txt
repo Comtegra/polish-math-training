@@ -1,0 +1,4 @@
+<reasoning>
+2 * 750 = <<2*750=1500>>1500 zł.
+</reasoning>
+<answer>1500 zł</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+3 * 9 = <<3*9=27>>27 ciastek
+</reasoning>
+<answer>27</answer>

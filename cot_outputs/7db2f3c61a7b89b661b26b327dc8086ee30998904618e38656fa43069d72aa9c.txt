@@ -1,0 +1,4 @@
+<reasoning>
+10 * 18 = <<10*18=180>>180 uczniów.
+</reasoning>
+<answer>180</answer>

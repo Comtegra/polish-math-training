@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy kredki: 96 / 8 = <<96/8=12>>12.
+</reasoning>
+<answer>12</answer>

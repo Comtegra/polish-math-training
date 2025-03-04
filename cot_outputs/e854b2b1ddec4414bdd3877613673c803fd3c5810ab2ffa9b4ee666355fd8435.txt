@@ -1,0 +1,4 @@
+<reasoning>
+8% z 240 = 19.2; 240 - 19.2 ≈ <<240-19.2=221>>221 posiłków.
+</reasoning>
+<answer>221</answer>

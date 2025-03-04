@@ -1,0 +1,4 @@
+<reasoning>
+180 * 20/100 = <<180*20/100=36>>36 kaw latte.
+</reasoning>
+<answer>36</answer>

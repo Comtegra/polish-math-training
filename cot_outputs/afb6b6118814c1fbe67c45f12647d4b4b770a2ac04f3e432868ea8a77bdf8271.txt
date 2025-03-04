@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy koszt zabawki od kwoty: 100 - 35 = <<100-35=65>>65 zł.
+</reasoning>
+<answer>65</answer>

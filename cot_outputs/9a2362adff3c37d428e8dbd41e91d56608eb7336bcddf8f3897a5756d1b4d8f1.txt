@@ -1,0 +1,5 @@
+<reasoning>
+72 - 12 = <<72-12=60>>60 cukierków po zjedzeniu
+60 - 18 = <<60-18=42>>42 cukierki po oddaniu
+</reasoning>
+<answer>42</answer>

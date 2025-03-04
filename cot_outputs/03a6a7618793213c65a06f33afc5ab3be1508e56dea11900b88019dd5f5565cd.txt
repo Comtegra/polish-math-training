@@ -1,0 +1,4 @@
+<reasoning>
+45 - 12 = <<45-12=33>>33 miejsc.
+</reasoning>
+<answer>33</answer>

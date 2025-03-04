@@ -1,0 +1,4 @@
+<reasoning>
+Paweł kupi 6 paczek cukierków, a każda paczka zawiera 20 sztuk, co daje 6 * 20 zł = 120 zł. Zniżka wynosi 10% z 120 zł, czyli 0,10 * 120 zł = 12 zł. Zatem Paweł zapłaci 120 zł - 12 zł = 108 zł.
+</reasoning>
+<answer>108 zł</answer>

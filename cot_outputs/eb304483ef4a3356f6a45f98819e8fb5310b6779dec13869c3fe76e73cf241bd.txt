@@ -1,0 +1,5 @@
+<reasoning>
+68 - 18 = <<68-18=50>>50 cukierków po zjedzeniu
+50 - 10 = <<50-10=40>>40 cukierków
+</reasoning>
+<answer>40</answer>

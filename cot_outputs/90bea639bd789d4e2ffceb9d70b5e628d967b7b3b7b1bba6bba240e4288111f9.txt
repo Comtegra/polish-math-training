@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę kawałków: 3 * 12 = <<3*12=36>>36.
+Odejmujemy zjedzone: 36 - 4 = <<36-4=32>>32.
+</reasoning>
+<answer>32</answer>

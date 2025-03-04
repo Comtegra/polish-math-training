@@ -1,0 +1,5 @@
+<reasoning>
+Łączny koszt zabawek: 3 * 12 = <<3*12=36>>36 zł.
+Odejmujemy od 50 zł: 50 - 36 = <<50-36=14>>14 zł.
+</reasoning>
+<answer>14</answer>

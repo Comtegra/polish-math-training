@@ -1,0 +1,4 @@
+<reasoning>
+4 * 5 = <<4*5=20>>20 długopisów
+</reasoning>
+<answer>20</answer>

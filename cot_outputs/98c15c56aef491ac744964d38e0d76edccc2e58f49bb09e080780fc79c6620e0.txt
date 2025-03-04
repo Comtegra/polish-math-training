@@ -1,0 +1,6 @@
+<reasoning>
+Koszt jednego kubka mleka to 1,20 zł
+Ewa kupiła 5 kubków
+Całkowity koszt to 5 * 1,20 zł = 6 zł
+</reasoning>
+<answer>6</answer>

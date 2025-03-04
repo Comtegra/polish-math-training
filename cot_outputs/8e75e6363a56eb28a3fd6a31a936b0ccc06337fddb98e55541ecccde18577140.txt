@@ -1,0 +1,5 @@
+<reasoning>
+2 * 11 = <<2*11=22>>22 zł
+22 + 2 = <<22+2=24>>24 zł
+</reasoning>
+<answer>24</answer>

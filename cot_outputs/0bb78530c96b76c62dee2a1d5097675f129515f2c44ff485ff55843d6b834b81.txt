@@ -1,0 +1,4 @@
+<reasoning>
+3 * 400 = <<3*400=1200>>1200 g
+</reasoning>
+<answer>1200 g</answer>

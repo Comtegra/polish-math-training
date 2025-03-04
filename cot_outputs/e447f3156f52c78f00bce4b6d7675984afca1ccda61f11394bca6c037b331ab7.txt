@@ -1,0 +1,4 @@
+<reasoning>
+Piotr kupił 5 puszek napoju gazowanego po 2,50 zł za sztukę, co daje 5 * 2,50 zł = 12,50 zł. Zniżka wynosi 5% z 12,50 zł, czyli 0,05 * 12,50 zł = 0,625 zł. Zatem Piotr zapłaci 12,50 zł - 0,625 zł = 11,875 zł.
+</reasoning>
+<answer>11,875 zł</answer>

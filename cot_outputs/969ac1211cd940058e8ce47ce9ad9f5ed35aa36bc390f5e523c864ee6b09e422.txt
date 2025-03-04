@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych butelek = 65 - 15 = <<65-15=50>>50 butelek.
+</reasoning>
+<answer>50</answer>

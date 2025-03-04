@@ -1,0 +1,4 @@
+<reasoning>
+3 * 2.5 = <<3*2.5=7.5>>7.5 litra
+</reasoning>
+<answer>7.5 litrów</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Sprzedano = 480 - 120 = <<480-120=360>>360 produktów.
+</reasoning>
+<answer>360</answer>

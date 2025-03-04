@@ -1,0 +1,4 @@
+<reasoning>
+22 / 2 = <<22/2=11>>11 zawodników.
+</reasoning>
+<answer>11 zawodników</answer>

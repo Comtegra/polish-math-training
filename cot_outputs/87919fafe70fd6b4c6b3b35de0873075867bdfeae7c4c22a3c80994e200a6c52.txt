@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy koszt książki: 50 - 18 = <<50-18=32>>32.
+Następnie odejmujemy koszt zeszytu: 32 - 7 = <<32-7=25>>25.
+</reasoning>
+<answer>25</answer>

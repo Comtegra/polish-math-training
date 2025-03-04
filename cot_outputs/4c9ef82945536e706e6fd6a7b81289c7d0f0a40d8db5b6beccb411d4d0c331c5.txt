@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy oddane jabłka: 20 - 5 = <<20-5=15>>15.
+Następnie dodajemy kupione jabłka: 15 + 8 = <<15+8=23>>23.
+</reasoning>
+<answer>23</answer>

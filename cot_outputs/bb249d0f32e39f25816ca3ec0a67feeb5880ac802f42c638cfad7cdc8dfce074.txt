@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie megapikseli = 16 * 25 = <<16*25=400>>400 megapikseli.
+</reasoning>
+<answer>400</answer>

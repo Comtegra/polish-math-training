@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba gałęzi: 11 * 9 = <<11*9=99>>99 gałęzi.
+</reasoning>
+<answer>99</answer>

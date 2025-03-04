@@ -1,0 +1,4 @@
+<reasoning>
+Suma osób: 15 + 20 + 10 + 5 = <<15+20+10+5=50>>50 osób.
+</reasoning>
+<answer>50</answer>

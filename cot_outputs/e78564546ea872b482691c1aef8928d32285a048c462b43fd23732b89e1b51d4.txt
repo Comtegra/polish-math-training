@@ -1,0 +1,4 @@
+<reasoning>
+2 * 800 = <<2*800=1600>>1600 g
+</reasoning>
+<answer>1600 g</answer>

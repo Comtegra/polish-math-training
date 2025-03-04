@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 4 * 8 = <<4*8=32>>32.
+Następnie: 32 - 3 = <<32-3=29>>29.
+</reasoning>
+<answer>29</answer>

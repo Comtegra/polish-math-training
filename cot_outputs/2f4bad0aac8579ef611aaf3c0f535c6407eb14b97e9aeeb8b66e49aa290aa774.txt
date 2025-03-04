@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego długopisu: 16 / 8 = <<16/8=2>>2 zł.
+24 * 2 = <<24*2=48>>48 zł.
+</reasoning>
+<answer>48</answer>

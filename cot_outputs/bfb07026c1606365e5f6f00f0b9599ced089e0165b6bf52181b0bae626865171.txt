@@ -1,0 +1,5 @@
+<reasoning>
+3 * 17 = <<3*17=51>>51 ciastek początkowo
+51 - 12 = <<51-12=39>>39 ciastek
+</reasoning>
+<answer>39</answer>

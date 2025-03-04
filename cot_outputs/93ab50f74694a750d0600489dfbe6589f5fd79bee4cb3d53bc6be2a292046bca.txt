@@ -1,0 +1,5 @@
+<reasoning>
+Koszt obu gier wynosi 90 zł + 120 zł = 210 zł
+Tomek ma 300 zł > 210 zł, więc ma wystarczająco pieniędzy
+</reasoning>
+<answer>Tak</answer>

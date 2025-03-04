@@ -1,0 +1,4 @@
+<reasoning>
+6 * 11 = <<6*11=66>>66 ciastek
+</reasoning>
+<answer>66</answer>

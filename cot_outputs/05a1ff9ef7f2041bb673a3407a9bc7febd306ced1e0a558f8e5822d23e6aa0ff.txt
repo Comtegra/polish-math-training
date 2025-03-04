@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 4 opakowań jogurtu naturalnego to 4 * 3 zł = 12 zł. Koszt 2 opakowań jogurtu owocowego to 2 * 2,5 zł = 5 zł. Razem zapłacił 12 zł + 5 zł = 17 zł.
+</reasoning>
+<answer>17</answer>

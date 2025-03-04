@@ -1,0 +1,4 @@
+<reasoning>
+Liczba dzieci z niebieskimi plecakami: 40 / 4 = <<40/4=10>>10.
+</reasoning>
+<answer>10</answer>

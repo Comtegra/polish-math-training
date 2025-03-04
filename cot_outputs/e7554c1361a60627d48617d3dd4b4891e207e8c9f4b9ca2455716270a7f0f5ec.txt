@@ -1,0 +1,4 @@
+<reasoning>
+Samolotów na czas = 80 - 25 = <<80-25=55>>55 samolotów.
+</reasoning>
+<answer>55</answer>

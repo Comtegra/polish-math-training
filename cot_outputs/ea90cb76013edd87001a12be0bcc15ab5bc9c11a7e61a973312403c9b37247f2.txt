@@ -1,0 +1,4 @@
+<reasoning>
+Koszt cukru to 3 kg * 7 zł/kg = 21 zł.Koszt mąki to 2 kg * 6 zł/kg = 12 zł.Łączny koszt to 21 zł + 12 zł = 33 zł.
+</reasoning>
+<answer>33 zł</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+250 * 30/100 = 75; 250 - 75 = <<250-75=175>>175 kanapek.
+</reasoning>
+<answer>175 kanapek</answer>

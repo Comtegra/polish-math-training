@@ -1,0 +1,4 @@
+<reasoning>
+Karty rozdzielimy równo na dwie osoby, więc 25 kart / 2 = 12,5 karty na osobę. Ponieważ karty nie można dzielić, każda osoba otrzyma 12 kart, a jedna karta zostanie nierozdana.
+</reasoning>
+<answer>Kamil: 12 kart, Julka: 12 kart, nierozdana: 1 karta</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy: 10 / 5 = <<10/5=2>>2.
+</reasoning>
+<answer>2</answer>

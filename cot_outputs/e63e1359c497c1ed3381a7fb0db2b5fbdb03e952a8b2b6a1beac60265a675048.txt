@@ -1,0 +1,4 @@
+<reasoning>
+Mateusz jeździ do szkoły 20 dni w miesiącu, więc w ciągu 5 miesięcy będzie potrzebował 20 * 5 = 100 biletów jednorazowych. Koszt tych biletów wyniesie 100 * 3 zł = 300 zł. Miesięczny bilet szkolny kosztuje 100 zł, więc na 5 miesięcy zapłaci 5 * 100 zł = 500 zł. Zaoszczędzi 300 zł - 500 zł = -200 zł (czyli będzie musiał dopłacić 200 zł).
+</reasoning>
+<answer>-200</answer>

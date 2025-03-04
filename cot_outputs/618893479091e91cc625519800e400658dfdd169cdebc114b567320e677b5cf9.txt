@@ -1,0 +1,4 @@
+<reasoning>
+10% z 500 = 50; 500 - 50 = <<500-50=450>>450 pudeł.
+</reasoning>
+<answer>450</answer>

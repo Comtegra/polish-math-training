@@ -1,0 +1,4 @@
+<reasoning>
+Dni = 150 / 30 = <<150/30=5>>5 dni.
+</reasoning>
+<answer>5</answer>

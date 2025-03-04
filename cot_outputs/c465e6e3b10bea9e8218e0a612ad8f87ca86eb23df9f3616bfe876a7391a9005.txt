@@ -1,0 +1,5 @@
+<reasoning>
+3 * 2 = <<3*2=6>>6 litrów
+6 - 4 = <<6-4=2>>2 litry
+</reasoning>
+<answer>2</answer>

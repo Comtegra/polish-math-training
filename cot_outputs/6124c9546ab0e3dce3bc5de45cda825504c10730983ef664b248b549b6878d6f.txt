@@ -1,0 +1,4 @@
+<reasoning>
+Wystawionych obrazów = 95 - 15 = <<95-15=80>>80 obrazów.
+</reasoning>
+<answer>80</answer>

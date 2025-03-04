@@ -1,0 +1,4 @@
+<reasoning>
+35 / 7 = <<35/7=5>>5 mm.
+</reasoning>
+<answer>5</answer>

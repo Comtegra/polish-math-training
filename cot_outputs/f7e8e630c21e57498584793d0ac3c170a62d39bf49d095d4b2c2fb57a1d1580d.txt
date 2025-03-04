@@ -1,0 +1,4 @@
+<reasoning>
+16 * 9 = <<16*9=144>>144 owoców.
+</reasoning>
+<answer>144</answer>

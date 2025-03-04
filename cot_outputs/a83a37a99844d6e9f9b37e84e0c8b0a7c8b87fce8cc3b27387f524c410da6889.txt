@@ -1,0 +1,4 @@
+<reasoning>
+Marek kupił 5 paczek czekoladek, czyli 5 * 3 = 15 zł. Każda paczka zawierała 10 czekoladek, więc początkowo miał 5 * 10 = 50 czekoladek. Po zjedzeniu połowy pozostało mu 50 / 2 = 25 czekoladek.
+</reasoning>
+<answer>25</answer>

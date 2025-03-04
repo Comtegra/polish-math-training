@@ -1,0 +1,5 @@
+<reasoning>
+Koszt wszystkich gier wynosi 60 zł + 70 zł + 80 zł = 210 zł
+Tomek ma 400 zł > 210 zł, więc ma wystarczająco pieniędzy
+</reasoning>
+<answer>Tak</answer>

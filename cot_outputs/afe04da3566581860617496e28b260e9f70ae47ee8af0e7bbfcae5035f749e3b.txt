@@ -1,0 +1,7 @@
+<reasoning>
+Sprzedane w pierwszej godzinie: 500 * 0,30 = <<500*0.30=150>>150
+Sprzedane w drugiej godzinie: 500 * 0,40 = <<500*0.40=200>>200
+Łącznie sprzedano: 150 + 200 = <<150+200=350>>350
+Pozostało: 500 - 350 = <<500-350=150>>150 porcji
+</reasoning>
+<answer>150</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie uczniów = 22 * 20 = <<22*20=440>>440 uczniów.
+</reasoning>
+<answer>440</answer>

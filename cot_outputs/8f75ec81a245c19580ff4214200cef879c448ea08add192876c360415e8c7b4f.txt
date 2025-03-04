@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało osób = 500 - 75 = <<500-75=425>>425 osób.
+</reasoning>
+<answer>425</answer>

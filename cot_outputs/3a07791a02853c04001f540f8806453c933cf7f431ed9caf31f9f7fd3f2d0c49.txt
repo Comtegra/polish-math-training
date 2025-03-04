@@ -1,0 +1,4 @@
+<reasoning>
+Liczba pudełek = 120 / 10 = <<120/10=12>>12 pudełek.
+</reasoning>
+<answer>12</answer>

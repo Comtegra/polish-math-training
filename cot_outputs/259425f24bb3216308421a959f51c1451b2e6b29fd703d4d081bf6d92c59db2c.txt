@@ -1,0 +1,4 @@
+<reasoning>
+160 - 110 = <<160-110=50>>50 zł
+</reasoning>
+<answer>50</answer>

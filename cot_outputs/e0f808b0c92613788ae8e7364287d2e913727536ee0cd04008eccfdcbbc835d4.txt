@@ -1,0 +1,6 @@
+<reasoning>
+Agnieszka ma 8 paczek
+Jej brat ma 8 - 2 = 6 paczek
+Razem mają 8 + 6 = 14 paczek
+</reasoning>
+<answer>14</answer>

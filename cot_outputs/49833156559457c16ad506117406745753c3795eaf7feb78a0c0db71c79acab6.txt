@@ -1,0 +1,4 @@
+<reasoning>
+100 * 25/100 = <<100*25/100=25>>25 osób.
+</reasoning>
+<answer>25</answer>

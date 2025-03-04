@@ -1,0 +1,5 @@
+<reasoning>
+Liczba uszkodzonych pluszaków: 150 * 0.20 = <<150*0.20=30>>30.
+Dobrych pluszaków: 150 - 30 = <<150-30=120>>120.
+</reasoning>
+<answer>120</answer>

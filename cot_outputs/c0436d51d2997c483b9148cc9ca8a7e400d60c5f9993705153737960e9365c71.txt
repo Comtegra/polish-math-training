@@ -1,0 +1,5 @@
+<reasoning>
+300 - 120 = <<300-120=180>>180
+180 + 80 = <<180+80=260>>260 punktów
+</reasoning>
+<answer>260</answer>

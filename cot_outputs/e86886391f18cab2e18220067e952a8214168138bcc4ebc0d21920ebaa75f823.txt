@@ -1,0 +1,4 @@
+<reasoning>
+100 * 10 = <<100*10=1000>>1000 zł.
+</reasoning>
+<answer>1000 zł</answer>

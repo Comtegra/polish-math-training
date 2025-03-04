@@ -1,0 +1,4 @@
+<reasoning>
+Kuba zapłacił za wodę 12 * 2 = 24 zł.
+</reasoning>
+<answer>24</answer>

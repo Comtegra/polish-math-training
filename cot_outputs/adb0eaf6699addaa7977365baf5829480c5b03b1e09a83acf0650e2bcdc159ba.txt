@@ -1,0 +1,5 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 zł
+70 - 12 = <<70-12=58>>58 zł
+</reasoning>
+<answer>58</answer>

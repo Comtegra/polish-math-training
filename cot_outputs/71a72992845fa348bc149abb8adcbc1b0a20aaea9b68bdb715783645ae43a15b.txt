@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy pęknięte balony: 48 - 16 = <<48-16=32>>32.
+</reasoning>
+<answer>32</answer>

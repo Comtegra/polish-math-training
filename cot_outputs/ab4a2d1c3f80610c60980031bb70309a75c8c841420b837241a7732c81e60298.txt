@@ -1,0 +1,4 @@
+<reasoning>
+Jasiek kupił 3 książki o kosmosie i 2 książki o sportach zimowych. Aby znaleźć całkowitą liczbę książek, sumujemy te wartości: 3 + 2 = 5 książek.
+</reasoning>
+<answer>5 książek</answer>

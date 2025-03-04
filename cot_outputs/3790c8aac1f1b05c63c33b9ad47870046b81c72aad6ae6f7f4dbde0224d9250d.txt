@@ -1,0 +1,4 @@
+<reasoning>
+Liczba porcji = 3 / 0.5 = <<3/0.5=6>>6 porcji.
+</reasoning>
+<answer>6</answer>

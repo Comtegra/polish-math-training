@@ -1,0 +1,4 @@
+<reasoning>
+4 * 25 = <<4*25=100>>100 saszetek.
+</reasoning>
+<answer>100</answer>

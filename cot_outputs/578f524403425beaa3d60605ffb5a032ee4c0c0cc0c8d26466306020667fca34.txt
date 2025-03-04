@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 3 * 25 = <<3*25=75>>75.
+</reasoning>
+<answer>75</answer>

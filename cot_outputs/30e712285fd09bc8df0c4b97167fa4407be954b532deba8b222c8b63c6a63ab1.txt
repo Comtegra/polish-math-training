@@ -1,0 +1,5 @@
+<reasoning>
+Bilety studenckie: 640 ÷ 8 = 80.
+Normalne: 640 − 80 = 560 biletów.
+</reasoning>
+<answer>560</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Odejmujemy: 30 - 5 = <<30-5=25>>25.
+</reasoning>
+<answer>25</answer>

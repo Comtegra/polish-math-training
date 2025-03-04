@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 150 * (2/5) = <<150*0.4=60>>60 ciastek.
+Pozostało: 150 - 60 = <<150-60=90>>90 ciastek.
+</reasoning>
+<answer>90</answer>

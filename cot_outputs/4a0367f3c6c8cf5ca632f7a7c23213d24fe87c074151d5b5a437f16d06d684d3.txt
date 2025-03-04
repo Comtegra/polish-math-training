@@ -1,0 +1,4 @@
+<reasoning>
+55 * 10 = <<55*10=550>>550 ołówków.
+</reasoning>
+<answer>550 ołówków</answer>

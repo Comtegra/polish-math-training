@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało stron = 200 - 50 = <<200-50=150>>150 stron.
+</reasoning>
+<answer>150</answer>

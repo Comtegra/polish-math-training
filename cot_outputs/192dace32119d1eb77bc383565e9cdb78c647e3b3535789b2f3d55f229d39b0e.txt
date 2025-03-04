@@ -1,0 +1,6 @@
+<reasoning>
+Odejmujemy wydatki: 200 - 50 = <<200-50=150>>150.
+Następnie: 150 - 30 = <<150-30=120>>120.
+Dodajemy zwrot: 120 + 20 = <<120+20=140>>140.
+</reasoning>
+<answer>140</answer>

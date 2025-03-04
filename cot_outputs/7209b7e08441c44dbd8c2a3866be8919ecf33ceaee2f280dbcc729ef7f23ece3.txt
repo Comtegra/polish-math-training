@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 15 * 10 = <<15*10=150>>150 warzyw.
+</reasoning>
+<answer>150</answer>

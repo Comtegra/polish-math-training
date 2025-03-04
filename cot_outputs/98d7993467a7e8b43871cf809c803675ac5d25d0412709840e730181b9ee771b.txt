@@ -1,0 +1,5 @@
+<reasoning>
+Zepsutych: 24 / 4 = <<24/4=6>>6.
+Używanych: 24 - 6 = <<24-6=18>>18 krzeseł.
+</reasoning>
+<answer>18</answer>

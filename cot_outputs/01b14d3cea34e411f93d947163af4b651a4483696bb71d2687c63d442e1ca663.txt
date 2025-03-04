@@ -1,0 +1,5 @@
+<reasoning>
+Zarobek brutto: 8 * 15 = <<8*15=120>>120 zł
+Po odjęciu 20% podatku: 120 * 80% = <<120*0.8=96>>96 zł
+</reasoning>
+<answer>96</answer>

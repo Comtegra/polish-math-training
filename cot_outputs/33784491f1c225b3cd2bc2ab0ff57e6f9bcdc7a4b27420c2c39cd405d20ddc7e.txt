@@ -1,0 +1,7 @@
+<reasoning>
+Pierwszego dnia przeczytał: 400 / 4 = <<400/4=100>>100 stron
+Drugiego dnia przeczytał: 100 + 100 = <<100+100=200>>200 stron
+Łącznie w dwa dni: 100 + 200 = <<100+200=300>>300 stron
+Trzeciego dnia: 400 - 300 = <<400-300=100>>100 stron
+</reasoning>
+<answer>100</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+360 * 12 = <<360*12=4320>>4320 zł.
+</reasoning>
+<answer>4320 zł</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Komiksy: 360 / 3 = <<360/3=120>>120.
+Nie-komiksów: 360 - 120 = <<360-120=240>>240.
+</reasoning>
+<answer>240</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Cena 1 kg mąki: 90 / 15 = <<90/15=6>>6 zł.
+</reasoning>
+<answer>6</answer>

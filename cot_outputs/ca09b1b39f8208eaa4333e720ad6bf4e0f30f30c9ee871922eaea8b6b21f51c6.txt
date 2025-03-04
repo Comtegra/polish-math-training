@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 250 - (3 * 60) = 250 - 180 = <<250-180=70>>70 zł.
+</reasoning>
+<answer>70</answer>

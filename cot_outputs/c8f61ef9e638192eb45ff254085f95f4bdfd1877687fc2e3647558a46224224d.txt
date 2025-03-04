@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę ciasteczek: 4 * 18 = <<4*18=72>>72.
+Odejmujemy zjedzone ciasteczka: 72 - 7 = <<72-7=65>>65.
+</reasoning>
+<answer>65</answer>

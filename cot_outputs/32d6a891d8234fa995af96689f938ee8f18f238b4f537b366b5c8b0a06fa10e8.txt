@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy całkowitą liczbę stron przez liczbę stron czytanych dziennie: 270 / 90 = <<270/90=3>>3.
+</reasoning>
+<answer>3</answer>

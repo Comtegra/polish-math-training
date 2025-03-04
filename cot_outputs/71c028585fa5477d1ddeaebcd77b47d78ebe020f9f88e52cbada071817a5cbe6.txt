@@ -1,0 +1,5 @@
+<reasoning>
+Biletów ulgowych: 600 * 0.15 = <<600*0.15=90>>90.
+Biletów pełnej ceny: 600 - 90 = <<600-90=510>>510.
+</reasoning>
+<answer>510</answer>

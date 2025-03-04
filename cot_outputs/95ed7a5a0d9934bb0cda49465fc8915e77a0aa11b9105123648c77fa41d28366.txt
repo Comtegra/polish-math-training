@@ -1,0 +1,6 @@
+<reasoning>
+3 * 4 = <<3*4=12>>12 litrów soku
+12 - 5 = <<12-5=7>>7 litrów po wypiciu
+7 / 2 = <<7/2=3.5>>3.5 litra na każdy dzbanek
+</reasoning>
+<answer>3.5</answer>

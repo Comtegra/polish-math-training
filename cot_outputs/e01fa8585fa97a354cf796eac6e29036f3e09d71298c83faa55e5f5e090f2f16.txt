@@ -1,0 +1,4 @@
+<reasoning>
+5 * 250 = <<5*250=1250>>1250 g
+</reasoning>
+<answer>1250 g</answer>

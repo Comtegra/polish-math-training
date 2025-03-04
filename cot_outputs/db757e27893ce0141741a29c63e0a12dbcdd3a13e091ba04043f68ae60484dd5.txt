@@ -1,0 +1,4 @@
+<reasoning>
+Poprawnych zadań = 132 - 28 = <<132-28=104>>104 zadań.
+</reasoning>
+<answer>104</answer>

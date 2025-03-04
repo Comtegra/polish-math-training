@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy łączną liczbę owoców: 4 * 25 = <<4*25=100>>100 owoców.
+Odejmujemy zebrane owoce: 100 - 10 = <<100-10=90>>90 owoców.
+</reasoning>
+<answer>90</answer>

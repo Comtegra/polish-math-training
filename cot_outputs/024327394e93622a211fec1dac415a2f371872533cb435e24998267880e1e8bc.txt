@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę pomarańczy: 7 * 9 = <<7*9=63>>63.
+Następnie odejmujemy zgubione pomarańcze: 63 - 5 = <<63-5=58>>58.
+</reasoning>
+<answer>58</answer>

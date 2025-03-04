@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba siedzisk: 9 * 4 = <<9*4=36>>36 siedzisk.
+</reasoning>
+<answer>36</answer>

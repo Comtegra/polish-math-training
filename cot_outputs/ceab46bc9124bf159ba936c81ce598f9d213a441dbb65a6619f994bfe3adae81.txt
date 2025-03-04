@@ -1,0 +1,6 @@
+<reasoning>
+Początkowo: 7 * 10 = <<7*10=70>>70 torebek
+Stracone: 7 * 1 = <<7*1=7>>7
+Pozostało: 70 - 7 = <<70-7=63>>63 torebek
+</reasoning>
+<answer>63</answer>

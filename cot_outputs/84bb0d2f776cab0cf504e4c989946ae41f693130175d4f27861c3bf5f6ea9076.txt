@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie długopisów = 130 + 70 = <<130+70=200>>200 długopisów.
+</reasoning>
+<answer>200</answer>

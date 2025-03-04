@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kartek = 8 * 15 = <<8*15=120>>120 kartek.
+</reasoning>
+<answer>120</answer>

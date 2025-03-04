@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy połowę: 88 / 2 = <<88/2=44>>44.
+Pozostało: 88 - 44 = <<88-44=44>>44.
+</reasoning>
+<answer>44</answer>

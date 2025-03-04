@@ -1,0 +1,4 @@
+<reasoning>
+4 * 15 + 2 * 7 = <<4*15+2*7=60+14=74>>74 zł.
+</reasoning>
+<answer>74</answer>

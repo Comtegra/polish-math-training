@@ -1,0 +1,4 @@
+<reasoning>
+Koszt książki to 7 zł, a koszt batoników to 6 sztuk * 2 zł na sztukę = 12 zł. Łączny koszt to 7 zł + 12 zł = 19 zł. Piotr ma tylko 12 zł, więc nie starczy mu pieniędzy.
+</reasoning>
+<answer>Nie wystarczy pieniędzy</answer>

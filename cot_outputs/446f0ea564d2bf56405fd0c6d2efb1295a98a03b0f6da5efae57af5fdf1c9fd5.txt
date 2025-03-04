@@ -1,0 +1,4 @@
+<reasoning>
+Wolne miejsca = 200 - 150 = <<200-150=50>>50 miejsc.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+6 * 9 = <<6*9=54>>54 ołówków
+</reasoning>
+<answer>54</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie stron = 25 * 7 = <<25*7=175>>175 stron.
+</reasoning>
+<answer>175</answer>

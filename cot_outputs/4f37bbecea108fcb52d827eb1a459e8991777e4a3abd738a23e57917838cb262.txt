@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie minut = 90 * 3 = <<90*3=270>>270 minut.
+</reasoning>
+<answer>270</answer>

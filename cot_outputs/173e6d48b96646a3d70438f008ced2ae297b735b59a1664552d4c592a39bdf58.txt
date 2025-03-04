@@ -1,0 +1,4 @@
+<reasoning>
+Liczba uczniów: 80 / 10 = <<80/10=8>>8 uczniów.
+</reasoning>
+<answer>8</answer>

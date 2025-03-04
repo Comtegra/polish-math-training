@@ -1,0 +1,5 @@
+<reasoning>
+1/4 z 64 = <<64/4=16>>16 balonów sprzedano.
+Pozostało: 64 - 16 = <<64-16=48>>48 balonów.
+</reasoning>
+<answer>48</answer>

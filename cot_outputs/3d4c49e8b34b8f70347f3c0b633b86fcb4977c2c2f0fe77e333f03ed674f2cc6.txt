@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę długopisów: 5 * 8 = <<5*8=40>>40.
+Odejmujemy oddane długopisy: 40 - 6 = <<40-6=34>>34.
+</reasoning>
+<answer>34</answer>

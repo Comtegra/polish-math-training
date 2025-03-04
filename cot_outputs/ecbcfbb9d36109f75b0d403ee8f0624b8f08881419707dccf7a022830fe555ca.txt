@@ -1,0 +1,4 @@
+<reasoning>
+45 * 8 = <<45*8=360>>360 naklejek.
+</reasoning>
+<answer>360</answer>

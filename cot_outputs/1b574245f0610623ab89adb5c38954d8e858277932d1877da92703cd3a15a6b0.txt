@@ -1,0 +1,6 @@
+<reasoning>
+4 * 8 = <<4*8=32>>32 zł za książki
+2 * 5 = <<2*5=10>>10 zł za zeszyty
+32 + 10 = <<32+10=42>>42 zł łącznie
+</reasoning>
+<answer>42</answer>

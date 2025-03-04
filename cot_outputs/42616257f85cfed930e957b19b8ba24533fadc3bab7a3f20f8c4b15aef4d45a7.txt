@@ -1,0 +1,4 @@
+<reasoning>
+220 * 38 = <<220*38=8360>>8360 zł.
+</reasoning>
+<answer>8360 zł</answer>

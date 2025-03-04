@@ -1,0 +1,4 @@
+<reasoning>
+360 / 12 = <<360/12=30>>30 zł.
+</reasoning>
+<answer>30</answer>

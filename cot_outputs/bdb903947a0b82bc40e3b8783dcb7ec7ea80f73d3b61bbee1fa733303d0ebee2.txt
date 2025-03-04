@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 360 / 5 = <<360/5=72>>72.
+Następnie: 360 - 72 = <<360-72=288>>288.
+</reasoning>
+<answer>288</answer>

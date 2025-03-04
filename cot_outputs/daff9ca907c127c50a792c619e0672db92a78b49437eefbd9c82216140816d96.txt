@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie: 64 * 8 = <<64*8=512>>512 zł.
+</reasoning>
+<answer>512</answer>

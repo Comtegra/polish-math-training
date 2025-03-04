@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw obliczamy łączną liczbę ciasteczek: 3 * 12 = <<3*12=36>>36 ciasteczek.
+Następnie odejmujemy zjedzone ciasteczka: 36 - 5 = <<36-5=31>>31 ciasteczek.
+</reasoning>
+<answer>31</answer>

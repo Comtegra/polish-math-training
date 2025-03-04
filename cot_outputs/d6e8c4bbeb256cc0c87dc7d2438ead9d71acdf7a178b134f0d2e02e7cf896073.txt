@@ -1,0 +1,5 @@
+<reasoning>
+Łączna liczba zapałek: 4 * 15 = <<4*15=60>>60 zapałek.
+Po użyciu 18 zapałek: 60 - 18 = <<60-18=42>>42 zapałki.
+</reasoning>
+<answer>42</answer>

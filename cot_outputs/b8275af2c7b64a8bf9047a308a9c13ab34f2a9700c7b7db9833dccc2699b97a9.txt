@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego samochodzika: 32 / 4 = <<32/4=8>>8 zł.
+10 samochodzików: 10 * 8 = <<10*8=80>>80 zł.
+</reasoning>
+<answer>80</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+50 - 20 = <<50-20=30>>30 szafek.
+</reasoning>
+<answer>30 szafek</answer>

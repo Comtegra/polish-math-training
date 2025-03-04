@@ -1,0 +1,4 @@
+<reasoning>
+Obliczamy: 50 * 4 = <<50*4=200>>200.
+</reasoning>
+<answer>200</answer>

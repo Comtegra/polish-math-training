@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę kartek przez cenę: 25 * 2 = <<25*2=50>>50 zł.
+</reasoning>
+<answer>50</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy: 2 * 1000 = <<2*1000=2000>>2000 kg.
+</reasoning>
+<answer>2000</answer>

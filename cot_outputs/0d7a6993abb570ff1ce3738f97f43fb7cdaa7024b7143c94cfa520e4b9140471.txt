@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy uszkodzone jabłka: 96 / 4 = <<96/4=24>>24.
+Odejmujemy uszkodzone jabłka: 96 - 24 = <<96-24=72>>72.
+</reasoning>
+<answer>72</answer>

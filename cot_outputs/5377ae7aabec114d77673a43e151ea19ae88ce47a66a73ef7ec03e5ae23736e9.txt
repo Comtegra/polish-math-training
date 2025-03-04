@@ -1,0 +1,4 @@
+<reasoning>
+Ukończyło = 120 - 15 = <<120-15=105>>105 osób.
+</reasoning>
+<answer>105</answer>

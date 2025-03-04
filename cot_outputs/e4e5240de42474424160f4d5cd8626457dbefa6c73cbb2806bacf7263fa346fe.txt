@@ -1,0 +1,5 @@
+<reasoning>
+110 - 50 = <<110-50=60>>60
+60 - 30 = <<60-30=30>>30 jabłek
+</reasoning>
+<answer>30</answer>

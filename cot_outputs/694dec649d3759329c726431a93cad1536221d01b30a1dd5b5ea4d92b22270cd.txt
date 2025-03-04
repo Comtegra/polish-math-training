@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy nowe drzewa: 90 + 15 = <<90+15=105>>105.
+Odejmujemy usunięte drzewa: 105 - 10 = <<105-10=95>>95.
+</reasoning>
+<answer>95</answer>

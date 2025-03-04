@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie = 14 * 3200 = <<14*3200=44800>>44 800 zł.
+</reasoning>
+<answer>44800</answer>

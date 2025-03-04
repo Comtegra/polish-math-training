@@ -1,0 +1,4 @@
+<reasoning>
+6 * 150 = <<6*150=900>>900 ml
+</reasoning>
+<answer>900 ml</answer>

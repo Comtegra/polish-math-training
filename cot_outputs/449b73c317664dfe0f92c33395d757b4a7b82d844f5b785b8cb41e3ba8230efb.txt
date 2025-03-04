@@ -1,0 +1,6 @@
+<reasoning>
+2 * 9 = <<2*9=18>>18 zł za zeszyty
+65 - 18 = <<65-18=47>>47 zł po zakupie zeszytów
+47 - 5 = <<47-5=42>>42 zł po zakupie długopisu
+</reasoning>
+<answer>42</answer>

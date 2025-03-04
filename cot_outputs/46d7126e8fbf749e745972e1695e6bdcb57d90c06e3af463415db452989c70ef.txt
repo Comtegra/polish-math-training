@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało bułek = 90 - 60 = <<90-60=30>>30 bułek.
+</reasoning>
+<answer>30</answer>

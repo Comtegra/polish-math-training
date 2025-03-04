@@ -1,0 +1,4 @@
+<reasoning>
+100 - 8 - 15 = <<100-8-15=77>>77 zł.
+</reasoning>
+<answer>77</answer>

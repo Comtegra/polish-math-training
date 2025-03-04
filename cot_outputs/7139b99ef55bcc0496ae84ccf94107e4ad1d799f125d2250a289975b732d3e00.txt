@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało: 150 - 98 = <<150-98=52>>52 zł.
+</reasoning>
+<answer>52</answer>

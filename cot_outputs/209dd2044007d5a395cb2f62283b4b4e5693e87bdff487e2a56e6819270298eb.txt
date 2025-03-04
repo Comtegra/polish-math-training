@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie gałęzi = 40 * 5 = <<40*5=200>>200 gałęzi.
+</reasoning>
+<answer>200</answer>

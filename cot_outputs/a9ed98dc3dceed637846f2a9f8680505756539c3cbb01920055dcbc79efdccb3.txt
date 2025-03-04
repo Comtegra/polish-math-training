@@ -1,0 +1,5 @@
+<reasoning>
+Dodajemy nowe drzewa: 180 + 30 = <<180+30=210>>210.
+Następnie odejmujemy wycięte drzewa: 210 - 20 = <<210-20=190>>190.
+</reasoning>
+<answer>190</answer>

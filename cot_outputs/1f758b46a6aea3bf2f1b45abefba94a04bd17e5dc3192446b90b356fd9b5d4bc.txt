@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy jabłka na kosze: 80 / 4 = <<80/4=20>>20.
+Dodajemy 5 jabłek do każdego kosza: 20 + 5 = <<20+5=25>>25.
+</reasoning>
+<answer>25</answer>

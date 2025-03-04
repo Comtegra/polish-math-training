@@ -1,0 +1,5 @@
+<reasoning>
+5 * 4 = <<5*4=20>>20 zł za zeszyty
+20 + 3 = <<20+3=23>>23 zł łącznie
+</reasoning>
+<answer>23</answer>

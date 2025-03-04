@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 200 * 0.05 = <<200*0.05=10>>10 puzzli.
+Dobrych: 200 - 10 = <<200-10=190>>190 puzzli.
+</reasoning>
+<answer>190</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 4 * 7 = <<4*7=28>>28.
+Następnie: 28 - 3 = <<28-3=25>>25.
+</reasoning>
+<answer>25</answer>

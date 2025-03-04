@@ -1,0 +1,5 @@
+<reasoning>
+Wadliwych: 900 * 0.10 = <<900*0.10=90>>90 zabawek.
+Dobrych: 900 - 90 = <<900-90=810>>810 zabawek.
+</reasoning>
+<answer>810</answer>

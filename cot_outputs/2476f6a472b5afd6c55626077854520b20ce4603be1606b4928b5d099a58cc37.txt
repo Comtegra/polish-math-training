@@ -1,0 +1,5 @@
+<reasoning>
+Liczba modeli premium: 90 / 6 = <<90/6=15>>15.
+Modele standardowe: 90 - 15 = <<90-15=75>>75.
+</reasoning>
+<answer>75</answer>

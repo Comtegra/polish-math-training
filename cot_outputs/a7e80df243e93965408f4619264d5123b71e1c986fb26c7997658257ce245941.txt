@@ -1,0 +1,4 @@
+<reasoning>
+84 - 24 = <<84-24=60>>60 balonów
+</reasoning>
+<answer>60</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Tomek zapłacił 7 * 10 = 70 zł za książki.
+</reasoning>
+<answer>70</answer>

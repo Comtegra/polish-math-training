@@ -1,0 +1,4 @@
+<reasoning>
+Koszt 5 książek to 5 książek * 10 zł na książkę = 50 złotych.
+</reasoning>
+<answer>50 złotych</answer>

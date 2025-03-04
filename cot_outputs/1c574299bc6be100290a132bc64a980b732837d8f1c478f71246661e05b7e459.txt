@@ -1,0 +1,4 @@
+<reasoning>
+Ania zaoszczędziła 100 zł w pierwszym miesiącu. W drugim miesiącu zaoszczędziła 100 zł + 20 zł = 120 zł. W trzecim miesiącu zaoszczędziła 120 zł + 40 zł = 160 zł. Łącznie zaoszczędziła 100 zł + 120 zł + 160 zł = 380 zł.
+</reasoning>
+<answer>380</answer>

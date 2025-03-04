@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dodajemy: 35 + 12 = <<35+12=47>>47.
+Następnie odejmujemy oddane znaczniki: 47 - 8 = <<47-8=39>>39.
+</reasoning>
+<answer>39</answer>

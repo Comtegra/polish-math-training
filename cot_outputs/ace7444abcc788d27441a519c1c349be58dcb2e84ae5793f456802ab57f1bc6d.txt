@@ -1,0 +1,6 @@
+<reasoning>
+Obliczamy koszt zeszytów: 3 × 7 = <<3×7=21>>21 zł.
+Obliczamy koszt długopisów: 4 × 3 = <<4×3=12>>12 zł.
+Sumujemy: 21 zł + 12 zł = <<21+12=33>>33 zł.
+</reasoning>
+<answer>33</answer>

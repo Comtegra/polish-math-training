@@ -1,0 +1,4 @@
+<reasoning>
+Oskar kupi 4 zestawy puzzli, a każdy zestaw zawiera 500 elementów. Aby znaleźć całkowitą liczbę elementów, mnożymy liczbę zestawów przez liczbę elementów w każdym zestawie: 4 * 500 = 2000 elementów.
+</reasoning>
+<answer>2000 elementów puzzli</answer>

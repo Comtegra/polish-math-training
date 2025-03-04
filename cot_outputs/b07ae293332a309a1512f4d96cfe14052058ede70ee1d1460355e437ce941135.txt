@@ -1,0 +1,4 @@
+<reasoning>
+8 * 120 = <<8*120=960>>960 osób.
+</reasoning>
+<answer>960</answer>

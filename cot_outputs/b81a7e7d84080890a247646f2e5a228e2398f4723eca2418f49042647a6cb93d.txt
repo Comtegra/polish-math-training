@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 48 kartek przez 6: 48 / 6 = <<48/6=8>>8 kartek na zeszyt.
+</reasoning>
+<answer>8</answer>

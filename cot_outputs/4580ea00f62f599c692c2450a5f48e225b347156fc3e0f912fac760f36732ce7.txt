@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało: 100 - 45 = <<100-45=55>>55 zł.
+</reasoning>
+<answer>55</answer>

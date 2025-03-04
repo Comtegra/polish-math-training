@@ -1,0 +1,4 @@
+<reasoning>
+Autobus ma 45 - 40 = 5 wolnych miejsc
+</reasoning>
+<answer>5</answer>

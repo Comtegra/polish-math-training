@@ -1,0 +1,5 @@
+<reasoning>
+7 * 4 = <<7*4=28>>28 zł za zeszyty
+28 + 3 = <<28+3=31>>31 zł łącznie
+</reasoning>
+<answer>31</answer>

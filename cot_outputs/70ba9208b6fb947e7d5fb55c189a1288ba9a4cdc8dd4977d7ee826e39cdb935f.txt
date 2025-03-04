@@ -1,0 +1,4 @@
+<reasoning>
+Ada kupi 6 puszek napoju gazowanego po 2,50 zł za sztukę, co daje 6 * 2,50 zł = 15 zł. Zniżka wynosi 20% z 15 zł, czyli 0,20 * 15 zł = 3 zł. Zatem Ada zapłaci 15 zł - 3 zł = 12 zł.
+</reasoning>
+<answer>12 zł</answer>

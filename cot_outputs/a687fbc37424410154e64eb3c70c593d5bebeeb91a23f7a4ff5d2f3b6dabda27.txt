@@ -1,0 +1,5 @@
+<reasoning>
+2 * 15 = <<2*15=30>>30 zł za książki
+30 + 5 = <<30+5=35>>35 zł
+</reasoning>
+<answer>35</answer>

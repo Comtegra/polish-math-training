@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba rozdanych długopisów: 6 * 6 = <<6*6=36>>36.
+</reasoning>
+<answer>36</answer>

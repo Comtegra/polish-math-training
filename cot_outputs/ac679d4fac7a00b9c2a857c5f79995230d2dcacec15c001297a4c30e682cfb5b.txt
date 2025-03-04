@@ -1,0 +1,4 @@
+<reasoning>
+4800 * 30/100 = <<4800*30/100=1440>>1440 podręczników.
+</reasoning>
+<answer>1440 podręczników</answer>

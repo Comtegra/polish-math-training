@@ -1,0 +1,4 @@
+<reasoning>
+Julia kupiła 5 książek. Z tego 3 są w języku angielskim, więc pozostałe książki są w języku polskim. Aby znaleźć liczbę książek w języku polskim, odejmujemy liczbę książek w języku angielskim od całkowitej liczby książek: 5 - 3 = 2 książki w języku polskim.
+</reasoning>
+<answer>2 książki w języku polskim</answer>

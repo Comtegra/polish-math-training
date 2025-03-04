@@ -1,0 +1,4 @@
+<reasoning>
+Kamil ma 6 książek. Z tego 3 są o fantastyce, więc pozostałe książki są o sportach zimowych. Aby znaleźć liczbę książek o sportach zimowych, odejmujemy liczbę książek o fantastyce od całkowitej liczby książek: 6 - 3 = 3 książki.
+</reasoning>
+<answer>3 książki o sportach zimowych</answer>

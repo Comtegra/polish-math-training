@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej pary spodni: 200 / 4 = <<200/4=50>>50 zł.
+Łącznie: 7 * 50 = <<7*50=350>>350 zł.
+</reasoning>
+<answer>350</answer>

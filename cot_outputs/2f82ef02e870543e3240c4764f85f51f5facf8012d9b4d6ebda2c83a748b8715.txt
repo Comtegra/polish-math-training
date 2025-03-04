@@ -1,0 +1,5 @@
+<reasoning>
+Po pierwszej operacji: 100 / 2 = <<100/2=50>>50 zł.
+Następnie: 50 - 20 = <<50-20=30>>30 zł.
+</reasoning>
+<answer>30</answer>

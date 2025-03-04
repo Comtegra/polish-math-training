@@ -1,0 +1,5 @@
+<reasoning>
+Sprzedano: 180 * (5/6) = <<180*5/6=150>>150 porcji.
+Pozostało: 180 - 150 = <<180-150=30>>30 porcji.
+</reasoning>
+<answer>30</answer>

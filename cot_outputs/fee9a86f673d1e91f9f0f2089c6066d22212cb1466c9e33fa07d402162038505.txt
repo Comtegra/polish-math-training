@@ -1,0 +1,4 @@
+<reasoning>
+200 / 4 = <<200/4=50>>50 reprodukcji.
+</reasoning>
+<answer>50</answer>

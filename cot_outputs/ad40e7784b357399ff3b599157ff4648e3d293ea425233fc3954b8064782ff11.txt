@@ -1,0 +1,4 @@
+<reasoning>
+28 * 20 = <<28*20=560>>560 ławek.
+</reasoning>
+<answer>560</answer>

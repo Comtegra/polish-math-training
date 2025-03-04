@@ -1,0 +1,4 @@
+<reasoning>
+Krzysztof wyda 3 * 25 zł = 75 zł na książki. Po zakupie książek zostanie mu 200 zł - 75 zł = 125 zł. Jest to więcej niż planowany pozostały budżet 50 zł, więc nie uda mu się tego zrobić.
+</reasoning>
+<answer>Nie</answer>

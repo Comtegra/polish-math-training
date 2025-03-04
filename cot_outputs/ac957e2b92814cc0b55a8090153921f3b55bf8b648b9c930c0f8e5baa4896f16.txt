@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba naklejek: 32 * 3 = <<32*3=96>>96 naklejek.
+</reasoning>
+<answer>96</answer>

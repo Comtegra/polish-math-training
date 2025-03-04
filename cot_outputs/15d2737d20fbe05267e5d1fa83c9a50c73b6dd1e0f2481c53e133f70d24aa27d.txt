@@ -1,0 +1,4 @@
+<reasoning>
+Każde dziecko: 150 / 10 = <<150/10=15>>15 balonów.
+</reasoning>
+<answer>15</answer>

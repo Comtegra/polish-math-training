@@ -1,0 +1,5 @@
+<reasoning>
+Litrów rozlanych: 180 / 10 = <<180/10=18>>18 litrów.
+Pozostało: 180 - 18 = <<180-18=162>>162 litrów.
+</reasoning>
+<answer>162</answer>

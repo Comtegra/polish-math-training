@@ -1,0 +1,4 @@
+<reasoning>
+Kasia wydała 30 zł na książki. Zostało jej 60 - 30 = 30 zł.
+</reasoning>
+<answer>30</answer>

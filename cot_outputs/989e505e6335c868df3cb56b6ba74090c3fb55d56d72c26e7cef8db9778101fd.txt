@@ -1,0 +1,4 @@
+<reasoning>
+140 * 180 = <<140*180=25200>>25200 zł.
+</reasoning>
+<answer>25200 zł</answer>

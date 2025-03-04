@@ -1,0 +1,4 @@
+<reasoning>
+3 * 12 = <<3*12=36>>36 zł
+</reasoning>
+<answer>36</answer>

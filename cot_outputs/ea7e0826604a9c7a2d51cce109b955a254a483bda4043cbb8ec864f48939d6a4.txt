@@ -1,0 +1,4 @@
+<reasoning>
+2 * 6 = <<2*6=12>>12 długopisów
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Uszkodzonych: 90 * 0.10 = <<90*0.10=9>>9 lalek.
+Dobrych: 90 - 9 = <<90-9=81>>81 lalek.
+</reasoning>
+<answer>81</answer>

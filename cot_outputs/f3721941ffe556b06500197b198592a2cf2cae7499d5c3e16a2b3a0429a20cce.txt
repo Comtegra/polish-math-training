@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednego ciastka: 15 / 5 = <<15/5=3>>3 zł.
+Cena 20 ciastek: 20 * 3 = <<20*3=60>>60 zł.
+</reasoning>
+<answer>60</answer>

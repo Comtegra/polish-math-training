@@ -1,0 +1,5 @@
+<reasoning>
+Koszt książek: 4 * 18 = <<4*18=72>>72 zł.
+72 + 10 = <<72+10=82>>82 zł.
+</reasoning>
+<answer>82</answer>

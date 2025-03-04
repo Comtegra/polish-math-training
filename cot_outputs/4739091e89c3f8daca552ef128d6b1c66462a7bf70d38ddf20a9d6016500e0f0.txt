@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy liczbę gałęzi: 7 * 5 = <<7*5=35>>35 gałęzi.
+Następnie liczbę liści: 35 * 3 = <<35*3=105>>105 liści.
+</reasoning>
+<answer>105</answer>

@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw odejmujemy zatrzymane cukierki: 96 - 12 = <<96-12=84>>84.
+Następnie dzielimy cukierki między 6 przyjaciół: 84 / 6 = <<84/6=14>>14.
+</reasoning>
+<answer>14</answer>

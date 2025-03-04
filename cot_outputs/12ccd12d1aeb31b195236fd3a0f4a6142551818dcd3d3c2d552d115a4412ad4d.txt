@@ -1,0 +1,4 @@
+<reasoning>
+Kasia ma 48 - 16 = 32 jabłka. Razem mają 48 + 32 = 80 jabłek.
+</reasoning>
+<answer>80</answer>

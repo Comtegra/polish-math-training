@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie kaw = 25 * 7 = <<25*7=175>>175 kaw.
+</reasoning>
+<answer>175</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba zabawek: 15 * 4 = <<15*4=60>>60 zabawek.
+</reasoning>
+<answer>60</answer>

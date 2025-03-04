@@ -1,0 +1,4 @@
+<reasoning>
+24 - 3 = <<24-3=21>>21 uczniów.
+</reasoning>
+<answer>21</answer>

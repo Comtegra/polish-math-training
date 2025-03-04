@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie mil = 12 * 3,5 = <<12*3.5=42>>42 mile.
+</reasoning>
+<answer>42</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+3 * 6 = <<3*6=18>>18 puszek
+</reasoning>
+<answer>18</answer>

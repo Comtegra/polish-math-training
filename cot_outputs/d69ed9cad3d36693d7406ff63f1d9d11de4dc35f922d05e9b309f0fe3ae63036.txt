@@ -1,0 +1,4 @@
+<reasoning>
+140 / 7 = <<140/7=20>>20 cukierków.
+</reasoning>
+<answer>20</answer>

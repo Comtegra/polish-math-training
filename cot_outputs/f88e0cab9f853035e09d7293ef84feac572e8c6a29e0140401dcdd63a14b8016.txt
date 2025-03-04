@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie części = 35 * 20 = <<35*20=700>>700 części.
+</reasoning>
+<answer>700</answer>

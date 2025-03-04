@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie instrumentów = 12 * 3 = <<12*3=36>>36 instrumentów.
+</reasoning>
+<answer>36</answer>

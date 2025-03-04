@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw: 120 - 35 = <<120-35=85>>85.
+Następnie: 85 - 15 = <<85-15=70>>70.
+</reasoning>
+<answer>70</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie zebrane = 35 * 10 = <<35*10=350>>350 zł.
+</reasoning>
+<answer>350</answer>

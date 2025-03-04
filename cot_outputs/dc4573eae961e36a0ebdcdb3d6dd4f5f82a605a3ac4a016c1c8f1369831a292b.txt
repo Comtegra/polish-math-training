@@ -1,0 +1,5 @@
+<reasoning>
+Koszt zabawek: 2 * 25 = <<2*25=50>>50 monet.
+Pozostała liczba monet: 90 - 50 = <<90-50=40>>40 monet.
+</reasoning>
+<answer>40</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+Łączna liczba miejsc: 10 * 4 = <<10*4=40>>40.
+</reasoning>
+<answer>40</answer>

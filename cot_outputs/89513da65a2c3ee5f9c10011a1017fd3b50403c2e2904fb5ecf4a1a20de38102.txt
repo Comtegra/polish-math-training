@@ -1,0 +1,5 @@
+<reasoning>
+Komiksy: 320 / 5 = <<320/5=64>>64 książki.
+Pozostałych: 320 - 64 = <<320-64=256>>256 książek.
+</reasoning>
+<answer>256</answer>

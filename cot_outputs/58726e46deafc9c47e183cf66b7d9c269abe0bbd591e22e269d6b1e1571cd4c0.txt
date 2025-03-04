@@ -1,0 +1,4 @@
+<reasoning>
+Pozostało = 95 - (5 * 15) = 95 - 75 = <<95-75=20>>20 zł.
+</reasoning>
+<answer>20</answer>

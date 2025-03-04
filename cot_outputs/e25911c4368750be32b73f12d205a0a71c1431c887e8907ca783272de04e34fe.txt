@@ -1,0 +1,4 @@
+<reasoning>
+Zwrocone bilety = 20% z 300 = 0.2 * 300 = 60; sprzedano = 300 - 60 = <<300-60=240>>240 biletów.
+</reasoning>
+<answer>240</answer>

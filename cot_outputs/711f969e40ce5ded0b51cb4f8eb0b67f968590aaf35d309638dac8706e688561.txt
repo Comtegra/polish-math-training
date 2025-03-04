@@ -1,0 +1,5 @@
+<reasoning>
+Najpierw dzielimy kamienie na stosy: 50 / 5 = <<50/5=10>>10.
+Dodajemy dodatkowe kamienie: 10 + 3 = <<10+3=13>>13.
+</reasoning>
+<answer>13</answer>

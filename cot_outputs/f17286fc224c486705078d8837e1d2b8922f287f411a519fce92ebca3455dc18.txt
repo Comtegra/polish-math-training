@@ -1,0 +1,4 @@
+<reasoning>
+Adrian kupił 6 pudełek cukierków, a każde pudełko zawiera 20 sztuk. Aby znaleźć całkowitą liczbę sztuk cukierków, mnożymy liczbę pudełek przez liczbę sztuk w każdym pudełku: 6 * 20 = 120 sztuk cukierków.
+</reasoning>
+<answer>120 sztuk cukierków</answer>

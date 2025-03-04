@@ -1,0 +1,4 @@
+<reasoning>
+8400 * 15/100 = <<8400*15/100=1260>>1260 encyklopedii.
+</reasoning>
+<answer>1260</answer>

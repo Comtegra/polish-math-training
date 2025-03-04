@@ -1,0 +1,4 @@
+<reasoning>
+350 * 12 = <<350*12=4200>>4200 zł.
+</reasoning>
+<answer>4200 zł</answer>

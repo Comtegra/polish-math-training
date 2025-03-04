@@ -1,0 +1,4 @@
+<reasoning>
+180 * 30 = <<180*30=5400>>5400 zł.
+</reasoning>
+<answer>5400 zł</answer>

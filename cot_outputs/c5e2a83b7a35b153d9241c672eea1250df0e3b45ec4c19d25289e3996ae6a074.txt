@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy 150 balonów przez 5: 150 / 5 = <<150/5=30>>30 balonów w grupie.
+</reasoning>
+<answer>30</answer>

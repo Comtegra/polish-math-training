@@ -1,0 +1,5 @@
+<reasoning>
+Łącznie przeczytane: 150 + 200 = <<150+200=350>>350 stron
+Pozostało: 600 - 350 = <<600-350=250>>250 stron
+</reasoning>
+<answer>250</answer>

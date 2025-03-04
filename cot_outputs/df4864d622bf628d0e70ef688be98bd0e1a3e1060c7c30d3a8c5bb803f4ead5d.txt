@@ -1,0 +1,4 @@
+<reasoning>
+Czerwonych balonów: 200 / 10 = <<200/10=20>>20 balonów.
+</reasoning>
+<answer>20</answer>

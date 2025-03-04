@@ -1,0 +1,6 @@
+<reasoning>
+Koszt jednej czekolady to 5 zł
+Antek kupił 3 czekolady
+Całkowity koszt to 3 * 5 zł = 15 zł
+</reasoning>
+<answer>15</answer>

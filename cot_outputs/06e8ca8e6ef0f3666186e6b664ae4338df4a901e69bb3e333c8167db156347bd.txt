@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy: 240 - 70 = <<240-70=170>>170.
+Następnie: 170 + 30 = <<170+30=200>>200.
+</reasoning>
+<answer>200</answer>

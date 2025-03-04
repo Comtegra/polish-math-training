@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy 1/5 z 200: 200 / 5 = <<200/5=40>>40.
+Odejmujemy uschnięte kwiaty: 200 - 40 = <<200-40=160>>160.
+</reasoning>
+<answer>160</answer>

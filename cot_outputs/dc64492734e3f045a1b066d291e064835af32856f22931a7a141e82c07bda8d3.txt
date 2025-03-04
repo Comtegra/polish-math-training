@@ -1,0 +1,4 @@
+<reasoning>
+Dzielimy liczbę cukierków przez liczbę przyjaciół: 24 / 6 = <<24/6=4>>4 cukierki na osobę.
+</reasoning>
+<answer>4</answer>

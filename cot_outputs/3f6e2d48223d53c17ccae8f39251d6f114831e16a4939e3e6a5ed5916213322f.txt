@@ -1,0 +1,5 @@
+<reasoning>
+Obliczamy łączną liczbę kredek: 3 * 14 = <<3*14=42>>42 kredki.
+Następnie odejmujemy oddane kredki: 42 - 7 = <<42-7=35>>35 kredek.
+</reasoning>
+<answer>35</answer>

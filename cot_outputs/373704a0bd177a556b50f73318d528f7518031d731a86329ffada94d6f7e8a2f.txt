@@ -1,0 +1,4 @@
+<reasoning>
+Łącznie mil = 3 * 10 = <<3*10=30>>30 mil.
+</reasoning>
+<answer>30</answer>

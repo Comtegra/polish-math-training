@@ -1,0 +1,5 @@
+<reasoning>
+Liczba wadliwych zabawek: 1100 * 0.10 = <<1100*0.10=110>>110.
+Dobrych zabawek: 1100 - 110 = <<1100-110=990>>990.
+</reasoning>
+<answer>990</answer>

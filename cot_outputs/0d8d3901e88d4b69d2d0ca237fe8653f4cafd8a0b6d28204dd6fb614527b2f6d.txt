@@ -1,0 +1,5 @@
+<reasoning>
+Bilety VIP: 1000 ÷ 5 = 200.
+Bilety standardowe: 1000 − 200 = 800.
+</reasoning>
+<answer>800</answer>

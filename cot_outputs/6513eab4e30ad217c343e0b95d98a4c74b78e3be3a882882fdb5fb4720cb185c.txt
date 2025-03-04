@@ -1,0 +1,5 @@
+<reasoning>
+95 - 40 = <<95-40=55>>55 zł
+55 + 10 = <<55+10=65>>65 zł łącznie
+</reasoning>
+<answer>65</answer>

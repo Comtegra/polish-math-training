@@ -1,0 +1,5 @@
+<reasoning>
+Odejmujemy stracone punkty: 88 - 13 = <<88-13=75>>75.
+Dodajemy zdobyte punkty: 75 + 20 = <<75+20=95>>95.
+</reasoning>
+<answer>95</answer>

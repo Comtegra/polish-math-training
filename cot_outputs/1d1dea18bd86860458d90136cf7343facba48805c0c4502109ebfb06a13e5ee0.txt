@@ -1,0 +1,4 @@
+<reasoning>
+25% z 480 = <<480*0.25=120>>120 książek.
+</reasoning>
+<answer>120</answer>

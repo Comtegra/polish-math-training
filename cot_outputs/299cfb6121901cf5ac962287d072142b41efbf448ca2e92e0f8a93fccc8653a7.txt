@@ -1,0 +1,5 @@
+<reasoning>
+7 - 2 = <<7-2=5>>5 jabłek
+5 + 5 = <<5+5=10>>10 jabłek łącznie
+</reasoning>
+<answer>10</answer>

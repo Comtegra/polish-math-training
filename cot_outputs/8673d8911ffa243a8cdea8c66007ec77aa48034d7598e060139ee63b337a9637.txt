@@ -1,0 +1,5 @@
+<reasoning>
+Cena jednej piłki: 50 / 5 = <<50/5=10>>10 zł.
+Łącznie: 12 * 10 = <<12*10=120>>120 zł.
+</reasoning>
+<answer>120</answer>

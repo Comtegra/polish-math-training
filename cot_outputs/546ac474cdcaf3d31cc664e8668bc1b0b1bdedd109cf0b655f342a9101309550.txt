@@ -1,0 +1,4 @@
+<reasoning>
+12 * 8 = <<12*8=96>>96 roślin.
+</reasoning>
+<answer>96</answer>

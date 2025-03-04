@@ -1,0 +1,4 @@
+<reasoning>
+96 * 15 = <<96*15=1440>>1440 saszetek.
+</reasoning>
+<answer>1440</answer>

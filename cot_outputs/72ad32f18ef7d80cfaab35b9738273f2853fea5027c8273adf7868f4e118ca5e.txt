@@ -1,0 +1,4 @@
+<reasoning>
+Mnożymy liczbę paczek przez liczbę torebek: 8 * 4 = <<8*4=32>>32.
+</reasoning>
+<answer>32</answer>

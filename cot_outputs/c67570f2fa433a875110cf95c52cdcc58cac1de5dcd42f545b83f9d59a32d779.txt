@@ -1,0 +1,4 @@
+<reasoning>
+84 / 7 = <<84/7=12>>12 naklejek
+</reasoning>
+<answer>12</answer>

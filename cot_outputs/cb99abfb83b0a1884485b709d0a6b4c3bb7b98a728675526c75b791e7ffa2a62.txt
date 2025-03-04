@@ -1,0 +1,4 @@
+<reasoning>
+Michał kupił 5 paczek klocków, a każda paczka zawiera 10 sztuk. Aby znaleźć całkowitą liczbę sztuk klocków, mnożymy liczbę paczek przez liczbę sztuk w każdej paczce: 5 * 10 = 50 sztuk klocków.
+</reasoning>
+<answer>50 sztuk klocków</answer>

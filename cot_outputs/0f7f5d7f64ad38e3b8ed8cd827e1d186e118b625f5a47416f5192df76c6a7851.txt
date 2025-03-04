@@ -1,0 +1,14 @@
+<reasoning>
+Razem mają 45 złotych
+Tomek ma 5 złotych więcej niż Jacek
+Załóżmy, że Jacek ma X złotych
+Zatem Tomek ma X + 5 złotych
+X + (X + 5) = 45
+2X + 5 = 45
+2X = 45 - 5
+2X = 40
+X = 40 / 2
+X = 20 złotych
+Jacek ma 20 złotych
+</reasoning>
+<answer>20</answer>

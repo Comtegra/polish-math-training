@@ -1,0 +1,5 @@
+<reasoning>
+Dzielimy kartki: 48 / 6 = <<48/6=8>>8.
+Dodajemy dodatkowe kartki: 8 + 4 = <<8+4=12>>12.
+</reasoning>
+<answer>12</answer>

@@ -1,0 +1,4 @@
+<reasoning>
+3 * 7 = <<3*7=21>>21 ciastek.
+</reasoning>
+<answer>21</answer>

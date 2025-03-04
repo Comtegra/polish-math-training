@@ -1,0 +1,4 @@
+<reasoning>
+Koszyki = 200 / 8 = <<200/8=25>>25 koszyków.
+</reasoning>
+<answer>25</answer>
